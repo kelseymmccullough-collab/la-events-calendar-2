@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LA Events Calendar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #3d3d3d;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        header {
+            background: #f5f1e8;
+            color: #3d3d3d;
+            padding: 30px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .filters {
+            padding: 25px 30px;
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .filter-label {
+            font-weight: 600;
+            color: #495057;
+            margin-right: 10px;
+        }
+
+        .filter-btn {
+    padding: 10px 20px;
+    border: 2px solid transparent;
+    background: white;
+    color: #3d3d3d;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+/* Default "All Venues" button */
+.filter-btn[data-filter="all"] {
+    background: white;
+    border-color: #8a8a8a;
+    color: #3d3d3d;
+}
+
+.filter-btn[data-filter="all"].active {
+    background: #8a8a8a;
+    color: white;
+}
+
+/* Vista Theater button - always gold */
+.filter-btn[data-filter="Vista"] {
+    background: #e4b04a;
+    border-color: #e4b04a;
+    color: #3d3d3d;
+}
+
+.filter-btn[data-filter="Vista"]:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+.filter-btn[data-filter="Vista"].active {
+    box-shadow: 0 4px 12px rgba(228, 176, 74, 0.4);
+    transform: translateY(-2px);
+}
+
+/* New Beverly button - always brick red */
+.filter-btn[data-filter="New Bev"] {
+    background: #a23b2e;
+    border-color: #a23b2e;
+    color: white;
+}
+
+.filter-btn[data-filter="New Bev"]:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+.filter-btn[data-filter="New Bev"].active {
+    box-shadow: 0 4px 12px rgba(162, 59, 46, 0.4);
+    transform: translateY(-2px);
+}
+/* Vidiots button - always dark green */
+.filter-btn[data-filter="Vidiots"] {
+    background: #3d5a4a;
+    border-color: #3d5a4a;
+    color: white;
+}
+
+.filter-btn[data-filter="Vidiots"]:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+.filter-btn[data-filter="Vidiots"].active {
+    box-shadow: 0 4px 12px rgba(61, 90, 74, 0.4);
+    transform: translateY(-2px);
+}
+
+        .calendar-view {
+            padding: 30px;
+        }
+
+        .view-toggle {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: center;
+        }
+
+        .view-btn {
+            padding: 10px 25px;
+            border: 2px solid #8a8a8a;
+            background: white;
+            color: #3d3d3d;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .view-btn.active {
+            background: #8a8a8a;
+            color: white;
+        }
+
+        .calendar-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 2px;
+            background: #8a8a8a;
+            border: 1px solid #8a8a8a;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .calendar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 0 10px;
+        }
+
+        .calendar-week-display {
+            font-size: 1.8em;
+            font-weight: 700;
+            color: #2d3748;
+        }
+
+        .calendar-nav {
+            display: flex;
+            gap: 10px;
+        }
+
+        .nav-btn {
+            padding: 8px 16px;
+            background: #8a8a8a;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.3s ease;
+        }
+
+        .nav-btn:hover {
+            background: #707070;
+        }
+
+        .calendar-day-header {
+            background: #f5f1e8;
+            color: #3d3d3d;
+            padding: 15px 10px;
+            text-align: center;
+            font-weight: 700;
+            font-size: 1em;
+        }
+
+        .day-name {
+            display: block;
+            font-size: 1.1em;
+            margin-bottom: 3px;
+        }
+
+        .day-date {
+            display: block;
+            font-size: 0.85em;
+            opacity: 0.9;
+        }
+
+        .calendar-day {
+            background: white;
+            min-height: 250px;
+            padding: 10px;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .calendar-day.today {
+            background: #f9f3d6;
+        }
+
+        .event-card-mini {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            padding: 8px;
+            border-radius: 6px;
+            font-size: 0.85em;
+            color: white;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .event-card-mini:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        /* Venue-specific event card colors */
+.event-venue-vista {
+    background: #e4b04a;
+    color: #3d3d3d;
+}
+
+.event-venue-newbev {
+    background: #a23b2e;
+    color: white;
+}
+.event-venue-vidiots {
+    background: #3d5a4a;
+    color: white;
+}
+.event-venue-default {
+    background: #8a8a8a;
+    color: white;
+}
+.event-card-title {
+            font-weight: 700;
+            font-size: 0.95em;
+            line-height: 1.2;
+        }
+
+        .event-card-venue {
+            font-size: 0.85em;
+            opacity: 0.95;
+            display: flex;
+            align-items: center;
+            gap: 3px;
+        }
+
+        .event-card-time {
+            font-size: 0.8em;
+            opacity: 0.9;
+        }
+
+        .event-icon {
+            font-size: 1em;
+        }
+
+        .events-grid {
+            display: block;
+        }
+
+        .no-events {
+            text-align: center;
+            padding: 60px 20px;
+            color: #718096;
+            font-size: 1.2em;
+        }
+
+        .list-view {
+            display: none;
+        }
+
+        .list-view.active {
+            display: block;
+        }
+
+        .list-item {
+            padding: 20px;
+            border-bottom: 1px solid #e9ecef;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: background 0.2s ease;
+        }
+
+        .list-item:hover {
+            background: #f8f9fa;
+        }
+
+        .list-item-content {
+            flex: 1;
+        }
+
+        .event-title {
+            font-size: 1.2em;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: #2d3748;
+        }
+
+        .event-venue {
+            color: #f5f1e8;
+            font-weight: 600;
+            margin-bottom: 8px;
+            font-size: 0.95em;
+        }
+
+        .event-date {
+            color: #718096;
+            font-size: 0.9em;
+        }
+
+        .list-item-type {
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            color: white;
+            margin-left: 15px;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .filters {
+                padding: 15px;
+            }
+
+            .events-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .list-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LA Film Screenings Calendar</h1>
+            <p class="subtitle">We come to this place for magic</p>
+        </header>
+
+        <div class="filters">
+            <span class="filter-label">Filter by venue:</span>
+            <button class="filter-btn active" data-filter="all">All Venues</button>
+            <button class="filter-btn" data-filter="Vista">Vista Theater</button>
+            <button class="filter-btn" data-filter="New Bev">New Beverly</button>
+            <button class="filter-btn" data-filter="Vidiots">Vidiots</button>
+        </div>
+
+        <div class="calendar-view">
+            <div class="view-toggle">
+                <button class="view-btn active" data-view="calendar">Calendar View</button>
+                <button class="view-btn" data-view="list">List View</button>
+            </div>
+
+            <div id="calendarContainer" class="events-grid"></div>
+            <div id="listContainer" class="list-view"></div>
+        </div>
+    </div>
+
+    <script>
+        // Event data will be loaded from events.json file
+        let sampleEvents = [];
+        
+        let currentFilter = 'all';
+        let currentView = 'calendar';
+        let currentWeekStart = getStartOfWeek(new Date());
+
+        const eventIcons = {
+            concert: '🎵',
+            art: '🎨',
+            film: '🎬',
+            theater: '🎭',
+            museum: '🏛️'
+        };
+
+        // Load events from JSON file
+        function loadEvents() {
+            fetch('events.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Could not load events.json');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    sampleEvents = data;
+                    console.log(`Loaded ${sampleEvents.length} events from events.json`);
+                    renderCalendar();
+                    renderList();
+                })
+                .catch(error => {
+                    console.error('Error loading events:', error);
+                    // If events.json doesn't exist yet, use sample data
+                    sampleEvents = getSampleEvents();
+                    renderCalendar();
+                    renderList();
+                });
+        }
+
+        // Sample events fallback (for when events.json doesn't exist yet)
+        function getSampleEvents() {
+            return [
+                {
+                    title: "Sample Film Screening",
+                    type: "film",
+                    venue: "The Vista Theater",
+                    date: "2026-01-25",
+                    time: "7:30 PM",
+                    description: "Sample event - replace with real data from scraper"
+                },
+                {
+                    title: "Sample Art Exhibition",
+                    type: "art",
+                    venue: "LACMA",
+                    date: "2026-01-22",
+                    time: "All Day",
+                    description: "Sample exhibition - replace with real data from scraper"
+                }
+            ];
+        }
+
+        function getStartOfWeek(date) {
+            const d = new Date(date);
+            const day = d.getDay();
+            const diff = d.getDate() - day;
+            return new Date(d.setDate(diff));
+        }
+
+        function getEventsForDate(dateString) {
+            const filteredEvents = currentFilter === 'all' 
+    ? sampleEvents 
+    : sampleEvents.filter(event => event.venueShort === currentFilter);
+    
+    const dayEvents = filteredEvents.filter(event => event.date === dateString);
+    
+    // Sort events by time
+    return dayEvents.sort((a, b) => {
+        const timeA = convertTimeTo24Hour(a.time);
+        const timeB = convertTimeTo24Hour(b.time);
+        return timeA - timeB;
+    });
+}
+
+function convertTimeTo24Hour(timeString) {
+    if (timeString.toLowerCase().includes('all day')) {
+        return 0;
+    }
+    
+    const match = timeString.match(/(\d+):(\d+)\s*(AM|PM)/i);
+    if (!match) return 0;
+    
+    let hours = parseInt(match[1]);
+    const minutes = parseInt(match[2]);
+    const period = match[3].toUpperCase();
+    
+    if (period === 'PM' && hours !== 12) {
+        hours += 12;
+    } else if (period === 'AM' && hours === 12) {
+        hours = 0;
+    }
+    
+    return hours * 60 + minutes;
+
+        }
+
+        function formatDateString(date) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        function renderCalendar() {
+            const calendarContainer = document.getElementById('calendarContainer');
+            
+            const weekEnd = new Date(currentWeekStart);
+            weekEnd.setDate(weekEnd.getDate() + 6);
+            
+            const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+                              'July', 'August', 'September', 'October', 'November', 'December'];
+            const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+            
+            const startMonth = monthNames[currentWeekStart.getMonth()];
+            const endMonth = monthNames[weekEnd.getMonth()];
+            const year = currentWeekStart.getFullYear();
+            
+            const weekDisplay = startMonth === endMonth 
+                ? `${startMonth} ${currentWeekStart.getDate()}-${weekEnd.getDate()}, ${year}`
+                : `${startMonth} ${currentWeekStart.getDate()} - ${endMonth} ${weekEnd.getDate()}, ${year}`;
+            
+            let calendarHTML = `
+                <div class="calendar-header">
+                    <div class="calendar-week-display">${weekDisplay}</div>
+                    <div class="calendar-nav">
+                        <button class="nav-btn" onclick="changeWeek(-1)">← Prev Week</button>
+                        <button class="nav-btn" onclick="changeWeek(0)">This Week</button>
+                        <button class="nav-btn" onclick="changeWeek(1)">Next Week →</button>
+                    </div>
+                </div>
+                <div class="calendar-grid">
+            `;
+            
+            // Day headers
+            const today = new Date();
+            const todayString = today.toISOString().split('T')[0];
+            
+            for (let i = 0; i < 7; i++) {
+                const currentDay = new Date(currentWeekStart);
+                currentDay.setDate(currentDay.getDate() + i);
+                const dateString = formatDateString(currentDay);
+                const isToday = dateString === todayString;
+                
+                calendarHTML += `
+                    <div class="calendar-day-header ${isToday ? 'today' : ''}">
+                        <span class="day-name">${dayNames[i]}</span>
+                        <span class="day-date">${monthNames[currentDay.getMonth()].substring(0, 3)} ${currentDay.getDate()}</span>
+                    </div>
+                `;
+            }
+            
+            // Day columns with events
+            for (let i = 0; i < 7; i++) {
+                const currentDay = new Date(currentWeekStart);
+                currentDay.setDate(currentDay.getDate() + i);
+                const dateString = formatDateString(currentDay);
+                const isToday = dateString === todayString;
+                const events = getEventsForDate(dateString);
+                
+                calendarHTML += `
+    <div class="calendar-day ${isToday ? 'today' : ''}">
+        ${events.map(event => {
+            let venueClass = 'event-venue-newbev';
+            if (event.venueShort === 'Vista') venueClass = 'event-venue-vista';
+            else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
+            else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
+            else venueClass = 'event-venue-default';
+            return `
+            <div class="event-card-mini ${venueClass}">
+                <div class="event-card-title">
+                    🎬 ${event.title}
+                </div>
+                <div class="event-card-venue">
+                    ${event.venue}
+                </div>
+                <div class="event-card-time">
+                    ${event.time}
+                </div>
+            </div>
+        `}).join('')}
+    </div>
+`;
+            }
+            
+            calendarHTML += '</div>';
+            calendarContainer.innerHTML = calendarHTML;
+        }
+
+        function renderList() {
+            const listContainer = document.getElementById('listContainer');
+            
+            const filteredEvents = currentFilter === 'all' 
+                ? sampleEvents 
+                : sampleEvents.filter(event => event.venueShort === currentFilter);
+
+            if (filteredEvents.length === 0) {
+                listContainer.innerHTML = '<div class="no-events">No events found for this filter</div>';
+                return;
+            }
+
+            // Sort events by date
+            const sortedEvents = [...filteredEvents].sort((a, b) => new Date(a.date) - new Date(b.date));
+
+            listContainer.innerHTML = sortedEvents.map(event => `
+                <div class="list-item">
+                    <div class="list-item-content">
+                        <div class="event-title">${event.title}</div>
+                        <div class="event-venue">${event.venue}</div>
+                        <div class="event-date">${formatDate(event.date)} • ${event.time}</div>
+                    </div>
+                    <span class="list-item-type event-type-${event.type}">
+                        ${event.type.charAt(0).toUpperCase() + event.type.slice(1)}
+                    </span>
+                </div>
+            `).join('');
+        }
+
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            const options = { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' };
+            return date.toLocaleDateString('en-US', options);
+        }
+
+        function changeWeek(direction) {
+            if (direction === 0) {
+                // Go to current week
+                currentWeekStart = getStartOfWeek(new Date());
+            } else {
+                // Move forward or backward by 7 days
+                currentWeekStart.setDate(currentWeekStart.getDate() + (direction * 7));
+            }
+            renderCalendar();
+        }
+
+        // Filter buttons
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentFilter = btn.dataset.filter;
+                if (currentView === 'calendar') {
+                    renderCalendar();
+                } else {
+                    renderList();
+                }
+            });
+        });
+
+        // View toggle
+        document.querySelectorAll('.view-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentView = btn.dataset.view;
+                
+                const calendarContainer = document.getElementById('calendarContainer');
+                const listContainer = document.getElementById('listContainer');
+                
+                if (currentView === 'calendar') {
+                    calendarContainer.style.display = 'block';
+                    listContainer.classList.remove('active');
+                    renderCalendar();
+                } else {
+                    calendarContainer.style.display = 'none';
+                    listContainer.classList.add('active');
+                    renderList();
+                }
+            });
+        });
+
+        // Load events when page loads
+        loadEvents();
+    </script>
+</body>
+</html>
