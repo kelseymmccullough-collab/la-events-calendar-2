@@ -358,8 +358,11 @@ def scrape_all_venues():
         print()
         time.sleep(2)
     
-    # Filter out past events
-    today = datetime.now().date()
+    # Filter out past events - use Pacific Time
+    from datetime import timezone, timedelta
+    pst = timezone(timedelta(hours=-8))
+    today = datetime.now(pst).date()
+    
     future_events = []
     past_events_count = 0
     
@@ -395,6 +398,7 @@ def scrape_all_venues():
     
     print("=" * 60)
     print(f"Total unique upcoming events: {len(unique_events)}")
+    print(f"Current Pacific Time: {datetime.now(pst)}")
     print("=" * 60)
     
     return unique_events
