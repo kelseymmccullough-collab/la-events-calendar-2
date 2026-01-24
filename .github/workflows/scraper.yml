@@ -6,6 +6,9 @@ on:
     - cron: '0 14 * * *'
   workflow_dispatch:  # Allows manual trigger from Actions tab
 
+permissions:
+  contents: write
+  
 jobs:
   scrape:
     runs-on: ubuntu-latest
