@@ -1,5 +1,32 @@
 [
   {
+    "title": "One Battle After Another 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-01-23",
+    "time": "7:00 PM",
+    "description": ""
+  },
+  {
+    "title": "Treasure Island (IB Tech)",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-01-23",
+    "time": "7:30 PM",
+    "description": ""
+  },
+  {
+    "title": "Flash Gordon",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-01-23",
+    "time": "11:45 PM",
+    "description": ""
+  },
+  {
     "title": "Son of Flubber",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -258,6 +285,33 @@
     "type": "film",
     "date": "2026-02-12",
     "time": "3:30 PM",
+    "description": ""
+  },
+  {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-01-23",
+    "time": "2:00 PM",
+    "description": ""
+  },
+  {
+    "title": "The Ugly Stepsister (Cinematographer In Person)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-01-23",
+    "time": "7:30 PM",
+    "description": ""
+  },
+  {
+    "title": "Death Proof",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-01-23",
+    "time": "11:59 PM",
     "description": ""
   },
   {
