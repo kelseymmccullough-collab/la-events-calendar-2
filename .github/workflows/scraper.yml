@@ -34,7 +34,7 @@ jobs:
         sudo apt-get install google-chrome-stable
         
     - name: Run scraper
-      run: python scraper_v6.py
+      run: python scraper_v7.py
       
     - name: Commit and push if changed
       run: |
