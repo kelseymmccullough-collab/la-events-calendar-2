@@ -1,0 +1,24 @@
+name: Keep Alive
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # Runs at 5 AM PST, before the scraper
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Keep repository active
+        run: |
+          date > .github/keepalive.txt
+          git config user.name 'GitHub Actions'
+          git config user.email 'actions@github.com'
+          git add .github/keepalive.txt
+          git commit -m "Keep alive - $(date)" || exit 0
+          git push
