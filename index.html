@@ -118,6 +118,23 @@
             transform: translateY(-2px);
         }
 
+        /* Vidiots button - always dark green */
+        .filter-btn[data-filter="Vidiots"] {
+            background: #3d5a4a;
+            border-color: #3d5a4a;
+            color: white;
+        }
+
+        .filter-btn[data-filter="Vidiots"]:hover {
+            opacity: 0.9;
+            transform: translateY(-2px);
+        }
+
+        .filter-btn[data-filter="Vidiots"].active {
+            box-shadow: 0 4px 12px rgba(61, 90, 74, 0.4);
+            transform: translateY(-2px);
+        }
+
         .calendar-view {
             padding: 30px;
         }
@@ -227,6 +244,11 @@
         .event-link {
             text-decoration: none;
             display: block;
+            color: inherit;
+        }
+
+        .event-link:hover {
+            text-decoration: none;
         }
 
         .event-card-mini {
@@ -241,7 +263,7 @@
             transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
 
-        .event-card-mini:hover {
+        .event-link:hover .event-card-mini {
             transform: translateY(-2px);
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
@@ -254,6 +276,11 @@
 
 .event-venue-newbev {
     background: #a23b2e;
+    color: white;
+}
+
+.event-venue-vidiots {
+    background: #3d5a4a;
     color: white;
 }
 
@@ -378,6 +405,7 @@
             <button class="filter-btn active" data-filter="all">All Venues</button>
             <button class="filter-btn" data-filter="Vista">Vista Theater</button>
             <button class="filter-btn" data-filter="New Bev">New Beverly</button>
+            <button class="filter-btn" data-filter="Vidiots">Vidiots</button>
         </div>
 
         <div class="calendar-view">
@@ -456,8 +484,11 @@
         function getStartOfWeek(date) {
             const d = new Date(date);
             const day = d.getDay();
-            const diff = d.getDate() - day;
-            return new Date(d.setDate(diff));
+            const diff = day; // Days since Sunday
+            const sunday = new Date(d);
+            sunday.setDate(d.getDate() - diff);
+            sunday.setHours(0, 0, 0, 0); // Reset time to midnight
+            return sunday;
         }
 
         function getEventsForDate(dateString) {
