@@ -4,44 +4,8 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-01-23",
+    "date": "2026-01-24",
     "time": "7:00 PM",
-    "description": ""
-  },
-  {
-    "title": "Treasure Island (IB Tech)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-23",
-    "time": "7:30 PM",
-    "description": ""
-  },
-  {
-    "title": "Flash Gordon",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-23",
-    "time": "11:45 PM",
-    "description": ""
-  },
-  {
-    "title": "Son of Flubber",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-24",
-    "time": "10:00 AM",
-    "description": ""
-  },
-  {
-    "title": "One Battle After Another 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-24",
-    "time": "2:00 PM",
     "description": ""
   },
   {
@@ -234,12 +198,48 @@
     "description": ""
   },
   {
+    "title": "Before Sunrise",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-06",
+    "time": "11:59 PM",
+    "description": ""
+  },
+  {
+    "title": "Heaven Can Wait",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-07",
+    "time": "10:00 AM",
+    "description": ""
+  },
+  {
     "title": "Sinners (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-02-07",
     "time": "1:00 PM",
+    "description": ""
+  },
+  {
+    "title": "Before Sunrise",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-07",
+    "time": "11:59 PM",
+    "description": ""
+  },
+  {
+    "title": "Heaven Can Wait",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-08",
+    "time": "10:00 AM",
     "description": ""
   },
   {
@@ -288,30 +288,93 @@
     "description": ""
   },
   {
-    "title": "The Assassination of Jesse James by the Coward Robert Ford",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Play It Again, Sam",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-01-23",
-    "time": "2:00 PM",
-    "description": ""
-  },
-  {
-    "title": "The Ugly Stepsister (Cinematographer In Person)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-23",
-    "time": "7:30 PM",
-    "description": ""
-  },
-  {
-    "title": "Death Proof",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-23",
+    "date": "2026-02-13",
     "time": "11:59 PM",
+    "description": ""
+  },
+  {
+    "title": "All That Heaven Allows",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-14",
+    "time": "10:00 AM",
+    "description": ""
+  },
+  {
+    "title": "Play It Again, Sam",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-14",
+    "time": "11:59 PM",
+    "description": ""
+  },
+  {
+    "title": "All That Heaven Allows",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-15",
+    "time": "10:00 AM",
+    "description": ""
+  },
+  {
+    "title": "Fast Company",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-21",
+    "time": "10:00 AM",
+    "description": ""
+  },
+  {
+    "title": "Fast Company",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-22",
+    "time": "10:00 AM",
+    "description": ""
+  },
+  {
+    "title": "Little Shop of Horrors",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-27",
+    "time": "11:59 PM",
+    "description": ""
+  },
+  {
+    "title": "The More the Merrier",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-28",
+    "time": "10:00 AM",
+    "description": ""
+  },
+  {
+    "title": "Little Shop of Horrors",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-28",
+    "time": "11:59 PM",
+    "description": ""
+  },
+  {
+    "title": "The More the Merrier",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-01",
+    "time": "10:00 AM",
     "description": ""
   },
   {
@@ -465,42 +528,6 @@
     "type": "film",
     "date": "2026-02-01",
     "time": "6:30 PM",
-    "description": ""
-  },
-  {
-    "title": "Sleeping Beauty",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-24",
-    "time": "1:30 PM",
-    "description": ""
-  },
-  {
-    "title": "The Hot Rock",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-24",
-    "time": "4:00 PM",
-    "description": ""
-  },
-  {
-    "title": "Butch Cassidy and the Sundance Kid",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-24",
-    "time": "7:00 PM",
-    "description": ""
-  },
-  {
-    "title": "Deep Blue Sea",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-24",
-    "time": "9:45 PM",
     "description": ""
   },
   {
