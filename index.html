@@ -61,78 +61,62 @@
         }
 
         .filter-btn {
-    padding: 10px 20px;
-    border: 2px solid transparent;
-    background: white;
-    color: #3d3d3d;
-    border-radius: 25px;
-    cursor: pointer;
-    font-size: 0.9em;
-    font-weight: 600;
-    transition: all 0.3s ease;
-}
+            padding: 10px 20px;
+            border: 2px solid transparent;
+            background: white;
+            color: #3d3d3d;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 0.9em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
 
-/* Default "All Venues" button */
-.filter-btn[data-filter="all"] {
-    background: white;
-    border-color: #8a8a8a;
-    color: #3d3d3d;
-}
+        /* Default "All Venues" button */
+        .filter-btn[data-filter="all"] {
+            background: white;
+            border-color: #8a8a8a;
+            color: #3d3d3d;
+        }
 
-.filter-btn[data-filter="all"].active {
-    background: #8a8a8a;
-    color: white;
-}
+        .filter-btn[data-filter="all"].active {
+            background: #8a8a8a;
+            color: white;
+        }
 
-/* Vista Theater button - always gold */
-.filter-btn[data-filter="Vista"] {
-    background: #e4b04a;
-    border-color: #e4b04a;
-    color: #3d3d3d;
-}
+        /* Vista Theater button - always gold */
+        .filter-btn[data-filter="Vista"] {
+            background: #e4b04a;
+            border-color: #e4b04a;
+            color: #3d3d3d;
+        }
 
-.filter-btn[data-filter="Vista"]:hover {
-    opacity: 0.9;
-    transform: translateY(-2px);
-}
+        .filter-btn[data-filter="Vista"]:hover {
+            opacity: 0.9;
+            transform: translateY(-2px);
+        }
 
-.filter-btn[data-filter="Vista"].active {
-    box-shadow: 0 4px 12px rgba(228, 176, 74, 0.4);
-    transform: translateY(-2px);
-}
+        .filter-btn[data-filter="Vista"].active {
+            box-shadow: 0 4px 12px rgba(228, 176, 74, 0.4);
+            transform: translateY(-2px);
+        }
 
-/* New Beverly button - always brick red */
-.filter-btn[data-filter="New Bev"] {
-    background: #a23b2e;
-    border-color: #a23b2e;
-    color: white;
-}
+        /* New Beverly button - always brick red */
+        .filter-btn[data-filter="New Bev"] {
+            background: #a23b2e;
+            border-color: #a23b2e;
+            color: white;
+        }
 
-.filter-btn[data-filter="New Bev"]:hover {
-    opacity: 0.9;
-    transform: translateY(-2px);
-}
+        .filter-btn[data-filter="New Bev"]:hover {
+            opacity: 0.9;
+            transform: translateY(-2px);
+        }
 
-.filter-btn[data-filter="New Bev"].active {
-    box-shadow: 0 4px 12px rgba(162, 59, 46, 0.4);
-    transform: translateY(-2px);
-}
-/* Vidiots button - always dark green */
-.filter-btn[data-filter="Vidiots"] {
-    background: #3d5a4a;
-    border-color: #3d5a4a;
-    color: white;
-}
-
-.filter-btn[data-filter="Vidiots"]:hover {
-    opacity: 0.9;
-    transform: translateY(-2px);
-}
-
-.filter-btn[data-filter="Vidiots"].active {
-    box-shadow: 0 4px 12px rgba(61, 90, 74, 0.4);
-    transform: translateY(-2px);
-}
+        .filter-btn[data-filter="New Bev"].active {
+            box-shadow: 0 4px 12px rgba(162, 59, 46, 0.4);
+            transform: translateY(-2px);
+        }
 
         .calendar-view {
             padding: 30px;
@@ -240,6 +224,11 @@
             background: #f9f3d6;
         }
 
+        .event-link {
+            text-decoration: none;
+            display: block;
+        }
+
         .event-card-mini {
             display: flex;
             flex-direction: column;
@@ -267,15 +256,8 @@
     background: #a23b2e;
     color: white;
 }
-.event-venue-vidiots {
-    background: #3d5a4a;
-    color: white;
-}
-.event-venue-default {
-    background: #8a8a8a;
-    color: white;
-}
-.event-card-title {
+
+        .event-card-title {
             font-weight: 700;
             font-size: 0.95em;
             line-height: 1.2;
@@ -387,8 +369,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>LA Film Screenings Calendar</h1>
-            <p class="subtitle">We come to this place for magic</p>
+            <h1>LA Events Calendar</h1>
+            <p class="subtitle">Your guide to concerts, films, art & theater</p>
         </header>
 
         <div class="filters">
@@ -396,7 +378,6 @@
             <button class="filter-btn active" data-filter="all">All Venues</button>
             <button class="filter-btn" data-filter="Vista">Vista Theater</button>
             <button class="filter-btn" data-filter="New Bev">New Beverly</button>
-            <button class="filter-btn" data-filter="Vidiots">Vidiots</button>
         </div>
 
         <div class="calendar-view">
@@ -580,28 +561,32 @@ function convertTimeTo24Hour(timeString) {
                 const events = getEventsForDate(dateString);
                 
                 calendarHTML += `
-    <div class="calendar-day ${isToday ? 'today' : ''}">
-        ${events.map(event => {
-            let venueClass = 'event-venue-newbev';
-            if (event.venueShort === 'Vista') venueClass = 'event-venue-vista';
-            else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
-            else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
-            else venueClass = 'event-venue-default';
-            return `
-            <div class="event-card-mini ${venueClass}">
-                <div class="event-card-title">
-                    🎬 ${event.title}
-                </div>
-                <div class="event-card-venue">
-                    ${event.venue}
-                </div>
-                <div class="event-card-time">
-                    ${event.time}
-                </div>
-            </div>
-        `}).join('')}
-    </div>
-`;
+                    <div class="calendar-day ${isToday ? 'today' : ''}">
+                        ${events.map(event => {
+                            let venueClass = 'event-venue-newbev';
+                            if (event.venueShort === 'Vista') venueClass = 'event-venue-vista';
+                            else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
+                            else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
+                            
+                            const eventUrl = event.url || '#';
+                            
+                            return `
+                            <a href="${eventUrl}" target="_blank" class="event-link">
+                                <div class="event-card-mini ${venueClass}">
+                                    <div class="event-card-title">
+                                        🎬 ${event.title}
+                                    </div>
+                                    <div class="event-card-venue">
+                                        ${event.venue}
+                                    </div>
+                                    <div class="event-card-time">
+                                        ${event.time}
+                                    </div>
+                                </div>
+                            </a>
+                        `}).join('')}
+                    </div>
+                `;
             }
             
             calendarHTML += '</div>';
