@@ -37,6 +37,9 @@
             text-align: center;
             position: relative;
             overflow: hidden;
+            /* Extend to top of screen including notch area */
+            padding-top: calc(40px + env(safe-area-inset-top));
+            margin-top: calc(-1 * env(safe-area-inset-top));
         }
 
         /* Varied sparkle dots */
@@ -439,11 +442,12 @@
             align-items: center;
             justify-content: center;
             cursor: pointer;
-            padding: 10px;
+            padding: 8px;
             border-radius: 50%;
             transition: all 0.2s ease;
             width: 50px;
             height: 50px;
+            flex-shrink: 0;
         }
 
         .date-picker-item.no-events {
@@ -465,16 +469,16 @@
         }
 
         .date-picker-day {
-            font-size: 0.7em;
+            font-size: 0.65em;
             color: #718096;
             font-weight: 400;
-            margin-bottom: 2px;
+            margin-bottom: 1px;
             text-transform: uppercase;
             line-height: 1;
         }
 
         .date-picker-number {
-            font-size: 1.1em;
+            font-size: 1em;
             font-weight: 500;
             color: #2d3748;
             line-height: 1;
@@ -511,18 +515,29 @@
             display: flex;
             flex-direction: column;
             gap: 6px;
-            padding: 15px;
+            padding: 16px 16px 16px 16px;
             border-radius: 8px;
             font-size: 0.95em;
             color: white;
             cursor: pointer;
             transition: transform 0.2s ease, box-shadow 0.2s ease;
-            min-height: 120px;
         }
 
         .list-event-card:hover {
             transform: translateY(-2px);
             box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+        }
+        
+        .list-event-card .event-card-title {
+            line-height: 1.3;
+        }
+        
+        .list-event-card .event-card-venue {
+            line-height: 1.3;
+        }
+        
+        .list-event-card .event-card-time {
+            line-height: 1.3;
         }
 
         @media (max-width: 768px) {
@@ -1160,38 +1175,8 @@ function convertTimeTo24Hour(timeString) {
             });
         });
 
-        // Add swipe gesture support for mobile
-        let touchStartX = 0;
-        let touchEndX = 0;
-        const calendarContainer = document.getElementById('calendarContainer');
-        const listContainer = document.getElementById('listContainer');
-        
-        function handleSwipe() {
-            const swipeThreshold = 50; // minimum distance for swipe
-            const diff = touchStartX - touchEndX;
-            
-            if (Math.abs(diff) > swipeThreshold) {
-                if (diff > 0) {
-                    // Swiped left - next week
-                    changeWeek(1);
-                } else {
-                    // Swiped right - previous week
-                    changeWeek(-1);
-                }
-            }
-        }
-        
-        // Add swipe listeners to both containers
-        [calendarContainer, listContainer].forEach(container => {
-            container.addEventListener('touchstart', (e) => {
-                touchStartX = e.changedTouches[0].screenX;
-            }, { passive: true });
-            
-            container.addEventListener('touchend', (e) => {
-                touchEndX = e.changedTouches[0].screenX;
-                handleSwipe();
-            }, { passive: true });
-        });
+        // Swipe gestures DISABLED - use arrow buttons instead
+        // (Removed to prevent accidental week changes while scrolling)
 
         // Load events when page loads
         loadEvents();
