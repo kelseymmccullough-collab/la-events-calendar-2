@@ -1,15 +1,5 @@
 [
   {
-    "title": "One Battle After Another 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-26",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3139?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Safe in Hell/Wild Boys of the Road",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -370,16 +360,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Monkey Shines             /Link",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-26-monkey-shines-link/"
-  },
-  {
     "title": "Dr. Strangelove             /Being There",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -490,26 +470,6 @@
     "url": "https://thenewbev.com/program/february-1-bronson-only-god-forgives/"
   },
   {
-    "title": "The Secret Agent",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Happy Together",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3487092/"
-  },
-  {
     "title": "Charulata",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -567,7 +527,7 @@
     "date": "2026-01-31",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3596199/"
+    "url": "https://vidiotsfoundation.org/purchase/3661320/"
   },
   {
     "title": "Some Like It Hot",
@@ -588,6 +548,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3486829/"
+  },
+  {
+    "title": "The Chronology of Water",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-01-31",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3631101/"
   },
   {
     "title": "Bacurau",
