@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>We Come To This Place</title>
+    <title>LA Events Calendar</title>
     <style>
         * {
             margin: 0;
@@ -12,154 +12,222 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: #3d3d3d;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background: white;
             min-height: 100vh;
-            padding: 20px;
+            margin: 0;
+            padding: 0;
         }
 
         .container {
-            max-width: 1200px;
-            margin: 0 auto;
+            max-width: 100%;
+            margin: 0;
             background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
             overflow: hidden;
         }
 
         header {
-            background: #f5f1e8;
-            color: #3d3d3d;
-            padding: 30px;
+            background: 
+                linear-gradient(180deg, rgba(100, 100, 100, 0.6) 0%, transparent 40%),
+                radial-gradient(circle at 15% 20%, #555555 0%, transparent 40%),
+                radial-gradient(circle at 85% 80%, #555555 0%, transparent 40%),
+                linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #252525 100%);
+            color: white;
+            padding: 40px 20px;
             text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Varied sparkle dots */
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                radial-gradient(circle, rgba(255, 255, 255, 0.6) 0.5px, transparent 0.5px),
+                radial-gradient(circle, rgba(255, 255, 255, 0.4) 1px, transparent 1px),
+                radial-gradient(circle, rgba(255, 255, 255, 0.5) 0.8px, transparent 0.8px),
+                radial-gradient(circle, rgba(255, 255, 255, 0.3) 1.5px, transparent 1.5px),
+                radial-gradient(circle, rgba(255, 255, 255, 0.7) 0.6px, transparent 0.6px);
+            background-size: 
+                80px 80px,
+                120px 120px,
+                60px 60px,
+                150px 150px,
+                45px 45px;
+            background-position: 
+                0 0,
+                40px 40px,
+                20px 70px,
+                80px 20px,
+                10px 30px;
+            pointer-events: none;
+            opacity: 0.8;
+        }
+
+        /* Additional scattered sparkles */
+        header::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                radial-gradient(circle, rgba(255, 255, 255, 0.5) 0.7px, transparent 0.7px),
+                radial-gradient(circle, rgba(255, 255, 255, 0.4) 1.2px, transparent 1.2px),
+                radial-gradient(circle, rgba(255, 255, 255, 0.6) 0.5px, transparent 0.5px);
+            background-size: 
+                100px 100px,
+                140px 140px,
+                70px 70px;
+            background-position: 
+                50px 15px,
+                15px 85px,
+                90px 50px;
+            pointer-events: none;
+            opacity: 0.7;
         }
 
         h1 {
             font-size: 2.5em;
             margin-bottom: 10px;
+            color: white;
+            position: relative;
+            z-index: 1;
+            font-weight: 300;
+            letter-spacing: 0.5px;
         }
 
         .subtitle {
             font-size: 1.1em;
-            opacity: 0.9;
+            opacity: 0.85;
+            color: white;
+            position: relative;
+            z-index: 1;
+            font-weight: 300;
+            letter-spacing: 0.3px;
         }
 
         .filters {
-            padding: 25px 30px;
-            background: #f8f9fa;
-            border-bottom: 2px solid #e9ecef;
+            padding: 10px 20px;
+            background: white;
+            border-bottom: 1px solid #e9ecef;
             display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
+            gap: 12px;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .filter-left {
+            display: flex;
+            gap: 12px;
             align-items: center;
         }
 
         .filter-label {
-            font-weight: 600;
+            font-weight: 400;
             color: #495057;
-            margin-right: 10px;
+            font-size: 0.9em;
+            letter-spacing: 0.3px;
         }
 
-        .filter-btn {
-            padding: 10px 20px;
-            border: 2px solid transparent;
+        .filter-dropdown {
+            padding: 6px 12px;
+            border: 2px solid #8a8a8a;
             background: white;
             color: #3d3d3d;
-            border-radius: 25px;
+            border-radius: 8px;
             cursor: pointer;
             font-size: 0.9em;
-            font-weight: 600;
-            transition: all 0.3s ease;
+            font-weight: 400;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            transition: all 0.2s ease;
+            min-width: 160px;
+            letter-spacing: 0.3px;
         }
 
-        /* Default "All Venues" button */
-        .filter-btn[data-filter="all"] {
+        .filter-dropdown:hover {
+            border-color: #6a6a6a;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .filter-dropdown:focus {
+            outline: none;
+            border-color: #3d3d3d;
+            box-shadow: 0 0 0 3px rgba(61, 61, 61, 0.1);
+        }
+        
+        /* Icon toggle switch */
+        .view-toggle-switch {
+            display: flex;
+            background: #f0f0f0;
+            border-radius: 8px;
+            padding: 4px;
+            gap: 4px;
+        }
+        
+        .view-icon-btn {
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: none;
+            background: transparent;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            color: #6a6a6a;
+        }
+        
+        .view-icon-btn.active {
             background: white;
-            border-color: #8a8a8a;
             color: #3d3d3d;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
-
-        .filter-btn[data-filter="all"].active {
-            background: #8a8a8a;
-            color: white;
-        }
-
-        /* Vista Theater button - always gold */
-        .filter-btn[data-filter="Vista"] {
-            background: #e4b04a;
-            border-color: #e4b04a;
-            color: #3d3d3d;
-        }
-
-        .filter-btn[data-filter="Vista"]:hover {
-            opacity: 0.9;
-            transform: translateY(-2px);
-        }
-
-        .filter-btn[data-filter="Vista"].active {
-            box-shadow: 0 4px 12px rgba(228, 176, 74, 0.4);
-            transform: translateY(-2px);
-        }
-
-        /* New Beverly button - always brick red */
-        .filter-btn[data-filter="New Bev"] {
-            background: #a23b2e;
-            border-color: #a23b2e;
-            color: white;
-        }
-
-        .filter-btn[data-filter="New Bev"]:hover {
-            opacity: 0.9;
-            transform: translateY(-2px);
-        }
-
-        .filter-btn[data-filter="New Bev"].active {
-            box-shadow: 0 4px 12px rgba(162, 59, 46, 0.4);
-            transform: translateY(-2px);
-        }
-
-        /* Vidiots button - always dark green */
-        .filter-btn[data-filter="Vidiots"] {
-            background: #3d5a4a;
-            border-color: #3d5a4a;
-            color: white;
-        }
-
-        .filter-btn[data-filter="Vidiots"]:hover {
-            opacity: 0.9;
-            transform: translateY(-2px);
-        }
-
-        .filter-btn[data-filter="Vidiots"].active {
-            box-shadow: 0 4px 12px rgba(61, 90, 74, 0.4);
-            transform: translateY(-2px);
+        
+        .view-icon-btn svg {
+            width: 20px;
+            height: 20px;
         }
 
         .calendar-view {
             padding: 30px;
         }
 
-        .view-toggle {
+        .calendar-header {
             display: flex;
-            gap: 10px;
-            margin-bottom: 20px;
             justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
         }
 
-        .view-btn {
-            padding: 10px 25px;
-            border: 2px solid #8a8a8a;
+        .week-navigation {
+            display: flex;
+            gap: 8px;
+        }
+
+        .nav-btn {
+            padding: 8px 16px;
             background: white;
-            color: #3d3d3d;
+            border: 2px solid #8a8a8a;
             border-radius: 8px;
             cursor: pointer;
-            font-weight: 600;
+            font-weight: 400;
+            color: #3d3d3d;
             transition: all 0.3s ease;
+            min-width: 40px;
+            letter-spacing: 0.3px;
         }
 
-        .view-btn.active {
-            background: #8a8a8a;
-            color: white;
+        .nav-btn:hover {
+            background: #f0f0f0;
+            transform: translateY(-2px);
         }
 
         .calendar-grid {
@@ -172,38 +240,12 @@
             overflow: hidden;
         }
 
-        .calendar-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-            padding: 0 10px;
-        }
-
         .calendar-week-display {
             font-size: 1.8em;
-            font-weight: 700;
+            font-weight: 500;
             color: #2d3748;
-        }
-
-        .calendar-nav {
-            display: flex;
-            gap: 10px;
-        }
-
-        .nav-btn {
-            padding: 8px 16px;
-            background: #8a8a8a;
-            color: white;
-            border: none;
-            border-radius: 6px;
-            cursor: pointer;
-            font-weight: 600;
-            transition: background 0.3s ease;
-        }
-
-        .nav-btn:hover {
-            background: #707070;
+            text-align: center;
+            margin-bottom: 20px;
         }
 
         .calendar-day-header {
@@ -211,7 +253,7 @@
             color: #3d3d3d;
             padding: 15px 10px;
             text-align: center;
-            font-weight: 700;
+            font-weight: 500;
             font-size: 1em;
         }
 
@@ -268,24 +310,36 @@
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
 
-        /* Venue-specific event card colors */
+        /* Venue-specific event card colors with gradients */
 .event-venue-vista {
-    background: #e4b04a;
-    color: #3d3d3d;
+    background: 
+        linear-gradient(180deg, rgba(255, 200, 100, 0.3) 0%, transparent 40%),
+        radial-gradient(circle at 15% 20%, #f0c060 0%, transparent 40%),
+        radial-gradient(circle at 85% 80%, #f0c060 0%, transparent 40%),
+        linear-gradient(135deg, #c89a38 0%, #e4b04a 50%, #d5a542 100%);
+    color: #2d2d2d;
 }
 
 .event-venue-newbev {
-    background: #a23b2e;
+    background: 
+        linear-gradient(180deg, rgba(180, 80, 70, 0.4) 0%, transparent 40%),
+        radial-gradient(circle at 15% 20%, #b84838 0%, transparent 40%),
+        radial-gradient(circle at 85% 80%, #b84838 0%, transparent 40%),
+        linear-gradient(135deg, #8a2d22 0%, #a23b2e 50%, #922f24 100%);
     color: white;
 }
 
 .event-venue-vidiots {
-    background: #3d5a4a;
+    background: 
+        linear-gradient(180deg, rgba(80, 120, 100, 0.4) 0%, transparent 40%),
+        radial-gradient(circle at 15% 20%, #4d6b5a 0%, transparent 40%),
+        radial-gradient(circle at 85% 80%, #4d6b5a 0%, transparent 40%),
+        linear-gradient(135deg, #2d443a 0%, #3d5a4a 50%, #35503f 100%);
     color: white;
 }
 
         .event-card-title {
-            font-weight: 700;
+            font-weight: 500;
             font-size: 0.95em;
             line-height: 1.2;
         }
@@ -320,64 +374,229 @@
 
         .list-view {
             display: none;
+            overflow-y: auto;
+            max-height: calc(100vh - 250px);
         }
 
         .list-view.active {
             display: block;
         }
 
-        .list-item {
-            padding: 20px;
-            border-bottom: 1px solid #e9ecef;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            transition: background 0.2s ease;
+        .list-week-header {
+            position: sticky;
+            top: 0;
+            background: white;
+            z-index: 10;
+            padding: 0;
+            border-bottom: 2px solid #e9ecef;
+            margin-bottom: 10px;
         }
 
-        .list-item:hover {
-            background: #f8f9fa;
-        }
-
-        .list-item-content {
-            flex: 1;
-        }
-
-        .event-title {
-            font-size: 1.2em;
-            font-weight: 700;
-            margin-bottom: 8px;
+        .week-display {
+            text-align: center;
+            font-weight: 400;
             color: #2d3748;
-        }
-
-        .event-venue {
-            color: #f5f1e8;
-            font-weight: 600;
-            margin-bottom: 8px;
+            margin-bottom: 15px;
             font-size: 0.95em;
         }
 
-        .event-date {
-            color: #718096;
-            font-size: 0.9em;
+        .list-date-picker {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            padding: 10px 0;
+            align-items: center;
+        }
+        
+        .date-nav-arrow {
+            display: flex; /* Show on desktop now */
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            color: #3d3d3d;
+            padding: 8px;
+            border-radius: 50%;
+            transition: all 0.2s ease;
+            width: 36px;
+            height: 36px;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .date-nav-arrow:hover {
+            background: #f0f0f0;
+        }
+        
+        .date-nav-arrow svg {
+            display: block;
+            width: 36px;
+            height: 36px;
         }
 
-        .list-item-type {
-            display: inline-block;
-            padding: 5px 15px;
-            border-radius: 20px;
-            font-size: 0.85em;
-            font-weight: 600;
+        .date-picker-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            padding: 10px;
+            border-radius: 50%;
+            transition: all 0.2s ease;
+            width: 50px;
+            height: 50px;
+        }
+
+        .date-picker-item.no-events {
+            opacity: 0.3;
+            cursor: default;
+        }
+
+        .date-picker-item:not(.no-events):hover {
+            background: #f0f0f0;
+        }
+
+        .date-picker-item.selected {
+            background: #8a8a8a;
+        }
+
+        .date-picker-item.selected .date-picker-day,
+        .date-picker-item.selected .date-picker-number {
             color: white;
-            margin-left: 15px;
+        }
+
+        .date-picker-day {
+            font-size: 0.7em;
+            color: #718096;
+            font-weight: 400;
+            margin-bottom: 2px;
+            text-transform: uppercase;
+            line-height: 1;
+        }
+
+        .date-picker-number {
+            font-size: 1.1em;
+            font-weight: 500;
+            color: #2d3748;
+            line-height: 1;
+        }
+
+        .date-picker-item.selected .date-picker-day {
+            color: white;
+        }
+
+        .date-picker-item.selected .date-picker-number {
+            color: white;
+        }
+
+        .list-date-section {
+            margin-bottom: 40px;
+        }
+
+        .list-date-header {
+            font-size: 1.5em;
+            font-weight: 500;
+            color: #2d3748;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #8a8a8a;
+        }
+
+        .list-events-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 15px;
+        }
+
+        .list-event-card {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 0.95em;
+            color: white;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            min-height: 120px;
+        }
+
+        .list-event-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+        }
+
+        @media (max-width: 768px) {
+            .list-events-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .list-date-header {
+                font-size: 1.3em;
+            }
+            
+            .calendar-header {
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            .week-navigation {
+                width: 100%;
+                justify-content: center;
+            }
         }
 
         @media (max-width: 768px) {
             h1 {
                 font-size: 1.8em;
             }
+            
+            header {
+                padding: 40px 15px;
+            }
 
             .filters {
+                padding: 8px 15px;
+            }
+            
+            .filter-dropdown {
+                font-size: 0.85em;
+                padding: 5px 10px;
+            }
+            
+            .calendar-header {
+                padding: 10px 15px;
+            }
+            
+            .view-toggle-switch {
+                padding: 3px;
+            }
+            
+            .view-icon-btn {
+                width: 32px;
+                height: 32px;
+            }
+            
+            .view-icon-btn svg {
+                width: 18px;
+                height: 18px;
+            }
+            
+            /* Hide week navigation buttons on mobile */
+            .week-navigation {
+                display: none;
+            }
+            
+            .list-date-picker {
+                gap: 8px;
+            }
+            
+            .date-picker-item {
+                width: 42px;
+                height: 42px;
+                padding: 8px;
+            }
+            
+            .calendar-view {
                 padding: 15px;
             }
 
@@ -397,21 +616,41 @@
     <div class="container">
         <header>
             <h1>We Come to this Place</h1>
-            <p class="subtitle">Movies at the theaters that make LA special</p>
+            <p class="subtitle">movies at the places that make Los Angeles magical</p>
         </header>
 
         <div class="filters">
-            <span class="filter-label">Filter by venue:</span>
-            <button class="filter-btn active" data-filter="all">All Venues</button>
-            <button class="filter-btn" data-filter="Vista">Vista Theater</button>
-            <button class="filter-btn" data-filter="New Bev">New Beverly</button>
-            <button class="filter-btn" data-filter="Vidiots">Vidiots</button>
+            <div class="filter-left">
+                <label for="venueFilter" class="filter-label">Filter by venue:</label>
+                <select id="venueFilter" class="filter-dropdown">
+                    <option value="all">All Venues</option>
+                    <option value="Vista">Vista Theater</option>
+                    <option value="New Bev">New Beverly</option>
+                    <option value="Vidiots">Vidiots</option>
+                </select>
+            </div>
+            
+            <div class="view-toggle-switch">
+                <button class="view-icon-btn active" data-view="calendar" title="Calendar View">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM7 12h2v2H7zm4 0h2v2h-2zm4 0h2v2h-2z"/>
+                    </svg>
+                </button>
+                <button class="view-icon-btn" data-view="list" title="List View">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/>
+                    </svg>
+                </button>
+            </div>
         </div>
 
         <div class="calendar-view">
-            <div class="view-toggle">
-                <button class="view-btn active" data-view="calendar">Calendar View</button>
-                <button class="view-btn" data-view="list">List View</button>
+            <div class="calendar-header">
+                <div class="week-navigation">
+                    <button onclick="changeWeek(-1)" class="nav-btn">◄</button>
+                    <button onclick="changeWeek(0)" class="nav-btn">This Week</button>
+                    <button onclick="changeWeek(1)" class="nav-btn">►</button>
+                </div>
             </div>
 
             <div id="calendarContainer" class="events-grid"></div>
@@ -424,8 +663,13 @@
         let sampleEvents = [];
         
         let currentFilter = 'all';
-        let currentView = 'calendar';
+        
+        // Detect if mobile device and set default view accordingly
+        const isMobile = window.innerWidth <= 768;
+        let currentView = isMobile ? 'list' : 'calendar';
+        
         let currentWeekStart = getStartOfWeek(new Date());
+        let currentListDate = null; // Track currently selected date in list view
 
         const eventIcons = {
             concert: '🎵',
@@ -449,6 +693,7 @@
                     console.log(`Loaded ${sampleEvents.length} events from events.json`);
                     renderCalendar();
                     renderList();
+                    updateViewDisplay();
                 })
                 .catch(error => {
                     console.error('Error loading events:', error);
@@ -456,7 +701,25 @@
                     sampleEvents = getSampleEvents();
                     renderCalendar();
                     renderList();
+                    updateViewDisplay();
                 });
+        }
+        
+        // Update which view is displayed and button states
+        function updateViewDisplay() {
+            document.getElementById('calendarContainer').style.display = currentView === 'calendar' ? 'block' : 'none';
+            document.getElementById('listContainer').style.display = currentView === 'list' ? 'block' : 'none';
+            
+            // Hide week navigation buttons when in list view (list view uses arrows in date picker instead)
+            document.querySelector('.calendar-header').style.display = currentView === 'calendar' ? 'flex' : 'none';
+            
+            document.querySelectorAll('.view-icon-btn').forEach(btn => {
+                if (btn.dataset.view === currentView) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
         }
 
         // Sample events fallback (for when events.json doesn't exist yet)
@@ -543,7 +806,7 @@ function convertTimeTo24Hour(timeString) {
             
             const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
                               'July', 'August', 'September', 'October', 'November', 'December'];
-            const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+            const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
             
             const startMonth = monthNames[currentWeekStart.getMonth()];
             const endMonth = monthNames[weekEnd.getMonth()];
@@ -554,14 +817,6 @@ function convertTimeTo24Hour(timeString) {
                 : `${startMonth} ${currentWeekStart.getDate()} - ${endMonth} ${weekEnd.getDate()}, ${year}`;
             
             let calendarHTML = `
-                <div class="calendar-header">
-                    <div class="calendar-week-display">${weekDisplay}</div>
-                    <div class="calendar-nav">
-                        <button class="nav-btn" onclick="changeWeek(-1)">← Prev Week</button>
-                        <button class="nav-btn" onclick="changeWeek(0)">This Week</button>
-                        <button class="nav-btn" onclick="changeWeek(1)">Next Week →</button>
-                    </div>
-                </div>
                 <div class="calendar-grid">
             `;
             
@@ -605,7 +860,7 @@ function convertTimeTo24Hour(timeString) {
                             <a href="${eventUrl}" target="_blank" class="event-link">
                                 <div class="event-card-mini ${venueClass}">
                                     <div class="event-card-title">
-                                        🎬 ${event.title}
+                                        ${event.title}
                                     </div>
                                     <div class="event-card-venue">
                                         ${event.venue}
@@ -636,21 +891,229 @@ function convertTimeTo24Hour(timeString) {
                 return;
             }
 
-            // Sort events by date
-            const sortedEvents = [...filteredEvents].sort((a, b) => new Date(a.date) - new Date(b.date));
+            // Sort events by date, then by time
+            const sortedEvents = [...filteredEvents].sort((a, b) => {
+                const dateCompare = new Date(a.date) - new Date(b.date);
+                if (dateCompare !== 0) return dateCompare;
+                
+                const timeA = convertTimeTo24Hour(a.time);
+                const timeB = convertTimeTo24Hour(b.time);
+                return timeA - timeB;
+            });
 
-            listContainer.innerHTML = sortedEvents.map(event => `
-                <div class="list-item">
-                    <div class="list-item-content">
-                        <div class="event-title">${event.title}</div>
-                        <div class="event-venue">${event.venue}</div>
-                        <div class="event-date">${formatDate(event.date)} • ${event.time}</div>
+            // Group events by date
+            const eventsByDate = {};
+            sortedEvents.forEach(event => {
+                if (!eventsByDate[event.date]) {
+                    eventsByDate[event.date] = [];
+                }
+                eventsByDate[event.date].push(event);
+            });
+
+            // Get all dates that have events
+            const datesWithEvents = Object.keys(eventsByDate).sort();
+            
+            // Smart date selection logic
+            const today = new Date();
+            const todayString = formatDateString(today);
+            const weekEnd = new Date(currentWeekStart);
+            weekEnd.setDate(weekEnd.getDate() + 6);
+            
+            // Get all dates in the current week
+            const datesInCurrentWeek = [];
+            for (let i = 0; i < 7; i++) {
+                const date = new Date(currentWeekStart);
+                date.setDate(date.getDate() + i);
+                datesInCurrentWeek.push(formatDateString(date));
+            }
+            
+            // Get dates with events that are in the current week
+            const eventsInCurrentWeek = datesWithEvents.filter(d => datesInCurrentWeek.includes(d));
+            
+            // Determine which date to select:
+            // 1. If today is in the current week AND has events, select today
+            // 2. Otherwise, select the first date with events in the current week
+            // 3. If no events in current week, select the first date of the week (Sunday)
+            if (datesInCurrentWeek.includes(todayString) && datesWithEvents.includes(todayString)) {
+                currentListDate = todayString;
+            } else if (eventsInCurrentWeek.length > 0) {
+                currentListDate = eventsInCurrentWeek[0];
+            } else {
+                currentListDate = datesInCurrentWeek[0];
+            }
+
+            // Build week navigation
+            const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+                              'July', 'August', 'September', 'October', 'November', 'December'];
+            const dayLetters = ['S', 'M', 'T', 'W', 'T', 'F', 'S']; // Sunday to Saturday
+            
+            const startMonth = monthNames[currentWeekStart.getMonth()];
+            const endMonth = monthNames[weekEnd.getMonth()];
+            
+            const weekDisplay = startMonth === endMonth 
+                ? `${startMonth.substring(0, 3)} ${currentWeekStart.getDate()}-${weekEnd.getDate()}`
+                : `${startMonth.substring(0, 3)} ${currentWeekStart.getDate()} - ${endMonth.substring(0, 3)} ${weekEnd.getDate()}`;
+
+            // Build date picker for the week with navigation arrows
+            let datePickerHTML = '<div class="list-date-picker">';
+            
+            // Add left arrow for mobile
+            datePickerHTML += `
+                <button class="date-nav-arrow date-nav-prev" onclick="changeWeek(-1)" aria-label="Previous week">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+                    </svg>
+                </button>
+            `;
+            
+            for (let i = 0; i < 7; i++) {
+                const date = new Date(currentWeekStart);
+                date.setDate(date.getDate() + i);
+                const dateString = formatDateString(date);
+                const hasEvents = datesWithEvents.includes(dateString);
+                const isSelected = dateString === currentListDate;
+                const dayLetter = dayLetters[date.getDay()];
+                const dayNumber = date.getDate();
+                
+                datePickerHTML += `
+                    <div class="date-picker-item ${isSelected ? 'selected' : ''} ${!hasEvents ? 'no-events' : ''}" 
+                         data-date="${dateString}" 
+                         onclick="jumpToDate('${dateString}')">
+                        <div class="date-picker-day">${dayLetter}</div>
+                        <div class="date-picker-number">${dayNumber}</div>
                     </div>
-                    <span class="list-item-type event-type-${event.type}">
-                        ${event.type.charAt(0).toUpperCase() + event.type.slice(1)}
-                    </span>
+                `;
+            }
+            
+            // Add right arrow for mobile
+            datePickerHTML += `
+                <button class="date-nav-arrow date-nav-next" onclick="changeWeek(1)" aria-label="Next week">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+                    </svg>
+                </button>
+            `;
+            
+            datePickerHTML += '</div>';
+
+            // Build week navigation header
+            let listHTML = `
+                <div class="list-week-header">
+                    ${datePickerHTML}
                 </div>
-            `).join('');
+            `;
+
+            // Build event sections (only for dates with events IN THE CURRENT WEEK)
+            eventsInCurrentWeek.forEach(dateString => {
+                const date = new Date(dateString + 'T00:00:00');
+                const monthName = monthNames[date.getMonth()];
+                const day = date.getDate();
+                const dateHeader = `${monthName} ${day}`;
+                
+                listHTML += `
+                    <div class="list-date-section" id="date-${dateString}" data-date="${dateString}">
+                        <h3 class="list-date-header">${dateHeader}</h3>
+                        <div class="list-events-grid">
+                            ${eventsByDate[dateString].map(event => {
+                                let venueClass = 'event-venue-newbev';
+                                if (event.venueShort === 'Vista') venueClass = 'event-venue-vista';
+                                else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
+                                else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
+                                
+                                const eventUrl = event.url || '#';
+                                
+                                return `
+                                    <a href="${eventUrl}" target="_blank" class="event-link">
+                                        <div class="list-event-card ${venueClass}">
+                                            <div class="event-card-title">
+                                                ${event.title}
+                                            </div>
+                                            <div class="event-card-venue">
+                                                ${event.venue}
+                                            </div>
+                                            <div class="event-card-time">
+                                                ${event.time}
+                                            </div>
+                                        </div>
+                                    </a>
+                                `;
+                            }).join('')}
+                        </div>
+                    </div>
+                `;
+            });
+
+            listContainer.innerHTML = listHTML;
+            
+            // Set up scroll listener to update selected date
+            setupListScrollListener();
+            
+            // Scroll to the selected date section if it exists
+            setTimeout(() => {
+                const selectedSection = document.getElementById('date-' + currentListDate);
+                if (selectedSection) {
+                    selectedSection.scrollIntoView({ behavior: 'auto', block: 'start' });
+                }
+            }, 50);
+        }
+
+        function jumpToDate(dateString) {
+            currentListDate = dateString;
+            const section = document.getElementById('date-' + dateString);
+            if (section) {
+                section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+            // Update the UI immediately
+            document.querySelectorAll('.date-picker-item').forEach(item => {
+                if (item.dataset.date === dateString) {
+                    item.classList.add('selected');
+                } else {
+                    item.classList.remove('selected');
+                }
+            });
+        }
+
+        function setupListScrollListener() {
+            const listContainer = document.getElementById('listContainer');
+            const dateSections = listContainer.querySelectorAll('.list-date-section');
+            
+            if (dateSections.length === 0) return;
+
+            // Observe scroll position
+            let scrollTimeout;
+            listContainer.addEventListener('scroll', () => {
+                clearTimeout(scrollTimeout);
+                scrollTimeout = setTimeout(() => {
+                    // Find which date section is currently in view
+                    let closestSection = null;
+                    let closestDistance = Infinity;
+                    
+                    dateSections.forEach(section => {
+                        const rect = section.getBoundingClientRect();
+                        const distance = Math.abs(rect.top - 200); // Distance from top
+                        
+                        if (distance < closestDistance) {
+                            closestDistance = distance;
+                            closestSection = section;
+                        }
+                    });
+                    
+                    if (closestSection) {
+                        const newDate = closestSection.dataset.date;
+                        if (newDate !== currentListDate) {
+                            currentListDate = newDate;
+                            // Update date picker UI
+                            document.querySelectorAll('.date-picker-item').forEach(item => {
+                                if (item.dataset.date === newDate) {
+                                    item.classList.add('selected');
+                                } else {
+                                    item.classList.remove('selected');
+                                }
+                            });
+                        }
+                    }
+                }, 100);
+            });
         }
 
         function formatDate(dateString) {
@@ -667,43 +1130,67 @@ function convertTimeTo24Hour(timeString) {
                 // Move forward or backward by 7 days
                 currentWeekStart.setDate(currentWeekStart.getDate() + (direction * 7));
             }
-            renderCalendar();
+            
+            // Re-render the current view
+            if (currentView === 'calendar') {
+                renderCalendar();
+            } else {
+                renderList();
+            }
         }
 
         // Filter buttons
-        document.querySelectorAll('.filter-btn').forEach(btn => {
+        // Filter dropdown
+        document.getElementById('venueFilter').addEventListener('change', (e) => {
+            currentFilter = e.target.value;
+            if (currentView === 'calendar') {
+                renderCalendar();
+            } else {
+                renderList();
+            }
+        });
+
+        // View icon toggle
+        document.querySelectorAll('.view-icon-btn').forEach(btn => {
             btn.addEventListener('click', () => {
-                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                document.querySelectorAll('.view-icon-btn').forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
-                currentFilter = btn.dataset.filter;
-                if (currentView === 'calendar') {
-                    renderCalendar();
-                } else {
-                    renderList();
-                }
+                currentView = btn.dataset.view;
+                updateViewDisplay();
             });
         });
 
-        // View toggle
-        document.querySelectorAll('.view-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                currentView = btn.dataset.view;
-                
-                const calendarContainer = document.getElementById('calendarContainer');
-                const listContainer = document.getElementById('listContainer');
-                
-                if (currentView === 'calendar') {
-                    calendarContainer.style.display = 'block';
-                    listContainer.classList.remove('active');
-                    renderCalendar();
+        // Add swipe gesture support for mobile
+        let touchStartX = 0;
+        let touchEndX = 0;
+        const calendarContainer = document.getElementById('calendarContainer');
+        const listContainer = document.getElementById('listContainer');
+        
+        function handleSwipe() {
+            const swipeThreshold = 50; // minimum distance for swipe
+            const diff = touchStartX - touchEndX;
+            
+            if (Math.abs(diff) > swipeThreshold) {
+                if (diff > 0) {
+                    // Swiped left - next week
+                    changeWeek(1);
                 } else {
-                    calendarContainer.style.display = 'none';
-                    listContainer.classList.add('active');
-                    renderList();
+                    // Swiped right - previous week
+                    changeWeek(-1);
                 }
-            });
+            }
+        }
+        
+        // Add swipe listeners to both containers
+        [calendarContainer, listContainer].forEach(container => {
+            container.addEventListener('touchstart', (e) => {
+                touchStartX = e.changedTouches[0].screenX;
+            }, { passive: true });
+            
+            container.addEventListener('touchend', (e) => {
+                touchEndX = e.changedTouches[0].screenX;
+                handleSwipe();
+            }, { passive: true });
         });
 
         // Load events when page loads
