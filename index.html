@@ -630,25 +630,26 @@
         @media (max-width: 460px) {
             .filters {
                 padding: 8px 10px;
-                flex-wrap: wrap;
+                flex-wrap: nowrap; /* Changed: keep icons on same line */
                 gap: 8px;
             }
             
             .filter-left {
-                flex-wrap: wrap;
-                gap: 8px;
-                width: 100%;
+                flex: 1; /* Allow dropdown to take available space */
+                min-width: 0; /* Allow shrinking */
             }
             
             .filter-dropdown {
                 font-size: 0.8em;
                 padding: 4px 8px;
-                min-width: 140px;
+                min-width: 120px; /* Reduced from 140px */
                 max-width: 100%;
+                width: 100%; /* Take full width of container */
             }
             
             .view-toggle-switch {
                 padding: 2px;
+                flex-shrink: 0; /* Prevent shrinking */
             }
             
             .view-icon-btn {
@@ -1150,14 +1151,18 @@ function convertTimeTo24Hour(timeString) {
             }, 50);
         }
 
+        let isScrollingProgrammatically = false;
+
         function jumpToDate(dateString) {
-            console.log('jumpToDate called with:', dateString);
+            console.log('=== jumpToDate called with:', dateString);
             currentListDate = dateString;
+            isScrollingProgrammatically = true; // Disable scroll listener temporarily
             
-            // Update the UI immediately
+            // Update the circle selection
             document.querySelectorAll('.date-picker-item').forEach(item => {
                 if (item.dataset.date === dateString) {
                     item.classList.add('selected');
+                    console.log('Added selected class to:', dateString);
                 } else {
                     item.classList.remove('selected');
                 }
@@ -1165,35 +1170,45 @@ function convertTimeTo24Hour(timeString) {
             
             // Find the section for this date
             const section = document.getElementById('date-' + dateString);
+            console.log('Section element:', section);
             
             if (section) {
-                // Get the list container - THIS is what scrolls
+                // Get the list container
                 const listContainer = document.getElementById('listContainer');
                 
-                // Get the sticky header height - it's INSIDE the scroll container
+                // Get the sticky header
                 const stickyHeader = document.querySelector('.list-week-header');
                 const headerHeight = stickyHeader ? stickyHeader.offsetHeight : 0;
                 
-                // Get positions relative to listContainer
-                const containerTop = listContainer.scrollTop;
-                const sectionOffsetTop = section.offsetTop;
-                const headerOffsetTop = stickyHeader ? stickyHeader.offsetTop : 0;
+                // Use getBoundingClientRect for accurate positioning
+                const containerRect = listContainer.getBoundingClientRect();
+                const sectionRect = section.getBoundingClientRect();
+                const headerRect = stickyHeader ? stickyHeader.getBoundingClientRect() : null;
                 
-                // Scroll so section appears just below the sticky header
-                // We want: section top = header bottom + padding
-                const scrollTarget = sectionOffsetTop - headerHeight - headerOffsetTop - 10;
+                // Calculate how far down the section is from the container's current scroll position
+                const sectionRelativeTop = sectionRect.top - containerRect.top;
                 
+                // The scroll target should position the section below the header
+                // Current scroll + section relative position - header height
+                const scrollTarget = listContainer.scrollTop + sectionRelativeTop - headerHeight;
+                
+                console.log('Container scrollTop:', listContainer.scrollTop);
+                console.log('Section relative to container:', sectionRelativeTop);
                 console.log('Header height:', headerHeight);
-                console.log('Section offsetTop:', sectionOffsetTop);
-                console.log('Scrolling listContainer to:', scrollTarget);
+                console.log('Target scroll:', scrollTarget);
                 
                 // Scroll the list container
                 listContainer.scrollTo({
                     top: scrollTarget,
                     behavior: 'smooth'
                 });
+                
+                // Re-enable scroll listener after scroll completes
+                setTimeout(() => {
+                    isScrollingProgrammatically = false;
+                }, 1000);
             } else {
-                console.log('ERROR: No section found');
+                isScrollingProgrammatically = false;
             }
         }
 
@@ -1206,27 +1221,34 @@ function convertTimeTo24Hour(timeString) {
             // Observe scroll position
             let scrollTimeout;
             listContainer.addEventListener('scroll', () => {
+                // Ignore scroll events triggered by jumpToDate
+                if (isScrollingProgrammatically) {
+                    return;
+                }
+                
                 clearTimeout(scrollTimeout);
                 scrollTimeout = setTimeout(() => {
-                    // Find which date section is currently in view
-                    let closestSection = null;
-                    let closestDistance = Infinity;
+                    // Find which date section is at the top (just below sticky header)
+                    const stickyHeader = document.querySelector('.list-week-header');
+                    const headerBottom = stickyHeader ? stickyHeader.getBoundingClientRect().bottom : 0;
+                    
+                    let firstVisibleSection = null;
                     
                     dateSections.forEach(section => {
                         const rect = section.getBoundingClientRect();
-                        const distance = Math.abs(rect.top - 200); // Distance from top
-                        
-                        if (distance < closestDistance) {
-                            closestDistance = distance;
-                            closestSection = section;
+                        // Check if section top is just below the header (within 100px)
+                        if (rect.top >= headerBottom && rect.top < headerBottom + 100) {
+                            if (!firstVisibleSection) {
+                                firstVisibleSection = section;
+                            }
                         }
                     });
                     
-                    if (closestSection) {
-                        const newDate = closestSection.dataset.date;
+                    if (firstVisibleSection) {
+                        const newDate = firstVisibleSection.dataset.date;
                         if (newDate !== currentListDate) {
                             currentListDate = newDate;
-                            // Update date picker UI
+                            // Update date picker UI - only select ONE date
                             document.querySelectorAll('.date-picker-item').forEach(item => {
                                 if (item.dataset.date === newDate) {
                                     item.classList.add('selected');
