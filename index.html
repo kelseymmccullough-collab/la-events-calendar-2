@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LA Events Calendar</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>We Come to this Place</title>
     <style>
         * {
             margin: 0;
@@ -33,13 +33,12 @@
                 radial-gradient(circle at 85% 80%, #555555 0%, transparent 40%),
                 linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #252525 100%);
             color: white;
-            padding: 40px 20px;
+            padding: 60px 20px;
             text-align: center;
             position: relative;
             overflow: hidden;
             /* Extend to top of screen including notch area */
-            padding-top: calc(40px + env(safe-area-inset-top));
-            margin-top: calc(-1 * env(safe-area-inset-top));
+            padding-top: calc(60px + env(safe-area-inset-top));
         }
 
         /* Varied sparkle dots */
@@ -566,7 +565,8 @@
             }
             
             header {
-                padding: 40px 15px;
+                padding: 60px 15px;
+                padding-top: calc(60px + env(safe-area-inset-top));
             }
 
             .filters {
@@ -625,6 +625,85 @@
                 gap: 10px;
             }
         }
+        
+        /* Extra small screens - prevent overflow */
+        @media (max-width: 460px) {
+            .filters {
+                padding: 8px 10px;
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+            
+            .filter-left {
+                flex-wrap: wrap;
+                gap: 8px;
+                width: 100%;
+            }
+            
+            .filter-dropdown {
+                font-size: 0.8em;
+                padding: 4px 8px;
+                min-width: 140px;
+                max-width: 100%;
+            }
+            
+            .view-toggle-switch {
+                padding: 2px;
+            }
+            
+            .view-icon-btn {
+                width: 28px;
+                height: 28px;
+            }
+            
+            .view-icon-btn svg {
+                width: 16px;
+                height: 16px;
+            }
+            
+            .list-date-picker {
+                gap: 2px;
+                padding: 5px 2px;
+                overflow-x: visible;
+            }
+            
+            .date-picker-item {
+                width: 34px;
+                height: 34px;
+                padding: 5px;
+                flex-shrink: 0;
+            }
+            
+            .date-picker-day {
+                font-size: 0.55em;
+                margin-bottom: 0;
+            }
+            
+            .date-picker-number {
+                font-size: 0.85em;
+            }
+            
+            .date-nav-arrow {
+                width: 24px;
+                height: 24px;
+                padding: 2px;
+                flex-shrink: 0;
+            }
+            
+            .date-nav-arrow svg {
+                width: 24px;
+                height: 24px;
+            }
+            
+            .list-week-header {
+                padding: 0;
+                margin-bottom: 10px;
+            }
+            
+            .list-event-card {
+                padding: 14px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -636,7 +715,6 @@
 
         <div class="filters">
             <div class="filter-left">
-                <label for="venueFilter" class="filter-label">Filter by venue:</label>
                 <select id="venueFilter" class="filter-dropdown">
                     <option value="all">All Venues</option>
                     <option value="Vista">Vista Theater</option>
@@ -1073,11 +1151,9 @@ function convertTimeTo24Hour(timeString) {
         }
 
         function jumpToDate(dateString) {
+            console.log('jumpToDate called with:', dateString);
             currentListDate = dateString;
-            const section = document.getElementById('date-' + dateString);
-            if (section) {
-                section.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
+            
             // Update the UI immediately
             document.querySelectorAll('.date-picker-item').forEach(item => {
                 if (item.dataset.date === dateString) {
@@ -1086,6 +1162,39 @@ function convertTimeTo24Hour(timeString) {
                     item.classList.remove('selected');
                 }
             });
+            
+            // Find the section for this date
+            const section = document.getElementById('date-' + dateString);
+            
+            if (section) {
+                // Get the list container - THIS is what scrolls
+                const listContainer = document.getElementById('listContainer');
+                
+                // Get the sticky header height - it's INSIDE the scroll container
+                const stickyHeader = document.querySelector('.list-week-header');
+                const headerHeight = stickyHeader ? stickyHeader.offsetHeight : 0;
+                
+                // Get positions relative to listContainer
+                const containerTop = listContainer.scrollTop;
+                const sectionOffsetTop = section.offsetTop;
+                const headerOffsetTop = stickyHeader ? stickyHeader.offsetTop : 0;
+                
+                // Scroll so section appears just below the sticky header
+                // We want: section top = header bottom + padding
+                const scrollTarget = sectionOffsetTop - headerHeight - headerOffsetTop - 10;
+                
+                console.log('Header height:', headerHeight);
+                console.log('Section offsetTop:', sectionOffsetTop);
+                console.log('Scrolling listContainer to:', scrollTarget);
+                
+                // Scroll the list container
+                listContainer.scrollTo({
+                    top: scrollTarget,
+                    behavior: 'smooth'
+                });
+            } else {
+                console.log('ERROR: No section found');
+            }
         }
 
         function setupListScrollListener() {
