@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>We Come to this Place</title>
     <style>
         * {
@@ -14,16 +16,27 @@
         html {
             margin: 0;
             padding: 0;
+            width: 100%;
+            height: 100%; /* Don't use vh on html */
             overflow-x: hidden;
+            /* Support iOS safe areas */
+            padding-top: env(safe-area-inset-top);
+            padding-bottom: env(safe-area-inset-bottom);
+            /* Prevent scroll restoration */
+            overflow-anchor: none;
         }
 
         body {
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             background: white;
-            min-height: 100vh;
             margin: 0;
             padding: 0;
+            width: 100%;
+            min-height: 100%; /* Use percentage, not vh */
             overflow-x: hidden;
+            position: relative;
+            /* Prevent scroll restoration */
+            overflow-anchor: none;
         }
 
         .container {
@@ -31,6 +44,9 @@
             margin: 0;
             background: white;
             overflow: visible;
+            min-height: 100dvh; /* Use dvh for iOS - dynamic viewport height */
+            display: flex;
+            flex-direction: column;
         }
 
         header {
@@ -40,12 +56,12 @@
                 radial-gradient(circle at 85% 80%, #555555 0%, transparent 40%),
                 linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #252525 100%);
             color: white;
-            padding: 60px 20px;
+            padding: 90px 20px;
             text-align: center;
             position: relative;
             overflow: hidden;
-            /* Extend to top of screen including notch area */
-            padding-top: calc(60px + env(safe-area-inset-top));
+            /* Add safe area padding for notch on iOS */
+            padding-top: calc(90px + env(safe-area-inset-top));
         }
 
         /* Varied sparkle dots */
@@ -384,7 +400,11 @@
         .list-view {
             display: none;
             overflow-y: auto;
-            height: calc(100vh - 240px); /* Fixed height instead of max */
+            /* Use dvh for iOS - accounts for address bar showing/hiding */
+            height: calc(100dvh - 240px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+            /* Fallback for browsers that don't support dvh */
+            height: calc(100vh - 240px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
         }
 
         .list-view.active {
@@ -572,8 +592,8 @@
             }
             
             header {
-                padding: 60px 15px;
-                padding-top: calc(60px + env(safe-area-inset-top));
+                padding: 90px 15px;
+                padding-top: calc(90px + env(safe-area-inset-top));
             }
 
             .filters {
@@ -1316,12 +1336,37 @@ function convertTimeTo24Hour(timeString) {
         // Swipe gestures DISABLED - use arrow buttons instead
         // (Removed to prevent accidental week changes while scrolling)
 
-        // Scroll to top on page load
-        window.addEventListener('load', () => {
-            window.scrollTo(0, 0);
-            document.body.scrollTop = 0; // For Safari
-            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-        });
+        // Prevent scroll restoration completely
+        if ('scrollRestoration' in history) {
+            history.scrollRestoration = 'manual';
+        }
+
+        // Force scroll to top - multiple approaches for iOS Safari
+        function scrollToTop() {
+            window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+            document.documentElement.scrollTop = 0;
+            document.body.scrollTop = 0;
+            
+            // Force layout recalculation
+            void document.body.offsetHeight;
+        }
+
+        // Call immediately
+        scrollToTop();
+
+        // Call on DOMContentLoaded
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', scrollToTop);
+        } else {
+            scrollToTop();
+        }
+
+        // Call on window load
+        window.addEventListener('load', scrollToTop);
+
+        // Call after a brief delay to catch late scroll restoration
+        setTimeout(scrollToTop, 100);
+        setTimeout(scrollToTop, 250);
 
         // Load events when page loads
         loadEvents();
