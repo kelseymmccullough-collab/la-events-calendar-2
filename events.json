@@ -1,25 +1,5 @@
 [
   {
-    "title": "Safe in Hell/Wild Boys of the Road",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-27",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3086?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "One Battle After Another 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-27",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3140?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Mask of Dimitrios",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -300,6 +280,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3177?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Bride of Frankenstein",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-20",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3210?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Fast Company",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -308,6 +298,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3178?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Bride of Frankenstein",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-21",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3211?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Fast Company",
@@ -358,16 +358,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Dr. Strangelove             /Being There",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-27-dr-strangelove-being-there/"
   },
   {
     "title": "Dr. Strangelove             /Being There",
@@ -468,16 +458,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/february-1-bronson-only-god-forgives/"
-  },
-  {
-    "title": "Charulata",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3487060/"
   },
   {
     "title": "Sinners",
@@ -808,6 +788,16 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3627221/"
+  },
+  {
+    "title": "BLKNWS: Terms & Conditions",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-14",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3658895/"
   },
   {
     "title": "Moulin Rouge! + Vidiots Valentine’s Day Party",
