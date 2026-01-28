@@ -10,6 +10,12 @@
             padding: 0;
             box-sizing: border-box;
         }
+        
+        html {
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
 
         body {
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -17,13 +23,14 @@
             min-height: 100vh;
             margin: 0;
             padding: 0;
+            overflow-x: hidden;
         }
 
         .container {
             max-width: 100%;
             margin: 0;
             background: white;
-            overflow: hidden;
+            overflow: visible;
         }
 
         header {
@@ -377,7 +384,7 @@
         .list-view {
             display: none;
             overflow-y: auto;
-            max-height: calc(100vh - 250px);
+            height: calc(100vh - 240px); /* Fixed height instead of max */
         }
 
         .list-view.active {
@@ -1308,6 +1315,13 @@ function convertTimeTo24Hour(timeString) {
 
         // Swipe gestures DISABLED - use arrow buttons instead
         // (Removed to prevent accidental week changes while scrolling)
+
+        // Scroll to top on page load
+        window.addEventListener('load', () => {
+            window.scrollTo(0, 0);
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        });
 
         // Load events when page loads
         loadEvents();
