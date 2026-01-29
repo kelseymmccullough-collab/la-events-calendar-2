@@ -1,25 +1,5 @@
 [
   {
-    "title": "The Mask of Dimitrios",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-28",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3088?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "One Battle After Another 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-28",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3141?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "One Battle After Another 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -57,7 +37,7 @@
     "date": "2026-01-30",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3091?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "A Nightmare on Elm Street",
@@ -364,16 +344,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-01-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-28-dr-strangelove-being-there/"
-  },
-  {
-    "title": "Dr. Strangelove             /Being There",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-01-29",
     "time": "7:30 PM",
     "description": "",
@@ -458,6 +428,366 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/february-1-bronson-only-god-forgives/"
+  },
+  {
+    "title": "The Student Nurses             /Private Duty Nurses             /The Young Nurses",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-2-the-student-nurses-private-duty-nurses-the-young-nurses/"
+  },
+  {
+    "title": "Wifemistress             /The Divine Nymph",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-3-wifemistress-the-divine-nymph/"
+  },
+  {
+    "title": "Wifemistress             /The Divine Nymph",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-4-wifemistress-the-divine-nymph/"
+  },
+  {
+    "title": "Revenge of the Cheerleaders             /Sex on the Run",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-5-revenge-of-the-cheerleaders-sex-on-the-run/"
+  },
+  {
+    "title": "Revenge of the Cheerleaders             /Sex on the Run",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-06",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-6-revenge-of-the-cheerleaders-sex-on-the-run/"
+  },
+  {
+    "title": "Once Upon A Time In… Hollywood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-06",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-6-once-upon-a-time-in-hollywood-midnight/"
+  },
+  {
+    "title": "Emmanuelle             /Black Emanuelle",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-07",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-7-emmanuelle-black-emanuelle/"
+  },
+  {
+    "title": "Desires Within Young Girls (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-07",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-7-desires-within-young-girls-midnight-show/"
+  },
+  {
+    "title": "Emmanuelle             /Black Emanuelle",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-08",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-8-emmanuelle-black-emanuelle/"
+  },
+  {
+    "title": "Thrill of the Vampires             /Fly Me the French Way",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-9-thrill-of-the-vampires-fly-me-the-french-way/"
+  },
+  {
+    "title": "In the Realm of the Senses             /The Blood Spattered Bride",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-10-in-the-realm-of-the-senses-the-blood-spattered-bride/"
+  },
+  {
+    "title": "In the Realm of the Senses             /The Blood Spattered Bride",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-11-in-the-realm-of-the-senses-the-blood-spattered-bride/"
+  },
+  {
+    "title": "Pretty Maids All In A Row             /High School Girl",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-12-pretty-maids-all-in-a-row-high-school-girl/"
+  },
+  {
+    "title": "Pretty Maids All In A Row             /High School Girl",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-13",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-13-pretty-maids-all-in-a-row-high-school-girl/"
+  },
+  {
+    "title": "Once Upon A Time In… Hollywood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-13",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-13-once-upon-a-time-in-hollywood-midnight/"
+  },
+  {
+    "title": "Vixen!             /Up!",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-14-vixen-up/"
+  },
+  {
+    "title": "The Opening of Misty Beethoven (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-14",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-14-the-opening-of-misty-beethoven-midnight-show/"
+  },
+  {
+    "title": "Vixen!             /Up!",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-15",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-15-vixen-up/"
+  },
+  {
+    "title": "The Defilers             /A Smell of Honey, a Swallow of Brine",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-16-the-defilers-a-smell-of-honey-a-swallow-of-brine/"
+  },
+  {
+    "title": "Summer with Monika             /Inga",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-17-summer-with-monika-inga/"
+  },
+  {
+    "title": "Summer with Monika             /Inga",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-18-summer-with-monika-inga/"
+  },
+  {
+    "title": "Arabian Nights",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-19-arabian-nights/"
+  },
+  {
+    "title": "Arabian Nights",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-20-arabian-nights/"
+  },
+  {
+    "title": "Once Upon A Time In… Hollywood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-20",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-20-once-upon-a-time-in-hollywood-midnight/"
+  },
+  {
+    "title": "Sodom and Gomorrah: The Last Seven Days (Adults Only)             /The Autobiography of a Flea (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-21",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-21-sodom-and-gomorrah-the-last-seven-days-the-autobiography-of-a-flea/"
+  },
+  {
+    "title": "The Fireworks Woman (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-21",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-21-the-fireworks-woman-midnight-show/"
+  },
+  {
+    "title": "Through the Looking Glass (Adults Only)             /Bacchanale (Adults Only)             /Bonus SECRET Third Movie (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-22",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-22-through-the-looking-glass-bacchanale-secret-third-movie/"
+  },
+  {
+    "title": "The Girl From Starship Venus             /Flesh Gordon",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-23-the-girl-from-starship-venus-flesh-gordon/"
+  },
+  {
+    "title": "Paranoia             /The Sweet Body of Deborah (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-24-paranoia-the-sweet-body-of-deborah/"
+  },
+  {
+    "title": "Paranoia             /The Sweet Body of Deborah (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-25-paranoia-the-sweet-body-of-deborah/"
+  },
+  {
+    "title": "Caligula: The Ultimate Cut",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-26-caligula-the-ultimate-cut/"
+  },
+  {
+    "title": "Caligula: The Ultimate Cut",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-27",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-27-caligula-the-ultimate-cut/"
+  },
+  {
+    "title": "Once Upon A Time In… Hollywood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-27",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-27-once-upon-a-time-in-hollywood-midnight/"
+  },
+  {
+    "title": "Deep Throat (Adults Only)             /Hot Summer in the City (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-28",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-28-deep-throat-hot-summer-in-the-city/"
+  },
+  {
+    "title": "Blonde Ambition (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-02-28",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/february-28-blonde-ambition-midnight-show/"
+  },
+  {
+    "title": "Deep Throat (Adults Only)             /Hot Summer in the City (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-01",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
     "title": "Sinners",
