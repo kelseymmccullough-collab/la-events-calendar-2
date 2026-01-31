@@ -1,35 +1,5 @@
 [
   {
-    "title": "One Battle After Another 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-30",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3164?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Lost in America",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "A Nightmare on Elm Street",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-30",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3064?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Million Dollar Legs",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -455,7 +425,7 @@
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-02-28",
-    "time": "2:00 PM",
+    "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3209?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
@@ -478,36 +448,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Total Recall",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-30",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-30-total-recall-friday-matinee/"
-  },
-  {
-    "title": "Bronson             /Only God Forgives",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-30",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-30-bronson-only-god-forgives-2/"
-  },
-  {
-    "title": "Death Proof",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-30",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-30-death-proof-midnight-show/"
   },
   {
     "title": "Batman Begins",
@@ -924,50 +864,10 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-01-31",
+    "date": "2026-02-05",
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3661320/"
-  },
-  {
-    "title": "Some Like It Hot",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3486828/"
-  },
-  {
-    "title": "Romancing the Stone",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3486829/"
-  },
-  {
-    "title": "The Chronology of Water",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Bacurau",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3486833/"
   },
   {
     "title": "Kirikou and the Sorceress",
@@ -1087,7 +987,7 @@
     "date": "2026-02-07",
     "time": "9:45 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3603578/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Howl’s Moving Castle (English Dubbed)",
