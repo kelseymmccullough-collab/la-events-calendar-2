@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-01-31",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3096?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "One Battle After Another 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3165?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "All That Money Can Buy/The Angel On My Shoulder",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3092?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "A Nightmare on Elm Street",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3065?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Million Dollar Legs",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-02-01",
     "time": "10:00 AM",
     "description": "",
@@ -397,7 +357,7 @@
     "date": "2026-02-27",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3208?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Little Shop of Horrors",
@@ -448,36 +408,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Batman Begins",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-31-batman-begins-family-matinee/"
-  },
-  {
-    "title": "Bronson             /Only God Forgives",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-31-bronson-only-god-forgives/"
-  },
-  {
-    "title": "Office Space",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-01-31",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/january-31-office-space-midnight-show/"
   },
   {
     "title": "Batman Begins",
@@ -650,7 +580,7 @@
     "url": "https://thenewbev.com/program/february-13-once-upon-a-time-in-hollywood-midnight/"
   },
   {
-    "title": "Vixen!             /Up!",
+    "title": "Vixen! (Erica Gavin In Person)             /Up!",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -860,46 +790,6 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Resurrection",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-05",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3661320/"
-  },
-  {
-    "title": "Kirikou and the Sorceress",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-01",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3603431/"
-  },
-  {
-    "title": "The Lady Eve",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-01",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627067/"
-  },
-  {
-    "title": "Richard Pryor: Live on the Sunset Strip",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3603433/"
-  },
-  {
     "title": "The Turin Horse",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -918,6 +808,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3603552/"
+  },
+  {
+    "title": "Resurrection",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Dead Man’s Wire",
