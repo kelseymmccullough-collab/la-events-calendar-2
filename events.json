@@ -157,7 +157,17 @@
     "date": "2026-02-12",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3190?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-13",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3212?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Play It Again, Sam",
@@ -178,6 +188,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3176?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-14",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3217?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Bell Book and Candle",
@@ -210,6 +230,36 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3177?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-15",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3218?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-16",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3213?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-17",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3214?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Giant",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -220,6 +270,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3194?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-18",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3215?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Airport/Airport 1975",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -228,6 +288,16 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3195?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-19",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3216?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Gaslight/Laura",
@@ -388,16 +458,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Student Nurses             /Private Duty Nurses             /The Young Nurses",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-2-the-student-nurses-private-duty-nurses-the-young-nurses/"
   },
   {
     "title": "Wifemistress             /The Divine Nymph",
@@ -870,6 +930,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3624282/"
   },
   {
+    "title": "If I Had Legs I’d Kick You",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/coming-soon/"
+  },
+  {
     "title": "Sweet 16mm: Sexual Edutainment",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -977,7 +1047,7 @@
     "date": "2026-02-14",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627222/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "A Cat in Paris",
@@ -1008,6 +1078,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3627253/"
+  },
+  {
+    "title": "Best in Show",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3714532/"
+  },
+  {
+    "title": "Days of Being Wild",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3714337/"
   },
   {
     "title": "Sound of Falling",
@@ -1098,6 +1188,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3633516/"
+  },
+  {
+    "title": "Secrets & Lies",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3631049/"
+  },
+  {
+    "title": "Kisapmata (In the Wink of an Eye)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3631025/"
   },
   {
     "title": "Dope",
