@@ -464,16 +464,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-02-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-3-wifemistress-the-divine-nymph/"
-  },
-  {
-    "title": "Wifemistress             /The Divine Nymph",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-02-04",
     "time": "7:30 PM",
     "description": "",
@@ -810,16 +800,6 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Purple Rain",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-04",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3603552/"
-  },
-  {
     "title": "Resurrection",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -967,7 +947,7 @@
     "date": "2026-02-12",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3630996/"
+    "url": "https://vidiotsfoundation.org/purchase/3630997/"
   },
   {
     "title": "Heart Eyes",
@@ -1140,6 +1120,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3627316/"
   },
   {
+    "title": "Come See Me in the Good Light",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-21",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3661496/"
+  },
+  {
     "title": "A Thousand and One",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1228,5 +1218,15 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3633732/"
+  },
+  {
+    "title": "UHF",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-27",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3719716/"
   }
 ]
