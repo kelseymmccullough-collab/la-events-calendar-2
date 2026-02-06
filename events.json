@@ -57,7 +57,7 @@
     "date": "2026-02-07",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3185?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Before Sunrise",
@@ -464,16 +464,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-02-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-5-revenge-of-the-cheerleaders-sex-on-the-run/"
-  },
-  {
-    "title": "Revenge of the Cheerleaders             /Sex on the Run",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-02-06",
     "time": "6:30 PM",
     "description": "",
@@ -790,36 +780,6 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Resurrection",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Dead Man’s Wire",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-06",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3631138/"
-  },
-  {
-    "title": "All You Need is Kill",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-06",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3631140/"
-  },
-  {
     "title": "The Princess and the Frog",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -910,6 +870,16 @@
     "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
+    "title": "Resurrection",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/coming-soon/"
+  },
+  {
     "title": "Sweet 16mm: Sexual Edutainment",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -978,6 +948,16 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3627205/"
+  },
+  {
+    "title": "Friday the 13th: The Final Chapter",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-13",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3695677/"
   },
   {
     "title": "The Mighty Ducks",
@@ -1057,7 +1037,7 @@
     "date": "2026-02-16",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3714532/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Days of Being Wild",
