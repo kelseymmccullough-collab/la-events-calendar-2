@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-02-07",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3172?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Sinners (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-07",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3150?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Way We Were",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Before Sunrise",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-07",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3171?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Heaven Can Wait",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-02-08",
     "time": "10:00 AM",
     "description": "",
@@ -434,26 +394,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-02-07",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-7-emmanuelle-black-emanuelle/"
-  },
-  {
-    "title": "Desires Within Young Girls (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-07",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-7-desires-within-young-girls-midnight-show/"
-  },
-  {
-    "title": "Emmanuelle             /Black Emanuelle",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-02-08",
     "time": "6:30 PM",
     "description": "",
@@ -730,54 +670,24 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Dead Man’s Wire",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-08",
-    "time": "6:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3631169/"
-  },
-  {
-    "title": "Howl’s Moving Castle (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-08",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3624281/"
-  },
-  {
     "title": "All You Need is Kill",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-02-08",
+    "date": "2026-02-13",
     "time": "1:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3631187/"
   },
   {
-    "title": "Heaven Can Wait",
+    "title": "Dead Man’s Wire",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-02-08",
-    "time": "4:00 PM",
+    "date": "2026-02-09",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3624277/"
-  },
-  {
-    "title": "Crossroads",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3624282/"
+    "url": "https://vidiotsfoundation.org/purchase/3631197/"
   },
   {
     "title": "If I Had Legs I’d Kick You",
