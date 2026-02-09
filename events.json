@@ -1,25 +1,5 @@
 [
   {
-    "title": "Heaven Can Wait",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-08",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3173?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Sinners (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-08",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3151?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Sinners (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -390,16 +370,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Emmanuelle             /Black Emanuelle",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-08",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-8-emmanuelle-black-emanuelle/"
-  },
-  {
     "title": "Thrill of the Vampires             /Fly Me the French Way",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -670,26 +640,6 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "All You Need is Kill",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-13",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3631187/"
-  },
-  {
-    "title": "Dead Man’s Wire",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-09",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3631197/"
-  },
-  {
     "title": "If I Had Legs I’d Kick You",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -758,6 +708,16 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3627389/"
+  },
+  {
+    "title": "All You Need is Kill",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-13",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3664354/"
   },
   {
     "title": "Sleepless in Seattle",
