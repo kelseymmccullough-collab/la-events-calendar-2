@@ -406,7 +406,7 @@ def scrape_vidiots():
 def scrape_academy_museum():
     """Scrape film screenings from Academy Museum of Motion Pictures"""
     
-    url = "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    base_url = "https://www.academymuseum.org/en/calendar?locale=en&programTypes=16i3uOYQwism7sMDhIQr2O"
     venue_name = "Academy Museum"
     venue_short = "Academy"
     event_type = "film"
@@ -417,101 +417,151 @@ def scrape_academy_museum():
     driver = None
     try:
         driver = setup_driver()
-        driver.get(url)
-        time.sleep(5)  # Wait for JavaScript to load
         
-        # Scroll down to load more events
-        for _ in range(3):
+        all_events = []
+        page_num = 1
+        max_pages = 10  # Safety limit
+        
+        while page_num <= max_pages:
+            # Build URL with page parameter
+            if page_num == 1:
+                url = base_url
+            else:
+                url = f"{base_url}&page={page_num}"
+            
+            print(f"  Scraping page {page_num}: {url}")
+            
+            driver.get(url)
+            time.sleep(5)  # Wait for JavaScript to load
+            
+            # Scroll down to ensure all content is loaded
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(1)
-        
-        print(f"  Page loaded successfully")
-        
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, 'html.parser')
-        
-        events = []
-        current_year = datetime.now().year
-        
-        # Find all showtime text elements (they contain "Feb 6, 2026 | 2:30pm | 4K DCP")
-        # These are <p> tags with class containing "ShowtimeText"
-        showtime_elements = soup.find_all('p', class_=lambda c: c and 'ShowtimeText' in c)
-        
-        print(f"  Found {len(showtime_elements)} showtime elements")
-        
-        for showtime_el in showtime_elements:
-            try:
-                showtime_text = showtime_el.get_text(strip=True)
-                
-                # Parse: "Feb 6, 2026 | 2:30pm | 4K DCP"
-                match = re.match(
-                    r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2}),\s+(\d{4})\s*\|\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm)',
-                    showtime_text,
-                    re.I
-                )
-                
-                if not match:
-                    continue
-                
-                month_name = match.group(1)
-                day = int(match.group(2))
-                year = int(match.group(3))
-                hour = int(match.group(4))
-                minutes = match.group(5) or "00"
-                period = match.group(6).upper()
-                
-                # Convert month name to number
-                month_map = {
-                    'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4,
-                    'May': 5, 'Jun': 6, 'Jul': 7, 'Aug': 8,
-                    'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
-                }
-                month_num = month_map.get(month_name[:3].capitalize(), 1)
-                
-                date_str = f"{year}-{month_num:02d}-{day:02d}"
-                time_str = f"{hour}:{minutes} {period}"
-                
-                # Find the title - go up to parent container and find the title link
-                parent = showtime_el.parent
-                title = None
-                
-                # Go up the DOM tree looking for the event container with a title link
-                for _ in range(10):
-                    if parent is None:
-                        break
+            driver.execute_script("window.scrollTo(0, 0);")
+            time.sleep(1)
+            
+            page_source = driver.page_source
+            soup = BeautifulSoup(page_source, 'html.parser')
+            
+            # Find all showtime text elements (they contain "Feb 6, 2026 | 2:30pm | 4K DCP")
+            showtime_elements = soup.find_all('p', class_=lambda c: c and 'ShowtimeText' in c)
+            
+            print(f"    Found {len(showtime_elements)} showtime elements on page {page_num}")
+            
+            # If no events found, we've gone past the last page
+            if len(showtime_elements) == 0:
+                print(f"  No events on page {page_num}, stopping pagination")
+                break
+            
+            events_on_page = 0
+            
+            for showtime_el in showtime_elements:
+                try:
+                    showtime_text = showtime_el.get_text(strip=True)
                     
-                    # Look for link to /programs/detail/
-                    title_link = parent.find('a', href=lambda h: h and '/programs/detail/' in h)
-                    if title_link:
-                        title = title_link.get_text(strip=True)
-                        break
+                    # Parse: "Feb 6, 2026 | 2:30pm | 4K DCP"
+                    match = re.match(
+                        r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2}),\s+(\d{4})\s*\|\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm)',
+                        showtime_text,
+                        re.I
+                    )
                     
-                    parent = parent.parent
-                
-                if not title:
+                    if not match:
+                        continue
+                    
+                    month_name = match.group(1)
+                    day = int(match.group(2))
+                    year = int(match.group(3))
+                    hour = int(match.group(4))
+                    minutes = match.group(5) or "00"
+                    period = match.group(6).upper()
+                    
+                    # Convert month name to number
+                    month_map = {
+                        'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4,
+                        'May': 5, 'Jun': 6, 'Jul': 7, 'Aug': 8,
+                        'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+                    }
+                    month_num = month_map.get(month_name[:3].capitalize(), 1)
+                    
+                    date_str = f"{year}-{month_num:02d}-{day:02d}"
+                    time_str = f"{hour}:{minutes} {period}"
+                    
+                    # Find the title - go up to parent container and find the SECOND title link
+                    # (first link is usually the image, second is the actual title text)
+                    parent = showtime_el.parent
+                    title = None
+                    
+                    # Go up the DOM tree looking for the event container
+                    for _ in range(10):
+                        if parent is None:
+                            break
+                        
+                        # Find ALL links to /programs/detail/ in this container
+                        title_links = parent.find_all('a', href=lambda h: h and '/programs/detail/' in h)
+                        
+                        if len(title_links) >= 2:
+                            # The second link is typically the title (first is image)
+                            title_link = title_links[1]
+                            title = title_link.get_text(strip=True)
+                            if title:
+                                break
+                        elif len(title_links) == 1:
+                            # Only one link, use it
+                            title = title_links[0].get_text(strip=True)
+                            if title:
+                                break
+                        
+                        parent = parent.parent
+                    
+                    if not title:
+                        continue
+                    
+                    # Clean up title (remove extra whitespace)
+                    title = re.sub(r'\s+', ' ', title).strip()
+                    
+                    # Fix missing space before format suffixes (e.g., "Wizard of Ozin 4K" -> "Wizard of Oz in 4K")
+                    title = re.sub(r'(\w)(in\s+(?:4K|35mm|DCP|Dolby Vision|Dolby Atmos|IMAX|70mm))', r'\1 \2', title, flags=re.I)
+                    
+                    # Skip if title looks like it grabbed too much (contains common non-title words)
+                    if any(word in title.lower() for word in ['screenings', 'in person:', 'special guest']):
+                        # Try to extract just the movie name - typically before "In person" or after certain patterns
+                        # Look for pattern like "Movie Title in 4K" or "Movie Title in 35mm"
+                        clean_match = re.match(r'^(.+?(?:\s+in\s+(?:4K|35mm|DCP))?)\s*$', title.split('In person')[0].split('Selected by')[0], re.I)
+                        if clean_match:
+                            title = clean_match.group(1).strip()
+                    
+                    event = {
+                        "title": title,
+                        "venue": venue_name,
+                        "venueShort": venue_short,
+                        "type": event_type,
+                        "date": date_str,
+                        "time": time_str,
+                        "description": "",
+                        "url": default_url
+                    }
+                    all_events.append(event)
+                    events_on_page += 1
+                    print(f"    Found: {title} on {date_str} at {time_str}")
+                    
+                except Exception as e:
                     continue
-                
-                # Clean up title (remove extra whitespace)
-                title = re.sub(r'\s+', ' ', title).strip()
-                
-                event = {
-                    "title": title,
-                    "venue": venue_name,
-                    "venueShort": venue_short,
-                    "type": event_type,
-                    "date": date_str,
-                    "time": time_str,
-                    "description": "",
-                    "url": default_url
-                }
-                events.append(event)
-                print(f"    Found: {title} on {date_str} at {time_str}")
-                
-            except Exception as e:
-                continue
+            
+            # Move to next page
+            page_num += 1
         
-        print(f"✓ Successfully scraped {len(events)} events from {venue_name}")
-        return events
+        # Remove duplicates (same title, date, time)
+        seen = set()
+        unique_events = []
+        for event in all_events:
+            key = (event['title'], event['date'], event['time'])
+            if key not in seen:
+                seen.add(key)
+                unique_events.append(event)
+        
+        print(f"✓ Successfully scraped {len(unique_events)} events from {venue_name}")
+        return unique_events
         
     except Exception as e:
         print(f"✗ Error scraping {venue_name}: {e}")
