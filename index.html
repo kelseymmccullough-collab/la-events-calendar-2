@@ -534,6 +534,7 @@
             width: 52px;
             height: 52px;
             flex-shrink: 0;
+            -webkit-tap-highlight-color: transparent;
         }
 
         .date-picker-item.no-events {
@@ -546,12 +547,12 @@
         }
 
         .date-picker-item.selected {
-            background: var(--color-accent);
+            background: #1a1a1a !important;
         }
 
         .date-picker-item.selected .date-picker-day,
         .date-picker-item.selected .date-picker-number {
-            color: white;
+            color: white !important;
         }
 
         .date-picker-day {
@@ -1364,12 +1365,17 @@ function convertTimeTo24Hour(timeString) {
             isScrollingProgrammatically = true; // Disable scroll listener temporarily
             
             // Update the circle selection
-            document.querySelectorAll('.date-picker-item').forEach(item => {
+            const items = document.querySelectorAll('.date-picker-item');
+            console.log('Found date picker items:', items.length);
+            
+            items.forEach(item => {
                 if (item.dataset.date === dateString) {
                     item.classList.add('selected');
-                    console.log('Added selected class to:', dateString);
+                    item.style.background = '#1a1a1a';
+                    console.log('Added selected class to:', dateString, item);
                 } else {
                     item.classList.remove('selected');
+                    item.style.background = '';
                 }
             });
             
@@ -1457,8 +1463,10 @@ function convertTimeTo24Hour(timeString) {
                             document.querySelectorAll('.date-picker-item').forEach(item => {
                                 if (item.dataset.date === newDate) {
                                     item.classList.add('selected');
+                                    item.style.background = '#1a1a1a';
                                 } else {
                                     item.classList.remove('selected');
+                                    item.style.background = '';
                                 }
                             });
                         }
