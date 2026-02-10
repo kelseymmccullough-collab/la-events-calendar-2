@@ -2,11 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>We Come to this Place</title>
+    
+    <!-- Google Fonts: DM Serif Display for title, Jost for everything else -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
     <style>
+        :root {
+            --font-display: 'DM Serif Display', Georgia, serif;
+            --font-body: 'Jost', -apple-system, BlinkMacSystemFont, sans-serif;
+            --color-text-primary: #1a1a1a;
+            --color-text-secondary: #4a4a4a;
+            --color-text-muted: #6a6a6a;
+            --color-border: #d4d4d4;
+            --color-border-light: #e8e8e8;
+            --color-bg-subtle: #f7f7f5;
+            --color-accent: #2d2d2d;
+            --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+            --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+            --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+            --radius-sm: 6px;
+            --radius-md: 10px;
+            --radius-lg: 14px;
+            --transition-fast: 0.15s ease;
+            --transition-base: 0.25s ease;
+        }
+        
         * {
             margin: 0;
             padding: 0;
@@ -16,27 +40,21 @@
         html {
             margin: 0;
             padding: 0;
-            width: 100%;
-            height: 100%; /* Don't use vh on html */
             overflow-x: hidden;
-            /* Support iOS safe areas */
-            padding-top: env(safe-area-inset-top);
-            padding-bottom: env(safe-area-inset-bottom);
-            /* Prevent scroll restoration */
-            overflow-anchor: none;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
 
         body {
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-family: var(--font-body);
             background: white;
+            min-height: 100vh;
             margin: 0;
             padding: 0;
-            width: 100%;
-            min-height: 100%; /* Use percentage, not vh */
             overflow-x: hidden;
-            position: relative;
-            /* Prevent scroll restoration */
-            overflow-anchor: none;
+            color: var(--color-text-primary);
+            font-weight: 400;
+            line-height: 1.5;
         }
 
         .container {
@@ -44,9 +62,6 @@
             margin: 0;
             background: white;
             overflow: visible;
-            min-height: 100dvh; /* Use dvh for iOS - dynamic viewport height */
-            display: flex;
-            flex-direction: column;
         }
 
         header {
@@ -56,12 +71,10 @@
                 radial-gradient(circle at 85% 80%, #555555 0%, transparent 40%),
                 linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #252525 100%);
             color: white;
-            padding: 90px 20px;
+            padding: 50px 20px 45px;
             text-align: center;
             position: relative;
             overflow: hidden;
-            /* Add safe area padding for notch on iOS */
-            padding-top: calc(90px + env(safe-area-inset-top));
         }
 
         /* Varied sparkle dots */
@@ -91,7 +104,7 @@
                 80px 20px,
                 10px 30px;
             pointer-events: none;
-            opacity: 0.8;
+            opacity: 0.7;
         }
 
         /* Additional scattered sparkles */
@@ -115,33 +128,36 @@
                 15px 85px,
                 90px 50px;
             pointer-events: none;
-            opacity: 0.7;
+            opacity: 0.6;
         }
 
         h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
+            font-family: var(--font-display);
+            font-size: 2.4em;
+            margin-bottom: 8px;
             color: white;
             position: relative;
             z-index: 1;
-            font-weight: 300;
-            letter-spacing: 0.5px;
+            font-weight: 400;
+            letter-spacing: 0.01em;
         }
 
         .subtitle {
-            font-size: 1.1em;
-            opacity: 0.85;
+            font-family: var(--font-body);
+            font-size: 0.95em;
+            opacity: 0.8;
             color: white;
             position: relative;
             z-index: 1;
             font-weight: 300;
-            letter-spacing: 0.3px;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
         }
 
         .filters {
-            padding: 10px 20px;
-            background: white;
-            border-bottom: 1px solid #e9ecef;
+            padding: 12px 20px;
+            background: var(--color-bg-subtle);
+            border-bottom: 1px solid var(--color-border-light);
             display: flex;
             gap: 12px;
             align-items: center;
@@ -155,74 +171,79 @@
         }
 
         .filter-label {
-            font-weight: 400;
-            color: #495057;
-            font-size: 0.9em;
-            letter-spacing: 0.3px;
+            font-weight: 500;
+            color: var(--color-text-secondary);
+            font-size: 0.85em;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
         }
 
         .filter-dropdown {
-            padding: 6px 12px;
-            border: 2px solid #8a8a8a;
+            padding: 8px 14px;
+            border: 1px solid var(--color-border);
             background: white;
-            color: #3d3d3d;
-            border-radius: 8px;
+            color: var(--color-text-primary);
+            border-radius: var(--radius-sm);
             cursor: pointer;
             font-size: 0.9em;
-            font-weight: 400;
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            transition: all 0.2s ease;
-            min-width: 160px;
-            letter-spacing: 0.3px;
+            font-weight: 500;
+            font-family: var(--font-body);
+            transition: all var(--transition-fast);
+            min-width: 150px;
         }
 
         .filter-dropdown:hover {
-            border-color: #6a6a6a;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border-color: var(--color-text-muted);
+            box-shadow: var(--shadow-sm);
         }
 
         .filter-dropdown:focus {
             outline: none;
-            border-color: #3d3d3d;
-            box-shadow: 0 0 0 3px rgba(61, 61, 61, 0.1);
+            border-color: var(--color-accent);
+            box-shadow: 0 0 0 3px rgba(45, 45, 45, 0.08);
         }
         
         /* Icon toggle switch */
         .view-toggle-switch {
             display: flex;
-            background: #f0f0f0;
-            border-radius: 8px;
-            padding: 4px;
-            gap: 4px;
+            background: white;
+            border: 1px solid var(--color-border);
+            border-radius: var(--radius-sm);
+            padding: 3px;
+            gap: 2px;
         }
         
         .view-icon-btn {
-            width: 36px;
-            height: 36px;
+            width: 34px;
+            height: 34px;
             display: flex;
             align-items: center;
             justify-content: center;
             border: none;
             background: transparent;
             cursor: pointer;
-            border-radius: 6px;
-            transition: all 0.2s ease;
-            color: #6a6a6a;
+            border-radius: 4px;
+            transition: all var(--transition-fast);
+            color: var(--color-text-muted);
         }
         
         .view-icon-btn.active {
-            background: white;
-            color: #3d3d3d;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            background: var(--color-accent);
+            color: white;
+        }
+        
+        .view-icon-btn:not(.active):hover {
+            background: var(--color-bg-subtle);
+            color: var(--color-text-secondary);
         }
         
         .view-icon-btn svg {
-            width: 20px;
-            height: 20px;
+            width: 18px;
+            height: 18px;
         }
 
         .calendar-view {
-            padding: 30px;
+            padding: 24px;
         }
 
         .calendar-header {
@@ -238,60 +259,69 @@
         }
 
         .nav-btn {
-            padding: 8px 16px;
+            padding: 10px 18px;
             background: white;
-            border: 2px solid #8a8a8a;
-            border-radius: 8px;
+            border: 1px solid var(--color-border);
+            border-radius: var(--radius-sm);
             cursor: pointer;
-            font-weight: 400;
-            color: #3d3d3d;
-            transition: all 0.3s ease;
-            min-width: 40px;
-            letter-spacing: 0.3px;
+            font-weight: 500;
+            font-family: var(--font-body);
+            color: var(--color-text-primary);
+            transition: all var(--transition-fast);
+            min-width: 44px;
+            font-size: 0.9em;
         }
 
         .nav-btn:hover {
-            background: #f0f0f0;
-            transform: translateY(-2px);
+            background: var(--color-bg-subtle);
+            border-color: var(--color-text-muted);
+        }
+        
+        .nav-btn:active {
+            transform: scale(0.98);
         }
 
         .calendar-grid {
             display: grid;
             grid-template-columns: repeat(7, 1fr);
-            gap: 2px;
-            background: #8a8a8a;
-            border: 1px solid #8a8a8a;
-            border-radius: 8px;
+            gap: 1px;
+            background: var(--color-border);
+            border: 1px solid var(--color-border);
+            border-radius: var(--radius-md);
             overflow: hidden;
         }
 
         .calendar-week-display {
-            font-size: 1.8em;
-            font-weight: 500;
-            color: #2d3748;
+            font-family: var(--font-body);
+            font-size: 1.5em;
+            font-weight: 600;
+            color: var(--color-text-primary);
             text-align: center;
             margin-bottom: 20px;
         }
 
         .calendar-day-header {
-            background: #f5f1e8;
-            color: #3d3d3d;
-            padding: 15px 10px;
+            background: var(--color-bg-subtle);
+            color: var(--color-text-secondary);
+            padding: 14px 8px;
             text-align: center;
-            font-weight: 500;
-            font-size: 1em;
+            font-weight: 600;
+            font-size: 0.8em;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
         }
 
         .day-name {
             display: block;
-            font-size: 1.1em;
-            margin-bottom: 3px;
+            font-size: 1em;
+            margin-bottom: 2px;
         }
 
         .day-date {
             display: block;
-            font-size: 0.85em;
-            opacity: 0.9;
+            font-size: 0.9em;
+            opacity: 0.7;
+            font-weight: 500;
         }
 
         .calendar-day {
@@ -301,11 +331,11 @@
             position: relative;
             display: flex;
             flex-direction: column;
-            gap: 8px;
+            gap: 6px;
         }
 
         .calendar-day.today {
-            background: #f9f3d6;
+            background: #fffdf5;
         }
 
         .event-link {
@@ -322,64 +352,91 @@
             display: flex;
             flex-direction: column;
             gap: 4px;
-            padding: 8px;
-            border-radius: 6px;
+            padding: 11px 12px;
+            border-radius: var(--radius-md);
             font-size: 0.85em;
             color: white;
             cursor: pointer;
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            transition: transform var(--transition-base), box-shadow var(--transition-base);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.08);
+            border: 1px solid rgba(255,255,255,0.1);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        /* Subtle shine effect on cards */
+        .event-card-mini::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 40%;
+            background: linear-gradient(180deg, rgba(255,255,255,0.08) 0%, transparent 100%);
+            pointer-events: none;
         }
 
         .event-link:hover .event-card-mini {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            transform: translateY(-3px) scale(1.01);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.15), 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .event-link:active .event-card-mini {
+            transform: translateY(-1px) scale(0.99);
+            transition: transform 0.1s ease;
         }
 
-        /* Venue-specific event card colors with gradients */
+        /* Venue-specific event card colors with refined gradients */
 .event-venue-vista {
-    background: 
-        linear-gradient(180deg, rgba(255, 200, 100, 0.3) 0%, transparent 40%),
-        radial-gradient(circle at 15% 20%, #f0c060 0%, transparent 40%),
-        radial-gradient(circle at 85% 80%, #f0c060 0%, transparent 40%),
-        linear-gradient(135deg, #c89a38 0%, #e4b04a 50%, #d5a542 100%);
-    color: #2d2d2d;
+    background: linear-gradient(145deg, #d4a843 0%, #c49535 50%, #b8892f 100%);
+    color: #1a1400;
 }
 
 .event-venue-newbev {
-    background: 
-        linear-gradient(180deg, rgba(180, 80, 70, 0.4) 0%, transparent 40%),
-        radial-gradient(circle at 15% 20%, #b84838 0%, transparent 40%),
-        radial-gradient(circle at 85% 80%, #b84838 0%, transparent 40%),
-        linear-gradient(135deg, #8a2d22 0%, #a23b2e 50%, #922f24 100%);
+    background: linear-gradient(145deg, #a83529 0%, #8f2c22 50%, #7a251c 100%);
     color: white;
 }
 
 .event-venue-vidiots {
-    background: 
-        linear-gradient(180deg, rgba(80, 120, 100, 0.4) 0%, transparent 40%),
-        radial-gradient(circle at 15% 20%, #4d6b5a 0%, transparent 40%),
-        radial-gradient(circle at 85% 80%, #4d6b5a 0%, transparent 40%),
-        linear-gradient(135deg, #2d443a 0%, #3d5a4a 50%, #35503f 100%);
+    background: linear-gradient(145deg, #3d5f4a 0%, #2f4d3b 50%, #264032 100%);
+    color: white;
+}
+
+.event-venue-academy {
+    background: linear-gradient(145deg, #2d5a7a 0%, #234a66 50%, #1c3d55 100%);
     color: white;
 }
 
         .event-card-title {
+            font-family: var(--font-body);
             font-weight: 500;
-            font-size: 0.95em;
-            line-height: 1.2;
+            font-size: 0.92em;
+            line-height: 1.3;
+            letter-spacing: 0.01em;
+            position: relative;
+            z-index: 1;
         }
 
         .event-card-venue {
-            font-size: 0.85em;
-            opacity: 0.95;
+            font-size: 0.78em;
+            opacity: 0.92;
             display: flex;
             align-items: center;
-            gap: 3px;
+            gap: 4px;
+            font-weight: 400;
+            letter-spacing: 0.02em;
+            position: relative;
+            z-index: 1;
         }
 
         .event-card-time {
-            font-size: 0.8em;
-            opacity: 0.9;
+            font-size: 0.72em;
+            opacity: 0.8;
+            font-weight: 500;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            position: relative;
+            z-index: 1;
         }
 
         .event-icon {
@@ -400,11 +457,7 @@
         .list-view {
             display: none;
             overflow-y: auto;
-            /* Use dvh for iOS - accounts for address bar showing/hiding */
-            height: calc(100dvh - 240px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
-            /* Fallback for browsers that don't support dvh */
-            height: calc(100vh - 240px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
-            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+            height: calc(100vh - 220px);
         }
 
         .list-view.active {
@@ -417,49 +470,56 @@
             background: white;
             z-index: 10;
             padding: 0;
-            border-bottom: 2px solid #e9ecef;
+            border-bottom: 1px solid var(--color-border-light);
             margin-bottom: 10px;
         }
 
         .week-display {
             text-align: center;
-            font-weight: 400;
-            color: #2d3748;
-            margin-bottom: 15px;
-            font-size: 0.95em;
+            font-weight: 500;
+            color: var(--color-text-secondary);
+            margin-bottom: 12px;
+            font-size: 0.85em;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
         }
 
         .list-date-picker {
             display: flex;
             justify-content: center;
-            gap: 15px;
-            padding: 10px 0;
+            gap: 12px;
+            padding: 12px 0;
             align-items: center;
         }
         
         .date-nav-arrow {
-            display: flex; /* Show on desktop now */
+            display: flex;
             background: transparent;
             border: none;
             cursor: pointer;
-            color: #3d3d3d;
+            color: var(--color-text-secondary);
             padding: 8px;
             border-radius: 50%;
-            transition: all 0.2s ease;
-            width: 36px;
-            height: 36px;
+            transition: all var(--transition-fast);
+            width: 40px;
+            height: 40px;
             align-items: center;
             justify-content: center;
         }
         
         .date-nav-arrow:hover {
-            background: #f0f0f0;
+            background: var(--color-bg-subtle);
+            color: var(--color-text-primary);
+        }
+        
+        .date-nav-arrow:active {
+            transform: scale(0.95);
         }
         
         .date-nav-arrow svg {
             display: block;
-            width: 36px;
-            height: 36px;
+            width: 24px;
+            height: 24px;
         }
 
         .date-picker-item {
@@ -470,9 +530,9 @@
             cursor: pointer;
             padding: 8px;
             border-radius: 50%;
-            transition: all 0.2s ease;
-            width: 50px;
-            height: 50px;
+            transition: all var(--transition-fast);
+            width: 52px;
+            height: 52px;
             flex-shrink: 0;
         }
 
@@ -482,11 +542,11 @@
         }
 
         .date-picker-item:not(.no-events):hover {
-            background: #f0f0f0;
+            background: var(--color-bg-subtle);
         }
 
         .date-picker-item.selected {
-            background: #8a8a8a;
+            background: var(--color-accent);
         }
 
         .date-picker-item.selected .date-picker-day,
@@ -495,23 +555,24 @@
         }
 
         .date-picker-day {
-            font-size: 0.65em;
-            color: #718096;
-            font-weight: 400;
-            margin-bottom: 1px;
+            font-size: 0.6em;
+            color: var(--color-text-muted);
+            font-weight: 600;
+            margin-bottom: 2px;
             text-transform: uppercase;
             line-height: 1;
+            letter-spacing: 0.03em;
         }
 
         .date-picker-number {
-            font-size: 1em;
-            font-weight: 500;
-            color: #2d3748;
+            font-size: 1.05em;
+            font-weight: 600;
+            color: var(--color-text-primary);
             line-height: 1;
         }
 
         .date-picker-item.selected .date-picker-day {
-            color: white;
+            color: rgba(255,255,255,0.8);
         }
 
         .date-picker-item.selected .date-picker-number {
@@ -519,51 +580,85 @@
         }
 
         .list-date-section {
-            margin-bottom: 40px;
+            margin-bottom: 36px;
+            padding: 0 20px;
         }
 
         .list-date-header {
-            font-size: 1.5em;
-            font-weight: 500;
-            color: #2d3748;
-            margin-bottom: 20px;
+            font-family: var(--font-body);
+            font-size: 1.3em;
+            font-weight: 600;
+            color: var(--color-text-primary);
+            margin-bottom: 16px;
             padding-bottom: 10px;
-            border-bottom: 3px solid #8a8a8a;
+            border-bottom: 2px solid var(--color-border);
         }
 
         .list-events-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 15px;
+            gap: 14px;
         }
 
         .list-event-card {
             display: flex;
             flex-direction: column;
             gap: 6px;
-            padding: 16px 16px 16px 16px;
-            border-radius: 8px;
+            padding: 18px 16px;
+            border-radius: var(--radius-md);
             font-size: 0.95em;
             color: white;
             cursor: pointer;
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            transition: transform var(--transition-base), box-shadow var(--transition-base);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
+            border: 1px solid rgba(255,255,255,0.1);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        /* Subtle shine effect on list cards */
+        .list-event-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 50%;
+            background: linear-gradient(180deg, rgba(255,255,255,0.07) 0%, transparent 100%);
+            pointer-events: none;
         }
 
         .list-event-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+            transform: translateY(-4px) scale(1.01);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.15), 0 6px 10px rgba(0,0,0,0.1);
+        }
+        
+        .list-event-card:active {
+            transform: translateY(-2px) scale(0.99);
+            transition: transform 0.1s ease;
         }
         
         .list-event-card .event-card-title {
-            line-height: 1.3;
+            font-size: 1.05em;
+            font-weight: 500;
+            line-height: 1.35;
+            position: relative;
+            z-index: 1;
         }
         
         .list-event-card .event-card-venue {
+            font-size: 0.85em;
             line-height: 1.3;
+            position: relative;
+            z-index: 1;
         }
         
         .list-event-card .event-card-time {
+            font-size: 0.78em;
             line-height: 1.3;
+            margin-top: 2px;
+            position: relative;
+            z-index: 1;
         }
 
         @media (max-width: 768px) {
@@ -572,7 +667,7 @@
             }
             
             .list-date-header {
-                font-size: 1.3em;
+                font-size: 1.25em;
             }
             
             .calendar-header {
@@ -588,21 +683,31 @@
 
         @media (max-width: 768px) {
             h1 {
-                font-size: 1.8em;
+                font-size: 1.9em;
+            }
+            
+            .subtitle {
+                font-size: 0.8em;
             }
             
             header {
-                padding: 90px 15px;
-                padding-top: calc(90px + env(safe-area-inset-top));
+                padding: 40px 20px 35px;
             }
 
             .filters {
-                padding: 8px 15px;
+                padding: 10px 16px;
+            }
+            
+            .filter-label {
+                display: none;
             }
             
             .filter-dropdown {
                 font-size: 0.85em;
-                padding: 5px 10px;
+                padding: 10px 12px;
+                min-width: 140px;
+                /* Better touch target */
+                min-height: 44px;
             }
             
             .calendar-header {
@@ -614,13 +719,13 @@
             }
             
             .view-icon-btn {
-                width: 32px;
-                height: 32px;
+                width: 40px;
+                height: 40px;
             }
             
             .view-icon-btn svg {
-                width: 18px;
-                height: 18px;
+                width: 20px;
+                height: 20px;
             }
             
             /* Hide week navigation buttons on mobile */
@@ -629,17 +734,32 @@
             }
             
             .list-date-picker {
-                gap: 8px;
+                gap: 6px;
+                padding: 14px 8px;
             }
             
             .date-picker-item {
-                width: 42px;
-                height: 42px;
-                padding: 8px;
+                width: 44px;
+                height: 44px;
+                padding: 6px;
+            }
+            
+            .date-picker-number {
+                font-size: 1em;
+            }
+            
+            .date-picker-day {
+                font-size: 0.55em;
+            }
+            
+            .date-nav-arrow {
+                width: 44px;
+                height: 44px;
+                padding: 10px;
             }
             
             .calendar-view {
-                padding: 15px;
+                padding: 16px;
             }
 
             .events-grid {
@@ -651,15 +771,70 @@
                 align-items: flex-start;
                 gap: 10px;
             }
+            
+            .list-date-section {
+                padding: 0 16px;
+                margin-bottom: 32px;
+            }
+            
+            .list-event-card {
+                padding: 14px;
+                /* Minimum touch target */
+                min-height: 80px;
+            }
+            
+            .list-event-card .event-card-title {
+                font-size: 1em;
+            }
         }
         
-        /* Extra small screens - prevent overflow */
+        /* Extra small screens */
         @media (max-width: 460px) {
+            h1 {
+                font-size: 1.6em;
+            }
+            
             .filters {
-                padding: 8px 10px;
-                flex-wrap: nowrap; /* Changed: keep icons on same line */
+                padding: 10px 12px;
                 gap: 8px;
             }
+            
+            .filter-dropdown {
+                min-width: 120px;
+                font-size: 0.8em;
+            }
+            
+            .list-date-picker {
+                gap: 4px;
+                padding: 12px 4px;
+            }
+            
+            .date-picker-item {
+                width: 40px;
+                height: 40px;
+            }
+            
+            .date-picker-number {
+                font-size: 0.95em;
+            }
+            
+            .date-nav-arrow {
+                width: 36px;
+                height: 36px;
+            }
+            
+            .date-nav-arrow svg {
+                width: 20px;
+                height: 20px;
+            }
+        }
+        
+        /* Safe area support for notched devices */
+        @supports (padding: env(safe-area-inset-bottom)) {
+            .list-view {
+                padding-bottom: env(safe-area-inset-bottom);
+            }
+        }
             
             .filter-left {
                 flex: 1; /* Allow dropdown to take available space */
@@ -748,6 +923,7 @@
                     <option value="Vista">Vista Theater</option>
                     <option value="New Bev">New Beverly</option>
                     <option value="Vidiots">Vidiots</option>
+                    <option value="Academy">Academy Museum</option>
                 </select>
             </div>
             
@@ -974,6 +1150,7 @@ function convertTimeTo24Hour(timeString) {
                             if (event.venueShort === 'Vista') venueClass = 'event-venue-vista';
                             else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
                             else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
+                            else if (event.venueShort === 'Academy') venueClass = 'event-venue-academy';
                             
                             const eventUrl = event.url || '#';
                             
@@ -1140,6 +1317,7 @@ function convertTimeTo24Hour(timeString) {
                                 if (event.venueShort === 'Vista') venueClass = 'event-venue-vista';
                                 else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
                                 else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
+                                else if (event.venueShort === 'Academy') venueClass = 'event-venue-academy';
                                 
                                 const eventUrl = event.url || '#';
                                 
@@ -1336,37 +1514,34 @@ function convertTimeTo24Hour(timeString) {
         // Swipe gestures DISABLED - use arrow buttons instead
         // (Removed to prevent accidental week changes while scrolling)
 
-        // Prevent scroll restoration completely
-        if ('scrollRestoration' in history) {
-            history.scrollRestoration = 'manual';
-        }
-
-        // Force scroll to top - multiple approaches for iOS Safari
+        // Scroll to top on page load - with delays for iOS Safari
         function scrollToTop() {
             window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-            document.documentElement.scrollTop = 0;
             document.body.scrollTop = 0;
-            
-            // Force layout recalculation
-            void document.body.offsetHeight;
+            document.documentElement.scrollTop = 0;
         }
-
-        // Call immediately
+        
+        // Run immediately
         scrollToTop();
-
-        // Call on DOMContentLoaded
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', scrollToTop);
-        } else {
+        
+        // Run on DOMContentLoaded
+        document.addEventListener('DOMContentLoaded', scrollToTop);
+        
+        // Run on load
+        window.addEventListener('load', () => {
             scrollToTop();
-        }
-
-        // Call on window load
-        window.addEventListener('load', scrollToTop);
-
-        // Call after a brief delay to catch late scroll restoration
-        setTimeout(scrollToTop, 100);
-        setTimeout(scrollToTop, 250);
+            // iOS Safari sometimes needs a slight delay after load
+            setTimeout(scrollToTop, 50);
+            setTimeout(scrollToTop, 150);
+        });
+        
+        // Handle iOS Safari's address bar behavior
+        window.addEventListener('pageshow', (event) => {
+            if (event.persisted) {
+                // Page was restored from back/forward cache
+                scrollToTop();
+            }
+        });
 
         // Load events when page loads
         loadEvents();
