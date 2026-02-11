@@ -1,25 +1,5 @@
 [
   {
-    "title": "Shockproof/The Secret of The Whistler",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-10",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3186?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Sinners (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-10",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3157?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Man Who Laughs/Mad Love",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -364,16 +344,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-02-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-10-in-the-realm-of-the-senses-the-blood-spattered-bride/"
-  },
-  {
-    "title": "In the Realm of the Senses             /The Blood Spattered Bride",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-02-11",
     "time": "7:30 PM",
     "description": "",
@@ -620,26 +590,6 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Sweet 16mm: Sexual Edutainment",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "TCB – The Toni Cade Bambara School of Organizing",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3630999/"
-  },
-  {
     "title": "Messy",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -830,6 +780,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3627291/"
   },
   {
+    "title": "Come See Me in the Good Light",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-21",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3719683/"
+  },
+  {
     "title": "Soul",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -838,16 +798,6 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3627316/"
-  },
-  {
-    "title": "Come See Me in the Good Light",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3661496/"
   },
   {
     "title": "A Thousand and One",
