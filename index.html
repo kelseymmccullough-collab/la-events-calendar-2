@@ -71,7 +71,7 @@
                 radial-gradient(circle at 85% 80%, #555555 0%, transparent 40%),
                 linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #252525 100%);
             color: white;
-            padding: 50px 20px 45px;
+            padding: 65px 20px 60px;
             text-align: center;
             position: relative;
             overflow: hidden;
@@ -407,6 +407,11 @@
     color: white;
 }
 
+.event-venue-losfeliz {
+    background: linear-gradient(145deg, #1a8a8a 0%, #147373 50%, #0f5f5f 100%);
+    color: white;
+}
+
         .event-card-title {
             font-family: var(--font-body);
             font-weight: 500;
@@ -692,7 +697,7 @@
             }
             
             header {
-                padding: 40px 20px 35px;
+                padding: 52px 20px 46px;
             }
 
             .filters {
@@ -925,6 +930,7 @@
                     <option value="New Bev">New Beverly</option>
                     <option value="Vidiots">Vidiots</option>
                     <option value="Academy">Academy Museum</option>
+                    <option value="Los Feliz 3">American Cinematheque at Los Feliz 3</option>
                 </select>
             </div>
             
@@ -1152,6 +1158,7 @@ function convertTimeTo24Hour(timeString) {
                             else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
                             else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
                             else if (event.venueShort === 'Academy') venueClass = 'event-venue-academy';
+                            else if (event.venueShort === 'Los Feliz 3') venueClass = 'event-venue-losfeliz';
                             
                             const eventUrl = event.url || '#';
                             
@@ -1319,6 +1326,7 @@ function convertTimeTo24Hour(timeString) {
                                 else if (event.venueShort === 'New Bev') venueClass = 'event-venue-newbev';
                                 else if (event.venueShort === 'Vidiots') venueClass = 'event-venue-vidiots';
                                 else if (event.venueShort === 'Academy') venueClass = 'event-venue-academy';
+                                else if (event.venueShort === 'Los Feliz 3') venueClass = 'event-venue-losfeliz';
                                 
                                 const eventUrl = event.url || '#';
                                 
