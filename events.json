@@ -1,25 +1,5 @@
 [
   {
-    "title": "The Man Who Laughs/Mad Love",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-11",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3188?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Sinners (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-11",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3158?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Sinners (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -340,16 +320,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "In the Realm of the Senses             /The Blood Spattered Bride",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-11-in-the-realm-of-the-senses-the-blood-spattered-bride/"
-  },
-  {
     "title": "Pretty Maids All In A Row             /High School Girl",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -588,26 +558,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
-  },
-  {
-    "title": "Messy",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Heart Eyes",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3630995/"
   },
   {
     "title": "Howl’s Moving Castle (Japanese with English Subtitles)",
@@ -878,26 +828,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3658793/"
-  },
-  {
-    "title": "The Wizard of Oz in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-11",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Daughters of the Dust in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Wizard of Oz in 4K",
