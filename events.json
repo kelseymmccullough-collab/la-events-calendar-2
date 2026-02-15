@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-02-14",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3176?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3217?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Bell Book and Candle",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Play It Again, Sam",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3175?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "All That Heaven Allows",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-02-15",
     "time": "10:00 AM",
     "description": "",
@@ -310,26 +270,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Vixen! (Erica Gavin In Person)             /Up!",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-14-vixen-up/"
-  },
-  {
-    "title": "The Opening of Misty Beethoven (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-14-the-opening-of-misty-beethoven-midnight-show/"
-  },
-  {
     "title": "Vixen!             /Up!",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -518,36 +458,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
-  },
-  {
-    "title": "A Cat in Paris",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627255/"
-  },
-  {
-    "title": "The Lady from Shanghai",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627254/"
-  },
-  {
-    "title": "Black Orpheus",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627253/"
   },
   {
     "title": "Best in Show",
@@ -748,36 +658,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3719716/"
-  },
-  {
-    "title": "Star Wars: Episode VII – The Force Awakens in Dolby Vision",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Ponyo in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Retro Romantics: An Academy Film Archive Trailer Show in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Hunt for Red October in 4K",
@@ -1050,46 +930,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "A Man And A Woman",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-man-and-a-woman-2-14-26/"
-  },
-  {
-    "title": "Querelle",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/querelle-2-14-26/"
-  },
-  {
-    "title": "The Love That Remains",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-love-that-remains-2-14-26/"
-  },
-  {
-    "title": "Beauty And The Beast",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beauty-and-the-beast-2-15-26/"
-  },
-  {
     "title": "Sophia De Mello Breyner Andresen Snow White",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1155,7 +995,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-17",
-    "time": "4:00 PM",
+    "time": "8:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/mr-nobody-against-putin-2-17-26/"
   },
@@ -1175,7 +1015,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-18",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/a-poet-2-18-26/"
   },
@@ -1185,7 +1025,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-18",
-    "time": "4:00 PM",
+    "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/trails-2-18-26/"
   },
