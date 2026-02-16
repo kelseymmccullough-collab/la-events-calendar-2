@@ -1,25 +1,5 @@
 [
   {
-    "title": "All That Heaven Allows",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3177?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3218?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Good Luck, Have Fun, Don't Die",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -270,16 +250,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Vixen!             /Up!",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-15-vixen-up/"
-  },
-  {
     "title": "The Defilers             /A Smell of Honey, a Swallow of Brine",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -458,16 +428,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
-  },
-  {
-    "title": "Best in Show",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627290/"
   },
   {
     "title": "Days of Being Wild",
@@ -658,26 +618,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3719716/"
-  },
-  {
-    "title": "The Hunt for Red October in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Love & Friendship: Hollywood Home Movies from the Academy Film Archive",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Sweeney Todd: The Demon Barber of Fleet Street in 4K",
@@ -930,36 +870,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Sophia De Mello Breyner Andresen Snow White",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/sophia-de-mello-breyner-andresen-snow-white-2-15-26/"
-  },
-  {
-    "title": "Mamma Mia",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/mamma-mia-2-15-26/"
-  },
-  {
-    "title": "A Night At The Roxbury",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-15",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-night-at-the-roxbury-2-15-26/"
-  },
-  {
     "title": "Cinematic Void Presents Mr Majestyk",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1035,7 +945,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-19",
-    "time": "4:00 PM",
+    "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/reflection-in-a-dead-diamond-2-19-26/"
   },
@@ -1045,7 +955,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-20",
-    "time": "4:00 PM",
+    "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/brief-encounter-2-20-26/"
   },
@@ -1055,7 +965,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-20",
-    "time": "4:00 PM",
+    "time": "3:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/a-poet-2-20-26/"
   },
@@ -1065,7 +975,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-20",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/fantastic-planet-2-20-26/"
   },
@@ -1075,7 +985,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-21",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-hips-of-j-w-2-21-26/"
   },
@@ -1085,7 +995,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-21",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/hit-man-2-21-26/"
   },
@@ -1095,7 +1005,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-21",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/barry-lyndon-2-21-26/"
   },
@@ -1105,7 +1015,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-21",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/under-the-silver-lake-2-21-26/"
   },
@@ -1115,7 +1025,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-22",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/kevin-and-matthew-mcmanus-present-cape-fear-2-22-26/"
   },
@@ -1125,7 +1035,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-22",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/toute-une-nuit-2-22-26/"
   },
@@ -1135,7 +1045,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-22",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/redux-redux-2-22-26/"
   },
@@ -1145,7 +1055,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-22",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/reflection-in-a-dead-diamond-2-22-26/"
   },
@@ -1155,7 +1065,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-23",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-brewster-mccloud-2-23-26/"
   },
@@ -1165,7 +1075,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-23",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/a-poet-2-23-26/"
   },
@@ -1195,7 +1105,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-25",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/a-man-2-25-26/"
   },
@@ -1205,7 +1115,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-25",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/reflection-in-a-dead-diamond-2-25-26/"
   },
@@ -1215,7 +1125,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-26",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-klute-2-26-26/"
   },
@@ -1225,7 +1135,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-27",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/safety-last-2-27-26/"
   },
@@ -1235,7 +1145,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-27",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/conversation-piece-2-27-26/"
   },
@@ -1245,7 +1155,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-27",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/a-body-to-live-in-2-27-26/"
   },
@@ -1255,7 +1165,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-28",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/brother-and-sister-2-28-26/"
   },
@@ -1265,7 +1175,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-28",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/come-and-go-2-28-26/"
   },
@@ -1275,7 +1185,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-02-28",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/clockstoppers-2-28-26/"
   },
@@ -1285,7 +1195,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-02",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-all-that-jazz-3-2-26/"
   },
@@ -1315,7 +1225,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-06",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/conversation-piece-3-6-26/"
   },
@@ -1325,7 +1235,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-07",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/avalanche-3-7-26/"
   },
@@ -1335,7 +1245,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-07",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/halloween-h20-20-years-later-3-7-26/"
   },
@@ -1345,7 +1255,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-09",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-grease-2-3-9-26/"
   },
@@ -1355,7 +1265,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-14",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/three-sisters-with-maiden-hearts-3-14-26/"
   },
@@ -1365,7 +1275,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-14",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/the-neon-demon-3-14-26/"
   },
@@ -1375,7 +1285,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-16",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-apple-3-16-26/"
   },
@@ -1385,7 +1295,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-21",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/the-thin-line-3-21-26/"
   },
@@ -1395,7 +1305,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-23",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-little-shop-of-horrors-3-23-26/"
   },
@@ -1405,7 +1315,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-28",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/a-wanderers-3-28-26/"
   },
@@ -1415,7 +1325,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-03-30",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-rocky-horror-picture-show-3-30-26/"
   },
@@ -1425,7 +1335,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-04-04",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/moment-of-terror-4-4-26/"
   },
@@ -1435,7 +1345,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-04-06",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-nightmare-beach-4-6-26/"
   },
@@ -1445,7 +1355,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-04-11",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/sudden-rain-4-11-26/"
   },
@@ -1455,7 +1365,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-04-13",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-miami-connection-4-13-26/"
   },
@@ -1465,7 +1375,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-04-25",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/sound-of-the-mountain-4-25-26/"
   },
@@ -1475,7 +1385,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-04-27",
-    "time": "4:00 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-spring-breakers-4-27-26/"
   }
