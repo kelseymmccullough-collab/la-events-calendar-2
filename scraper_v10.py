@@ -13,6 +13,62 @@ import json
 import re
 import time
 
+
+def smart_title_case(text):
+    """Convert ALL CAPS text to title case while preserving mixed-case words.
+    
+    e.g., 'BARRY LYNDON' -> 'Barry Lyndon'
+          'Cinematic Void Presents ALL THAT JAZZ' -> 'Cinematic Void Presents All That Jazz'
+          'TWIN PEAKS: Season 1, Ep. 6' -> 'Twin Peaks: Season 1, Ep. 6'
+          'THE HIPS OF J.W.' -> 'The Hips of J.W.'
+    """
+    small_words = {'a', 'an', 'the', 'and', 'but', 'or', 'for', 'nor',
+                   'of', 'in', 'on', 'at', 'by', 'to', 'vs', 'vs.'}
+    
+    words = text.split()
+    result = []
+    capitalize_next = False
+    for i, word in enumerate(words):
+        # Preserve words that are already mixed case (e.g., "Season", "Ep.")
+        if not word.isupper():
+            # Check if this word triggers capitalization of the next word (e.g., "Presents")
+            if word.lower() in ('presents', 'present'):
+                capitalize_next = True
+            result.append(word)
+            continue
+        
+        # Preserve abbreviations like "J.W.", "H20", "4K", "TV"
+        if re.match(r'^[A-Z]\.([A-Z]\.?)+$', word):  # J.W., U.S.A.
+            result.append(word)
+            capitalize_next = False
+            continue
+        if re.match(r'^[A-Z0-9]{1,3}$', word) and any(c.isdigit() for c in word):  # H20, 4K
+            result.append(word)
+            capitalize_next = False
+            continue
+        
+        # Convert to title case
+        lower = word.lower()
+        if i == 0 or capitalize_next or lower not in small_words:
+            result.append(word.capitalize())
+        else:
+            result.append(lower)
+        
+        # Check if this word triggers capitalization of the next word
+        if lower in ('presents', 'present'):
+            capitalize_next = True
+        else:
+            capitalize_next = False
+    
+    # Always capitalize the last word
+    if result and result[-1][0].islower():
+        result[-1] = result[-1].capitalize()
+    
+    # Always capitalize after a colon
+    final = ' '.join(result)
+    final = re.sub(r':\s+([a-z])', lambda m: ': ' + m.group(1).upper(), final)
+    return final
+
 def setup_driver():
     """Set up Selenium Chrome driver with options to appear more human-like"""
     
@@ -657,9 +713,9 @@ def scrape_american_cinematheque():
             
             for card in event_cards:
                 try:
-                    # Extract title from span.eventTitle
+                    # Extract title from span.eventTitle and convert from ALL CAPS
                     title_el = card.find('span', class_='eventTitle')
-                    title = title_el.get_text(strip=True) if title_el else None
+                    title = smart_title_case(title_el.get_text(strip=True)) if title_el else None
                     
                     # Extract date from span.eventDate (e.g., "Sat, February 21, 2026")
                     date_el = card.find('span', class_='eventDate')
