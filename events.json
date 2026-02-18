@@ -4,16 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-02-17",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3226?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-02-18",
     "time": "12:00 PM",
     "description": "",
@@ -307,7 +297,7 @@
     "date": "2026-03-13",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3254?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary - 70mm Early Access",
@@ -328,16 +318,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Summer with Monika             /Inga",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-17-summer-with-monika-inga/"
   },
   {
     "title": "Summer with Monika             /Inga",
@@ -498,16 +478,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
-  },
-  {
-    "title": "Days of Being Wild",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3714337/"
   },
   {
     "title": "Sound of Falling",
@@ -720,7 +690,7 @@
     "url": "https://vidiotsfoundation.org/purchase/3633516/"
   },
   {
-    "title": "Apocalypse Now",
+    "title": "Apocalypse Now: The Final Cut",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
@@ -890,6 +860,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3774127/"
   },
   {
+    "title": "24 Hour Party People",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3778263/"
+  },
+  {
+    "title": "Waiting for Guffman",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3778140/"
+  },
+  {
     "title": "UHF",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -910,6 +900,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3774280/"
   },
   {
+    "title": "Belly",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3778323/"
+  },
+  {
     "title": "Blue Velvet",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -928,6 +928,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3774317/"
+  },
+  {
+    "title": "The 5 Minutes Game presented by The Museum of Home Video",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3778056/"
   },
   {
     "title": "Short Films Honoring the Day of Remembrance: Executive Order 9066",
@@ -1158,36 +1168,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Twin Peaks: Season 1, Ep. 6",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-17",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-6-2-17-26-630pm/"
-  },
-  {
-    "title": "Mr. Nobody Against Putin",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-17",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/mr-nobody-against-putin-2-17-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 1, Ep. 6",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-17",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-6-2-17-26-1030pm/"
   },
   {
     "title": "A Poet",
