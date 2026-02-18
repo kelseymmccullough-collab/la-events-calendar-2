@@ -1,23 +1,13 @@
 [
   {
-    "title": "Giant",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Good Luck, Have Fun, Don't Die",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-02-17",
-    "time": "3:30 PM",
+    "time": "7:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3221?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3226?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Good Luck, Have Fun, Don't Die",
@@ -60,6 +50,16 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-20",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3233?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Melody Time/The Sword in the Stone",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -88,6 +88,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3178?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-21",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3238?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Salesman/Glengarry Glen Ross",
@@ -120,6 +130,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3179?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-22",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3239?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-23",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3246?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Red River/To Have and Have Not",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -128,6 +158,16 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3203?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-24",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3248?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "I, Madman",
@@ -140,6 +180,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3205?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-25",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3250?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Good Luck, Have Fun, Don't Die",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-26",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3252?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Force of Evil/Body and Soul",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -148,6 +208,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3206?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Sinners (70mm)",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-27",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3299?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Thunder Road",
@@ -180,6 +250,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3182?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Sinners (70mm)",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-02-28",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3300?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Solaris",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -208,6 +288,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Sinners (70mm)",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-01",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3301?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary - 70mm Early Access",
@@ -457,7 +547,7 @@
     "date": "2026-02-22",
     "time": "3:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3661549/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Sound of Falling",
@@ -630,6 +720,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3633516/"
   },
   {
+    "title": "Apocalypse Now",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3774427/"
+  },
+  {
     "title": "Secrets & Lies",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -798,6 +898,36 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3719716/"
+  },
+  {
+    "title": "The Gleaners and I",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3774280/"
+  },
+  {
+    "title": "Blue Velvet",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3774316/"
+  },
+  {
+    "title": "Zardoz",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3774317/"
   },
   {
     "title": "Short Films Honoring the Day of Remembrance: Executive Order 9066",
@@ -1310,7 +1440,7 @@
     "url": "https://www.americancinematheque.com/now-showing/conversation-piece-2-27-26/"
   },
   {
-    "title": "A Body to Live in",
+    "title": "A Body to Live In",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -1440,7 +1570,7 @@
     "url": "https://dock.americancinematheque.com/now-showing/the-neon-demon-3-14-26/"
   },
   {
-    "title": "Cinematic Void Presents the Apple",
+    "title": "Cinematic Void Presents The Apple",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -1480,7 +1610,7 @@
     "url": "https://www.americancinematheque.com/now-showing/a-wanderers-3-28-26/"
   },
   {
-    "title": "Cinematic Void Presents the Rocky Horror Picture Show",
+    "title": "Cinematic Void Presents The Rocky Horror Picture Show",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
