@@ -1,35 +1,5 @@
 [
   {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-20",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3233?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Melody Time/The Sword in the Stone",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Bride of Frankenstein",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-20",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3210?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Fast Company",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -177,7 +147,7 @@
     "date": "2026-02-27",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3208?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Little Shop of Horrors",
@@ -267,7 +237,7 @@
     "date": "2026-03-14",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3255?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary - 70mm Early Access",
@@ -278,26 +248,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Arabian Nights",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-20-arabian-nights/"
-  },
-  {
-    "title": "Once Upon A Time In… Hollywood",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-20",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-20-once-upon-a-time-in-hollywood-midnight/"
   },
   {
     "title": "Sodom and Gomorrah: The Last Seven Days (Adults Only)             /The Autobiography of a Flea (Adults Only)",
@@ -420,106 +370,6 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Come See Me in the Good Light",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3719683/"
-  },
-  {
-    "title": "Come See Me in the Good Light",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3661496/"
-  },
-  {
-    "title": "Come See Me in the Good Light",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Come See Me in the Good Light",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3719684/"
-  },
-  {
-    "title": "Soul",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627316/"
-  },
-  {
-    "title": "A Thousand and One",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627317/"
-  },
-  {
-    "title": "Bring It On",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627318/"
-  },
-  {
-    "title": "Nadja",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3661500/"
-  },
-  {
-    "title": "Nadja",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3661547/"
-  },
-  {
-    "title": "District 9",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3627319/"
-  },
-  {
     "title": "Pinocchio",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -620,6 +470,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3755941/"
   },
   {
+    "title": "Redux Redux",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785261/"
+  },
+  {
     "title": "Seeds",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -710,7 +570,7 @@
     "url": "https://vidiotsfoundation.org/purchase/3774110/"
   },
   {
-    "title": "Law of Desire",
+    "title": "Law of Desire on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
@@ -738,6 +598,46 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3778140/"
+  },
+  {
+    "title": "Natchez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785426/"
+  },
+  {
+    "title": "Natchez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785431/"
+  },
+  {
+    "title": "Natchez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785429/"
+  },
+  {
+    "title": "Natchez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-08",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785433/"
   },
   {
     "title": "UHF",
@@ -810,6 +710,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3782086/"
   },
   {
+    "title": "THX 1138",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785332/"
+  },
+  {
+    "title": "All the Walls Came Down",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-10",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3778278/"
+  },
+  {
     "title": "Black Girl",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -838,6 +758,46 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3774280/"
+  },
+  {
+    "title": "Dreams",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785445/"
+  },
+  {
+    "title": "Dreams",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785446/"
+  },
+  {
+    "title": "Dreams",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "1:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785454/"
+  },
+  {
+    "title": "Dreams",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785453/"
   },
   {
     "title": "Belly",
@@ -1020,24 +980,14 @@
     "url": "https://vidiotsfoundation.org/purchase/3782690/"
   },
   {
-    "title": "Sweeney Todd: The Demon Barber of Fleet Street in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Love Streams",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-02-20",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Sunshine in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-20",
+    "date": "2026-03-31",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/3785358/"
   },
   {
     "title": "Star Wars: Episode VIII – The Last Jedi in Dolby Vision",
@@ -1228,36 +1178,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The New World",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-20",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-new-world-2-20-26/"
-  },
-  {
-    "title": "Fantastic Planet",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-20",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/fantastic-planet-2-20-26/"
-  },
-  {
-    "title": "The Hips of J.W.",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-hips-of-j-w-2-21-26/"
   },
   {
     "title": "Hit Man",
@@ -1500,6 +1420,16 @@
     "url": "https://www.americancinematheque.com/now-showing/clockstoppers-2-28-26/"
   },
   {
+    "title": "The Face of Another",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-01",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-face-of-another-3-1-26/"
+  },
+  {
     "title": "La Captive",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1518,6 +1448,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-all-that-jazz-3-2-26/"
+  },
+  {
+    "title": "Redux Redux",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-02",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/redux-redux-3-2-26/"
   },
   {
     "title": "Twin Peaks: Season 1, Ep. 8",
@@ -1547,7 +1487,7 @@
     "date": "2026-03-04",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/idiotka-3-4-26/"
+    "url": "https://www.americancinematheque.com/now-showing/idiotka-3-4-26/"
   },
   {
     "title": "Women Wednesday Night of Shorts Part 1",
@@ -1568,6 +1508,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-5-26/"
+  },
+  {
+    "title": "Idiotka",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-05",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/idiotka-3-5-26/"
+  },
+  {
+    "title": "La Folie Almayer",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/la-folie-almayer-3-6-26/"
   },
   {
     "title": "Paterson",
@@ -2068,5 +2028,15 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-19-26/"
+  },
+  {
+    "title": "Twin Peaks: Season 2, Ep. 19 & 20",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-21",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-21-26/"
   }
 ]
