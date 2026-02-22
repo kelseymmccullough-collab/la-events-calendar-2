@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-02-21",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3178?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3238?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Salesman/Glengarry Glen Ross",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Bride of Frankenstein",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3211?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Fast Company",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-02-22",
     "time": "10:00 AM",
     "description": "",
@@ -250,26 +210,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Sodom and Gomorrah: The Last Seven Days (Adults Only)             /The Autobiography of a Flea (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-21-sodom-and-gomorrah-the-last-seven-days-the-autobiography-of-a-flea/"
-  },
-  {
-    "title": "The Fireworks Woman (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-21-the-fireworks-woman-midnight-show/"
-  },
-  {
     "title": "Through the Looking Glass (Adults Only)             /Bacchanale (Adults Only)             /Bonus SECRET Third Movie (Adults Only)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -370,26 +310,6 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Pinocchio",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "12:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3754761/"
-  },
-  {
-    "title": "I Am Not Your Negro",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3633516/"
-  },
-  {
     "title": "Apocalypse Now: The Final Cut",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -397,7 +317,7 @@
     "date": "2026-02-23",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3774427/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Secrets & Lies",
@@ -990,26 +910,6 @@
     "url": "https://vidiotsfoundation.org/purchase/3785358/"
   },
   {
-    "title": "Star Wars: Episode VIII – The Last Jedi in Dolby Vision",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Apollo 13 in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Sound of Metal",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1178,46 +1078,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Hit Man",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/hit-man-2-21-26/"
-  },
-  {
-    "title": "Barry Lyndon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/barry-lyndon-2-21-26/"
-  },
-  {
-    "title": "Under the Silver Lake",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/under-the-silver-lake-2-21-26/"
-  },
-  {
-    "title": "Kevin and Matthew McManus Present Cape Fear",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/kevin-and-matthew-mcmanus-present-cape-fear-2-22-26/"
   },
   {
     "title": "Toute Une Nuit",
