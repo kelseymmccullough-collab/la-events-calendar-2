@@ -1,25 +1,5 @@
 [
   {
-    "title": "Fast Company",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3179?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3239?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Good Luck, Have Fun, Don't Die",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -147,7 +127,7 @@
     "date": "2026-02-28",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3209?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Little Shop of Horrors",
@@ -208,16 +188,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Through the Looking Glass (Adults Only)             /Bacchanale (Adults Only)             /Bonus SECRET Third Movie (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-22-through-the-looking-glass-bacchanale-secret-third-movie/"
   },
   {
     "title": "The Girl From Starship Venus             /Flesh Gordon",
@@ -308,16 +278,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
-  },
-  {
-    "title": "Apocalypse Now: The Final Cut",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Secrets & Lies",
@@ -910,36 +870,6 @@
     "url": "https://vidiotsfoundation.org/purchase/3785358/"
   },
   {
-    "title": "Sound of Metal",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Contact in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Amores Perros in 4K with Alejandro G. Iñárritu",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Moulin Rouge!in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1078,36 +1008,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Toute Une Nuit",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/toute-une-nuit-2-22-26/"
-  },
-  {
-    "title": "Redux Redux",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/redux-redux-2-22-26/"
-  },
-  {
-    "title": "Reflection in a Dead Diamond",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-22",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/reflection-in-a-dead-diamond-2-22-26/"
   },
   {
     "title": "Cinematic Void Presents Brewster Mccloud",
