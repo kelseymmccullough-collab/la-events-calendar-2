@@ -1,15 +1,5 @@
 [
   {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-23",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3246?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Red River/To Have and Have Not",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -190,14 +180,144 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Girl From Starship Venus             /Flesh Gordon",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-02-23",
-    "time": "7:30 PM",
+    "date": "2026-03-20",
+    "time": "10:00 AM",
     "description": "",
-    "url": "https://thenewbev.com/program/february-23-the-girl-from-starship-venus-flesh-gordon/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3257?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-21",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3262?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-22",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3263?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-23",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3258?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-24",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3259?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-25",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3260?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-26",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3261?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3278?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3293?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3296?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-30",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3279?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-31",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3280?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3281?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Project Hail Mary 70mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Paranoia             /The Sweet Body of Deborah (IB Tech Print)",
@@ -278,16 +398,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
-  },
-  {
-    "title": "Secrets & Lies",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3631049/"
   },
   {
     "title": "Kisapmata (In the Wink of an Eye)",
@@ -520,6 +630,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3785433/"
   },
   {
+    "title": "Natchez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-11",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3802896/"
+  },
+  {
     "title": "UHF",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -548,6 +668,16 @@
     "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3779092/"
+  },
+  {
+    "title": "Point Break",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3779093/"
   },
   {
     "title": "Ravenous",
@@ -680,6 +810,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3785453/"
   },
   {
+    "title": "Dreams",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-18",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785466/"
+  },
+  {
     "title": "Belly",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -688,6 +828,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3778323/"
+  },
+  {
+    "title": "Jackass Number Two",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3778334/"
   },
   {
     "title": "Lemony Snicket’s A Series of Unfortunate Events",
@@ -710,6 +860,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3782200/"
   },
   {
+    "title": "A Mighty Wind on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3782204/"
+  },
+  {
     "title": "Obsessed",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -720,12 +880,22 @@
     "url": "https://vidiotsfoundation.org/purchase/3782186/"
   },
   {
+    "title": "Vidiots Presents: That Awards Show",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-15",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://my.onecause.com/event/organizations/e2a06904-94c6-4c3c-8961-963f363d7a45/events/vevt:c470194d-5d9b-4d7f-8094-8b8a235c6c75/home/story"
+  },
+  {
     "title": "Zama",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-03-16",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3782247/"
   },
@@ -810,6 +980,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3782047/"
   },
   {
+    "title": "Dora and the Lost City of Gold en Español",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-22",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3782020/"
+  },
+  {
     "title": "National Gallery",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -868,16 +1048,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3785358/"
-  },
-  {
-    "title": "Moulin Rouge!in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-02-23",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Don't Look Back",
@@ -1008,26 +1178,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Cinematic Void Presents Brewster Mccloud",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-brewster-mccloud-2-23-26/"
-  },
-  {
-    "title": "A Poet",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-23",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/a-poet-2-23-26/"
   },
   {
     "title": "Twin Peaks: Season 1, Ep. 7",
@@ -1167,7 +1317,7 @@
     "date": "2026-02-28",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/operation-taco-garys-2-28-26/"
+    "url": "https://www.americancinematheque.com/now-showing/operation-taco-garys-2-28-26/"
   },
   {
     "title": "Clockstoppers",
@@ -1190,6 +1340,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-face-of-another-3-1-26/"
   },
   {
+    "title": "Barry Lyndon",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-01",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/barry-lyndon-3-1-26/"
+  },
+  {
     "title": "La Captive",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1198,6 +1358,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/la-captive-3-1-26/"
+  },
+  {
+    "title": "Persona",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-01",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/persona-3-1-26/"
   },
   {
     "title": "Cinematic Void Presents All That Jazz",
