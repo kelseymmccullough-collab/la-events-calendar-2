@@ -1,25 +1,5 @@
 [
   {
-    "title": "Red River/To Have and Have Not",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3203?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-24",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3248?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "I, Madman",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -117,7 +97,7 @@
     "date": "2026-02-28",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3209?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Little Shop of Horrors",
@@ -324,16 +304,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-02-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-24-paranoia-the-sweet-body-of-deborah/"
-  },
-  {
-    "title": "Paranoia             /The Sweet Body of Deborah (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-02-25",
     "time": "7:30 PM",
     "description": "",
@@ -398,16 +368,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
-  },
-  {
-    "title": "Kisapmata (In the Wink of an Eye)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3631025/"
   },
   {
     "title": "Dope",
@@ -520,6 +480,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3754778/"
   },
   {
+    "title": "The Voice of Hind Rajab",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-02-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3754781/"
+  },
+  {
     "title": "Babe: Pig in the City",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -578,6 +548,56 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3778263/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785417/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785427/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785430/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785434/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3802895/"
   },
   {
     "title": "Waiting for Guffman",
@@ -870,6 +890,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3782204/"
   },
   {
+    "title": "Surreal 16mm from the Archives of Smokehouse Films",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785451/"
+  },
+  {
+    "title": "Surreal 16mm from the Archives of Smokehouse Films",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785452/"
+  },
+  {
     "title": "Obsessed",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1010,6 +1050,46 @@
     "url": "https://vidiotsfoundation.org/purchase/3778056/"
   },
   {
+    "title": "Pillion",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3749821/"
+  },
+  {
+    "title": "Pillion",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "7:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3749822/"
+  },
+  {
+    "title": "Pillion",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3806795/"
+  },
+  {
+    "title": "Pillion",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3806799/"
+  },
+  {
     "title": "The Muppets Take Manhattan",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1020,6 +1100,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3781988/"
   },
   {
+    "title": "Salaam Bombay!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3781987/"
+  },
+  {
     "title": "Spring Breakers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1028,6 +1118,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3781982/"
+  },
+  {
+    "title": "Ali: Fear Eats the Soul on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3782701/"
   },
   {
     "title": "Beaches",
@@ -1178,36 +1278,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Twin Peaks: Season 1, Ep. 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-24",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-7-2-24-26-630pm/"
-  },
-  {
-    "title": "Bitter Rice",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-24",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bitter-rice-2-24-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 1, Ep. 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-24",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-7-2-24-26-1030pm/"
   },
   {
     "title": "A Man",
@@ -1500,6 +1570,16 @@
     "url": "https://dock.americancinematheque.com/now-showing/halloween-h20-20-years-later-3-7-26/"
   },
   {
+    "title": "Rosanna Xia Presents Good Night, and Good Luck",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-08",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/rosanna-xia-presents-good-night-and-good-luck-3-8-26/"
+  },
+  {
     "title": "What Does That Nature Say to You",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1610,6 +1690,16 @@
     "url": "https://dock.americancinematheque.com/now-showing/the-neon-demon-3-14-26/"
   },
   {
+    "title": "Ivan the Terrible, Part I & Part Ii",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-15",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/ivan-the-terrible-part-i-and-part-ii-3-15-26/"
+  },
+  {
     "title": "Cinematic Void Presents The Apple",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1660,6 +1750,16 @@
     "url": "https://www.americancinematheque.com/now-showing/puddysticks-3-18-26/"
   },
   {
+    "title": "My Father's Shadow",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-19",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-19-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 2 & 3",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1688,6 +1788,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/the-thin-line-3-21-26/"
+  },
+  {
+    "title": "My Father's Shadow",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-22",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-22-26/"
   },
   {
     "title": "Cinematic Void Presents Little Shop of Horrors",
@@ -1728,6 +1838,16 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/women-wednesday-night-of-shorts-part-2-3-25-26/"
+  },
+  {
+    "title": "My Father's Shadow",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-27-26/"
   },
   {
     "title": "O Brother, Where Art Thou?",
