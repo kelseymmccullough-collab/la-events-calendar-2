@@ -1,25 +1,5 @@
 [
   {
-    "title": "Good Luck, Have Fun, Don't Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-26",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3252?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Force of Evil/Body and Soul",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-02-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3206?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Sinners (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -37,7 +17,7 @@
     "date": "2026-02-27",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3208?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Little Shop of Horrors",
@@ -77,7 +57,7 @@
     "date": "2026-02-28",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3209?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Little Shop of Horrors",
@@ -160,6 +140,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3319?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Wicker Man",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3333?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Playtime",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3337?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Django Unchained",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -168,6 +168,26 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3320?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Wicker Man",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3334?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Playtime",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-08",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3338?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Django Unchained",
@@ -230,6 +250,26 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Warriors",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3335?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Darby O'Gill and the Little People",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3339?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary - 70mm Early Access",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -240,6 +280,26 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Warriors",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3336?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Darby O'Gill and the Little People",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-15",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3340?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary - 70mm Early Access",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -247,7 +307,7 @@
     "date": "2026-03-15",
     "time": "4:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3256?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -330,6 +390,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3278?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Super Fly",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3341?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -338,6 +408,16 @@
     "time": "12:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3293?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Super Fly",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3342?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -390,16 +470,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Caligula: The Ultimate Cut (Special Guest)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-02-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/february-26-caligula-the-ultimate-cut/"
-  },
-  {
     "title": "Caligula: The Ultimate Cut",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -450,54 +520,384 @@
     "url": "https://thenewbev.com/program/march-1-deep-throat-hot-summer-in-the-city/"
   },
   {
-    "title": "Redux Redux",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-27",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3749534/"
-  },
-  {
-    "title": "Redux Redux",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3749533/"
-  },
-  {
-    "title": "Redux Redux",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-02-28",
-    "time": "7:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3754793/"
-  },
-  {
-    "title": "Redux Redux",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-01",
-    "time": "7:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3755941/"
-  },
-  {
-    "title": "Redux Redux",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "Alice in Wonderland (1976)             /Cinderella (1977)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
     "date": "2026-03-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-2-alice-in-wonderland-cinderella/"
+  },
+  {
+    "title": "Alice in Wonderland (1976)             /Cinderella (1977)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-3-alice-in-wonderland-cinderella/"
+  },
+  {
+    "title": "Lolita (1997)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-4-lolita/"
+  },
+  {
+    "title": "Lolita (1997)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-5-lolita/"
+  },
+  {
+    "title": "Faster, Pussycat! Kill! Kill!             /Motorpsycho",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-6-faster-pussycat-kill-kill-motorpsycho/"
+  },
+  {
+    "title": "True Romance",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-06",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-6-true-romance-midnight-show/"
+  },
+  {
+    "title": "Faster, Pussycat! Kill! Kill!             /Motorpsycho",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-7-faster-pussycat-kill-kill-motorpsycho/"
+  },
+  {
+    "title": "Misbehavin’ (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-7-misbehavin-midnight-show/"
+  },
+  {
+    "title": "Faster, Pussycat! Kill! Kill!             /Motorpsycho",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-08",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-8-faster-pussycat-kill-kill-motorpsycho/"
+  },
+  {
+    "title": "How Funny Can Sex Be?             /Sex With A Smile",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-9-how-funny-can-sex-be-sex-with-a-smile/"
+  },
+  {
+    "title": "Showgirls",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-10-showgirls/"
+  },
+  {
+    "title": "Showgirls",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-11-showgirls/"
+  },
+  {
+    "title": "Showgirls",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-12-showgirls/"
+  },
+  {
+    "title": "The Decameron",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-13-the-decameron/"
+  },
+  {
+    "title": "True Romance",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-13-true-romance-midnight-show/"
+  },
+  {
+    "title": "The Decameron",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-14-the-decameron/"
+  },
+  {
+    "title": "Expose Me, Lovely (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-14-expose-me-lovely-midnight-show/"
+  },
+  {
+    "title": "Forbidden Letters (Adults Only) + Second Feature",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-15",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-15-forbidden-letters/"
+  },
+  {
+    "title": "Venus in Furs             /Succubus",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-16-venus-in-furs-succubus/"
+  },
+  {
+    "title": "A Woman in Flames             /Belle de Jour",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-17-a-woman-in-flames-belle-de-jour/"
+  },
+  {
+    "title": "A Woman in Flames             /Belle de Jour",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-18-a-woman-in-flames-belle-de-jour/"
+  },
+  {
+    "title": "Fellini’s Casanova",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-19-fellinis-casanova/"
+  },
+  {
+    "title": "Fellini’s Casanova",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-20",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785261/"
+    "url": "https://thenewbev.com/program/march-20-fellinis-casanova/"
+  },
+  {
+    "title": "True Romance",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-20-true-romance-midnight-show/"
+  },
+  {
+    "title": "The Lickerish Quartet             /Therese and Isabelle",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-21",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-21-the-lickerish-quartet-therese-and-isabelle/"
+  },
+  {
+    "title": "Nights in Black Leather (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-21",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-21-nights-in-black-leather-midnight-show/"
+  },
+  {
+    "title": "The Lickerish Quartet             /Therese and Isabelle",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-22",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-22-the-lickerish-quartet-therese-and-isabelle/"
+  },
+  {
+    "title": "The Depraved             /Campus Swingers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-23-the-depraved-campus-swingers/"
+  },
+  {
+    "title": "Henry & June",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-24-henry-june/"
+  },
+  {
+    "title": "Henry & June",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-25-henry-june/"
+  },
+  {
+    "title": "Amuck!             /Slaughter Hotel",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-26-amuck-slaughter-hotel/"
+  },
+  {
+    "title": "Amuck!             /Slaughter Hotel",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-27-amuck-slaughter-hotel/"
+  },
+  {
+    "title": "True Romance",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-27-true-romance-midnight-show/"
+  },
+  {
+    "title": "The Hot Box             /Terminal Island",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-28-the-hot-box-terminal-island/"
+  },
+  {
+    "title": "Behind the Green Door (Adults Only)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-28-behind-the-green-door-midnight-show/"
+  },
+  {
+    "title": "The Hot Box             /Terminal Island",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-29-the-hot-box-terminal-island/"
+  },
+  {
+    "title": "Last Tango in Paris",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-30",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-30-last-tango-in-paris/"
+  },
+  {
+    "title": "Last Tango in Paris",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-03-31",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
     "title": "Seeds",
@@ -1180,6 +1580,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3781987/"
   },
   {
+    "title": "Thank You for Smoking",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3781983/"
+  },
+  {
     "title": "Spring Breakers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1290,6 +1700,16 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
+    "title": "The English Patient in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-03-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
     "title": "98th Oscars Documentary Feature Winner",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1340,803 +1760,933 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Greg Proops Film Club Presents Klute",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-klute-2-26-26/"
-  },
-  {
-    "title": "The Secret Agent",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-26",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-secret-agent-2-26-26/"
-  },
-  {
-    "title": "Safety Last!",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-27",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/safety-last-2-27-26/"
-  },
-  {
-    "title": "Conversation Piece",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-27",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/conversation-piece-2-27-26/"
-  },
-  {
-    "title": "A Body to Live In",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/a-body-to-live-in-2-27-26/"
-  },
-  {
-    "title": "Blow—up",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-27",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/blow-up-2-27-26/"
-  },
-  {
-    "title": "Brother and Sister",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-28",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/brother-and-sister-2-28-26/"
-  },
-  {
-    "title": "Come and Go",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-28",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/come-and-go-2-28-26/"
-  },
-  {
-    "title": "Operation Taco Gary's",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/operation-taco-garys-2-28-26/"
-  },
-  {
-    "title": "Clockstoppers",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-02-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/clockstoppers-2-28-26/"
-  },
-  {
-    "title": "The Face of Another",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-01",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-face-of-another-3-1-26/"
-  },
-  {
-    "title": "Barry Lyndon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-01",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/barry-lyndon-3-1-26/"
-  },
-  {
-    "title": "La Captive",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/la-captive-3-1-26/"
-  },
-  {
-    "title": "Persona",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-01",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/persona-3-1-26/"
-  },
-  {
-    "title": "Cinematic Void Presents All That Jazz",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-all-that-jazz-3-2-26/"
-  },
-  {
-    "title": "Redux Redux",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-02",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/redux-redux-3-2-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 1, Ep. 8",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-8-3-3-26-630pm/"
-  },
-  {
-    "title": "Twin Peaks: Season 1, Ep. 8",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-8-3-3-26-1030pm/"
-  },
-  {
-    "title": "Idiotka",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/idiotka-3-4-26/"
-  },
-  {
-    "title": "Women Wednesday Night of Shorts Part 1",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-04",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/women-wednesday-night-of-shorts-part-1-3-4-26/"
-  },
-  {
-    "title": "What Does That Nature Say to You",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-5-26/"
-  },
-  {
-    "title": "Idiotka",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/idiotka-3-5-26/"
-  },
-  {
-    "title": "La Folie Almayer",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/la-folie-almayer-3-6-26/"
-  },
-  {
-    "title": "Paterson",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/paterson-3-6-26/"
-  },
-  {
-    "title": "Conversation Piece",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/conversation-piece-3-6-26/"
-  },
-  {
-    "title": "Avalanche",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/avalanche-3-7-26/"
-  },
-  {
-    "title": "Halloween H20: 20 Years Later",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/halloween-h20-20-years-later-3-7-26/"
-  },
-  {
-    "title": "Rosanna Xia Presents Good Night, and Good Luck",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/rosanna-xia-presents-good-night-and-good-luck-3-8-26/"
-  },
-  {
-    "title": "What Does That Nature Say to You",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-8-26/"
-  },
-  {
-    "title": "Beowulf",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beowulf-3-8-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Grease 2",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-09",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-grease-2-3-9-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 1",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-1-3-10-26/"
-  },
-  {
-    "title": "I Live Here Now in 35mm",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/i-live-here-now-in-35mm-3-11-26/"
-  },
-  {
-    "title": "Slanted",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/slanted-3-11-26/"
-  },
-  {
-    "title": "Bright Star",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/bright-star-3-12-26/"
-  },
-  {
-    "title": "What Does That Nature Say to You",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-12-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 1",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-13",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-1-3-13-26/"
-  },
-  {
-    "title": "Three Sisters With Maiden Hearts",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-14",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/three-sisters-with-maiden-hearts-3-14-26/"
-  },
-  {
-    "title": "The Neon Demon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-neon-demon-3-14-26/"
-  },
-  {
-    "title": "Ivan the Terrible, Part I & Part Ii",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-15",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/ivan-the-terrible-part-i-and-part-ii-3-15-26/"
-  },
-  {
-    "title": "Cinematic Void Presents The Apple",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-apple-3-16-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 2 & 3",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-2-3-3-17-26/"
-  },
-  {
-    "title": "Dinner for Schmucks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dinner-for-schmucks-3-17-26/"
-  },
-  {
-    "title": "Reeling",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/reeling-3-18-26/"
-  },
-  {
-    "title": "Puddysticks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/puddysticks-3-18-26/"
-  },
-  {
-    "title": "My Father's Shadow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-19-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 2 & 3",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-19",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-2-3-3-19-26/"
-  },
-  {
-    "title": "Poetic Justice",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/poetic-justice-3-20-26/"
-  },
-  {
-    "title": "The Thin Line",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-thin-line-3-21-26/"
-  },
-  {
-    "title": "My Father's Shadow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-22-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Little Shop of Horrors",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The 400 Blows in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-03-23",
-    "time": "7:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-little-shop-of-horrors-3-23-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 4 & 5",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-24",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-4-5-3-24-26/"
-  },
-  {
-    "title": "Bunnylovr",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The 400 Blows in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-03-25",
-    "time": "7:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bunnylovr-3-25-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Women Wednesday Night of Shorts Part 2",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Raging Bull in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-03-25",
-    "time": "9:30 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/women-wednesday-night-of-shorts-part-2-3-25-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "My Father's Shadow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Year of the Cannibals (I cannibali)in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-03-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The 400 Blows in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-03-27",
-    "time": "4:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-27-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "O Brother, Where Art Thou?",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Gunvor Nelson Tribute II: Moons Pool",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-03-27",
-    "time": "10:00 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/o-brother-where-art-thou-3-27-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "A Wanderer's Notebook",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "My Neighbor Totoro",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-03-28",
-    "time": "1:00 PM",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-wanderers-3-28-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents The Rocky Horror Picture Show",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "From Russia With Love in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-30",
-    "time": "7:00 PM",
+    "date": "2026-03-28",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-rocky-horror-picture-show-3-30-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 4 & 5",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Seven Samurai (Shichinin no samura) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-30",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-4-5-3-30-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-31",
+    "date": "2026-03-28",
     "time": "6:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-3-31-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Marty in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Rashomon in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Psycho",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-03-30",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Welcome II the Terrordomewith Ashley Clark",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-03-30",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Psycho",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "My Fair Lady in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Psycho",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-03",
-    "time": "10:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-4-3-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Moment of Terror",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Ikiru (To Live)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Lupin the 3rd: The Castle of Cagliostro",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-04",
-    "time": "1:00 PM",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/moment-of-terror-4-4-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Nightmare Beach",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Follow That Birdwith director Ken Kwapis",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Lower Depths",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "To Kill a Mockingbird in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Birthday Party in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Sanshiro SugatawithSanshiro Sugata Part II",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Housemaid",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-06",
-    "time": "7:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-nightmare-beach-4-6-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 8 & 9",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Housemaid",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-04-07",
-    "time": "7:00 PM",
+    "date": "2026-04-08",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-7-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 8 & 9",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Fight Club in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Most Beautiful",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "No Regrets for Our Youth(Waga seishun ni kui nashi) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-09",
-    "time": "10:00 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-9-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Sudden Rain",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Housemaid",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Stray Dog(Nora inu) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Spirited Away",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-11",
-    "time": "1:00 PM",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/sudden-rain-4-11-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Miami Connection",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Most Beautiful(Ichiban utsukushiku) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Zodiacwith David Fincher and Bong Joon Ho",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Alfie in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Men Who Tread on the Tiger’s Tail (Tora no o o wo fumu otokotachi)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Quiet Duel(Shizukanaru ketto) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Mickey 17with Bong Joon Ho",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Rocco and His Brothers in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-13",
-    "time": "7:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-miami-connection-4-13-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 10 & 11",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Rocco and His Brothers in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-04-14",
-    "time": "7:00 PM",
+    "date": "2026-04-15",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-14-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 10 & 11",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "'Round Midnight in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Scandal (Skyandaru)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-15",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Rocco and His Brothers in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Idiot(Hakuchi) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "I Live in Fear(Ikimono no kiroku) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Midnight Cowboy in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Dreams",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Lower Depths(Donzoko) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Servant in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-20",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Servant in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-22",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Warriors",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Hidden Fortress(Kakushi toride no san-akunin) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Servant in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-24",
-    "time": "10:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-24-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Sound of the Mountain",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Yojimbo (Yojinbo)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Wind Rises",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-25",
-    "time": "1:00 PM",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/sound-of-the-mountain-4-25-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Spring Breakers",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "A Man for All Seasons in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Bad Sleep Well(Warui yatsu hodo yoku nemuru) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Ordinary People in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Janie Geiser’sTime, a substance",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Marathon Man in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-04-27",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Dodes’ka-den in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Marathon Man in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-29",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "La La Land in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-04-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Marathon Man in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-01",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Taking of Pelham One Two Three in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "High and Low (Tengoku to jigoku)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-02",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-spring-breakers-4-27-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 12, 13 & 14",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Tootsie in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-04-28",
+    "date": "2026-05-03",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Hireling in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Sanjuro in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Star Wars: Episode V – The Empire Strikes Backwith Billy Dee Williams",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-03",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-12-13-14-4-28-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 12, 13 & 14",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Seven in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-04-30",
-    "time": "10:00 PM",
+    "date": "2026-05-06",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-12-13-14-4-30-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 15 & 16",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Red Beard(Akahige) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-05",
+    "date": "2026-05-08",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-15-16-5-5-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 15 & 16",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Ponyo",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-07",
-    "time": "10:00 PM",
+    "date": "2026-05-09",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-15-16-5-7-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 17 & 18",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Terms of Endearment in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-12",
-    "time": "7:00 PM",
+    "date": "2026-05-10",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-17-18-5-12-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 17 & 18",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Wages of Fear in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Wages of Fear in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-13",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "An Evening of Short Films from Asian American Filmmakers",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Night and the City in 35mm nitrate",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-05-14",
-    "time": "10:00 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-17-18-5-14-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 19 & 20",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Wages of Fear in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-19",
-    "time": "7:00 PM",
+    "date": "2026-05-15",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-19-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 19 & 20",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "I Know Where I’m Going!",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Howl’s Moving Castle",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Robin and Marian in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Odd Man Out",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Secrets & Lies",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Black Sunday in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Pool of London",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Barton Fink in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-18",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Passionate Friends",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Barton Fink in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-20",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Being There in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Hidden Room(akaObsession)",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-05-21",
-    "time": "10:00 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-21-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 21 & 22",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Barton Fink in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-26",
-    "time": "7:00 PM",
+    "date": "2026-05-22",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-21-22-5-26-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Dersu Uzala in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   }
 ]
