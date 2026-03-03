@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Birds",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-02",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3311?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Wild Party/The Bride Wore Red",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -207,7 +197,7 @@
     "date": "2026-03-13",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3254?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Warriors",
@@ -360,6 +350,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3341?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Who Done It?",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3384?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -378,6 +378,16 @@
     "time": "11:59 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3342?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Who Done It?",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3385?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -428,16 +438,6 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Alice in Wonderland (1976)             /Cinderella (1977)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-2-alice-in-wonderland-cinderella/"
   },
   {
     "title": "Alice in Wonderland (1976)             /Cinderella (1977)",
@@ -847,7 +847,7 @@
     "date": "2026-03-06",
     "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785417/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -1147,7 +1147,7 @@
     "date": "2026-03-13",
     "time": "9:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3778334/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Lemony Snicket’s A Series of Unfortunate Events",
@@ -2490,26 +2490,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents All That Jazz",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-all-that-jazz-3-2-26/"
-  },
-  {
-    "title": "Redux Redux",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-02",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/redux-redux-3-2-26/"
-  },
-  {
     "title": "Twin Peaks: Season 1, Ep. 8",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2780,6 +2760,16 @@
     "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-12-26/"
   },
   {
+    "title": "Perfect Blue",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-13-26/"
+  },
+  {
     "title": "Queen Kelly",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2820,6 +2810,16 @@
     "url": "https://dock.americancinematheque.com/now-showing/three-sisters-with-maiden-hearts-3-14-26/"
   },
   {
+    "title": "Perfect Blue",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-14-26/"
+  },
+  {
     "title": "Tender Mercies",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2848,6 +2848,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/ivan-the-terrible-part-i-and-part-ii-3-15-26/"
+  },
+  {
+    "title": "Perfect Blue",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-15-26/"
   },
   {
     "title": "The Most Terrible Time in My Life",
@@ -2968,6 +2978,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/the-thin-line-3-21-26/"
+  },
+  {
+    "title": "Perfect Blue",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-21",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-21-26/"
   },
   {
     "title": "The Trap",
@@ -3290,6 +3310,16 @@
     "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-12-13-14-4-30-26/"
   },
   {
+    "title": "Cinematic Void Presents Shogun Assassin",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-shogun-assassin-5-4-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 15 & 16",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3308,6 +3338,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-15-16-5-7-26/"
+  },
+  {
+    "title": "Cinematic Void Presents The Mystery of Chess Boxing",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-mystery-of-chess-boxing-5-11-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 17 & 18",
@@ -3330,6 +3370,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-17-18-5-14-26/"
   },
   {
+    "title": "Cinematic Void Presents J.d.'s Revenge",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-18",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-jds-revenge-5-18-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 19 & 20",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3348,6 +3398,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-21-26/"
+  },
+  {
+    "title": "Cinematic Void Presents The Killer",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-killer-5-25-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 21 & 22",
