@@ -1,25 +1,5 @@
 [
   {
-    "title": "The Wild Party/The Bride Wore Red",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3353?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Birds",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3312?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Run of The Arrow",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -160,6 +140,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3322?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Face Behind The Mask/Murders in the Rue Morgue",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-10",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3360?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Django Unchained",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -168,6 +158,16 @@
     "time": "2:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3323?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Cactus Flower",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-11",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3362?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Django Unchained",
@@ -190,6 +190,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3325?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Dragnet Girl/The Only Son",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3363?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary - 70mm Early Access",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -198,6 +208,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Jason Goes to Hell: The Final Friday",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3365?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Warriors",
@@ -230,6 +250,16 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Night Moves/The Drowning Pool",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3366?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Warriors",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -260,6 +290,36 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Leprechaun 3",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-17",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3368?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "His Kind of Woman",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-18",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3369?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Phantom of Liberty/Discreet Charm of the Bourgeois",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3370?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -270,6 +330,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3257?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Silent Movie/Where's Poppa",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3372?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -278,6 +348,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3262?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Of Unknown Origin/Ben",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3374?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -310,6 +390,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3259?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Brute Force/Criss-Cross",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-24",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3376?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -318,6 +408,16 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3260?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Caine Mutiny",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-25",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3378?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -330,6 +430,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3261?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Snow Woman/The Haunted Castle",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3379?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -338,6 +448,16 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3278?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Rio Bravo",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Super Fly",
@@ -368,6 +488,16 @@
     "time": "12:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3293?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Wizards/The Time Masters",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Super Fly",
@@ -438,16 +568,6 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Alice in Wonderland (1976)             /Cinderella (1977)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-3-alice-in-wonderland-cinderella/"
   },
   {
     "title": "Lolita (1997)",
@@ -810,16 +930,6 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Law of Desire on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-04",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3774127/"
-  },
-  {
     "title": "24 Hour Party People",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -857,7 +967,7 @@
     "date": "2026-03-06",
     "time": "10:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785427/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -877,7 +987,7 @@
     "date": "2026-03-08",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785434/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -888,6 +998,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3802895/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-12",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3802928/"
   },
   {
     "title": "Waiting for Guffman",
@@ -1220,6 +1340,26 @@
     "url": "https://my.onecause.com/event/organizations/e2a06904-94c6-4c3c-8961-963f363d7a45/events/vevt:c470194d-5d9b-4d7f-8094-8b8a235c6c75/home/story"
   },
   {
+    "title": "Didn’t Die",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-16",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831569/"
+  },
+  {
+    "title": "Didn’t Die",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831570/"
+  },
+  {
     "title": "Zama",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1248,6 +1388,46 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3782347/"
+  },
+  {
+    "title": "A Useful Ghost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831603/"
+  },
+  {
+    "title": "A Useful Ghost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "7:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831604/"
+  },
+  {
+    "title": "A Useful Ghost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-23",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831605/"
+  },
+  {
+    "title": "A Useful Ghost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831616/"
   },
   {
     "title": "Blue Velvet",
@@ -1680,7 +1860,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Welcome II the Terrordomewith Ashley Clark",
+    "title": "Welcome II the Terrordomewith Ashley Clark and Ngozi Onwurah",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2490,36 +2670,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 1, Ep. 8",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-8-3-3-26-630pm/"
-  },
-  {
-    "title": "Beauty and the Beast",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/beauty-and-the-beast-3-3-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 1, Ep. 8",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-03",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-1-ep-8-3-3-26-1030pm/"
-  },
-  {
     "title": "Idiotka",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3058,6 +3208,16 @@
     "time": "6:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-4-5-3-24-26/"
+  },
+  {
+    "title": "The Trial",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-24",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-trial-3-24-26/"
   },
   {
     "title": "Bunnylovr",
