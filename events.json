@@ -1,25 +1,5 @@
 [
   {
-    "title": "Run of The Arrow",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-04",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3355?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Birds",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-04",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3313?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Birds",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -574,16 +554,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-04",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-4-lolita/"
-  },
-  {
-    "title": "Lolita (1997)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-05",
     "time": "7:30 PM",
     "description": "",
@@ -928,16 +898,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
-  },
-  {
-    "title": "24 Hour Party People",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3778263/"
   },
   {
     "title": "Kisapmata (In the Wink of an Eye)",
@@ -1360,16 +1320,6 @@
     "url": "https://vidiotsfoundation.org/purchase/3831570/"
   },
   {
-    "title": "Zama",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782247/"
-  },
-  {
     "title": "Seven Beauties",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1540,6 +1490,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3778056/"
   },
   {
+    "title": "Titmouse Presents: 5 Second Day… Night!!!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://5secondday-la-2026.eventbrite.com"
+  },
+  {
+    "title": "Titmouse Presents: 5 Second Day… Night!!!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-26",
+    "time": "9:00 PM",
+    "description": "",
+    "url": "https://5secondday-la-2026.eventbrite.com"
+  },
+  {
     "title": "Pillion",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1648,6 +1618,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3785358/"
+  },
+  {
+    "title": "The Serpent’s Skin",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3833924/"
   },
   {
     "title": "Animated Short Film",
@@ -2670,26 +2650,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Idiotka",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/idiotka-3-4-26/"
-  },
-  {
-    "title": "Women Wednesday Night of Shorts Part 1",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-04",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/women-wednesday-night-of-shorts-part-1-3-4-26/"
-  },
-  {
     "title": "What Does That Nature Say to You",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3278,6 +3238,26 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/a-wanderers-3-28-26/"
+  },
+  {
+    "title": "What Do We See When We Look at the Sky?",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/what-do-we-see-when-we-look-at-the-sky-3-28-26/"
+  },
+  {
+    "title": "Alexandre Koberidze Presents The Day He Arrives",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/alexandre-koberidze-presents-the-day-he-arrives-3-29-26/"
   },
   {
     "title": "Cinematic Void Presents The Rocky Horror Picture Show",
