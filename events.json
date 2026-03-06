@@ -1,25 +1,5 @@
 [
   {
-    "title": "The Birds",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3314?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Celine and Julie Go Boating",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3356?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Django Unchained",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -550,16 +530,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Lolita (1997)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-5-lolita/"
-  },
-  {
     "title": "Faster, Pussycat! Kill! Kill!             /Motorpsycho",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -690,14 +660,14 @@
     "url": "https://thenewbev.com/program/march-14-expose-me-lovely-midnight-show/"
   },
   {
-    "title": "Forbidden Letters (Adults Only) + Second Feature",
+    "title": "Forbidden Letters (Adults Only)             /The Night Before (1973)(Adults Only)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
     "date": "2026-03-15",
     "time": "6:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/march-15-forbidden-letters/"
+    "url": "https://thenewbev.com/program/march-15-forbidden-letters-the-night-before/"
   },
   {
     "title": "Venus in Furs             /Succubus",
@@ -900,146 +870,6 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Kisapmata (In the Wink of an Eye)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785416/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785430/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3802895/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3802928/"
-  },
-  {
-    "title": "Waiting for Guffman",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785426/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785431/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785429/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785433/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3802896/"
-  },
-  {
-    "title": "UHF",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3719716/"
-  },
-  {
     "title": "Race for Your Life, Charlie Brown",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1067,7 +897,7 @@
     "date": "2026-03-07",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3779093/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Ravenous",
@@ -1550,6 +1380,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3806799/"
   },
   {
+    "title": "Onibaba",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3806818/"
+  },
+  {
     "title": "The Muppets Take Manhattan",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1627,7 +1467,7 @@
     "date": "2026-04-04",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3833924/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Animated Short Film",
@@ -2650,36 +2490,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "What Does That Nature Say to You",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-5-26/"
-  },
-  {
-    "title": "Idiotka",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-05",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/idiotka-3-5-26/"
-  },
-  {
-    "title": "Baby Face",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/baby-face-3-6-26/"
-  },
-  {
     "title": "La Folie Almayer",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2960,6 +2770,16 @@
     "url": "https://www.americancinematheque.com/now-showing/ivan-the-terrible-part-i-and-part-ii-3-15-26/"
   },
   {
+    "title": "Can She Bake a Cherry Pie?",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-15",
+    "time": "5:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/can-she-bake-a-cherry-pie-3-15-26/"
+  },
+  {
     "title": "Perfect Blue",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2990,6 +2810,16 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-apple-3-16-26/"
   },
   {
+    "title": "A Body to Live In",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-16",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/a-body-to-live-in-3-16-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 2 & 3",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3008,6 +2838,16 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/dinner-for-schmucks-3-17-26/"
+  },
+  {
+    "title": "Harold and Maude",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-17",
+    "time": "10:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/harold-and-maude-3-17-26/"
   },
   {
     "title": "Reeling",
@@ -3110,6 +2950,16 @@
     "url": "https://dock.americancinematheque.com/now-showing/the-trap-3-21-26/"
   },
   {
+    "title": "Jim Cummings Presents Seduced and Abandoned",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-22",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/jim-cummings-presents-seduced-and-abandoned-3-22-26/"
+  },
+  {
     "title": "Widows",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3200,6 +3050,16 @@
     "url": "https://www.americancinematheque.com/now-showing/women-wednesday-night-of-shorts-part-2-3-25-26/"
   },
   {
+    "title": "Night of the Living Dead",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/night-of-the-living-dead-3-26-26/"
+  },
+  {
     "title": "Moments in a Stolen Dream",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3218,6 +3078,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-27-26/"
+  },
+  {
+    "title": "Touch Me",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/touch-me-3-27-26/"
   },
   {
     "title": "O Brother, Where Art Thou?",
@@ -3258,6 +3128,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/alexandre-koberidze-presents-the-day-he-arrives-3-29-26/"
+  },
+  {
+    "title": "The Greg Proops Film Club Presents Bullitt",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-bullitt-3-29-26/"
   },
   {
     "title": "Cinematic Void Presents The Rocky Horror Picture Show",
@@ -3330,6 +3210,16 @@
     "url": "https://dock.americancinematheque.com/now-showing/the-paper-4-4-26/"
   },
   {
+    "title": "Proof 2025 Award Winners Showcase",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/proof-2025-award-winners-showcase-4-4-26/"
+  },
+  {
     "title": "The Plea",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3378,6 +3268,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/sudden-rain-4-11-26/"
+  },
+  {
+    "title": "Beetlejuice",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://dock.americancinematheque.com/now-showing/beetlejuice-4-11-26/"
   },
   {
     "title": "Cinematic Void Presents Miami Connection",
