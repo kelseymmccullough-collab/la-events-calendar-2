@@ -1,35 +1,5 @@
 [
   {
-    "title": "Django Unchained",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3319?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Wicked Wicked/Peeping Tom",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3357?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Wicker Man",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3333?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Playtime",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -177,7 +147,7 @@
     "date": "2026-03-13",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3365?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Warriors",
@@ -534,26 +504,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-06",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-6-faster-pussycat-kill-kill-motorpsycho/"
-  },
-  {
-    "title": "True Romance",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-6-true-romance-midnight-show/"
-  },
-  {
-    "title": "Faster, Pussycat! Kill! Kill!             /Motorpsycho",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-07",
     "time": "6:30 PM",
     "description": "",
@@ -870,44 +820,84 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Race for Your Life, Charlie Brown",
+    "title": "Natchez",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-03-07",
-    "time": "1:30 PM",
+    "time": "1:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782090/"
+    "url": "https://vidiotsfoundation.org/purchase/3785431/"
   },
   {
-    "title": "Grave of the Fireflies",
+    "title": "Natchez",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-03-07",
-    "time": "4:15 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3779092/"
+    "url": "https://vidiotsfoundation.org/purchase/3785429/"
   },
   {
-    "title": "Point Break",
+    "title": "Natchez",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-07",
+    "date": "2026-03-08",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3785433/"
+  },
+  {
+    "title": "Natchez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-11",
     "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3802896/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-07",
+    "time": "10:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
-    "title": "Ravenous",
+    "title": "Nirvanna the Band the Show the Movie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-07",
-    "time": "9:45 PM",
+    "date": "2026-03-08",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3779097/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3802895/"
+  },
+  {
+    "title": "Nirvanna the Band the Show the Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-12",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3802928/"
   },
   {
     "title": "The Gang’s All Here",
@@ -1150,6 +1140,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3831570/"
   },
   {
+    "title": "After Hours",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3782247/"
+  },
+  {
     "title": "Seven Beauties",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1380,6 +1380,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3806799/"
   },
   {
+    "title": "Defending Your Life",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3806804/"
+  },
+  {
     "title": "Onibaba",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1410,6 +1420,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3781987/"
   },
   {
+    "title": "Somersault",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-28",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3806794/"
+  },
+  {
+    "title": "Somersault",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3806798/"
+  },
+  {
     "title": "Thank You for Smoking",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1428,6 +1458,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3781982/"
+  },
+  {
+    "title": "Chitty Chitty Bang Bang",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3782702/"
   },
   {
     "title": "Ali: Fear Eats the Soul on 35mm",
@@ -1460,6 +1500,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3785358/"
   },
   {
+    "title": "Wattstax",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3832151/"
+  },
+  {
+    "title": "Jesus Christ Superstar",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3840888/"
+  },
+  {
     "title": "The Serpent’s Skin",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1468,6 +1528,56 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/coming-soon/"
+  },
+  {
+    "title": "The Serpent’s Skin",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3833925/"
+  },
+  {
+    "title": "Harvey",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3840918/"
+  },
+  {
+    "title": "RRR",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3840891/"
+  },
+  {
+    "title": "Gummo",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3841046/"
+  },
+  {
+    "title": "The Big Lebowski",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3840920/"
   },
   {
     "title": "Animated Short Film",
@@ -2488,46 +2598,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "La Folie Almayer",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/la-folie-almayer-3-6-26/"
-  },
-  {
-    "title": "Paterson",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/paterson-3-6-26/"
-  },
-  {
-    "title": "Conversation Piece",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-06",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/conversation-piece-3-6-26/"
-  },
-  {
-    "title": "Avalanche",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/avalanche-3-7-26/"
   },
   {
     "title": "The Apostle",
