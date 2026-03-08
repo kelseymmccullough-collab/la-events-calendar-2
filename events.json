@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-07",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3337?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Django Unchained",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3320?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Driver",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Wicker Man",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3334?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Playtime",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-08",
     "time": "10:00 AM",
     "description": "",
@@ -504,26 +464,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-07",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-7-faster-pussycat-kill-kill-motorpsycho/"
-  },
-  {
-    "title": "Misbehavin’ (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-7-misbehavin-midnight-show/"
-  },
-  {
-    "title": "Faster, Pussycat! Kill! Kill!             /Motorpsycho",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-08",
     "time": "6:30 PM",
     "description": "",
@@ -824,26 +764,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-07",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785431/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785429/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-03-08",
     "time": "4:30 PM",
     "description": "",
@@ -858,16 +778,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3802896/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -898,36 +808,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3802928/"
-  },
-  {
-    "title": "The Gang’s All Here",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782074/"
-  },
-  {
-    "title": "High School",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782070/"
-  },
-  {
-    "title": "Chico & Rita",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782086/"
   },
   {
     "title": "THX 1138",
@@ -1578,16 +1458,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3840920/"
-  },
-  {
-    "title": "Animated Short Film",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Documentary Short Film",
@@ -2598,46 +2468,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Apostle",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-apostle-3-7-26/"
-  },
-  {
-    "title": "Batch '81",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/batch-81-3-7-26/"
-  },
-  {
-    "title": "Halloween H20: 20 Years Later",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/halloween-h20-20-years-later-3-7-26/"
-  },
-  {
-    "title": "Rosanna Xia Presents Good Night, and Good Luck",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/rosanna-xia-presents-good-night-and-good-luck-3-8-26/"
   },
   {
     "title": "Queen Kelly",
