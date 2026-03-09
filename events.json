@@ -1,25 +1,5 @@
 [
   {
-    "title": "Playtime",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3338?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Django Unchained",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3321?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Django Unchained",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -460,16 +440,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Faster, Pussycat! Kill! Kill!             /Motorpsycho",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-8-faster-pussycat-kill-kill-motorpsycho/"
-  },
-  {
     "title": "How Funny Can Sex Be?             /Sex With A Smile",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -760,34 +730,14 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Natchez",
+    "title": "All the Walls Came Down",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-08",
-    "time": "4:30 PM",
+    "date": "2026-03-10",
+    "time": "6:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785433/"
-  },
-  {
-    "title": "Natchez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3802896/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
+    "url": "https://vidiotsfoundation.org/purchase/3778278/"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -797,7 +747,7 @@
     "date": "2026-03-10",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3802895/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -810,26 +760,6 @@
     "url": "https://vidiotsfoundation.org/purchase/3802928/"
   },
   {
-    "title": "THX 1138",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-09",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785332/"
-  },
-  {
-    "title": "All the Walls Came Down",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-10",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3778278/"
-  },
-  {
     "title": "Black Girl",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -838,6 +768,16 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3778279/"
+  },
+  {
+    "title": "Natchez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-11",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3802896/"
   },
   {
     "title": "Bright Star",
@@ -1458,16 +1398,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3840920/"
-  },
-  {
-    "title": "Documentary Short Film",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Live Action Short Film",
@@ -2468,36 +2398,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Queen Kelly",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/queen-kelly-3-8-26/"
-  },
-  {
-    "title": "What Does That Nature Say to You",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-8-26/"
-  },
-  {
-    "title": "Beowulf",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-08",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beowulf-3-8-26/"
   },
   {
     "title": "Cinematic Void Presents Grease 2",
