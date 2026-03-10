@@ -1,15 +1,5 @@
 [
   {
-    "title": "Django Unchained",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-09",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3322?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Face Behind The Mask/Murders in the Rue Morgue",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -440,16 +430,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "How Funny Can Sex Be?             /Sex With A Smile",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-09",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-9-how-funny-can-sex-be-sex-with-a-smile/"
-  },
-  {
     "title": "Showgirls",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -730,16 +710,6 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "All the Walls Came Down",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-10",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3778278/"
-  },
-  {
     "title": "Nirvanna the Band the Show the Movie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -757,17 +727,17 @@
     "date": "2026-03-12",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3802928/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
-    "title": "Black Girl",
+    "title": "Nirvanna the Band the Show the Movie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-10",
-    "time": "8:00 PM",
+    "date": "2026-03-14",
+    "time": "4:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3778279/"
+    "url": "https://vidiotsfoundation.org/purchase/3785453/"
   },
   {
     "title": "Natchez",
@@ -828,16 +798,6 @@
     "time": "1:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3785454/"
-  },
-  {
-    "title": "Dreams",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-14",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785453/"
   },
   {
     "title": "Dreams",
@@ -968,6 +928,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3782247/"
+  },
+  {
+    "title": "Leprechaun in the Hood",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3857632/"
   },
   {
     "title": "Seven Beauties",
@@ -1398,16 +1368,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3840920/"
-  },
-  {
-    "title": "Live Action Short Film",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-09",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The English Patient in 35mm",
@@ -1920,7 +1880,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Dreams",
+    "title": "One Wonderful Sunday(Subarashiki nichiyobi) in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2400,873 +2360,73 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Grease 2",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Kiki’s Delivery Service",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-09",
-    "time": "7:00 PM",
+    "date": "2026-05-23",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-grease-2-3-9-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Will Your Heart Beat Faster?",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Yellow Balloon",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-09",
-    "time": "10:00 PM",
+    "date": "2026-05-23",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/will-your-heart-beat-faster-3-9-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 1",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Ran(Chaos) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-1-3-10-26/"
-  },
-  {
-    "title": "Brief Encounter",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-10",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/brief-encounter-3-10-26/"
-  },
-  {
-    "title": "I Live Here Now in 35mm",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/i-live-here-now-in-35mm-3-11-26/"
-  },
-  {
-    "title": "Slanted",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/slanted-3-11-26/"
-  },
-  {
-    "title": "Bright Star",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/bright-star-3-12-26/"
-  },
-  {
-    "title": "What Does That Nature Say to You",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/what-does-that-nature-say-to-you-3-12-26/"
-  },
-  {
-    "title": "Perfect Blue",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-13",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-13-26/"
-  },
-  {
-    "title": "Queen Kelly",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-13",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/queen-kelly-3-13-26/"
-  },
-  {
-    "title": "Itim",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/itim-3-13-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 1",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-13",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-1-3-13-26/"
-  },
-  {
-    "title": "Three Sisters With Maiden Hearts",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-14",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/three-sisters-with-maiden-hearts-3-14-26/"
-  },
-  {
-    "title": "Perfect Blue",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-14",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-14-26/"
-  },
-  {
-    "title": "Tender Mercies",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/tender-mercies-3-14-26/"
-  },
-  {
-    "title": "The Neon Demon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-neon-demon-3-14-26/"
-  },
-  {
-    "title": "Ivan the Terrible, Part I & Part Ii",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-15",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/ivan-the-terrible-part-i-and-part-ii-3-15-26/"
-  },
-  {
-    "title": "Can She Bake a Cherry Pie?",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-15",
-    "time": "5:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/can-she-bake-a-cherry-pie-3-15-26/"
-  },
-  {
-    "title": "Perfect Blue",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-15",
+    "date": "2026-05-23",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-15-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Most Terrible Time in My Life",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Erin Brockovich in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-15",
-    "time": "10:00 PM",
+    "date": "2026-05-24",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-most-terrible-time-in-my-life-3-15-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents The Apple",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Brighton Rock in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-16",
-    "time": "7:00 PM",
+    "date": "2026-05-24",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-apple-3-16-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "A Body to Live In",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Kagemusha(The Shadow Warrior) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-16",
-    "time": "10:00 PM",
+    "date": "2026-05-24",
+    "time": "6:30 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/a-body-to-live-in-3-16-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 2 & 3",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-2-3-3-17-26/"
-  },
-  {
-    "title": "Dinner for Schmucks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dinner-for-schmucks-3-17-26/"
-  },
-  {
-    "title": "Harold and Maude",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/harold-and-maude-3-17-26/"
-  },
-  {
-    "title": "Reeling",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/reeling-3-18-26/"
-  },
-  {
-    "title": "Puddysticks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/puddysticks-3-18-26/"
-  },
-  {
-    "title": "My Father's Shadow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-19-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 2 & 3",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-19",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-2-3-3-19-26/"
-  },
-  {
-    "title": "Pickpocket",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pickpocket-3-20-26/"
-  },
-  {
-    "title": "Poetic Justice",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/poetic-justice-3-20-26/"
-  },
-  {
-    "title": "The Stairway to the Distant Past",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-stairway-to-the-distant-past-3-20-26/"
-  },
-  {
-    "title": "The Thin Line",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-thin-line-3-21-26/"
-  },
-  {
-    "title": "Perfect Blue",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-21-26/"
-  },
-  {
-    "title": "The Trap",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-trap-3-21-26/"
-  },
-  {
-    "title": "Jim Cummings Presents Seduced and Abandoned",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jim-cummings-presents-seduced-and-abandoned-3-22-26/"
-  },
-  {
-    "title": "Widows",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/widows-3-22-26/"
-  },
-  {
-    "title": "Kisapmata",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/kisapmata-3-22-26/"
-  },
-  {
-    "title": "My Father's Shadow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-22-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Little Shop of Horrors",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-little-shop-of-horrors-3-23-26/"
-  },
-  {
-    "title": "True Confessions",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-23",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/true-confessions-3-23-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 4 & 5",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-24",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-4-5-3-24-26/"
-  },
-  {
-    "title": "The Trial",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-24",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-trial-3-24-26/"
-  },
-  {
-    "title": "Bunnylovr",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bunnylovr-3-25-26/"
-  },
-  {
-    "title": "Women Wednesday Night of Shorts Part 2",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-25",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/women-wednesday-night-of-shorts-part-2-3-25-26/"
-  },
-  {
-    "title": "Night of the Living Dead",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/night-of-the-living-dead-3-26-26/"
-  },
-  {
-    "title": "Moments in a Stolen Dream",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-26",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/moments-in-a-stolen-dream-3-26-26/"
-  },
-  {
-    "title": "My Father's Shadow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-fathers-shadow-3-27-26/"
-  },
-  {
-    "title": "Touch Me",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/touch-me-3-27-26/"
-  },
-  {
-    "title": "O Brother, Where Art Thou?",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/o-brother-where-art-thou-3-27-26/"
-  },
-  {
-    "title": "A Wanderer's Notebook",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-wanderers-3-28-26/"
-  },
-  {
-    "title": "What Do We See When We Look at the Sky?",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/what-do-we-see-when-we-look-at-the-sky-3-28-26/"
-  },
-  {
-    "title": "Alexandre Koberidze Presents The Day He Arrives",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/alexandre-koberidze-presents-the-day-he-arrives-3-29-26/"
-  },
-  {
-    "title": "The Greg Proops Film Club Presents Bullitt",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-bullitt-3-29-26/"
-  },
-  {
-    "title": "Cinematic Void Presents The Rocky Horror Picture Show",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-rocky-horror-picture-show-3-30-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 4 & 5",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-30",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-4-5-3-30-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-31",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-3-31-26/"
-  },
-  {
-    "title": "Perceval Le Gallois",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perceval-le-gallois-4-2-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-4-3-26/"
-  },
-  {
-    "title": "Moment of Terror",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/moment-of-terror-4-4-26/"
-  },
-  {
-    "title": "The Paper",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-paper-4-4-26/"
-  },
-  {
-    "title": "Proof 2025 Award Winners Showcase",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/proof-2025-award-winners-showcase-4-4-26/"
-  },
-  {
-    "title": "The Plea",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-plea-4-5-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Nightmare Beach",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-nightmare-beach-4-6-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 8 & 9",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-7-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 8 & 9",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-09",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-9-26/"
-  },
-  {
-    "title": "Sudden Rain",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/sudden-rain-4-11-26/"
-  },
-  {
-    "title": "Beetlejuice",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/beetlejuice-4-11-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Miami Connection",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-miami-connection-4-13-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 10 & 11",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-14-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 10 & 11",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-24",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-24-26/"
-  },
-  {
-    "title": "Sound of the Mountain",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/sound-of-the-mountain-4-25-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Spring Breakers",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-spring-breakers-4-27-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 12, 13 & 14",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-12-13-14-4-28-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 12, 13 & 14",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-30",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-12-13-14-4-30-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Shogun Assassin",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-shogun-assassin-5-4-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 15 & 16",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-15-16-5-5-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 15 & 16",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/twin-peaks-season-2-ep-15-16-5-7-26/"
-  },
-  {
-    "title": "Cinematic Void Presents The Mystery of Chess Boxing",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-mystery-of-chess-boxing-5-11-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 17 & 18",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-17-18-5-12-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 17 & 18",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-17-18-5-14-26/"
-  },
-  {
-    "title": "Cinematic Void Presents J.d.'s Revenge",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-jds-revenge-5-18-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 19 & 20",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-19-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 19 & 20",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-21-26/"
-  },
-  {
-    "title": "Cinematic Void Presents The Killer",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Cure in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
     "date": "2026-05-25",
-    "time": "7:00 PM",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-killer-5-25-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 21 & 22",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-21-22-5-26-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 21 & 22",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-21-22-5-28-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   }
 ]
