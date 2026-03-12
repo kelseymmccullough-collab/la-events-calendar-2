@@ -1,25 +1,5 @@
 [
   {
-    "title": "Cactus Flower",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3362?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Django Unchained",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3324?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Django Unchained",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -414,16 +394,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-11-showgirls/"
-  },
-  {
-    "title": "Showgirls",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-12",
     "time": "7:30 PM",
     "description": "",
@@ -698,16 +668,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3785453/"
-  },
-  {
-    "title": "The Gleaners and I",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3774280/"
   },
   {
     "title": "Grave of the Fireflies",
@@ -1358,26 +1318,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3841046/"
-  },
-  {
-    "title": "The Color of Money",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860501/"
-  },
-  {
-    "title": "Super Mario Bros.",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860502/"
   },
   {
     "title": "Outerlands",
@@ -2470,26 +2410,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "I Live Here Now in 35mm",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/i-live-here-now-in-35mm-3-11-26/"
-  },
-  {
-    "title": "Slanted",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-11",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/slanted-3-11-26/"
-  },
-  {
     "title": "Bright Star",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2980,6 +2900,26 @@
     "url": "https://dock.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-bullitt-3-29-26/"
   },
   {
+    "title": "Ahed's Knee",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/aheds-knee-3-29-26/"
+  },
+  {
+    "title": "Synonyms",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/synonyms-3-29-26/"
+  },
+  {
     "title": "Cinematic Void Presents The Rocky Horror Picture Show",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3008,6 +2948,16 @@
     "time": "6:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-3-31-26/"
+  },
+  {
+    "title": "The Kindergarten Teacher",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-31",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-kindergarten-teacher-3-31-26/"
   },
   {
     "title": "Perceval Le Gallois",
