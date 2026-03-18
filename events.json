@@ -1,25 +1,5 @@
 [
   {
-    "title": "Leprechaun 3",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Porgy and Bess",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3387?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "His Kind of Woman",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -97,7 +77,7 @@
     "date": "2026-03-21",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3374?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -314,16 +294,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-17-a-woman-in-flames-belle-de-jour/"
-  },
-  {
-    "title": "A Woman in Flames             /Belle de Jour",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-18",
     "time": "7:30 PM",
     "description": "",
@@ -500,16 +470,6 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Dreams",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785466/"
-  },
-  {
     "title": "New Jack City",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -518,6 +478,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3782347/"
+  },
+  {
+    "title": "After Hours",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3782322/"
   },
   {
     "title": "Blue Velvet",
@@ -568,6 +538,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3774317/"
+  },
+  {
+    "title": "Didn’t Die",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-20",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831570/"
   },
   {
     "title": "Kung Fu Panda 2",
@@ -1264,7 +1244,7 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
@@ -1290,7 +1270,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "98th Oscars Original Screenplay Winner:Sinners in 70mm",
+    "title": "98th Oscars Writing (Original Screenplay) Winner:Sinners in 70mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -1300,7 +1280,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "98th Oscars Animated Feature Film Winner:KPop Demon Hunters",
+    "title": "98th Oscars Animated Feature Film Winner:KPop Demon HuntersSingalong",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -1320,7 +1300,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "98th Oscars Wild Card Winner:Weaponsin DolbyVision (Actress in a Supporting Role)",
+    "title": "98th Oscars Wild Card Winner:Weapons in Dolby Vision (Actress in a Supporting Role)",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2328,36 +2308,6 @@
     "time": "2:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 2 & 3",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-2-3-3-17-26/"
-  },
-  {
-    "title": "Dinner for Schmucks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dinner-for-schmucks-3-17-26/"
-  },
-  {
-    "title": "Harold and Maude",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-17",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/harold-and-maude-3-17-26/"
   },
   {
     "title": "Reeling",
