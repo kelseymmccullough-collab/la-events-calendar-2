@@ -1,25 +1,5 @@
 [
   {
-    "title": "His Kind of Woman",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3369?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Porgy and Bess",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3388?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Porgy and Bess",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -290,16 +270,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "A Woman in Flames             /Belle de Jour",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-18-a-woman-in-flames-belle-de-jour/"
-  },
-  {
     "title": "Fellini’s Casanova",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -470,16 +440,6 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "New Jack City",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782347/"
-  },
-  {
     "title": "After Hours",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -587,7 +547,7 @@
     "date": "2026-03-21",
     "time": "6:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782046/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Groove",
@@ -1130,6 +1090,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3867470/"
   },
   {
+    "title": "Finding Nemo",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3888767/"
+  },
+  {
     "title": "Who’s Afraid of Virginia Woolf?",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1140,6 +1110,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3867469/"
   },
   {
+    "title": "Sweet 16mm: Mid-Century Social Guidance Classics",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3882989/"
+  },
+  {
     "title": "Outerlands",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1148,6 +1128,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3860597/"
+  },
+  {
+    "title": "A Poem Is a Naked Person",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3860669/"
   },
   {
     "title": "Other Music",
@@ -1248,16 +1238,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "The English Patient in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "98th Oscars Documentary Feature Film Winner:Mr. Nobody Against Putin",
@@ -2310,26 +2290,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Reeling",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/reeling-3-18-26/"
-  },
-  {
-    "title": "Puddysticks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-18",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/puddysticks-3-18-26/"
-  },
-  {
     "title": "My Father's Shadow",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2567,7 +2527,7 @@
     "date": "2026-03-27",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/touch-me-3-27-26/"
+    "url": "https://www.americancinematheque.com/now-showing/touch-me-3-27-26/"
   },
   {
     "title": "O Brother, Where Art Thou?",
@@ -2690,6 +2650,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-kindergarten-teacher-3-31-26/"
   },
   {
+    "title": "Rushmore",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/rushmore-4-1-26/"
+  },
+  {
     "title": "Perceval Le Gallois",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2698,6 +2668,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/perceval-le-gallois-4-2-26/"
+  },
+  {
+    "title": "Down There",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/down-there-4-2-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 6 & 7",
@@ -2750,6 +2730,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-plea-4-5-26/"
   },
   {
+    "title": "Fear and Loathing in Las Vegas",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/fear-and-loathing-in-las-vegas-4-5-26/"
+  },
+  {
     "title": "Cinematic Void Presents Nightmare Beach",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2768,6 +2758,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-7-26/"
+  },
+  {
+    "title": "Good Burger",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/good-burger-4-7-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 8 & 9",
@@ -2798,6 +2798,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://dock.americancinematheque.com/now-showing/beetlejuice-4-11-26/"
+  },
+  {
+    "title": "Jawbreaker",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/jawbreaker-4-11-26/"
   },
   {
     "title": "Cinematic Void Presents Miami Connection",
