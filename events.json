@@ -4,26 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-20",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3257?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Silent Movie/Where's Poppa",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3372?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-21",
     "time": "10:00 AM",
     "description": "",
@@ -117,7 +97,7 @@
     "date": "2026-03-26",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3379?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -390,26 +370,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3416?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Fellini’s Casanova",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-20-fellinis-casanova/"
-  },
-  {
-    "title": "True Romance",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-20-true-romance-midnight-show/"
-  },
-  {
     "title": "The Lickerish Quartet             /Therese and Isabelle",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -550,56 +510,6 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Kung Fu Panda 2",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782041/"
-  },
-  {
-    "title": "Harold and Maude",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782042/"
-  },
-  {
-    "title": "Castration Movie Anthology i. Traps",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "5:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3816166/"
-  },
-  {
-    "title": "Romy and Michele’s High School Reunion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Groove",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "9:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782047/"
-  },
-  {
     "title": "Dora and the Lost City of Gold en Español",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -640,6 +550,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3778056/"
   },
   {
+    "title": "A Useful Ghost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-23",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831605/"
+  },
+  {
+    "title": "A Useful Ghost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-03-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3831616/"
+  },
+  {
     "title": "Mike & Nick & Nick & Alice",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -647,7 +577,7 @@
     "date": "2026-03-25",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3816207/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Titmouse Presents: 5 Second Day… Night!!!",
@@ -900,6 +830,46 @@
     "url": "https://vidiotsfoundation.org/purchase/3785358/"
   },
   {
+    "title": "Arco (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3882679/"
+  },
+  {
+    "title": "Arco (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3832162/"
+  },
+  {
+    "title": "Arco (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3863145/"
+  },
+  {
+    "title": "Arco (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3863158/"
+  },
+  {
     "title": "The Seventh Seal",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1080,6 +1050,36 @@
     "url": "https://vidiotsfoundation.org/purchase/3840918/"
   },
   {
+    "title": "Miroirs No. 3",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3863159/"
+  },
+  {
+    "title": "Miroirs No. 3",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889026/"
+  },
+  {
+    "title": "Miroirs No. 3",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889028/"
+  },
+  {
     "title": "RRR",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1158,6 +1158,16 @@
     "time": "10:10 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3889040/"
+  },
+  {
+    "title": "Lady Snowblood",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3896018/"
   },
   {
     "title": "John Lilly and the Earth Coincidence Control Office",
@@ -1260,6 +1270,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3882989/"
   },
   {
+    "title": "Real Women Have Curves",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889051/"
+  },
+  {
     "title": "Outerlands",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1268,6 +1288,56 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3860597/"
+  },
+  {
+    "title": "Enter the Void",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3860598/"
+  },
+  {
+    "title": "Dead Lover",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "5:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889553/"
+  },
+  {
+    "title": "Dead Lover",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889561/"
+  },
+  {
+    "title": "Dead Lover",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889658/"
+  },
+  {
+    "title": "Dead Lover",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-21",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889665/"
   },
   {
     "title": "A Poem Is a Naked Person",
@@ -1360,6 +1430,36 @@
     "url": "https://vidiotsfoundation.org/purchase/3867505/"
   },
   {
+    "title": "Numbskull Revolution",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3895056/"
+  },
+  {
+    "title": "Numbskull Revolution",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3895057/"
+  },
+  {
+    "title": "Numbskull Revolution",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3895058/"
+  },
+  {
     "title": "Bonnie and Clyde",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1388,16 +1488,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "98th Oscars Writing (Original Screenplay) Winner:Sinners in 70mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "98th Oscars Animated Feature Film Winner:KPop Demon HuntersSingalong",
@@ -2430,44 +2520,34 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Maltese Falcon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Cure in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-20",
-    "time": "4:00 PM",
+    "date": "2026-05-27",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-maltese-falcon-3-20-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Poetic Justice",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Terminator 2: Judgment Day in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-20",
-    "time": "7:00 PM",
+    "date": "2026-05-27",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/poetic-justice-3-20-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Stairway to the Distant Past",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Hell Is a City in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-03-20",
-    "time": "10:00 PM",
+    "date": "2026-05-27",
+    "time": "8:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-stairway-to-the-distant-past-3-20-26/"
-  },
-  {
-    "title": "The Thin Line",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-thin-line-3-21-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Perfect Blue",
@@ -2607,7 +2687,7 @@
     "date": "2026-03-26",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/night-of-the-living-dead-3-26-26/"
+    "url": "https://www.americancinematheque.com/now-showing/night-of-the-living-dead-3-26-26/"
   },
   {
     "title": "Moments in a Stolen Dream",
@@ -2618,6 +2698,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/moments-in-a-stolen-dream-3-26-26/"
+  },
+  {
+    "title": "Tender Mercies",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-27",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/tender-mercies-3-27-26/"
   },
   {
     "title": "My Father's Shadow",
@@ -2958,6 +3048,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/boatman-below-sea-level-4-18-26/"
+  },
+  {
+    "title": "Fire at Sea",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/fire-at-sea-4-19-26-lf3/"
   },
   {
     "title": "Notturno",
