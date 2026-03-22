@@ -4,26 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-21",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3262?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Of Unknown Origin/Ben",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-22",
     "time": "10:00 AM",
     "description": "",
@@ -374,26 +354,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-21",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-21-the-lickerish-quartet-therese-and-isabelle/"
-  },
-  {
-    "title": "Nights in Black Leather (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-21-nights-in-black-leather-midnight-show/"
-  },
-  {
-    "title": "The Lickerish Quartet             /Therese and Isabelle",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-22",
     "time": "6:30 PM",
     "description": "",
@@ -508,46 +468,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
-  },
-  {
-    "title": "Dora and the Lost City of Gold en Español",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782020/"
-  },
-  {
-    "title": "National Gallery",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782009/"
-  },
-  {
-    "title": "Castration Movie Anthology ii. The Best of Both Worlds",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3816175/"
-  },
-  {
-    "title": "The 5 Minutes Game presented by The Museum of Home Video",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3778056/"
   },
   {
     "title": "A Useful Ghost",
@@ -1087,7 +1007,7 @@
     "date": "2026-04-05",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3840891/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Gummo",
@@ -1357,7 +1277,7 @@
     "date": "2026-04-18",
     "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860679/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "The Land Before Time",
@@ -1488,26 +1408,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "98th Oscars Animated Feature Film Winner:KPop Demon HuntersSingalong",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "98th Oscars Best Picture Winner:One Battle After Another in 70mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "98th Oscars Wild Card Winner:Weapons in Dolby Vision (Actress in a Supporting Role)",
@@ -2548,46 +2448,6 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Perfect Blue",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perfect-blue-3-21-26/"
-  },
-  {
-    "title": "\"Dis—moi\" / Histoires D'amérique: Food, Family and Philosophy",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dis-moi-histoires-damerique-food-family-and-philosophy-3-21-26/"
-  },
-  {
-    "title": "The Trap",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://dock.americancinematheque.com/now-showing/the-trap-3-21-26/"
-  },
-  {
-    "title": "Jim Cummings Presents Seduced and Abandoned",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-22",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jim-cummings-presents-seduced-and-abandoned-3-22-26/"
   },
   {
     "title": "Widows",
