@@ -4,16 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-23",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3258?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-24",
     "time": "11:00 AM",
     "description": "",
@@ -340,16 +330,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3416?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Depraved             /Campus Swingers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-23-the-depraved-campus-swingers/"
-  },
-  {
     "title": "Henry & June",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -450,14 +430,14 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "A Useful Ghost",
+    "title": "Mike & Nick & Nick & Alice",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-23",
+    "date": "2026-03-25",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3831605/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "A Useful Ghost",
@@ -468,16 +448,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3831616/"
-  },
-  {
-    "title": "Mike & Nick & Nick & Alice",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Titmouse Presents: 5 Second Day… Night!!!",
@@ -537,7 +507,7 @@
     "date": "2026-03-27",
     "time": "10:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3749823/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Pillion",
@@ -547,7 +517,7 @@
     "date": "2026-03-28",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3806795/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Pillion",
@@ -677,7 +647,7 @@
     "date": "2026-03-28",
     "time": "10:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3806796/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -687,7 +657,7 @@
     "date": "2026-03-29",
     "time": "1:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3837446/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Chitty Chitty Bang Bang",
@@ -1360,6 +1330,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3895058/"
   },
   {
+    "title": "Invasion of the Body Snatchers (1956)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3892025/"
+  },
+  {
     "title": "Bonnie and Clyde",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1388,16 +1368,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "The 400 Blows in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-23",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The 400 Blows in 4K",
@@ -2420,26 +2390,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 4 and 5",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-24",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-4-5-3-24-26/"
-  },
-  {
-    "title": "The Trial",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-24",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-trial-3-24-26/"
-  },
-  {
     "title": "Bunnylovr",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2510,7 +2460,7 @@
     "url": "https://www.americancinematheque.com/now-showing/touch-me-3-27-26/"
   },
   {
-    "title": "O Brother, Where Art Thou",
+    "title": "O Brother, Where Art Thou?",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -2590,7 +2540,7 @@
     "url": "https://www.americancinematheque.com/now-showing/synonyms-3-29-26/"
   },
   {
-    "title": "Cv: The Rocky Horror Picture Show",
+    "title": "Cinematic Void Presents: The Rocky Horror Picture Show",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -2720,7 +2670,7 @@
     "url": "https://www.americancinematheque.com/now-showing/fear-and-loathing-in-las-vegas-4-5-26/"
   },
   {
-    "title": "Cv: Nightmare Beach",
+    "title": "Cinematic Void Presents: Nightmare Beach",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -2790,7 +2740,7 @@
     "url": "https://www.americancinematheque.com/now-showing/jawbreaker-4-11-26/"
   },
   {
-    "title": "Cv: Miami Connection",
+    "title": "Cinematic Void Presents: Miami Connection",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -2890,7 +2840,7 @@
     "url": "https://www.americancinematheque.com/now-showing/sound-of-the-mountain-4-25-26/"
   },
   {
-    "title": "Cv: Spring Breakers",
+    "title": "Spring Breakers",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
