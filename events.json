@@ -4,26 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-24",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3259?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Brute Force/Criss-Cross",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3376?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-25",
     "time": "11:00 AM",
     "description": "",
@@ -334,16 +314,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-24-henry-june/"
-  },
-  {
-    "title": "Henry & June",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-25",
     "time": "7:30 PM",
     "description": "",
@@ -430,26 +400,6 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Mike & Nick & Nick & Alice",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "A Useful Ghost",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3831616/"
-  },
-  {
     "title": "Titmouse Presents: 5 Second Day… Night!!!",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -487,7 +437,7 @@
     "date": "2026-03-27",
     "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3749821/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Pillion",
@@ -1210,14 +1160,24 @@
     "url": "https://vidiotsfoundation.org/purchase/3889665/"
   },
   {
-    "title": "A Poem Is a Naked Person",
+    "title": "Super Mario Bros.",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3915346/"
+  },
+  {
+    "title": "Other Music",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-04-18",
-    "time": "4:00 PM",
+    "time": "1:45 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860669/"
+    "url": "https://vidiotsfoundation.org/purchase/3889599/"
   },
   {
     "title": "Other Music",
@@ -1228,6 +1188,16 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/coming-soon/"
+  },
+  {
+    "title": "A Poem Is a Naked Person",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3860669/"
   },
   {
     "title": "The Land Before Time",
@@ -1248,6 +1218,16 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3860607/"
+  },
+  {
+    "title": "Shall We Dance?",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3860608/"
   },
   {
     "title": "Physical Media Mind-Melters",
@@ -1330,6 +1310,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3895058/"
   },
   {
+    "title": "Lilo & Stitch",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3892026/"
+  },
+  {
     "title": "Invasion of the Body Snatchers (1956)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1358,16 +1348,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3865605/"
-  },
-  {
-    "title": "The Young Girls of Rochefort",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3867517/"
   },
   {
     "title": "The 400 Blows in 4K",
@@ -2390,26 +2370,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Bunnylovr",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bunnylovr-3-25-26/"
-  },
-  {
-    "title": "Women Wednesday Night of Shorts Part 2",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-25",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/women-wednesday-night-of-shorts-part-2-3-25-26/"
-  },
-  {
     "title": "Night of the Living Dead",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2578,6 +2538,16 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-kindergarten-teacher-3-31-26/"
+  },
+  {
+    "title": "Pizza Movie",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/pizza-movie-4-1-26/"
   },
   {
     "title": "Rushmore",
