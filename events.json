@@ -4,26 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-26",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3261?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Snow Woman/The Haunted Castle",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-27",
     "time": "11:00 AM",
     "description": "",
@@ -294,16 +274,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-26-lady-frankenstein-slaughter-hotel/"
-  },
-  {
-    "title": "Lady Frankenstein             /Slaughter Hotel",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-27",
     "time": "6:30 PM",
     "description": "",
@@ -368,116 +338,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
-  },
-  {
-    "title": "A Mighty Wind",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3806803/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-31",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3832170/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3832148/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3832150/"
-  },
-  {
-    "title": "Defending Your Life",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3806804/"
-  },
-  {
-    "title": "Onibaba",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3806818/"
   },
   {
     "title": "The Muppets Take Manhattan",
@@ -680,6 +540,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3832151/"
   },
   {
+    "title": "Blue Velvet",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3840890/"
+  },
+  {
     "title": "Jesus Christ Superstar",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -880,6 +750,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3865608/"
   },
   {
+    "title": "LAFM Opening Night – Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-09",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://lafestivalofmovies.org/maddie’s-secret"
+  },
+  {
     "title": "The Moment",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -915,7 +795,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-04-11",
-    "time": "1:15 PM",
+    "time": "1:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3889037/"
   },
@@ -980,6 +860,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3892399/"
   },
   {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3920382/"
+  },
+  {
     "title": "Ninotchka",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1010,6 +900,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3867470/"
   },
   {
+    "title": "LAFM – Selegna sol",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://lafestivalofmovies.org/selegna-sol"
+  },
+  {
     "title": "Finding Nemo",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1020,6 +920,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3888767/"
   },
   {
+    "title": "LAFM – isaiah’s phone",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://lafestivalofmovies.org/isaiah’s-phone-1"
+  },
+  {
     "title": "Who’s Afraid of Virginia Woolf?",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1028,6 +938,16 @@
     "time": "3:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867469/"
+  },
+  {
+    "title": "LAFM Closing Night – Blue Heron",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://lafestivalofmovies.org/blue-heron-1"
   },
   {
     "title": "Sweet 16mm: Mid-Century Social Guidance Classics",
@@ -1108,6 +1028,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3889665/"
+  },
+  {
+    "title": "The Color of Money",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3915345/"
   },
   {
     "title": "Super Mario Bros.",
@@ -1280,6 +1210,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3892025/"
   },
   {
+    "title": "The Height of the Coconut Trees",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3920179/"
+  },
+  {
     "title": "Bonnie and Clyde",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1308,16 +1248,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "The Year of the Cannibals (I cannibali)in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The 400 Blows in 4K",
@@ -2310,14 +2240,84 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Night of the Living Dead",
+    "title": "Cure in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Dreams(Yume) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Boy and the Heron",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Deep in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Madadayo(No, Not Yet!)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "98th Oscars Casting Winner",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-31",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Gentlemen Prefer Blondes",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-31",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Tender Mercies",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
-    "date": "2026-03-26",
-    "time": "7:00 PM",
+    "date": "2026-03-27",
+    "time": "1:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/night-of-the-living-dead-3-26-26/"
+    "url": "https://www.americancinematheque.com/now-showing/tender-mercies-3-27-26/"
   },
   {
     "title": "A Wanderer's Notebook",
@@ -2338,6 +2338,16 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/what-do-we-see-when-we-look-at-the-sky-3-28-26/"
+  },
+  {
+    "title": "Cinematic Void Presents: The Rocky Horror Picture Show",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-30",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-rocky-horror-picture-show-3-30-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 4 and 5",
@@ -2380,6 +2390,36 @@
     "url": "https://www.americancinematheque.com/now-showing/perceval-le-gallois-4-2-26/"
   },
   {
+    "title": "Down There",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/down-there-4-2-26/"
+  },
+  {
+    "title": "Dry Leaf",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dry-leaf-4-3-26/"
+  },
+  {
+    "title": "Miroirs No. 3",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-2-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 6 and 7",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2398,6 +2438,36 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/https-www-americancinematheque-com-now-showing-moment-of-terror-4-4-26/"
+  },
+  {
+    "title": "Cruel Intentions",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cruel-intentions-4-4-26/"
+  },
+  {
+    "title": "Addison Heimann Presents Onibaba",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/addison-heimann-presents-onibaba-4-5-26/"
+  },
+  {
+    "title": "Exit 8",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/exit-8-4-5-26/"
   },
   {
     "title": "Fear and Loathing in Las Vegas",
@@ -2430,6 +2500,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-7-26/"
   },
   {
+    "title": "Palestine 36",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/palestine-36-4-8-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 8 and 9",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2438,6 +2518,66 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-9-26/"
+  },
+  {
+    "title": "Palestine 36",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/palestine-36-4-10-26/"
+  },
+  {
+    "title": "Kontinental '25",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/kontinental-25-4-10-26/"
+  },
+  {
+    "title": "Miroirs No. 3",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-10-26/"
+  },
+  {
+    "title": "Dry Leaf",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dry-leaf-4-11-26/"
+  },
+  {
+    "title": "Jawbreaker",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/jawbreaker-4-11-26/"
+  },
+  {
+    "title": "Palestine 36",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/palestine-36-4-12-26/"
   },
   {
     "title": "Cinematic Void Presents: Miami Connection",
@@ -2450,6 +2590,16 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-miami-connection-4-13-26/"
   },
   {
+    "title": "Kontinental '25",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-13",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/kontinental-25-4-13-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 10 and 11",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2460,6 +2610,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-14-26/"
   },
   {
+    "title": "Kontinental '25",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/kontinental-25-4-24-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 10 and 11",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2468,6 +2628,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-24-26/"
+  },
+  {
+    "title": "Miroirs No. 3",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-26-26/"
   },
   {
     "title": "Spring Breakers",
