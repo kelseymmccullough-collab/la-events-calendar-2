@@ -1,35 +1,5 @@
 [
   {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3278?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Rio Bravo",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Super Fly",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3341?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Who Done It?",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -110,6 +80,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3280?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Ghosts on The Loose",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-03-31",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3435?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -118,6 +98,16 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3281?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Angels' Alley/Smuggler's Cove",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3465?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Project Hail Mary 70mm",
@@ -130,6 +120,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Golden Eye/The Feathered Serpent",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3467?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -140,6 +140,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3390?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Pride of the Blue Grass/Federal Fugitives",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3438?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -148,6 +158,16 @@
     "time": "1:15 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3405?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Duke of the Navy/Desperate Cargo",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3440?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -180,6 +200,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Clancy Street Boys/Come Out Fighting",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-07",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3442?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -188,6 +218,16 @@
     "time": "12:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3393?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Jinx Money/Lucky Losers",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3469?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -200,6 +240,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3394?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Mr. Washington Goes to Town/Lucky Ghost",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3444?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -210,6 +260,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3411?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Phantom Killer/Blonde Comet",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3471?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -218,6 +278,16 @@
     "time": "1:15 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Penrod and Sam/The Panther's Claw",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3475?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -250,6 +320,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3414?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Mr. Muggs Steps Out/Follow the Leader",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-14",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3446?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -258,6 +338,16 @@
     "time": "12:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3415?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Blues Busters/Feudin Fools",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-15",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3473?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -270,24 +360,144 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3416?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Lady Frankenstein             /Slaughter Hotel",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Men of San Quentin/The Miracle Kid",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-27",
-    "time": "6:30 PM",
+    "date": "2026-04-16",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/march-27-lady-frankenstein-slaughter-hotel/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3448?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "True Romance",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Mr. Celebrity/Hot Rhythm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-27",
-    "time": "11:59 PM",
+    "date": "2026-04-17",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/march-27-true-romance-midnight-show/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3488?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Mom and Dad",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3450?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Bowery Champs/Gas House Kids Go West",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-21",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3451?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Hold That Line/Mr. Hex",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-22",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3477?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Spook Busters/Ghost Chasers",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-23",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3479?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Torchy Gets Her Man/Torchy Blane in Chinatown",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3481?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Batman Begins",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "11:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3433?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Libeled Lady",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3436?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Mr. Cohen Takes a Walk",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3483?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Batman Begins",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "11:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3434?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Libeled Lady",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3437?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Up In Smoke/In The Money",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-28",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3484?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Let's Go Navy/Here Come the Marines",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-29",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3486?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Hot Box             /Terminal Island",
@@ -340,84 +550,54 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "The Muppets Take Manhattan",
+    "title": "Pillion",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-03-28",
-    "time": "1:00 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3781988/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
-    "title": "Salaam Bombay!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3781987/"
-  },
-  {
-    "title": "Somersault",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3806794/"
-  },
-  {
-    "title": "Somersault",
+    "title": "Pillion",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-03-29",
-    "time": "4:45 PM",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3806798/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
-    "title": "Thank You for Smoking on 35mm",
+    "title": "Pillion",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-28",
+    "date": "2026-03-31",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3781983/"
+    "url": "https://vidiotsfoundation.org/purchase/3832170/"
   },
   {
-    "title": "Spring Breakers",
+    "title": "Pillion",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-28",
-    "time": "9:45 PM",
+    "date": "2026-04-01",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3781982/"
+    "url": "https://vidiotsfoundation.org/purchase/3832148/"
   },
   {
-    "title": "Nirvanna the Band the Show the Movie",
+    "title": "Pillion",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-28",
-    "time": "10:00 PM",
+    "date": "2026-04-02",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
+    "url": "https://vidiotsfoundation.org/purchase/3832150/"
   },
   {
     "title": "Chitty Chitty Bang Bang",
@@ -1080,6 +1260,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3860669/"
   },
   {
+    "title": "The Man with the Iron Fists in 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889620/"
+  },
+  {
+    "title": "The Mystery of Chess Boxing",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3888762/"
+  },
+  {
     "title": "The Land Before Time",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1248,26 +1448,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "The 400 Blows in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Gunvor Nelson Tribute II: Moons Pool",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "My Neighbor Totoro",
@@ -2310,16 +2490,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Tender Mercies",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-27",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/tender-mercies-3-27-26/"
-  },
-  {
     "title": "A Wanderer's Notebook",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2338,6 +2508,16 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/what-do-we-see-when-we-look-at-the-sky-3-28-26/"
+  },
+  {
+    "title": "Ahed's Knee",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/aheds-knee-3-29-26/"
   },
   {
     "title": "Cinematic Void Presents: The Rocky Horror Picture Show",
@@ -2370,6 +2550,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-3-31-26/"
   },
   {
+    "title": "The Kindergarten Teacher",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-03-31",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-kindergarten-teacher-3-31-26/"
+  },
+  {
     "title": "Pizza Movie",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2398,6 +2588,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/down-there-4-2-26/"
+  },
+  {
+    "title": "The Circus",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-circus-4-3-26/"
   },
   {
     "title": "Dry Leaf",
@@ -2608,6 +2808,146 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-14-26/"
+  },
+  {
+    "title": "Aanikoobijigan [ancestor/great-grandparent/great-grandchild]",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/aanikoobijigan-ancestor-great-grandparent-great-grandchild-4-17-26/"
+  },
+  {
+    "title": "My Nda",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "5:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/my-nda-4-17-26/"
+  },
+  {
+    "title": "American Dream",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/american-dream-4-17-26/"
+  },
+  {
+    "title": "Vinyl",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/vinyl-4-17-2026/"
+  },
+  {
+    "title": "The Short Films of Miryam Charles / Cette Maison",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/miryam-charles-shorts-program-cette-maison-4-18-26/"
+  },
+  {
+    "title": "This Is Not a Fiction 2026 Shorts Program",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/this-is-not-a-fiction-2026-shorts-program-4-18-26/"
+  },
+  {
+    "title": "Titicut Follies",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/titicut-follies-4-19-26/"
+  },
+  {
+    "title": "Everybody to Kenmure Street",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/everybody-to-kenmure-street-west-coast-premiere-04-19-2026/"
+  },
+  {
+    "title": "Robert Wilson and the Civil Wars",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/robert-wilson-and-the-civil-wars-4-19-26/"
+  },
+  {
+    "title": "Romería",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-20",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/romeria-4-20-2026/"
+  },
+  {
+    "title": "Tsai Ming-liang's Back Home",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-21",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/tsai-ming-liangs-back-home-4-21-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Dark Side of the Ring",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-22",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dark-side-of-the-ring-4-22-26/"
+  },
+  {
+    "title": "Eighty Plus",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-23",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/eighty-plus-4-23-26/"
+  },
+  {
+    "title": "Summer Tour",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-23",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/summer-tour-4-23-26/"
   },
   {
     "title": "Kontinental '25",
