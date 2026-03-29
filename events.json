@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-28",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3384?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3293?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Wizards/The Time Masters",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Super Fly",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3342?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Who Done It?",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-29",
     "time": "10:00 AM",
     "description": "",
@@ -170,6 +130,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3440?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "American Graffiti",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "11:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3453?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -178,6 +148,16 @@
     "time": "1:15 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3406?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "American Graffiti",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "11:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3454?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -270,6 +250,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3471?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Car Wash",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3457?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Pinocchio",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3461?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -288,6 +288,26 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3475?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Car Wash",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3458?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Pinocchio",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3462?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -380,6 +400,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3488?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Cape Fear",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "11:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3459?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Ghost and Mr. Chicken",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3463?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Mom and Dad",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -388,6 +428,26 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3450?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Cape Fear",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "11:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3460?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Ghost and Mr. Chicken",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3464?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Bowery Champs/Gas House Kids Go West",
@@ -500,24 +560,14 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3486?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Hot Box             /Terminal Island",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Lassie's Great Adventure/The Green Hornet",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-28",
-    "time": "6:30 PM",
+    "date": "2026-04-30",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/march-28-the-hot-box-terminal-island/"
-  },
-  {
-    "title": "Behind the Green Door (Adults Only)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-28-behind-the-green-door-midnight-show/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3490?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Hot Box             /Terminal Island",
@@ -550,14 +600,474 @@
     "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "The Exile             /The Prisoner of Zenda (1937)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-28",
+    "date": "2026-04-01",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
+    "url": "https://thenewbev.com/program/april-1-the-exile-the-prisoner-of-zenda/"
+  },
+  {
+    "title": "The Exile             /The Prisoner of Zenda (1937)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-2-the-exile-the-prisoner-of-zenda/"
+  },
+  {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "5:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-3-kill-bill-the-whole-bloody-affair/"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-3-reservoir-dogs-midnight-show/"
+  },
+  {
+    "title": "Casablanca",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-4-casablanca-family-matinee/"
+  },
+  {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "5:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-4-kill-bill-the-whole-bloody-affair/"
+  },
+  {
+    "title": "Night of the Lepus",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-4-night-of-the-lepus-midnight-show/"
+  },
+  {
+    "title": "Casablanca",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-5-casablanca-family-matinee/"
+  },
+  {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-5-kill-bill-the-whole-bloody-affair/"
+  },
+  {
+    "title": "I Cover the Waterfront             /Daniel Boone (1936)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-6-i-cover-the-waterfront-daniel-boone/"
+  },
+  {
+    "title": "Blonde Ransom             /Girl on the Spot",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-7-blonde-ransom-girl-on-the-spot/"
+  },
+  {
+    "title": "Blonde Ransom             /Girl on the Spot",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-8-blonde-ransom-girl-on-the-spot/"
+  },
+  {
+    "title": "The Old Fashioned Way             /Misbehaving Ladies",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-9-the-old-fashioned-way-misbehaving-ladies/"
+  },
+  {
+    "title": "The Old Fashioned Way             /Misbehaving Ladies",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-10-the-old-fashioned-way-misbehaving-ladies/"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-10-reservoir-dogs-midnight-show/"
+  },
+  {
+    "title": "Cartoon Club",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-11-cartoon-club/"
+  },
+  {
+    "title": "Animal Crackers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-11-animal-crackers-family-matinee/"
+  },
+  {
+    "title": "Heart to Heart (1928)(Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-11-heart-to-heart/"
+  },
+  {
+    "title": "Tenebrae",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-11-tenebrae-midnight-show/"
+  },
+  {
+    "title": "Animal Crackers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-12-animal-crackers-family-matinee/"
+  },
+  {
+    "title": "Little Annie Rooney (Silent with Live Music Score)             /Sparrows (Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-12-little-annie-rooney-sparrows/"
+  },
+  {
+    "title": "The Canadian (Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-13-the-canadian/"
+  },
+  {
+    "title": "The Crime of the Century             /Her Bodyguard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-14-the-crime-of-the-century-her-bodyguard/"
+  },
+  {
+    "title": "The Crime of the Century             /Her Bodyguard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-15-the-crime-of-the-century-her-bodyguard/"
+  },
+  {
+    "title": "The Mystery of the 13th Guest             /The Living Ghost             /The Face of Marble",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-16-the-mystery-of-the-13th-guest-the-living-ghost-the-face-of-marble/"
+  },
+  {
+    "title": "Three Wise Girls             /Men in Her Life",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-17-three-wise-girls-men-in-her-life/"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-17-reservoir-dogs-midnight-show/"
+  },
+  {
+    "title": "Romancing the Stone",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-18-romancing-the-stone-family-matinee/"
+  },
+  {
+    "title": "Three Wise Girls             /Men in Her Life",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-18-three-wise-girls-men-in-her-life/"
+  },
+  {
+    "title": "Hot Fuzz",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-18-hot-fuzz-midnight-show/"
+  },
+  {
+    "title": "Romancing the Stone",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-19-romancing-the-stone-family-matinee/"
+  },
+  {
+    "title": "Penrod and Sam (1923)(Silent with Live Music Score)(Brand New 35mm Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-19-penrod-and-sam/"
+  },
+  {
+    "title": "Detective Kitty O’Day             /Bowery Champs",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-20-detective-kitty-oday-bowery-champs/"
+  },
+  {
+    "title": "5 Card Stud             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-21-5-card-stud-rough-night-in-jericho/"
+  },
+  {
+    "title": "5 Card Stud             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-22-5-card-stud-rough-night-in-jericho/"
+  },
+  {
+    "title": "Training Day             /Narc",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-23-training-day-narc/"
+  },
+  {
+    "title": "Training Day             /Narc",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-24-training-day-narc/"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-24-reservoir-dogs-midnight-show/"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-25-raiders-of-the-lost-ark-family-matinee/"
+  },
+  {
+    "title": "Training Day             /Narc",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-25-training-day-narc/"
+  },
+  {
+    "title": "Shadow of the Vampire",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-25-shadow-of-the-vampire-midnight-show/"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-26-raiders-of-the-lost-ark-family-matinee/"
+  },
+  {
+    "title": "High Society (1955)             /Pride of the Blue Grass (1954)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-26-high-society-pride-of-the-blue-grass/"
+  },
+  {
+    "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-27-the-ape-man-voodoo-man-bela-lugosi-meets-a-brooklyn-gorilla/"
+  },
+  {
+    "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-28-the-ape-man-voodoo-man-bela-lugosi-meets-a-brooklyn-gorilla/"
+  },
+  {
+    "title": "Make Me a Star             /Don’t Gamble with Strangers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-29-make-me-a-star-dont-gamble-with-strangers/"
+  },
+  {
+    "title": "Make Me a Star             /Don’t Gamble with Strangers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-30",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
     "title": "Pillion",
@@ -598,36 +1108,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3832150/"
-  },
-  {
-    "title": "Chitty Chitty Bang Bang",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782702/"
-  },
-  {
-    "title": "Ali: Fear Eats the Soul on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782701/"
-  },
-  {
-    "title": "Beaches",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3782690/"
   },
   {
     "title": "Love Streams",
@@ -1448,36 +1928,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "My Neighbor Totoro",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "From Russia With Love in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Seven Samurai (Shichinin no samura) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Marty in 35mm",
@@ -2490,26 +2940,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "A Wanderer's Notebook",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-wanderers-3-28-26/"
-  },
-  {
-    "title": "What Do We See When We Look at the Sky",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-28",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/what-do-we-see-when-we-look-at-the-sky-3-28-26/"
-  },
-  {
     "title": "Ahed's Knee",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2920,7 +3350,7 @@
     "url": "https://www.americancinematheque.com/now-showing/tsai-ming-liangs-back-home-4-21-26/"
   },
   {
-    "title": "Cinematic Void Presents Dark Side of the Ring",
+    "title": "Cinematic Void Presents: Dark Side of the Ring",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
