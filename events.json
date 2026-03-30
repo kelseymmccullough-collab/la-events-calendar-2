@@ -1,25 +1,5 @@
 [
   {
-    "title": "Who Done It?",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3385?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3296?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Project Hail Mary 70mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -110,6 +90,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3438?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "American Graffiti",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-03",
+    "time": "11:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3492?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -148,16 +138,6 @@
     "time": "1:15 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3406?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "American Graffiti",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "11:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3454?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -568,16 +548,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3490?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Hot Box             /Terminal Island",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-29-the-hot-box-terminal-island/"
   },
   {
     "title": "Last Tango in Paris",
@@ -1074,20 +1044,10 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-03-31",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3832170/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Pillion",
@@ -1928,26 +1888,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "Marty in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Rashomon in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Psycho",
@@ -2940,16 +2880,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Ahed's Knee",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/aheds-knee-3-29-26/"
-  },
-  {
     "title": "Cinematic Void Presents: The Rocky Horror Picture Show",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3067,7 +2997,7 @@
     "date": "2026-04-04",
     "time": "1:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/https-www-americancinematheque-com-now-showing-moment-of-terror-4-4-26/"
+    "url": "https://www.americancinematheque.com/now-showing/moment-of-terror-04-04-2026/"
   },
   {
     "title": "Cruel Intentions",
