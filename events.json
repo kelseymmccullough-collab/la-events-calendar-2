@@ -4,16 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-30",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3279?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-03-31",
     "time": "11:00 AM",
     "description": "",
@@ -554,16 +544,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-03-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-30-last-tango-in-paris/"
-  },
-  {
-    "title": "Last Tango in Paris",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-03-31",
     "time": "7:30 PM",
     "description": "",
@@ -1070,16 +1050,6 @@
     "url": "https://vidiotsfoundation.org/purchase/3832150/"
   },
   {
-    "title": "Love Streams",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-03-31",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3785358/"
-  },
-  {
     "title": "Arco (English Dubbed)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1490,6 +1460,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3920382/"
   },
   {
+    "title": "My Neighbor Totoro (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "1:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3857743/"
+  },
+  {
     "title": "Ninotchka",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1608,6 +1588,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3860598/"
+  },
+  {
+    "title": "My Neighbor Totoro (Subtitled)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3915344/"
   },
   {
     "title": "Dead Lover",
@@ -1888,26 +1878,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
-  },
-  {
-    "title": "Psycho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-30",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Welcome II the Terrordomewith Ashley Clark and Ngozi Onwurah",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-03-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Psycho",
@@ -2880,27 +2850,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents: The Rocky Horror Picture Show",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-rocky-horror-picture-show-3-30-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 4 and 5",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-30",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-4-5-3-30-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 6 and 7",
+    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -2928,6 +2878,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/pizza-movie-4-1-26/"
+  },
+  {
+    "title": "Pizza Movie",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/pizza-movie-4-1-26-10pm/"
   },
   {
     "title": "Perceval Le Gallois",
@@ -2980,7 +2940,7 @@
     "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-2-26/"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 6 and 7",
+    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -3080,6 +3040,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-9-26/"
   },
   {
+    "title": "As Long As You've Got Your Health",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/as-long-as-youve-got-your-health-4-10-26/"
+  },
+  {
     "title": "Palestine 36",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3170,6 +3140,26 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-14-26/"
   },
   {
+    "title": "Erupcja",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-14",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/erupcja-4-14-26/"
+  },
+  {
+    "title": "Rushmore",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-01",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/rushmore-4-1-26/"
+  },
+  {
     "title": "Aanikoobijigan [ancestor/great-grandparent/great-grandchild]",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3228,6 +3218,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/this-is-not-a-fiction-2026-shorts-program-4-18-26/"
+  },
+  {
+    "title": "Boatman / Below Sea Level",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/boatman-below-sea-level-4-18-26/"
   },
   {
     "title": "Titicut Follies",
@@ -3388,6 +3388,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-15-16-5-5-26/"
+  },
+  {
+    "title": "Attenberg",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/attenberg-5-6-26/"
+  },
+  {
+    "title": "Chevalier",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-06",
+    "time": "9:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/chevalier-5-6-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 15 and 16",
