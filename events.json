@@ -4,26 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-03-31",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3280?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ghosts on The Loose",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-03-31",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3435?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-01",
     "time": "11:00 AM",
     "description": "",
@@ -90,6 +70,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3492?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Tropical Heat Wave",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3455?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -118,6 +108,16 @@
     "time": "11:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3453?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Tropical Heat Wave",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-05",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3456?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -445,7 +445,7 @@
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-04-23",
-    "time": "2:00 PM",
+    "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3479?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
@@ -538,16 +538,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3490?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Last Tango in Paris",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-03-31",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/march-31-last-tango-in-paris/"
   },
   {
     "title": "The Exile             /The Prisoner of Zenda (1937)",
@@ -1024,7 +1014,7 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-03-31",
+    "date": "2026-04-01",
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/coming-soon/"
@@ -1034,80 +1024,10 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-04-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3832148/"
-  },
-  {
-    "title": "Pillion",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-04-02",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3832150/"
-  },
-  {
-    "title": "Arco (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-01",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3882679/"
-  },
-  {
-    "title": "Arco (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3832162/"
-  },
-  {
-    "title": "Arco (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863145/"
-  },
-  {
-    "title": "Arco (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863158/"
-  },
-  {
-    "title": "The Seventh Seal",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-01",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860153/"
-  },
-  {
-    "title": "Quiz Show",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860154/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Where the Wild Things Are",
@@ -1357,7 +1277,7 @@
     "date": "2026-04-09",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3889030/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "The Moment",
@@ -1795,7 +1715,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-04-24",
-    "time": "10:00 PM",
+    "time": "10:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3895056/"
   },
@@ -1805,7 +1725,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-04-25",
-    "time": "10:00 PM",
+    "time": "10:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3895057/"
   },
@@ -2850,26 +2770,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-31",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-3-31-26/"
-  },
-  {
-    "title": "The Kindergarten Teacher",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-03-31",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-kindergarten-teacher-3-31-26/"
-  },
-  {
     "title": "Pizza Movie",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2960,6 +2860,16 @@
     "url": "https://www.americancinematheque.com/now-showing/moment-of-terror-04-04-2026/"
   },
   {
+    "title": "Proof 2025 Award Winners Showcase",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/proof-2025-award-winners-showcase-4-4-26/"
+  },
+  {
     "title": "Cruel Intentions",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3010,6 +2920,16 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-nightmare-beach-4-6-26/"
   },
   {
+    "title": "Touch Me",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-06",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/touch-me-4-6-26/"
+  },
+  {
     "title": "Twin Peaks: Season 2, Ep. 8 and 9",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3028,6 +2948,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/palestine-36-4-8-26/"
+  },
+  {
+    "title": "Touch Me",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/touch-me-4-8-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 8 and 9",
@@ -3098,6 +3028,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/jawbreaker-4-11-26/"
+  },
+  {
+    "title": "Haley Z. Boston Presents Eyes Without a Face",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/haley-z-boston-presents-eyes-without-a-face-4-12-26/"
   },
   {
     "title": "Palestine 36",
