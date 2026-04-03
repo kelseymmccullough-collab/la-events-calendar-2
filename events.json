@@ -1,25 +1,5 @@
 [
   {
-    "title": "Project Hail Mary 70mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3282?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Golden Eye/The Feathered Serpent",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3467?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -520,16 +500,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3490?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Exile             /The Prisoner of Zenda (1937)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-2-the-exile-the-prisoner-of-zenda/"
-  },
-  {
     "title": "Kill Bill: The Whole Bloody Affair",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -980,74 +950,24 @@
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
-    "title": "Blue Velvet",
+    "title": "Arco (English Dubbed)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-04-03",
-    "time": "4:00 PM",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3840890/"
+    "url": "https://vidiotsfoundation.org/purchase/3863145/"
   },
   {
-    "title": "Jesus Christ Superstar",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3840888/"
-  },
-  {
-    "title": "DJ Ahmet",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863146/"
-  },
-  {
-    "title": "DJ Ahmet",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863147/"
-  },
-  {
-    "title": "DJ Ahmet",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3833936/"
-  },
-  {
-    "title": "DJ Ahmet",
+    "title": "Arco (English Dubbed)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-04-05",
-    "time": "7:30 PM",
+    "time": "1:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863160/"
-  },
-  {
-    "title": "The Blade",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3867501/"
+    "url": "https://vidiotsfoundation.org/purchase/3863158/"
   },
   {
     "title": "James and the Giant Peach",
@@ -1540,6 +1460,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3915346/"
   },
   {
+    "title": "Cinderella",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3950449/"
+  },
+  {
     "title": "Other Music",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1598,6 +1528,26 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3860606/"
+  },
+  {
+    "title": "Trains",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3946021/"
+  },
+  {
+    "title": "Trains",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889628/"
   },
   {
     "title": "The Apostle",
@@ -1688,6 +1638,16 @@
     "time": "7:20 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3941758/"
+  },
+  {
+    "title": "Alpha",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-30",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3950326/"
   },
   {
     "title": "The Big Lebowski",
@@ -1798,6 +1758,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
+  },
+  {
+    "title": "After Dark, My Sweet on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3939421/"
+  },
+  {
+    "title": "Short Films by Athina Rachel Tsangari",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3950387/"
+  },
+  {
+    "title": "Harvest",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3950408/"
   },
   {
     "title": "Psycho",
@@ -2400,6 +2390,16 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
+    "title": "Rhapsody in August(Hachigatsu no kyoshikyoku) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
     "title": "The Wages of Fear in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2750,26 +2750,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Perceval Le Gallois",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perceval-le-gallois-4-2-26/"
-  },
-  {
-    "title": "Down There",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/down-there-4-2-26/"
-  },
-  {
     "title": "The Circus",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2790,16 +2770,6 @@
     "url": "https://www.americancinematheque.com/now-showing/dry-leaf-4-3-26/"
   },
   {
-    "title": "Miroirs No. 3",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-2-26/"
-  },
-  {
     "title": "Twin Peaks: Season 2, Ep. 6 & 7",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2818,6 +2788,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/moment-of-terror-04-04-2026/"
+  },
+  {
+    "title": "The Paper",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-04",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-paper-4-4-26/"
   },
   {
     "title": "Proof 2025 Award Winners Showcase",
@@ -3060,7 +3040,7 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-14-26/"
   },
   {
-    "title": "Erupcja",
+    "title": "Erupcja + Q&a",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -3300,7 +3280,7 @@
     "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-26-26/"
   },
   {
-    "title": "Spring Breakers",
+    "title": "Cinematic Void Presents Spring Breakers",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
