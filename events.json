@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3390?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Pride of the Blue Grass/Federal Fugitives",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3438?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "American Graffiti",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "11:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3492?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Tropical Heat Wave",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -500,26 +470,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3490?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Kill Bill: The Whole Bloody Affair",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "5:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-3-kill-bill-the-whole-bloody-affair/"
-  },
-  {
-    "title": "Reservoir Dogs",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-3-reservoir-dogs-midnight-show/"
-  },
-  {
     "title": "Casablanca",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -950,14 +900,14 @@
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
-    "title": "Arco (English Dubbed)",
+    "title": "Mary Poppins Sing-Along",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-04-03",
-    "time": "4:30 PM",
+    "date": "2026-04-05",
+    "time": "12:15 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863145/"
+    "url": "https://vidiotsfoundation.org/purchase/3840919/"
   },
   {
     "title": "Arco (English Dubbed)",
@@ -968,76 +918,6 @@
     "time": "1:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3863158/"
-  },
-  {
-    "title": "James and the Giant Peach",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3833917/"
-  },
-  {
-    "title": "Shin Godzilla",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3833918/"
-  },
-  {
-    "title": "Pretty Woman",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3833919/"
-  },
-  {
-    "title": "The Serpent’s Skin",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "The Serpent’s Skin",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3833925/"
-  },
-  {
-    "title": "Time Masters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3833923/"
-  },
-  {
-    "title": "Mary Poppins Sing-Along",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "12:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3840919/"
   },
   {
     "title": "Harvey",
@@ -1750,6 +1630,46 @@
     "url": "https://vidiotsfoundation.org/purchase/3865605/"
   },
   {
+    "title": "Flight of the Navigator",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3953318/"
+  },
+  {
+    "title": "Jeff Parker – ETA IVtet – Happy Today",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3941789/"
+  },
+  {
+    "title": "Jeff Parker – ETA IVtet – Happy Today",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3941790/"
+  },
+  {
+    "title": "Cairo Station",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "2:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3953317/"
+  },
+  {
     "title": "The Young Girls of Rochefort",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1788,26 +1708,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
-  },
-  {
-    "title": "Psycho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Ikiru (To Live)in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Lupin the 3rd: The Castle of Cagliostro",
@@ -2750,36 +2650,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Circus",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-circus-4-3-26/"
-  },
-  {
-    "title": "Dry Leaf",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dry-leaf-4-3-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 6 & 7",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-03",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-6-7-4-3-26/"
-  },
-  {
     "title": "Moment of Terror",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2960,6 +2830,16 @@
     "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-10-26/"
   },
   {
+    "title": "Sudden Rain",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-11",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/sudden-rain-4-11-26/"
+  },
+  {
     "title": "Dry Leaf",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3040,7 +2920,7 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-14-26/"
   },
   {
-    "title": "Erupcja + Q&a",
+    "title": "Erupcja",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -3128,6 +3008,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/titicut-follies-4-19-26/"
+  },
+  {
+    "title": "Fire at Sea",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/fire-at-sea-04-19-2026/"
   },
   {
     "title": "Everybody to Kenmure Street",
@@ -3238,6 +3128,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-10-11-4-24-26/"
+  },
+  {
+    "title": "Sound of the Mountain",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/sound-of-the-mountain-4-25-26/"
   },
   {
     "title": "\"Black Film\" / Early Works",
@@ -3477,7 +3377,7 @@
     "date": "2026-05-25",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-killer/"
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-killer-5-25-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 21 and 22",
