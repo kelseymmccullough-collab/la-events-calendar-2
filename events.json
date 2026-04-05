@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-04",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3455?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3405?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Duke of the Navy/Desperate Cargo",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3440?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "American Graffiti",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "11:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3453?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Tropical Heat Wave",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-05",
     "time": "10:00 AM",
     "description": "",
@@ -474,36 +434,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-04-04",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-4-casablanca-family-matinee/"
-  },
-  {
-    "title": "Kill Bill: The Whole Bloody Affair",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "5:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-4-kill-bill-the-whole-bloody-affair/"
-  },
-  {
-    "title": "Night of the Lepus",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-4-night-of-the-lepus-midnight-show/"
-  },
-  {
-    "title": "Casablanca",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-04-05",
     "time": "2:00 PM",
     "description": "",
@@ -898,86 +828,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
-  },
-  {
-    "title": "Mary Poppins Sing-Along",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "12:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3840919/"
-  },
-  {
-    "title": "Arco (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863158/"
-  },
-  {
-    "title": "Harvey",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3840918/"
-  },
-  {
-    "title": "Miroirs No. 3",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3863159/"
-  },
-  {
-    "title": "Miroirs No. 3",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3889026/"
-  },
-  {
-    "title": "Miroirs No. 3",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3889028/"
-  },
-  {
-    "title": "RRR",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "RRR",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860500/"
   },
   {
     "title": "Gummo",
@@ -1708,36 +1558,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
-  },
-  {
-    "title": "Lupin the 3rd: The Castle of Cagliostro",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Follow That Birdwith director Ken Kwapis",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Lower Depths",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "To Kill a Mockingbird in 35mm",
@@ -2648,46 +2468,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Moment of Terror",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/moment-of-terror-04-04-2026/"
-  },
-  {
-    "title": "The Paper",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-paper-4-4-26/"
-  },
-  {
-    "title": "Proof 2025 Award Winners Showcase",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/proof-2025-award-winners-showcase-4-4-26/"
-  },
-  {
-    "title": "Cruel Intentions",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-04",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cruel-intentions-4-4-26/"
   },
   {
     "title": "Addison Heimann Presents Onibaba",
