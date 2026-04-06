@@ -1,25 +1,5 @@
 [
   {
-    "title": "Tropical Heat Wave",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3456?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3406?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -430,26 +410,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3490?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Casablanca",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-5-casablanca-family-matinee/"
-  },
-  {
-    "title": "Kill Bill: The Whole Bloody Affair",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-5-kill-bill-the-whole-bloody-affair/"
-  },
-  {
     "title": "I Cover the Waterfront             /Daniel Boone (1936)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -828,16 +788,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
-  },
-  {
-    "title": "Gummo",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Daughters of the Dust",
@@ -1558,36 +1508,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
-  },
-  {
-    "title": "To Kill a Mockingbird in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Birthday Party in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Sanshiro SugatawithSanshiro Sugata Part II",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Housemaid",
@@ -2468,36 +2388,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Addison Heimann Presents Onibaba",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/addison-heimann-presents-onibaba-4-5-26/"
-  },
-  {
-    "title": "Exit 8",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/exit-8-4-5-26/"
-  },
-  {
-    "title": "Fear and Loathing in Las Vegas",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-05",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/fear-and-loathing-in-las-vegas-4-5-26/"
   },
   {
     "title": "Cinematic Void Presents: Nightmare Beach",
