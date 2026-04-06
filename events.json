@@ -5,19 +5,9 @@
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-04-06",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3397?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-06",
     "time": "7:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3397?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3398?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -625,19 +615,9 @@
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-04-06",
-    "time": "12:00 PM",
+    "time": "3:45 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3397?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-06",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3397?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3398?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -647,7 +627,7 @@
     "date": "2026-04-06",
     "time": "4:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3397?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3398?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
@@ -657,7 +637,7 @@
     "date": "2026-04-06",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3397?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3398?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "I Cover the Waterfront             /Daniel Boone (1936)",
@@ -666,6 +646,16 @@
     "type": "film",
     "date": "2026-04-06",
     "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-6-i-cover-the-waterfront-daniel-boone/"
+  },
+  {
+    "title": "I Cover the Waterfront             /Daniel Boone (1936)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-06",
+    "time": "9:10 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-6-i-cover-the-waterfront-daniel-boone/"
   },
@@ -684,8 +674,28 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
+    "date": "2026-04-07",
+    "time": "9:10 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-7-blonde-ransom-girl-on-the-spot/"
+  },
+  {
+    "title": "Blonde Ransom             /Girl on the Spot",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
     "date": "2026-04-08",
     "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-8-blonde-ransom-girl-on-the-spot/"
+  },
+  {
+    "title": "Blonde Ransom             /Girl on the Spot",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-08",
+    "time": "9:10 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-8-blonde-ransom-girl-on-the-spot/"
   },
@@ -704,8 +714,28 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
+    "date": "2026-04-09",
+    "time": "9:10 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-9-the-old-fashioned-way-misbehaving-ladies/"
+  },
+  {
+    "title": "The Old Fashioned Way             /Misbehaving Ladies",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
     "date": "2026-04-10",
     "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-10-the-old-fashioned-way-misbehaving-ladies/"
+  },
+  {
+    "title": "The Old Fashioned Way             /Misbehaving Ladies",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "8:40 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-10-the-old-fashioned-way-misbehaving-ladies/"
   },
@@ -780,6 +810,16 @@
     "url": "https://thenewbev.com/program/april-12-little-annie-rooney-sparrows/"
   },
   {
+    "title": "Little Annie Rooney (Silent with Live Music Score)             /Sparrows (Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "8:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-12-little-annie-rooney-sparrows/"
+  },
+  {
     "title": "The Canadian (Silent with Live Music Score)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -804,8 +844,28 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
+    "date": "2026-04-14",
+    "time": "9:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-14-the-crime-of-the-century-her-bodyguard/"
+  },
+  {
+    "title": "The Crime of the Century             /Her Bodyguard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
     "date": "2026-04-15",
     "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-15-the-crime-of-the-century-her-bodyguard/"
+  },
+  {
+    "title": "The Crime of the Century             /Her Bodyguard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-15",
+    "time": "9:15 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-15-the-crime-of-the-century-her-bodyguard/"
   },
@@ -820,12 +880,42 @@
     "url": "https://thenewbev.com/program/april-16-the-mystery-of-the-13th-guest-the-living-ghost-the-face-of-marble/"
   },
   {
+    "title": "The Mystery of the 13th Guest             /The Living Ghost             /The Face of Marble",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-16",
+    "time": "9:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-16-the-mystery-of-the-13th-guest-the-living-ghost-the-face-of-marble/"
+  },
+  {
+    "title": "The Mystery of the 13th Guest             /The Living Ghost             /The Face of Marble",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-16",
+    "time": "10:20 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-16-the-mystery-of-the-13th-guest-the-living-ghost-the-face-of-marble/"
+  },
+  {
     "title": "Three Wise Girls             /Men in Her Life",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
     "date": "2026-04-17",
     "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-17-three-wise-girls-men-in-her-life/"
+  },
+  {
+    "title": "Three Wise Girls             /Men in Her Life",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "8:40 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-17-three-wise-girls-men-in-her-life/"
   },
@@ -856,6 +946,16 @@
     "type": "film",
     "date": "2026-04-18",
     "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-18-three-wise-girls-men-in-her-life/"
+  },
+  {
+    "title": "Three Wise Girls             /Men in Her Life",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "8:40 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-18-three-wise-girls-men-in-her-life/"
   },
@@ -900,6 +1000,16 @@
     "url": "https://thenewbev.com/program/april-20-detective-kitty-oday-bowery-champs/"
   },
   {
+    "title": "Detective Kitty O’Day             /Bowery Champs",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-20",
+    "time": "9:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-20-detective-kitty-oday-bowery-champs/"
+  },
+  {
     "title": "5 Card Stud             /Rough Night in Jericho (IB Tech Print)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -914,8 +1024,28 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
+    "date": "2026-04-21",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-21-5-card-stud-rough-night-in-jericho/"
+  },
+  {
+    "title": "5 Card Stud             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
     "date": "2026-04-22",
     "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-22-5-card-stud-rough-night-in-jericho/"
+  },
+  {
+    "title": "5 Card Stud             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-22",
+    "time": "9:45 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-22-5-card-stud-rough-night-in-jericho/"
   },
@@ -934,8 +1064,28 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
+    "date": "2026-04-23",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-23-training-day-narc/"
+  },
+  {
+    "title": "Training Day             /Narc",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
     "date": "2026-04-24",
     "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-24-training-day-narc/"
+  },
+  {
+    "title": "Training Day             /Narc",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "8:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-24-training-day-narc/"
   },
@@ -970,6 +1120,16 @@
     "url": "https://thenewbev.com/program/april-25-training-day-narc/"
   },
   {
+    "title": "Training Day             /Narc",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-25",
+    "time": "8:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-25-training-day-narc/"
+  },
+  {
     "title": "Shadow of the Vampire",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1000,6 +1160,16 @@
     "url": "https://thenewbev.com/program/april-26-high-society-pride-of-the-blue-grass/"
   },
   {
+    "title": "High Society (1955)             /Pride of the Blue Grass (1954)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-26-high-society-pride-of-the-blue-grass/"
+  },
+  {
     "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1014,8 +1184,48 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
+    "date": "2026-04-27",
+    "time": "9:05 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-27-the-ape-man-voodoo-man-bela-lugosi-meets-a-brooklyn-gorilla/"
+  },
+  {
+    "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-27",
+    "time": "10:25 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-27-the-ape-man-voodoo-man-bela-lugosi-meets-a-brooklyn-gorilla/"
+  },
+  {
+    "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
     "date": "2026-04-28",
     "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-28-the-ape-man-voodoo-man-bela-lugosi-meets-a-brooklyn-gorilla/"
+  },
+  {
+    "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-28",
+    "time": "9:05 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-28-the-ape-man-voodoo-man-bela-lugosi-meets-a-brooklyn-gorilla/"
+  },
+  {
+    "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-28",
+    "time": "10:25 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-28-the-ape-man-voodoo-man-bela-lugosi-meets-a-brooklyn-gorilla/"
   },
@@ -1034,8 +1244,28 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
+    "date": "2026-04-29",
+    "time": "9:25 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-29-make-me-a-star-dont-gamble-with-strangers/"
+  },
+  {
+    "title": "Make Me a Star             /Don’t Gamble with Strangers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
     "date": "2026-04-30",
     "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
+  },
+  {
+    "title": "Make Me a Star             /Don’t Gamble with Strangers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-04-30",
+    "time": "9:25 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
@@ -1070,6 +1300,46 @@
     "url": "https://vidiotsfoundation.org/purchase/3889031/"
   },
   {
+    "title": "The Moment",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-09",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889031/"
+  },
+  {
+    "title": "The Moment",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-09",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889031/"
+  },
+  {
+    "title": "The Moment",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-09",
+    "time": "1:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889031/"
+  },
+  {
+    "title": "The Moment",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-09",
+    "time": "10:10 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889031/"
+  },
+  {
     "title": "Lady Snowblood",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1086,6 +1356,16 @@
     "type": "film",
     "date": "2026-04-10",
     "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889035/"
+  },
+  {
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-10",
+    "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3889035/"
   },
@@ -1220,6 +1500,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3860597/"
   },
   {
+    "title": "Outerlands",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-15",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3860597/"
+  },
+  {
     "title": "Enter the Void",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1260,6 +1550,26 @@
     "url": "https://vidiotsfoundation.org/purchase/3889553/"
   },
   {
+    "title": "Dead Lover",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889553/"
+  },
+  {
+    "title": "Dead Lover",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889553/"
+  },
+  {
     "title": "Super Mario Bros.",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1286,6 +1596,36 @@
     "type": "film",
     "date": "2026-04-18",
     "time": "1:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889599/"
+  },
+  {
+    "title": "Other Music",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889599/"
+  },
+  {
+    "title": "Other Music",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "1:45PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3889599/"
+  },
+  {
+    "title": "Other Music",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-18",
+    "time": "4:30PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3889599/"
   },
@@ -1336,6 +1676,16 @@
     "type": "film",
     "date": "2026-04-19",
     "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3946021/"
+  },
+  {
+    "title": "Trains",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-19",
+    "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3946021/"
   },
@@ -1410,6 +1760,36 @@
     "url": "https://vidiotsfoundation.org/purchase/3941748/"
   },
   {
+    "title": "Alpha",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "7:20 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3941748/"
+  },
+  {
+    "title": "Alpha",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3941748/"
+  },
+  {
+    "title": "Alpha",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3941748/"
+  },
+  {
     "title": "The Big Lebowski",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1436,6 +1816,16 @@
     "type": "film",
     "date": "2026-04-24",
     "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3895056/"
+  },
+  {
+    "title": "Numbskull Revolution",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-24",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3895056/"
   },
@@ -1510,6 +1900,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3941789/"
   },
   {
+    "title": "Jeff Parker – ETA IVtet – Happy Today",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3941789/"
+  },
+  {
     "title": "Cairo Station",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1558,16 +1958,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
-  },
-  {
-    "title": "The Housemaid",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-06",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Housemaid",
