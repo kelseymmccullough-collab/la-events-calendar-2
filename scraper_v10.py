@@ -219,10 +219,8 @@ def scrape_new_beverly():
                 time_pattern = r'(\d{1,2}:\d{2}\s*(?:am|pm))'
                 times = re.findall(time_pattern, section_text, re.I)
                 
-                if times:
-                    time_str = times[0].upper()
-                else:
-                    time_str = "7:30 PM"
+                if not times:
+                    times = ["7:30 PM"]  # Default
                 
                 # Try to find the event URL - look for link on the title
                 event_url = default_url
@@ -246,18 +244,22 @@ def scrape_new_beverly():
                                 event_url = f"https://thenewbev.com{href}"
                             break
                 
-                event = {
-                    "title": title,
-                    "venue": venue_name,
-                    "venueShort": venue_short,
-                    "type": event_type,
-                    "date": date_str,
-                    "time": time_str,
-                    "description": "",
-                    "url": event_url
-                }
-                events.append(event)
-                print(f"    Found: {title} on {date_str} at {time_str}")
+                # Create an event for EACH showtime
+                for time_str in times:
+                    time_str = time_str.upper()
+                    
+                    event = {
+                        "title": title,
+                        "venue": venue_name,
+                        "venueShort": venue_short,
+                        "type": event_type,
+                        "date": date_str,
+                        "time": time_str,
+                        "description": "",
+                        "url": event_url
+                    }
+                    events.append(event)
+                    print(f"    Found: {title} on {date_str} at {time_str}")
                 
             except Exception as e:
                 continue
@@ -351,17 +353,11 @@ def scrape_vidiots():
             else:
                 continue
             
-            # Look for time
+            # Look for ALL times
             time_pattern = r'(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm))'
-            time_match = re.search(time_pattern, section_text, re.I)
+            time_matches = re.findall(time_pattern, section_text, re.I)
             
-            if time_match:
-                time_str = time_match.group(1).upper()
-                
-                # DEBUG: Show Jan 24 events with times
-                if day == 24 and month_num == 1:
-                    print(f"    Time found: {time_str}")
-            else:
+            if not time_matches:
                 if day == 24 and month_num == 1:
                     print(f"    No time found for: {title}")
                 continue
@@ -379,18 +375,26 @@ def scrape_vidiots():
                         event_url = f"https://vidiotsfoundation.org{href}"
                     break
             
-            event = {
-                "title": title,
-                "venue": venue_name,
-                "venueShort": venue_short,
-                "type": event_type,
-                "date": date_str,
-                "time": time_str,
-                "description": "",
-                "url": event_url
-            }
-            events.append(event)
-            print(f"    Found: {title} on {date_str} at {time_str}")
+            # Create an event for EACH showtime
+            for time_str in time_matches:
+                time_str = time_str.upper()
+                
+                # DEBUG: Show Jan 24 events with times
+                if day == 24 and month_num == 1:
+                    print(f"    Time found: {time_str}")
+                
+                event = {
+                    "title": title,
+                    "venue": venue_name,
+                    "venueShort": venue_short,
+                    "type": event_type,
+                    "date": date_str,
+                    "time": time_str,
+                    "description": "",
+                    "url": event_url
+                }
+                events.append(event)
+                print(f"    Found: {title} on {date_str} at {time_str}")
         
         print(f"✓ Successfully scraped {len(events)} events from {venue_name}")
         return events
