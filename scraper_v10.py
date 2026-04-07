@@ -304,10 +304,6 @@ def scrape_vidiots():
         all_headers = soup.find_all('h2')
         
         print(f"  Found {len(all_headers)} h2 elements")
-        print(f"  DEBUG: First 10 movie titles found:")
-        for i, header in enumerate(all_headers[:10]):
-            title = header.get_text(strip=True)
-            print(f"    {i+1}. {title}")
         
         for header in all_headers:
             title = header.get_text(strip=True)
@@ -330,38 +326,6 @@ def scrape_vidiots():
             
             section_text = parent.get_text()
             
-            # Look for date patterns - "Sat, Jan 24" format
-            date_pattern = r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*,?\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})'
-            date_match = re.search(date_pattern, section_text, re.I)
-            
-            if date_match:
-                # Convert abbreviated month to full month
-                month_abbr = date_match.group(1).capitalize()
-                month_map = {
-                    'Jan': 'January', 'Feb': 'February', 'Mar': 'March', 'Apr': 'April',
-                    'May': 'May', 'Jun': 'June', 'Jul': 'July', 'Aug': 'August',
-                    'Sep': 'September', 'Oct': 'October', 'Nov': 'November', 'Dec': 'December'
-                }
-                month_name = month_map.get(month_abbr[:3], month_abbr)
-                day = int(date_match.group(2))
-                month_num = datetime.strptime(month_name, '%B').month
-                date_str = f"{current_year}-{month_num:02d}-{day:02d}"
-                
-                # DEBUG: Show what dates we're finding
-                if day == 24 and month_num == 1:
-                    print(f"  DEBUG: Found Jan 24 event: {title}")
-            else:
-                continue
-            
-            # Look for ALL times
-            time_pattern = r'(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm))'
-            time_matches = re.findall(time_pattern, section_text, re.I)
-            
-            if not time_matches:
-                if day == 24 and month_num == 1:
-                    print(f"    No time found for: {title}")
-                continue
-            
             # Try to find the event URL - look for links with "purchase" in them
             event_url = default_url
             links = parent.find_all('a', href=True)
@@ -375,26 +339,57 @@ def scrape_vidiots():
                         event_url = f"https://vidiotsfoundation.org{href}"
                     break
             
-            # Create an event for EACH showtime
-            for time_str in time_matches:
-                time_str = time_str.upper()
+            # Find ALL date-time combinations
+            # Pattern to capture full date: "Wed, Apr 9" or "Thu, Apr 10"
+            date_pattern = r'((?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*,?\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2})'
+            
+            # Split the text by dates to get each date's times
+            date_sections = re.split(date_pattern, section_text, flags=re.I)
+            
+            # date_sections will be: [before_first_date, date1, content1, date2, content2, ...]
+            # Process pairs of (date, content_after_date)
+            for i in range(1, len(date_sections), 2):
+                date_text = date_sections[i]
+                content_after = date_sections[i + 1] if i + 1 < len(date_sections) else ""
                 
-                # DEBUG: Show Jan 24 events with times
-                if day == 24 and month_num == 1:
-                    print(f"    Time found: {time_str}")
+                # Parse the date
+                date_match = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})', date_text, re.I)
+                if not date_match:
+                    continue
                 
-                event = {
-                    "title": title,
-                    "venue": venue_name,
-                    "venueShort": venue_short,
-                    "type": event_type,
-                    "date": date_str,
-                    "time": time_str,
-                    "description": "",
-                    "url": event_url
+                month_abbr = date_match.group(1)[:3].capitalize()
+                month_map = {
+                    'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4,
+                    'May': 5, 'Jun': 6, 'Jul': 7, 'Aug': 8,
+                    'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
                 }
-                events.append(event)
-                print(f"    Found: {title} on {date_str} at {time_str}")
+                month_num = month_map.get(month_abbr, 1)
+                day = int(date_match.group(2))
+                date_str = f"{current_year}-{month_num:02d}-{day:02d}"
+                
+                # Find times in the content after this date (up until the next date marker or end)
+                time_pattern = r'(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm))'
+                time_matches = re.findall(time_pattern, content_after, re.I)
+                
+                if not time_matches:
+                    continue
+                
+                # Create an event for each time on this date
+                for time_str in time_matches:
+                    time_str = time_str.upper()
+                    
+                    event = {
+                        "title": title,
+                        "venue": venue_name,
+                        "venueShort": venue_short,
+                        "type": event_type,
+                        "date": date_str,
+                        "time": time_str,
+                        "description": "",
+                        "url": event_url
+                    }
+                    events.append(event)
+                    print(f"    Found: {title} on {date_str} at {time_str}")
         
         print(f"✓ Successfully scraped {len(events)} events from {venue_name}")
         return events
