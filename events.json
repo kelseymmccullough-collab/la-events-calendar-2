@@ -4,16 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-06",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3398?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-07",
     "time": "12:00 PM",
     "description": "",
@@ -614,40 +604,30 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-06",
-    "time": "4:15 PM",
+    "date": "2026-04-07",
+    "time": "1:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3398?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-06",
+    "date": "2026-04-07",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Drama",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-04-07",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3398?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "I Cover the Waterfront             /Daniel Boone (1936)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-6-i-cover-the-waterfront-daniel-boone/"
-  },
-  {
-    "title": "I Cover the Waterfront             /Daniel Boone (1936)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-06",
-    "time": "9:10 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-6-i-cover-the-waterfront-daniel-boone/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Blonde Ransom             /Girl on the Spot",
@@ -1258,16 +1238,6 @@
     "time": "9:25 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
-  },
-  {
-    "title": "Daughters of the Dust",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3865608/"
   },
   {
     "title": "LAFM Opening Night – Maddie’s Secret",
