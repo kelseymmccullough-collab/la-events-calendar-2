@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-07",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Clancy Street Boys/Come Out Fighting",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3442?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-08",
     "time": "12:00 PM",
     "description": "",
@@ -604,50 +564,30 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-07",
+    "date": "2026-04-08",
     "time": "1:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3393?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-07",
+    "date": "2026-04-08",
     "time": "4:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3393?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-07",
+    "date": "2026-04-08",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3392?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Blonde Ransom             /Girl on the Spot",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-7-blonde-ransom-girl-on-the-spot/"
-  },
-  {
-    "title": "Blonde Ransom             /Girl on the Spot",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "9:10 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-7-blonde-ransom-girl-on-the-spot/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3393?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Blonde Ransom             /Girl on the Spot",
@@ -2790,26 +2730,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks Season 2 Ep. 8 9",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-8-9-4-7-26/"
-  },
-  {
-    "title": "Good Burger",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/good-burger-4-7-26/"
-  },
-  {
     "title": "Palestine 36",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2938,6 +2858,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/haley-z-boston-presents-eyes-without-a-face-4-12-26/"
+  },
+  {
+    "title": "Amelie",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-12",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/amelie-4-12-26/"
   },
   {
     "title": "Dead Lover In Stink O Vision",
@@ -3278,6 +3208,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/inventory-marble-ass-4-25-26/"
+  },
+  {
+    "title": "Travis Wood Presents The Seventh Seal",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/travis-wood-presents-the-seventh-seal-4-26-26/"
   },
   {
     "title": "Miroirs No",
