@@ -1,55 +1,5 @@
 [
   {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3411?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3411?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3411?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Phantom Killer/Blonde Comet",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3471?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Car Wash",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3457?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Pinocchio",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -714,60 +664,30 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-10",
-    "time": "1:15 PM",
+    "date": "2026-04-11",
+    "time": "12:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3411?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-10",
-    "time": "4:15 PM",
+    "date": "2026-04-11",
+    "time": "3:45 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3411?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-10",
-    "time": "8:00 PM",
+    "date": "2026-04-11",
+    "time": "7:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3411?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Old Fashioned Way             /Misbehaving Ladies",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-10-the-old-fashioned-way-misbehaving-ladies/"
-  },
-  {
-    "title": "The Old Fashioned Way             /Misbehaving Ladies",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "8:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-10-the-old-fashioned-way-misbehaving-ladies/"
-  },
-  {
-    "title": "Reservoir Dogs",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-10-reservoir-dogs-midnight-show/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Cartoon Club",
@@ -1290,46 +1210,6 @@
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
-    "title": "My Neighbor Totoro (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3857743/"
-  },
-  {
-    "title": "Ninotchka",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3857728/"
-  },
-  {
-    "title": "Kramer vs. Kramer",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3857735/"
-  },
-  {
-    "title": "Female Trouble",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3867470/"
-  },
-  {
     "title": "LAFM – Selegna sol",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1807,7 +1687,7 @@
     "date": "2026-04-26",
     "time": "1:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3941789/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Jeff Parker – ETA IVtet – Happy Today",
@@ -1817,7 +1697,7 @@
     "date": "2026-04-26",
     "time": "3:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3941789/"
+    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Cairo Station",
@@ -1868,26 +1748,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
-  },
-  {
-    "title": "The Housemaid",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Stray Dog(Nora inu) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Spirited Away",
@@ -2700,46 +2560,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "As Long As Youve Got Your Health",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/as-long-as-youve-got-your-health-4-10-26/"
-  },
-  {
-    "title": "Palestine",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/palestine-36-4-10-26/"
-  },
-  {
-    "title": "Kontinental",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/kontinental-25-4-10-26/"
-  },
-  {
-    "title": "Miroirs No",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-10-26/"
-  },
-  {
     "title": "Sudden Rain",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3198,6 +3018,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/on-body-and-soul-4-29-26/"
+  },
+  {
+    "title": "The Greg Proops Film Club Presents Women On The Verge Of A Nervous Breakdown",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-04-30",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-women-on-the-verge-of-a-nervous-breakdown-4-30-26/"
   },
   {
     "title": "Twin Peaks Season 2 Ep. 12 13",
