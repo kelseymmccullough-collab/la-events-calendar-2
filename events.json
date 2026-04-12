@@ -4,66 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-11",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3461?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Penrod and Sam/The Panther's Claw",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3475?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Car Wash",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3458?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Pinocchio",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-12",
     "time": "10:00 AM",
     "description": "",
@@ -664,70 +604,30 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-11",
+    "date": "2026-04-12",
     "time": "12:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3428?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-11",
+    "date": "2026-04-12",
     "time": "3:45 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3428?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Drama",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-11",
+    "date": "2026-04-12",
     "time": "7:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3427?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Cartoon Club",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-11-cartoon-club/"
-  },
-  {
-    "title": "Animal Crackers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-11-animal-crackers-family-matinee/"
-  },
-  {
-    "title": "Heart to Heart (1928)(Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-11-heart-to-heart/"
-  },
-  {
-    "title": "Tenebrae",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-11-tenebrae-midnight-show/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3428?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Animal Crackers",
@@ -1208,56 +1108,6 @@
     "time": "9:25 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
-  },
-  {
-    "title": "LAFM – Selegna sol",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-12",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Finding Nemo",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-12",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3888767/"
-  },
-  {
-    "title": "LAFM – isaiah’s phone",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-12",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
-  },
-  {
-    "title": "Who’s Afraid of Virginia Woolf?",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-12",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3867469/"
-  },
-  {
-    "title": "LAFM Closing Night – Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-12",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/coming-soon/"
   },
   {
     "title": "Sweet 16mm: Mid-Century Social Guidance Classics",
@@ -1748,36 +1598,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
-  },
-  {
-    "title": "Spirited Away",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Most Beautiful(Ichiban utsukushiku) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Zodiacwith David Fincher and Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Alfie in 35mm",
@@ -2558,46 +2378,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Sudden Rain",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/sudden-rain-4-11-26/"
-  },
-  {
-    "title": "Beetlejuice",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beetlejuice-4-11-26/"
-  },
-  {
-    "title": "Dry Leaf",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dry-leaf-4-11-26/"
-  },
-  {
-    "title": "Jawbreaker",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-11",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jawbreaker-4-11-26/"
   },
   {
     "title": "Haley Z Boston Presents Eyes Without A Face",
