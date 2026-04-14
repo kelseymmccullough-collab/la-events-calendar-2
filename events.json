@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-13",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3413?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-13",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3413?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-13",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3413?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-14",
     "time": "12:00 PM",
     "description": "",
@@ -560,16 +530,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3493?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Canadian (Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-13-the-canadian/"
-  },
-  {
     "title": "The Crime of the Century             /Her Bodyguard",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1008,26 +968,6 @@
     "time": "9:25 PM",
     "description": "",
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
-  },
-  {
-    "title": "Sweet 16mm: Mid-Century Social Guidance Classics",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3882989/"
-  },
-  {
-    "title": "Real Women Have Curves",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3889051/"
   },
   {
     "title": "Outerlands",
@@ -1470,6 +1410,106 @@
     "url": "https://vidiotsfoundation.org/purchase/3867517/"
   },
   {
+    "title": "The Warriors",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999473/"
+  },
+  {
+    "title": "The 5,000 Fingers of Dr. T.",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999486/"
+  },
+  {
+    "title": "Days and Nights in the Forest",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999495/"
+  },
+  {
+    "title": "Reality Bites",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999496/"
+  },
+  {
+    "title": "Blue Film",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999501/"
+  },
+  {
+    "title": "Cars",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999502/"
+  },
+  {
+    "title": "Dead Poets Society",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999503/"
+  },
+  {
+    "title": "The Pearl (La Perla)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999504/"
+  },
+  {
+    "title": "Popeye",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999509/"
+  },
+  {
+    "title": "Mamma Mia! on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3951054/"
+  },
+  {
     "title": "After Dark, My Sweet on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1478,6 +1518,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3939421/"
+  },
+  {
+    "title": "Dreams in Nightmares",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999541/"
+  },
+  {
+    "title": "Fatal Attraction",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999581/"
+  },
+  {
+    "title": "Broken Arrow",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999602/"
   },
   {
     "title": "Short Films by Athina Rachel Tsangari",
@@ -1500,14 +1570,64 @@
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
   },
   {
-    "title": "Rocco and His Brothers in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Chicken Run",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-04-13",
-    "time": "2:30 PM",
+    "date": "2026-05-23",
+    "time": "1:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/3999609/"
+  },
+  {
+    "title": "The Karate Kid",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999625/"
+  },
+  {
+    "title": "Austin Powers: International Man of Mystery",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999638/"
+  },
+  {
+    "title": "Child’s Play",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999643/"
+  },
+  {
+    "title": "There Will Be Blood on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999644/"
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999669/"
   },
   {
     "title": "Rocco and His Brothers in 4K",
@@ -2240,26 +2360,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Miami Connection",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-miami-connection-4-13-26/"
-  },
-  {
-    "title": "Kontinental",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/kontinental-25-4-13-26/"
-  },
-  {
     "title": "Twin Peaks Season 2 Ep. 10",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2434,10 +2534,10 @@
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
-    "date": "2026-05-01",
+    "date": "2026-04-21",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/i-dont-hate-las-vegas-anymore/"
+    "url": "https://www.americancinematheque.com/now-showing/i-dont-hate-las-vegas-anymore-4-21-26/"
   },
   {
     "title": "Tsai Ming Liangs Back Home",
