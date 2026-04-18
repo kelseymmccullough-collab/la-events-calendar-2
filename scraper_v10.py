@@ -68,6 +68,7 @@ def scrape_vista_theater():
         soup = BeautifulSoup(page_source, 'html.parser')
         
         events = []
+        seen_events = set()  # Track (title, date, time) to avoid duplicates
         current_year = datetime.now().year
         
         # Find all headers (h2, h3, h4 tags)
@@ -102,6 +103,14 @@ def scrape_vista_theater():
             
             section_text = parent.get_text()
             
+            # Skip if section text is too long (likely grabbed too much of the page)
+            if len(section_text) > 150:
+                continue
+            
+            # Debug: print info for The Drama
+            if 'drama' in title.lower():
+                print(f"    DEBUG Drama: section_text length: {len(section_text)}")
+            
             # Look for date: "Thursday 22, January" or just "22, January"
             date_pattern = r'(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)?\s*(\d{1,2}),?\s+(January|February|March|April|May|June|July|August|September|October|November|December)'
             date_match = re.search(date_pattern, section_text, re.I)
@@ -129,9 +138,15 @@ def scrape_vista_theater():
                             event_url = f"https://ticketing.uswest.veezi.com{href}"
                         break
                 
-                # Create an event for EACH showtime
+                # Create an event for EACH showtime (but skip duplicates)
                 for time_str in time_matches:
                     time_str = time_str.upper()
+                    
+                    # Check if we've already seen this event
+                    event_key = (title, date_str, time_str)
+                    if event_key in seen_events:
+                        continue
+                    seen_events.add(event_key)
                     
                     event = {
                         "title": title,
@@ -276,7 +291,7 @@ def scrape_new_beverly():
 
 
 def scrape_vidiots():
-    """Scrape film screenings from Vidiots website"""
+    """Scrape film screenings from Vidiots website using data-date attributes"""
     
     url = "https://vidiotsfoundation.org/coming-soon/"
     venue_name = "Vidiots"
@@ -298,98 +313,79 @@ def scrape_vidiots():
         soup = BeautifulSoup(page_source, 'html.parser')
         
         events = []
-        current_year = datetime.now().year
+        seen_events = set()
         
-        # Movie titles are in h2 tags
-        all_headers = soup.find_all('h2')
+        # Find all movie containers
+        movie_containers = soup.find_all('div', class_='showtimes-description-inner')
+        print(f"  Found {len(movie_containers)} movie containers")
         
-        print(f"  Found {len(all_headers)} h2 elements")
-        
-        for header in all_headers:
-            title = header.get_text(strip=True)
-            
-            if not title or len(title) < 3:
+        for container in movie_containers:
+            # Get the title from the h2.show-title
+            title_h2 = container.find('h2', class_='show-title')
+            if not title_h2:
                 continue
             
-            # Only skip the main page header, not movie titles
-            if title.lower() == 'coming soon to vidiots':
+            title = title_h2.get_text(strip=True)
+            if not title or title.lower() == 'coming soon to vidiots':
                 continue
             
-            # Get the parent - go up just 1 level to stay in the movie card
-            parent = header.find_parent()
-            if not parent:
-                continue
+            # Find all showtime <li> elements with data-date attribute
+            # These are inside ol.showtimes
+            showtime_lis = container.find_all('li', attrs={'data-date': True})
             
-            # Go up 1 more level to get full movie card
-            if parent.find_parent():
-                parent = parent.find_parent()
-            
-            section_text = parent.get_text()
-            
-            # Try to find the event URL - look for links with "purchase" in them
-            event_url = default_url
-            links = parent.find_all('a', href=True)
-            for link in links:
-                href = link.get('href', '')
-                # Look for purchase links or ticket links
-                if 'purchase' in href or 'ticket' in href.lower():
-                    if href.startswith('http'):
-                        event_url = href
-                    elif href.startswith('/'):
-                        event_url = f"https://vidiotsfoundation.org{href}"
-                    break
-            
-            # Find ALL date-time combinations
-            # Pattern to capture full date: "Wed, Apr 9" or "Thu, Apr 10"
-            date_pattern = r'((?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*,?\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2})'
-            
-            # Split the text by dates to get each date's times
-            date_sections = re.split(date_pattern, section_text, flags=re.I)
-            
-            # date_sections will be: [before_first_date, date1, content1, date2, content2, ...]
-            # Process pairs of (date, content_after_date)
-            for i in range(1, len(date_sections), 2):
-                date_text = date_sections[i]
-                content_after = date_sections[i + 1] if i + 1 < len(date_sections) else ""
-                
-                # Parse the date
-                date_match = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2})', date_text, re.I)
-                if not date_match:
+            for li in showtime_lis:
+                # Get the date from the data-date attribute (Unix timestamp)
+                timestamp = li.get('data-date')
+                if not timestamp:
                     continue
                 
-                month_abbr = date_match.group(1)[:3].capitalize()
-                month_map = {
-                    'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4,
-                    'May': 5, 'Jun': 6, 'Jul': 7, 'Aug': 8,
-                    'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+                try:
+                    # Convert Unix timestamp to date
+                    dt = datetime.fromtimestamp(int(timestamp))
+                    date_str = dt.strftime('%Y-%m-%d')
+                except (ValueError, OSError):
+                    continue
+                
+                # Find the showtime link inside this li
+                showtime_link = li.find('a', class_='showtime')
+                if not showtime_link:
+                    continue
+                
+                # Get the time from the link text
+                time_text = showtime_link.get_text(strip=True)
+                
+                # Parse time like "3:45 pm" or "10:15 pm"
+                time_match = re.search(r'(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm))', time_text, re.I)
+                if not time_match:
+                    continue
+                
+                time_str = time_match.group(1).upper().replace(' ', ' ')
+                # Normalize: "3:45 PM" format
+                time_str = re.sub(r'\s+', ' ', time_str).strip()
+                # Make sure there's a space before AM/PM
+                time_str = re.sub(r'(\d)([AP]M)', r'\1 \2', time_str)
+                
+                # Get the URL
+                event_url = showtime_link.get('href', default_url)
+                
+                # Skip duplicates
+                event_key = (title, date_str, time_str)
+                if event_key in seen_events:
+                    continue
+                seen_events.add(event_key)
+                
+                event = {
+                    "title": title,
+                    "venue": venue_name,
+                    "venueShort": venue_short,
+                    "type": event_type,
+                    "date": date_str,
+                    "time": time_str,
+                    "description": "",
+                    "url": event_url
                 }
-                month_num = month_map.get(month_abbr, 1)
-                day = int(date_match.group(2))
-                date_str = f"{current_year}-{month_num:02d}-{day:02d}"
-                
-                # Find times in the content after this date (up until the next date marker or end)
-                time_pattern = r'(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm))'
-                time_matches = re.findall(time_pattern, content_after, re.I)
-                
-                if not time_matches:
-                    continue
-                
-                # Create an event for each time on this date
-                for time_str in time_matches:
-                    time_str = time_str.upper()
-                    
-                    event = {
-                        "title": title,
-                        "venue": venue_name,
-                        "venueShort": venue_short,
-                        "type": event_type,
-                        "date": date_str,
-                        "time": time_str,
-                        "description": "",
-                        "url": event_url
-                    }
-                    events.append(event)
-                    print(f"    Found: {title} on {date_str} at {time_str}")
+                events.append(event)
+                print(f"    Found: {title} on {date_str} at {time_str}")
         
         print(f"✓ Successfully scraped {len(events)} events from {venue_name}")
         return events
@@ -891,7 +887,7 @@ def scrape_all_venues():
     """Scrape all venues and combine events"""
     
     print("=" * 60)
-    print("Starting LA Events Calendar Scraper v10")
+    print("Starting LA Events Calendar Scraper v11")
     print("=" * 60)
     print()
     
