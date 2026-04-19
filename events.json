@@ -4,66 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-18",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3463?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3496?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3496?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3496?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Mom and Dad",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3450?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Cape Fear",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "11:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3460?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Ghost and Mr. Chicken",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-19",
     "time": "10:00 AM",
     "description": "",
@@ -464,46 +404,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-04-18",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-18-romancing-the-stone-family-matinee/"
-  },
-  {
-    "title": "Three Wise Girls             /Men in Her Life",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-18-three-wise-girls-men-in-her-life/"
-  },
-  {
-    "title": "Three Wise Girls             /Men in Her Life",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "8:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-18-three-wise-girls-men-in-her-life/"
-  },
-  {
-    "title": "Hot Fuzz",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-18-hot-fuzz-midnight-show/"
-  },
-  {
-    "title": "Romancing the Stone",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-04-19",
     "time": "2:00 PM",
     "description": "",
@@ -800,56 +700,6 @@
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
-    "title": "The Land Before Time",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-19",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860606/"
-  },
-  {
-    "title": "Trains",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-19",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3946021/"
-  },
-  {
-    "title": "Trains",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-19",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3889628/"
-  },
-  {
-    "title": "The Apostle",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-19",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860607/"
-  },
-  {
-    "title": "Shall We Dance?",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3860608/"
-  },
-  {
     "title": "Physical Media Mind-Melters",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1114,6 +964,16 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
+    "date": "2026-05-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4006030/"
+  },
+  {
+    "title": "The Stranger",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
     "date": "2026-05-07",
     "time": "7:00 PM",
     "description": "",
@@ -1138,6 +998,46 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3999474/"
+  },
+  {
+    "title": "Mārama",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-01",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4005581/"
+  },
+  {
+    "title": "Mārama",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4005997/"
+  },
+  {
+    "title": "Mārama",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4005998/"
+  },
+  {
+    "title": "Mārama",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4006021/"
   },
   {
     "title": "The 5,000 Fingers of Dr. T.",
@@ -1548,16 +1448,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4012305/"
-  },
-  {
-    "title": "I Live in Fear(Ikimono no kiroku) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Midnight Cowboy in 4K",
@@ -2238,36 +2128,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Miryam Charles Shorts Program Cette Maison",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/miryam-charles-shorts-program-cette-maison-4-18-26/"
-  },
-  {
-    "title": "This Is Not A Fiction 2026 Shorts Program",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/this-is-not-a-fiction-2026-shorts-program-4-18-26/"
-  },
-  {
-    "title": "Boatman Below Sea Level",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/boatman-below-sea-level-4-18-26/"
   },
   {
     "title": "Titicut Follies",
