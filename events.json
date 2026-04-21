@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-20",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3502?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-20",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3502?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-20",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3502?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-21",
     "time": "1:00 PM",
     "description": "",
@@ -360,26 +330,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3490?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Detective Kitty O’Day             /Bowery Champs",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-20-detective-kitty-oday-bowery-champs/"
-  },
-  {
-    "title": "Detective Kitty O’Day             /Bowery Champs",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-20",
-    "time": "9:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-20-detective-kitty-oday-bowery-champs/"
-  },
-  {
     "title": "5 Card Stud (IB Tech Print)             /Rough Night in Jericho (IB Tech Print)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -640,16 +590,6 @@
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
-    "title": "Once Upon a Time in the West",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3915366/"
-  },
-  {
     "title": "An Evening with Lucrecia Martel: The Headless Woman",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -818,6 +758,16 @@
     "time": "2:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3953317/"
+  },
+  {
+    "title": "Chungking Express",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4030080/"
   },
   {
     "title": "The Young Girls of Rochefort",
@@ -1058,6 +1008,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4001200/"
+  },
+  {
+    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-08",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4009780/"
+  },
+  {
+    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "7:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4009797/"
+  },
+  {
+    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4009803/"
   },
   {
     "title": "Popeye",
@@ -1374,16 +1354,6 @@
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
-    "date": "2026-04-20",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Servant in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
     "date": "2026-04-22",
     "time": "2:30 PM",
     "description": "",
@@ -1636,6 +1606,16 @@
     "type": "film",
     "date": "2026-05-09",
     "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Grand Guignol Silent Shorts",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "2:00 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -2000,7 +1980,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "98th Oscars Casting Winner",
+    "title": "One Battle After Another in 70mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2018,26 +1998,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Notturno",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/notturno-4-20-26/"
-  },
-  {
-    "title": "Romeria",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/romeria-4-20-2026/"
   },
   {
     "title": "I Dont Hate Las Vegas Anymore",
@@ -2890,6 +2850,16 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-rollercoaster-6-29-26/"
   },
   {
+    "title": "Cinematic Void Presents Frogs",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-frogs-7-3-26/"
+  },
+  {
     "title": "Summer Clouds",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2908,6 +2878,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-and-eight-7-5-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Desperate Living",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-desperate-living-7-6-26/"
   },
   {
     "title": "A Wifes Heart",
@@ -2930,6 +2910,16 @@
     "url": "https://www.americancinematheque.com/now-showing/dekalog-nine-and-ten-7-12-26/"
   },
   {
+    "title": "Cinematic Void Presents Wild Things",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
+  },
+  {
     "title": "The Approach Of Autumn",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2938,5 +2928,15 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Picnic At Hanging Rock",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-picnic-at-hanging-rock-7-20-26/"
   }
 ]
