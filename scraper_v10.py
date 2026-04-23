@@ -595,212 +595,181 @@ def scrape_american_cinematheque():
         print(f"  Page loaded successfully")
         
         all_events = []
+        seen_events = set()
         page_num = 1
         max_pages = 10  # Safety limit
         
         from selenium.webdriver.common.by import By
         
+        # Track first card title to detect when pagination has actually changed the page
+        previous_first_title = None
+        
         while page_num <= max_pages:
             print(f"  Scraping page {page_num}...")
+            
+            # Wait for cards to actually update by checking that the first card title has changed
+            if page_num > 1:
+                wait_attempts = 0
+                while wait_attempts < 10:
+                    page_source = driver.page_source
+                    soup = BeautifulSoup(page_source, 'html.parser')
+                    cards = soup.find_all('div', class_='seriesEventCardModule')
+                    if cards:
+                        first_h3 = cards[0].find('h3')
+                        if first_h3:
+                            current_first_title = first_h3.get_text(strip=True)
+                            if current_first_title != previous_first_title:
+                                break
+                    time.sleep(1)
+                    wait_attempts += 1
             
             page_source = driver.page_source
             soup = BeautifulSoup(page_source, 'html.parser')
             
+            # Find all individual event cards using the specific class
+            event_cards = soup.find_all('div', class_='seriesEventCardModule')
+            print(f"    Found {len(event_cards)} event cards on page {page_num}")
+            
+            # Track the first title for next iteration's wait check
+            if event_cards:
+                first_h3 = event_cards[0].find('h3')
+                if first_h3:
+                    previous_first_title = first_h3.get_text(strip=True)
+            
             events_found_on_page = 0
-            processed_events = set()
+            cards_skipped = 0
             
-            # Find all "View Event Details" links - these mark event cards
-            view_details_links = soup.find_all('a', string=lambda t: t and 'view event' in t.lower())
-            
-            # Also try finding links that contain the event URL pattern
-            if not view_details_links:
-                view_details_links = soup.find_all('a', href=lambda h: h and '/now-showing/' in h and '?' not in h and h != '/now-showing/')
-            
-            print(f"    Found {len(view_details_links)} event links on page {page_num}")
-            
-            for link in view_details_links:
+            for card in event_cards:
                 try:
-                    href = link.get('href', '')
+                    # Get the card text - this contains date, time, title, venue
+                    # Format: "View Event Details | FRI APR 17, 2026 | 5:00 PM | MY NDA | Los Feliz 3 | description | Los Feliz Theatre | View Event Details"
+                    card_text = card.get_text(separator=' | ', strip=True)
                     
-                    # Skip navigation links
-                    if not href or href == '/now-showing/' or 'event_location=' in href:
+                    # Filter: Only keep events at Los Feliz 3 (in case filter doesn't persist across pages)
+                    if 'Los Feliz 3' not in card_text and 'los feliz 3' not in card_text.lower():
+                        cards_skipped += 1
                         continue
                     
-                    # Build full URL
-                    event_url = href if href.startswith('http') else f"https://www.americancinematheque.com{href}"
-                    
-                    # Skip if we've already processed this URL
-                    if event_url in processed_events:
+                    # Get the title from the h3 element
+                    title_h3 = card.find('h3')
+                    if not title_h3:
                         continue
-                    processed_events.add(event_url)
-                    
-                    # Debug: print the URL being processed
-                    print(f"      Processing URL: {href}")
-                    
-                    # Find the parent container (the event card)
-                    parent = link.parent
-                    card_container = None
-                    
-                    # Go up the DOM to find the card container
-                    for _ in range(10):
-                        if parent is None:
-                            break
-                        
-                        # Check if this container has a heading (title) and date info
-                        has_heading = parent.find(['h1', 'h2', 'h3', 'h4', 'h5'])
-                        has_date = re.search(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)', parent.get_text())
-                        
-                        if has_heading and has_date:
-                            card_container = parent
-                            break
-                        
-                        parent = parent.parent
-                    
-                    if not card_container:
-                        continue
-                    
-                    # Get ONLY this card's text for date/time parsing
-                    container_text = card_container.get_text(separator=' ', strip=True)
-                    
-                    # Find the title from a heading element
-                    title = None
-                    for heading in card_container.find_all(['h1', 'h2', 'h3', 'h4', 'h5']):
-                        heading_text = heading.get_text(strip=True)
-                        # Skip if it's a date or time or "View Event Details"
-                        if heading_text and len(heading_text) > 2:
-                            if not re.match(r'^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|\d)', heading_text):
-                                continue
-                            if 'view event' in heading_text.lower():
-                                continue
-                            # This looks like a title
-                            title = heading_text
-                            break
-                    
-                    # If no heading found, try to extract title from the URL
-                    if not title:
-                        # URL like /now-showing/twin-peaks-season-1-ep-5-2-10-26-630pm/
-                        url_match = re.search(r'/now-showing/([^/]+)/?$', href)
-                        if url_match:
-                            # Convert slug to title
-                            slug = url_match.group(1)
-                            # Remove date/time suffix - matches patterns like:
-                            # -2-10-26-630pm, -2-12-26-700pm, -12-25-26-1pm, etc.
-                            slug = re.sub(r'-\d{1,2}-\d{1,2}-\d{2,4}-\d{1,4}(?:am|pm)?$', '', slug, flags=re.I)
-                            # Also try simpler pattern without time
-                            slug = re.sub(r'-\d{1,2}-\d{1,2}-\d{2,4}$', '', slug, flags=re.I)
-                            # Convert dashes to spaces and title case
-                            title = slug.replace('-', ' ').title()
-                            # Fix common abbreviations
-                            title = re.sub(r'\bEp\b', 'Ep.', title)
+                    title = title_h3.get_text(strip=True)
                     
                     if not title:
                         continue
                     
-                    # Parse date and time FROM THE URL first (most reliable)
-                    # URL formats:
-                    # - With time: /now-showing/twin-peaks-season-1-ep-5-2-10-26-630pm/
-                    # - Without time: /now-showing/in-order-of-disappearance-2-13-26/
-                    date_str = None
-                    time_str = None
+                    # Convert ALL CAPS title to Title Case
+                    # Handle special cases: words with slashes, parentheses, etc.
+                    def smart_title_case(text):
+                        """Convert text to title case, but preserve known abbreviations and articles."""
+                        # Words that should stay lowercase (unless first word)
+                        small_words = {'a', 'an', 'and', 'as', 'at', 'but', 'by', 'for', 'in', 'of', 'on', 'or', 'the', 'to', 'with', 'vs', 'vs.'}
+                        # Known abbreviations to keep uppercase
+                        keep_upper = {'L.A.', 'NYC', 'USA', 'UK', 'TV', 'DVD', 'VHS', 'IMAX', '70MM', '35MM', '16MM', 'Q&A', 'NDA', 'AC', 'MTV'}
+                        
+                        # Split by spaces but preserve original separators
+                        words = text.split(' ')
+                        result = []
+                        for i, word in enumerate(words):
+                            if not word:
+                                result.append(word)
+                                continue
+                            
+                            # Check if this is a known abbreviation
+                            word_clean = word.strip('[](){}.,!?:;')
+                            if word_clean.upper() in keep_upper:
+                                result.append(word.replace(word_clean, word_clean.upper()))
+                                continue
+                            
+                            # Handle slashes - title case each part
+                            if '/' in word:
+                                parts = word.split('/')
+                                new_parts = []
+                                for part in parts:
+                                    if part.upper() in keep_upper:
+                                        new_parts.append(part.upper())
+                                    else:
+                                        new_parts.append(part.capitalize())
+                                result.append('/'.join(new_parts))
+                                continue
+                            
+                            # Lowercase small words (except first word)
+                            if i > 0 and word.lower() in small_words:
+                                result.append(word.lower())
+                            else:
+                                # Title case - handle words with brackets/punctuation
+                                if word.startswith('['):
+                                    # Like [ANCESTOR/...]
+                                    inner = word[1:]
+                                    if '/' in inner:
+                                        parts = inner.rstrip(']').split('/')
+                                        new_parts = [p.capitalize() for p in parts]
+                                        suffix = ']' if word.endswith(']') else ''
+                                        result.append('[' + '/'.join(new_parts) + suffix)
+                                    else:
+                                        result.append('[' + inner.capitalize())
+                                else:
+                                    result.append(word.capitalize())
+                        
+                        return ' '.join(result)
                     
-                    # Try matching URL with time first
-                    url_date_match = re.search(r'-(\d{1,2})-(\d{1,2})-(\d{2,4})-(\d{1,4})(am|pm)/?$', href, re.I)
-                    if url_date_match:
-                        month = int(url_date_match.group(1))
-                        day = int(url_date_match.group(2))
-                        year = int(url_date_match.group(3))
-                        if year < 100:
-                            year += 2000  # Convert 26 to 2026
-                        
-                        time_num = url_date_match.group(4)
-                        period = url_date_match.group(5).upper()
-                        
-                        # Parse time: 630 -> 6:30, 1000 -> 10:00, 1 -> 1:00
-                        if len(time_num) <= 2:
-                            hour = int(time_num)
-                            minutes = "00"
-                        elif len(time_num) == 3:
-                            hour = int(time_num[0])
-                            minutes = time_num[1:3]
+                    title = smart_title_case(title)
+                    
+                    # Get the URL from a link in the card
+                    event_url = base_url
+                    for link in card.find_all('a', href=True):
+                        href = link.get('href', '')
+                        if '/now-showing/' in href and href != '/now-showing/' and '?' not in href:
+                            event_url = href if href.startswith('http') else f"https://www.americancinematheque.com{href}"
+                            break
+                    
+                    # Parse date from card text - format: "FRI APR 17, 2026"
+                    date_match = re.search(
+                        r'(MON|TUE|WED|THU|FRI|SAT|SUN)\s+(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)\s+(\d{1,2}),?\s+(\d{4})',
+                        card_text, re.I
+                    )
+                    
+                    if not date_match:
+                        # Try alternative format
+                        date_match = re.search(
+                            r'(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)\s+(\d{1,2}),?\s+(\d{4})',
+                            card_text, re.I
+                        )
+                        if date_match:
+                            month_abbr = date_match.group(1)[:3].capitalize()
+                            day = int(date_match.group(2))
+                            year = int(date_match.group(3))
                         else:
-                            hour = int(time_num[:-2])
-                            minutes = time_num[-2:]
-                        
-                        date_str = f"{year}-{month:02d}-{day:02d}"
+                            continue
+                    else:
+                        month_abbr = date_match.group(2)[:3].capitalize()
+                        day = int(date_match.group(3))
+                        year = int(date_match.group(4))
+                    
+                    month_map = {
+                        'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4,
+                        'May': 5, 'Jun': 6, 'Jul': 7, 'Aug': 8,
+                        'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+                    }
+                    month_num = month_map.get(month_abbr, 1)
+                    date_str = f"{year}-{month_num:02d}-{day:02d}"
+                    
+                    # Parse time from card text - format: "5:00 PM"
+                    time_match = re.search(r'(\d{1,2}):(\d{2})\s*(AM|PM|am|pm)', card_text)
+                    if time_match:
+                        hour = int(time_match.group(1))
+                        minutes = time_match.group(2)
+                        period = time_match.group(3).upper()
                         time_str = f"{hour}:{minutes} {period}"
                     else:
-                        # Try matching URL without time (e.g., -2-13-26/)
-                        url_date_match = re.search(r'-(\d{1,2})-(\d{1,2})-(\d{2,4})/?$', href)
-                        if url_date_match:
-                            month = int(url_date_match.group(1))
-                            day = int(url_date_match.group(2))
-                            year = int(url_date_match.group(3))
-                            if year < 100:
-                                year += 2000
-                            date_str = f"{year}-{month:02d}-{day:02d}"
-                            # Time will be parsed from container text below
-                    
-                    if date_str:
-                        print(f"        URL date parsed: {date_str}" + (f" at {time_str}" if time_str else " (no time in URL)"))
-                    else:
-                        print(f"        URL date NOT matched for: {href}")
-                    
-                    # Parse time from container text if not found in URL
-                    if not time_str:
-                        time_match = re.search(r'(\d{1,2}):(\d{2})\s*(am|pm|AM|PM)', container_text)
-                        if time_match:
-                            hour = int(time_match.group(1))
-                            minutes = time_match.group(2)
-                            period = time_match.group(3).upper()
-                            time_str = f"{hour}:{minutes} {period}"
-                        else:
-                            time_str = "7:30 PM"  # Default
-                    
-                    # Fallback to parsing date from container text if URL parsing failed
-                    if not date_str:
-                        print(f"        Falling back to container text parsing")
-                        date_patterns = [
-                            r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(\d{4})',
-                            r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(\d{4})',
-                            r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\w*\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+(\d{1,2})',
-                            r'(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2})(?:st|nd|rd|th)?',
-                        ]
-                        
-                        for pattern in date_patterns:
-                            date_match = re.search(pattern, container_text, re.I)
-                            if date_match:
-                                groups = date_match.groups()
-                                month_name = groups[0][:3].capitalize()
-                                day = int(groups[1])
-                                year = int(groups[2]) if len(groups) > 2 and groups[2] else datetime.now().year
-                                
-                                month_map = {
-                                    'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4,
-                                    'May': 5, 'Jun': 6, 'Jul': 7, 'Aug': 8,
-                                    'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
-                                }
-                                month_num = month_map.get(month_name, 1)
-                                date_str = f"{year}-{month_num:02d}-{day:02d}"
-                                break
-                    
-                    if not date_str:
-                        continue
-                    
-                    # Parse time from container if not already set from URL
-                    if not time_str:
                         time_str = "7:30 PM"  # Default
-                        time_match = re.search(r'(\d{1,2}):(\d{2})\s*(am|pm|AM|PM)', container_text)
-                        if time_match:
-                            hour = int(time_match.group(1))
-                            minutes = time_match.group(2)
-                            period = time_match.group(3).upper()
-                            time_str = f"{hour}:{minutes} {period}"
                     
-                    # Create unique key to avoid duplicates
+                    # Skip duplicates
                     event_key = (title, date_str, time_str)
-                    if event_key in processed_events:
+                    if event_key in seen_events:
                         continue
-                    processed_events.add(event_key)
+                    seen_events.add(event_key)
                     
                     event = {
                         "title": title,
@@ -817,41 +786,63 @@ def scrape_american_cinematheque():
                     print(f"    Found: {title} on {date_str} at {time_str}")
                     
                 except Exception as e:
+                    print(f"      Error processing card: {e}")
                     continue
             
-            print(f"    Events found on page {page_num}: {events_found_on_page}")
+            print(f"    Events found on page {page_num}: {events_found_on_page} (skipped {cards_skipped} non-Los Feliz 3 cards)")
             
-            # Try to find and click the next page number
+            # Try to click the next page button (Algolia InstantSearch pagination)
             try:
                 pagination_found = False
                 next_page_num = page_num + 1
                 
-                # Try different pagination selectors
-                pagination_selectors = [
-                    'a.page-numbers',
-                    '.pagination a',
-                    'nav[class*="pagination"] a',
-                    'a[class*="page"]',
-                ]
+                # Scroll to bottom first to make sure pagination is loaded and visible
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(2)
                 
-                for selector in pagination_selectors:
-                    try:
-                        page_links = driver.find_elements(By.CSS_SELECTOR, selector)
-                        for link in page_links:
-                            link_text = link.text.strip()
-                            if link_text == str(next_page_num):
-                                driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", link)
-                                time.sleep(0.5)
-                                link.click()
-                                time.sleep(4)
-                                page_num += 1
-                                pagination_found = True
-                                print(f"    Clicked page {next_page_num}")
-                                break
-                        if pagination_found:
-                            break
-                    except:
-                        continue
+                # The pagination uses ais-Pagination structure with <button> elements
+                # Find all buttons inside ais-Pagination-item elements
+                page_buttons = driver.find_elements(By.CSS_SELECTOR, 'li.ais-Pagination-item button')
+                
+                print(f"    DEBUG: Found {len(page_buttons)} pagination buttons")
+                if page_buttons:
+                    # Get text via JavaScript (innerText/textContent) - more reliable than .text
+                    button_info = []
+                    for btn in page_buttons:
+                        text = btn.text.strip()
+                        inner_text = driver.execute_script("return arguments[0].textContent;", btn).strip()
+                        aria = btn.get_attribute('aria-label') or ''
+                        button_info.append(f"text='{text}' textContent='{inner_text}' aria='{aria}'")
+                    print(f"    DEBUG: Buttons: {button_info}")
+                
+                for button in page_buttons:
+                    button_text = button.text.strip()
+                    button_aria = button.get_attribute('aria-label') or ''
+                    # Use textContent as fallback
+                    button_inner_text = driver.execute_script("return arguments[0].textContent;", button).strip()
+                    
+                    # Match either by text, textContent, or aria-label
+                    is_target = (
+                        button_text == str(next_page_num) or
+                        button_inner_text == str(next_page_num) or
+                        button_aria == str(next_page_num) or
+                        button_aria == f"Page {next_page_num}" or
+                        button_aria.endswith(f" {next_page_num}")
+                    )
+                    
+                    if is_target:
+                        # Scroll to button and click
+                        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", button)
+                        time.sleep(1)
+                        driver.execute_script("arguments[0].click();", button)
+                        time.sleep(4)  # Wait for new page to load
+                        # Scroll back to top to see new content
+                        driver.execute_script("window.scrollTo(0, 0);")
+                        time.sleep(1)
+                        page_num += 1
+                        pagination_found = True
+                        print(f"    Clicked page {next_page_num}")
+                        break
                 
                 if not pagination_found:
                     print(f"  No more pages found after page {page_num}")
