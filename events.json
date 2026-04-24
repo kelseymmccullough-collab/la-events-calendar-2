@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-23",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3505?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3505?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3505?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Spook Busters/Ghost Chasers",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3479?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-24",
     "time": "4:00 PM",
     "description": "",
@@ -300,6 +260,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3530?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Beyond",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-01",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3547?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "RZA’s One Spoon of Chocolate",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -328,6 +298,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3531?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Beyond",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3548?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "RZA’s One Spoon of Chocolate",
@@ -438,26 +418,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3542?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Training Day             /Narc",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-23-training-day-narc/"
-  },
-  {
-    "title": "Training Day             /Narc",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-23-training-day-narc/"
   },
   {
     "title": "Training Day             /Narc",
@@ -660,66 +620,6 @@
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
-    "title": "Alpha",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-24",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3941748/"
-  },
-  {
-    "title": "Alpha",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3941749/"
-  },
-  {
-    "title": "Alpha",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "7:20 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3941758/"
-  },
-  {
-    "title": "Alpha",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4039748/"
-  },
-  {
-    "title": "Alpha",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3950326/"
-  },
-  {
-    "title": "Lady Snowblood",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-24",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3941747/"
-  },
-  {
     "title": "The Big Lebowski",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -728,46 +628,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3999543/"
-  },
-  {
-    "title": "Shaolin Soccer",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-24",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3867505/"
-  },
-  {
-    "title": "Numbskull Revolution",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-24",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3895056/"
-  },
-  {
-    "title": "Numbskull Revolution",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3895057/"
-  },
-  {
-    "title": "Numbskull Revolution",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3895058/"
   },
   {
     "title": "Lilo & Stitch",
@@ -1480,16 +1340,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4012305/"
   },
   {
-    "title": "The Hidden Fortress(Kakushi toride no san-akunin) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Servant in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2110,26 +1960,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Eighty Plus",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/eighty-plus-4-23-26/"
-  },
-  {
-    "title": "Summer Tour",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-23",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/summer-tour-4-23-26/"
-  },
-  {
     "title": "Kontinental '25",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2370,6 +2200,16 @@
     "url": "https://www.americancinematheque.com/now-showing/mad-bills-to-pay-or-destiny-dile-que-no-soy-malo-5-2-26/"
   },
   {
+    "title": "The Decline of Western Civilization",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-decline-of-western-civilization-5-2-26/"
+  },
+  {
     "title": "\"the Beloved Child, or I Play at Being a Married Woman\" / Letters Home",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2388,6 +2228,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/yojimbo-5-3-26/"
+  },
+  {
+    "title": "The Cartoons of Max Fleischer",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-cartoons-of-max-fleischer-5-3-26/"
   },
   {
     "title": "Mad Bills to Pay (or Destiny, Dile Que No Soy Malo)",
@@ -2510,6 +2360,16 @@
     "url": "https://www.americancinematheque.com/now-showing/repast-5-9-26/"
   },
   {
+    "title": "Thunderbolt and Lightfoot",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/thunderbolt-and-lightfoot-5-9-26/"
+  },
+  {
     "title": "Chandler Levack Presents a Thousand Clowns",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2518,6 +2378,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/chandler-levack-presents-a-thousand-clowns-5-10-26/"
+  },
+  {
+    "title": "On Motherhood: a Short Film Program",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-10",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/on-motherhood-a-short-film-program-5-10-26/"
   },
   {
     "title": "Mile End Kicks",
@@ -2620,6 +2490,26 @@
     "url": "https://www.americancinematheque.com/now-showing/the-journey-parts-13-16-5-16-26/"
   },
   {
+    "title": "Overlord",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/overlord-5-16-26/"
+  },
+  {
+    "title": "Silverlake Scream Show Presents Barbarian",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/silverlake-scream-show-presents-barbarian-5-17-26/"
+  },
+  {
     "title": "Cinematic Void Presents J.d.'s Revenge",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2700,6 +2590,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-journey-parts-17-19-5-23-26/"
   },
   {
+    "title": "Bring Me the Head of Alfredo Garcia",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/bring-me-the-head-of-alfredo-garcia-5-23-26/"
+  },
+  {
     "title": "Greg Vrotsos Presents Pale Flower",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2778,6 +2678,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/late-chrysanthemums-5-30-26/"
+  },
+  {
+    "title": "Once Upon a Time in America: Director's Cut",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "5:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/once-upon-a-time-in-america-directors-cut-5-30-26/"
   },
   {
     "title": "Yearning",
