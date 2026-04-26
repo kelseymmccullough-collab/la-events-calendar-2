@@ -4,56 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-25",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3436?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3519?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3519?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3519?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Mr. Cohen Takes a Walk",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3483?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Libeled Lady",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-04-26",
     "time": "10:00 AM",
     "description": "",
@@ -394,46 +344,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-04-25",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-25-raiders-of-the-lost-ark-family-matinee/"
-  },
-  {
-    "title": "Training Day             /Narc",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-25-training-day-narc/"
-  },
-  {
-    "title": "Training Day             /Narc",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "8:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-25-training-day-narc/"
-  },
-  {
-    "title": "Shadow of the Vampire",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-25-shadow-of-the-vampire-midnight-show/"
-  },
-  {
-    "title": "Raiders of the Lost Ark",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-04-26",
     "time": "2:00 PM",
     "description": "",
@@ -560,24 +470,124 @@
     "url": "https://thenewbev.com/program/april-30-make-me-a-star-dont-gamble-with-strangers/"
   },
   {
-    "title": "Flight of the Navigator",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "Unstoppable             /The Taking of Pelham 123",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-04-26",
-    "time": "12:00 PM",
+    "date": "2026-05-01",
+    "time": "6:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3953318/"
+    "url": "https://thenewbev.com/program/may-1-unstoppable-the-taking-of-pelham-123/"
   },
   {
-    "title": "Cairo Station",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "Unstoppable             /The Taking of Pelham 123",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-04-26",
-    "time": "2:45 PM",
+    "date": "2026-05-01",
+    "time": "8:10 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3953317/"
+    "url": "https://thenewbev.com/program/may-1-unstoppable-the-taking-of-pelham-123/"
+  },
+  {
+    "title": "Django Unchained",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-01",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-1-django-unchained-midnight-show/"
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-2-indiana-jones-and-the-temple-of-doom-family-matinee/"
+  },
+  {
+    "title": "Unstoppable             /The Taking of Pelham 123",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-2-unstoppable-the-taking-of-pelham-123/"
+  },
+  {
+    "title": "Unstoppable             /The Taking of Pelham 123",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "8:10 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-2-unstoppable-the-taking-of-pelham-123/"
+  },
+  {
+    "title": "Savage Streets",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-2-savage-streets-midnight-show/"
+  },
+  {
+    "title": "Indiana Jones and the Temple of Doom",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-3-indiana-jones-and-the-temple-of-doom-family-matinee/"
+  },
+  {
+    "title": "Unstoppable             /The Taking of Pelham 123",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-3-unstoppable-the-taking-of-pelham-123/"
+  },
+  {
+    "title": "Unstoppable             /The Taking of Pelham 123",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "8:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-3-unstoppable-the-taking-of-pelham-123/"
+  },
+  {
+    "title": "You’re Not So Tough             /Hit the Road",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-4-youre-not-so-tough-hit-the-road/"
+  },
+  {
+    "title": "You’re Not So Tough             /Hit the Road",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-04",
+    "time": "9:05 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-4-youre-not-so-tough-hit-the-road/"
   },
   {
     "title": "The Young Girls of Rochefort",
@@ -1300,36 +1310,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4012305/"
   },
   {
-    "title": "The Wind Rises",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "A Man for All Seasons in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Bad Sleep Well(Warui yatsu hodo yoku nemuru) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Ordinary People in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1898,46 +1878,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Sound of the Mountain",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/sound-of-the-mountain-4-25-26/"
-  },
-  {
-    "title": "\"black Film\" / Early Works",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/black-film-early-works-4-25-26/"
-  },
-  {
-    "title": "The Travel Companion",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-travel-companion-4-25-26/"
-  },
-  {
-    "title": "\"inventory\" / Marble Ass",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-25",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/inventory-marble-ass-4-25-26/"
   },
   {
     "title": "Travis Wood Presents the Seventh Seal",
@@ -2898,5 +2838,45 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-frogs-7-3-26/"
+  },
+  {
+    "title": "Summer Clouds",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/summer-clouds-7-4-26/"
+  },
+  {
+    "title": "Dekalog: Seven & Eight",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-and-eight-7-5-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Desperate Living",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-desperate-living-7-6-26/"
+  },
+  {
+    "title": "A Wife's Heart",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/a-wifes-heart-7-11-26/"
   }
 ]
