@@ -1,45 +1,5 @@
 [
   {
-    "title": "Libeled Lady",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3437?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3520?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3520?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3520?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Normal",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -340,36 +300,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3542?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Raiders of the Lost Ark",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-26-raiders-of-the-lost-ark-family-matinee/"
-  },
-  {
-    "title": "High Society (1955)             /Pride of the Blue Grass (1954)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-26-high-society-pride-of-the-blue-grass/"
-  },
-  {
-    "title": "High Society (1955)             /Pride of the Blue Grass (1954)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/april-26-high-society-pride-of-the-blue-grass/"
-  },
-  {
     "title": "The Ape Man             /Voodoo Man             /Bela Lugosi Meets A Brooklyn Gorilla",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -590,6 +520,26 @@
     "url": "https://thenewbev.com/program/may-4-youre-not-so-tough-hit-the-road/"
   },
   {
+    "title": "Alpha",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4039748/"
+  },
+  {
+    "title": "Alpha",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-04-30",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3950326/"
+  },
+  {
     "title": "The Young Girls of Rochefort",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -758,16 +708,6 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3999495/"
-  },
-  {
-    "title": "Blue Film",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-02",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999501/"
   },
   {
     "title": "Cars",
@@ -1308,26 +1248,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4012305/"
-  },
-  {
-    "title": "Ordinary People in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Janie Geiser’sTime, a substance",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Marathon Man in 4K",
@@ -1878,46 +1798,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Travis Wood Presents the Seventh Seal",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/travis-wood-presents-the-seventh-seal-4-26-26/"
-  },
-  {
-    "title": "Miroirs No. 3",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/miroirs-no-3-4-26-26/"
-  },
-  {
-    "title": "The Seduction of Mimi",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-seduction-of-mimi-4-26-26/"
-  },
-  {
-    "title": "The Sixth Sense",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-26",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-sixth-sense-4-26-26/"
   },
   {
     "title": "Cinematic Void Presents Spring Breakers",
@@ -2878,5 +2758,45 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/a-wifes-heart-7-11-26/"
+  },
+  {
+    "title": "Dekalog: Nine & Ten",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dekalog-nine-and-ten-7-12-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Wild Things",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
+  },
+  {
+    "title": "The Approach of Autumn",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Picnic at Hanging Rock",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-picnic-at-hanging-rock-7-20-26/"
   }
 ]
