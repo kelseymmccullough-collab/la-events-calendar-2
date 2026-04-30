@@ -1,35 +1,5 @@
 [
   {
-    "title": "Let's Go Navy/Here Come the Marines",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-29",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3486?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-29",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3517?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Normal",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-04-29",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3517?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Normal",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -90,6 +60,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3530?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "From Dusk Till Dawn",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-01",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Beyond",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -138,6 +118,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3531?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "From Dusk Till Dawn",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Beyond",
@@ -310,24 +300,64 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3556?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Make Me a Star             /Don’t Gamble with Strangers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Having a Wild Weekend",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-29",
-    "time": "7:30 PM",
+    "date": "2026-05-16",
+    "time": "10:00 AM",
     "description": "",
-    "url": "https://thenewbev.com/program/april-29-make-me-a-star-dont-gamble-with-strangers/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3559?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Make Me a Star             /Don’t Gamble with Strangers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Having a Wild Weekend",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-04-29",
-    "time": "9:25 PM",
+    "date": "2026-05-17",
+    "time": "10:00 AM",
     "description": "",
-    "url": "https://thenewbev.com/program/april-29-make-me-a-star-dont-gamble-with-strangers/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3560?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Dark Knight",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-22",
+    "time": "11:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3561?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3563?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Dark Knight",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "11:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3562?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3564?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Make Me a Star             /Don’t Gamble with Strangers",
@@ -468,6 +498,636 @@
     "time": "9:05 PM",
     "description": "",
     "url": "https://thenewbev.com/program/may-4-youre-not-so-tough-hit-the-road/"
+  },
+  {
+    "title": "House of Cards (IB Tech Print)             /From Hell to Victory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-5-house-of-cards-from-hell-to-victory/"
+  },
+  {
+    "title": "House of Cards (IB Tech Print)             /From Hell to Victory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-05",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-5-house-of-cards-from-hell-to-victory/"
+  },
+  {
+    "title": "House of Cards (IB Tech Print)             /From Hell to Victory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-6-house-of-cards-from-hell-to-victory/"
+  },
+  {
+    "title": "House of Cards (IB Tech Print)             /From Hell to Victory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-06",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-6-house-of-cards-from-hell-to-victory/"
+  },
+  {
+    "title": "What’s So Bad About Feeling Good? (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-7-whats-so-bad-about-feeling-good/"
+  },
+  {
+    "title": "What’s So Bad About Feeling Good? (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-8-whats-so-bad-about-feeling-good/"
+  },
+  {
+    "title": "Django Unchained",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-08",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-8-django-unchained-midnight-show/"
+  },
+  {
+    "title": "An American Tail: Fievel Goes West",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-9-an-american-tail-fievel-goes-west/"
+  },
+  {
+    "title": "Akeelah and the Bee",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-9-akeelah-and-the-bee-family-matinee/"
+  },
+  {
+    "title": "The Brigand             /Mask of the Avenger",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-9-the-brigand-mask-of-the-avenger/"
+  },
+  {
+    "title": "The Brigand             /Mask of the Avenger",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "8:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-9-the-brigand-mask-of-the-avenger/"
+  },
+  {
+    "title": "The Kentucky Fried Movie",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-9-the-kentucky-fried-movie-midnight-show/"
+  },
+  {
+    "title": "Akeelah and the Bee",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-10",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-10-akeelah-and-the-bee-family-matinee/"
+  },
+  {
+    "title": "The Brigand             /Mask of the Avenger",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-10",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-10-the-brigand-mask-of-the-avenger/"
+  },
+  {
+    "title": "The Brigand             /Mask of the Avenger",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-10",
+    "time": "8:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-10-the-brigand-mask-of-the-avenger/"
+  },
+  {
+    "title": "All the Way Boys             /Convoy Buddies",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-11-all-the-way-boys-convoy-buddies/"
+  },
+  {
+    "title": "All the Way Boys             /Convoy Buddies",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-11-all-the-way-boys-convoy-buddies/"
+  },
+  {
+    "title": "The Groundstar Conspiracy             /P.J. (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-12-the-groundstar-conspiracy-p-j/"
+  },
+  {
+    "title": "The Groundstar Conspiracy             /P.J. (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-12",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-12-the-groundstar-conspiracy-p-j/"
+  },
+  {
+    "title": "The Groundstar Conspiracy             /P.J. (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-13-the-groundstar-conspiracy-p-j/"
+  },
+  {
+    "title": "The Groundstar Conspiracy             /P.J. (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-13",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-13-the-groundstar-conspiracy-p-j/"
+  },
+  {
+    "title": "A Woman of Affairs             /The Single Standard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-14-a-woman-of-affairs-the-single-standard/"
+  },
+  {
+    "title": "A Woman of Affairs             /The Single Standard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-14",
+    "time": "9:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-14-a-woman-of-affairs-the-single-standard/"
+  },
+  {
+    "title": "A Woman of Affairs             /The Single Standard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-15-a-woman-of-affairs-the-single-standard/"
+  },
+  {
+    "title": "A Woman of Affairs             /The Single Standard",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "8:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-15-a-woman-of-affairs-the-single-standard/"
+  },
+  {
+    "title": "Django Unchained",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-15-django-unchained-midnight-show/"
+  },
+  {
+    "title": "Frankenstein",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-16-frankenstein-family-matinee/"
+  },
+  {
+    "title": "Man on Fire",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-16-man-on-fire/"
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-16-the-perks-of-being-a-wallflower-midnight-show/"
+  },
+  {
+    "title": "Frankenstein",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-17-frankenstein-family-matinee/"
+  },
+  {
+    "title": "Man on Fire",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-17-man-on-fire/"
+  },
+  {
+    "title": "I Love Maria             /Aces Go Places IV",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-18-i-love-maria-aces-go-places-iv/"
+  },
+  {
+    "title": "I Love Maria             /Aces Go Places IV",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-18",
+    "time": "9:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-18-i-love-maria-aces-go-places-iv/"
+  },
+  {
+    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-19-tobruk-rough-night-in-jericho/"
+  },
+  {
+    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-19",
+    "time": "9:50 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-19-tobruk-rough-night-in-jericho/"
+  },
+  {
+    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-20-tobruk-rough-night-in-jericho/"
+  },
+  {
+    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-20",
+    "time": "9:50 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-20-tobruk-rough-night-in-jericho/"
+  },
+  {
+    "title": "The Hallelujah Trail (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-21-the-hallelujah-trail/"
+  },
+  {
+    "title": "The Hallelujah Trail (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-22-the-hallelujah-trail/"
+  },
+  {
+    "title": "Django Unchained",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-22",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-22-django-unchained-midnight-show/"
+  },
+  {
+    "title": "Diamonds Are Forever (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-23-diamonds-are-forever-family-matinee/"
+  },
+  {
+    "title": "Show People             /The Matinee Idol",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-23-show-people-the-matinee-idol/"
+  },
+  {
+    "title": "Show People             /The Matinee Idol",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "8:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-23-show-people-the-matinee-idol/"
+  },
+  {
+    "title": "Waxwork",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-23-waxwork-midnight-show/"
+  },
+  {
+    "title": "Diamonds Are Forever (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-24-diamonds-are-forever-family-matinee/"
+  },
+  {
+    "title": "Show People             /The Matinee Idol",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-24-show-people-the-matinee-idol/"
+  },
+  {
+    "title": "Show People             /The Matinee Idol",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "8:25 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-24-show-people-the-matinee-idol/"
+  },
+  {
+    "title": "The Victors",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-25-the-victors/"
+  },
+  {
+    "title": "The Victors",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-26-the-victors/"
+  },
+  {
+    "title": "The Black Arrow             /Fortunes of Captain Blood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-27-the-black-arrow-fortunes-of-captain-blood/"
+  },
+  {
+    "title": "The Black Arrow             /Fortunes of Captain Blood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-27",
+    "time": "9:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-27-the-black-arrow-fortunes-of-captain-blood/"
+  },
+  {
+    "title": "The Black Arrow             /Fortunes of Captain Blood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-28-the-black-arrow-fortunes-of-captain-blood/"
+  },
+  {
+    "title": "The Black Arrow             /Fortunes of Captain Blood",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-28",
+    "time": "9:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-28-the-black-arrow-fortunes-of-captain-blood/"
+  },
+  {
+    "title": "Crimson Tide             /Déjà Vu",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "5:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-29-crimson-tide-deja-vu/"
+  },
+  {
+    "title": "Crimson Tide             /Déjà Vu",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "7:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-29-crimson-tide-deja-vu/"
+  },
+  {
+    "title": "Django Unchained",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-29-django-unchained-midnight-show/"
+  },
+  {
+    "title": "Cinderella (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-30-cinderella-family-matinee/"
+  },
+  {
+    "title": "Crimson Tide             /Déjà Vu",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "5:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-30-crimson-tide-deja-vu/"
+  },
+  {
+    "title": "Crimson Tide             /Déjà Vu",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "7:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-30-crimson-tide-deja-vu/"
+  },
+  {
+    "title": "Princess Mononoke (Subtitled)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-30-princess-mononoke-midnight-show/"
+  },
+  {
+    "title": "Cinderella (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-31",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-31-cinderella-family-matinee/"
+  },
+  {
+    "title": "Crimson Tide             /Déjà Vu",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-31",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
+  },
+  {
+    "title": "Crimson Tide             /Déjà Vu",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-05-31",
+    "time": "8:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
     "title": "The Big Lebowski",
@@ -640,16 +1300,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4040403/"
   },
   {
-    "title": "Blue Film",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-02",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999501/"
-  },
-  {
     "title": "Cars",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -728,16 +1378,6 @@
     "time": "7:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4009797/"
-  },
-  {
-    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-09",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009803/"
   },
   {
     "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
@@ -1240,16 +1880,6 @@
     "url": "https://vidiotsfoundation.org/purchase/3999673/"
   },
   {
-    "title": "Airplane!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999674/"
-  },
-  {
     "title": "Bloodsport",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1294,66 +1924,6 @@
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
-    "date": "2026-04-29",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "La La Land in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-30",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-04-30",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Marathon Man in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
     "date": "2026-05-01",
     "time": "2:30 PM",
     "description": "",
@@ -1366,46 +1936,6 @@
     "type": "film",
     "date": "2026-05-02",
     "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour(En Español) |Tiburón: la recorrido",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-02",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Drop-In Workshops for Families: Mini Food Prop-Making",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-02",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-02",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-02",
-    "time": "1:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -1430,16 +1960,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "A Day of Celebrating the Force",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Tootsie in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1456,16 +1976,6 @@
     "type": "film",
     "date": "2026-05-03",
     "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Member Appreciation Day",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "5:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -1500,56 +2010,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Beyond Life and Death: The Way of True FreedomBook Signing with Author Jet Li",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Red Beard(Akahige) in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1580,36 +2040,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Drop-In Workshops for Families: Mini Food Prop-Making",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-09",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-09",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-09",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Grand Guignol Silent Shorts",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1626,26 +2056,6 @@
     "type": "film",
     "date": "2026-05-09",
     "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "1:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -1680,16 +2090,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Curator’s View Tour: Screenwriting",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-13",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Wages of Fear in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1710,26 +2110,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-14",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-14",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Night and the City in 35mm nitrate",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1740,52 +2120,12 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Community Conversation: Representation in Animation",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Wages of Fear in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
     "date": "2026-05-15",
     "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Drop-in Workshop for Teens: Editing",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "4:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -1810,46 +2150,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Drop-In Workshops for Families: Mini Food Prop-Making",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-16",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-16",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-16",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "InsideJaws: Costuming Characters with Isis Mussenden",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-16",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Robin and Marian in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1866,26 +2166,6 @@
     "type": "film",
     "date": "2026-05-16",
     "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "1:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -1960,52 +2240,12 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-21",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-21",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Hidden Room(akaObsession)",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
     "date": "2026-05-21",
     "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-22",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-22",
-    "time": "1:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -2040,26 +2280,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-23",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-23",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Yellow Balloon",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2076,36 +2296,6 @@
     "type": "film",
     "date": "2026-05-23",
     "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Tactile Filmmaking Workshop: Direct-on-Film Animation + Sound Bath",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "1:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -2180,56 +2370,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-28",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-28",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Visual Description Tours",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Cure in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2250,62 +2390,12 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Calm Morning:The Boy and the Heron",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "9:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Member Preview | Marilyn Monroe: Hollywood Icon",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Boy and the Heron",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
     "date": "2026-05-30",
     "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "ASL Interpreted Tours",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "1:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -2330,26 +2420,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Close-Up Tours:Bong Joon Ho",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "One Battle After Another in 70mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2368,126 +2438,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-04",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-11",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-12",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-13",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-14",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-18",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jaws:The Tour",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "On Body and Soul",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/on-body-and-soul-4-29-26/"
-  },
-  {
-    "title": "The Seduction of Mimi",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-04-29",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-seduction-of-mimi-4-29-26/"
   },
   {
     "title": "The Greg Proops Film Club Presents Women on the Verge of a Nervous Breakdown",
