@@ -1,55 +1,5 @@
 [
   {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3530?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3530?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3530?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "From Dusk Till Dawn",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Beyond",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3547?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Absent-Minded Professor",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -348,36 +298,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Unstoppable             /The Taking of Pelham 123",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-1-unstoppable-the-taking-of-pelham-123/"
-  },
-  {
-    "title": "Unstoppable             /The Taking of Pelham 123",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "8:10 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-1-unstoppable-the-taking-of-pelham-123/"
-  },
-  {
-    "title": "Django Unchained",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-1-django-unchained-midnight-show/"
   },
   {
     "title": "Indiana Jones and the Temple of Doom",
@@ -1100,34 +1020,74 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "The 5,000 Fingers of Dr. T.",
+    "title": "The Stranger",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-05-02",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4005995/"
+  },
+  {
+    "title": "The Stranger",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-02",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4005996/"
+  },
+  {
+    "title": "The Stranger",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-03",
     "time": "1:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999486/"
+    "url": "https://vidiotsfoundation.org/purchase/4006020/"
   },
   {
-    "title": "Days and Nights in the Forest",
+    "title": "The Stranger",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4006030/"
+  },
+  {
+    "title": "The Stranger",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4006036/"
+  },
+  {
+    "title": "Mārama",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-05-02",
-    "time": "3:45 PM",
+    "time": "10:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999495/"
+    "url": "https://vidiotsfoundation.org/purchase/4005998/"
   },
   {
-    "title": "Reality Bites",
+    "title": "Mārama",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-05-15",
-    "time": "4:00 PM",
+    "date": "2026-05-03",
+    "time": "4:15 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4040403/"
+    "url": "https://vidiotsfoundation.org/purchase/4006021/"
   },
   {
     "title": "Cars",
@@ -1268,6 +1228,26 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3999509/"
+  },
+  {
+    "title": "Close-Up",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "5:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4077189/"
+  },
+  {
+    "title": "Tuner",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-09",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://events.humanitix.com/kcrw-partner-screening-tuner"
   },
   {
     "title": "The Sound of Music Sing Along",
@@ -1458,16 +1438,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3950408/"
-  },
-  {
-    "title": "Sir! No Sir!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4001216/"
   },
   {
     "title": "River of Grass",
@@ -1670,7 +1640,7 @@
     "url": "https://vidiotsfoundation.org/purchase/4070994/"
   },
   {
-    "title": "Jurassic Park",
+    "title": "Jurassic Park on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
@@ -1840,6 +1810,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3999673/"
   },
   {
+    "title": "Airplane!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/3999674/"
+  },
+  {
     "title": "Bloodsport",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1878,16 +1858,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4063947/"
-  },
-  {
-    "title": "Marathon Man in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Nausicaä of the Valley of the Wind",
@@ -2400,36 +2370,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Shanghai Express",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/shanghai-express-5-1-26/"
-  },
-  {
-    "title": "The Journey Parts 5-8",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-journey-part-5-6-5-1-26/"
-  },
-  {
-    "title": "Harlan County, USA / American Dream",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/harlan-county-usa-american-dream-5-1-26/"
-  },
-  {
     "title": "Floating Clouds",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2730,6 +2670,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-17-18-5-12-26/"
   },
   {
+    "title": "Magic Hour",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-12",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/magic-hour-05-12-2026/"
+  },
+  {
     "title": "Forge",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2940,6 +2890,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-21-26/"
   },
   {
+    "title": "Blue Heron",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-22",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/blue-heron-05-22-2026/"
+  },
+  {
     "title": "Flowing",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3090,6 +3050,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-21-22-5-28-26/"
   },
   {
+    "title": "Blue Heron",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/blue-heron-05-29-2026/"
+  },
+  {
     "title": "Krzysztof Kieślowski Documentary Shorts Program",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3148,6 +3118,16 @@
     "time": "5:30 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/once-upon-a-time-in-america-directors-cut-5-30-26/"
+  },
+  {
+    "title": "Blue Heron",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-30",
+    "time": "10:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/blue-heron-05-30-2026/"
   },
   {
     "title": "Yearning",
@@ -3388,15 +3368,5 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
-  },
-  {
-    "title": "The Approach of Autumn",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
   }
 ]
