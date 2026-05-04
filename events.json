@@ -1,45 +1,5 @@
 [
   {
-    "title": "The Absent-Minded Professor",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3554?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3532?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3532?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3532?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "RZA’s One Spoon of Chocolate",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -147,7 +107,7 @@
     "date": "2026-05-07",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3578?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "RZA’s One Spoon of Chocolate",
@@ -437,7 +397,7 @@
     "date": "2026-05-23",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3594?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Dark Knight",
@@ -528,36 +488,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Indiana Jones and the Temple of Doom",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-3-indiana-jones-and-the-temple-of-doom-family-matinee/"
-  },
-  {
-    "title": "Unstoppable             /The Taking of Pelham 123",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-3-unstoppable-the-taking-of-pelham-123/"
-  },
-  {
-    "title": "Unstoppable             /The Taking of Pelham 123",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "8:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-3-unstoppable-the-taking-of-pelham-123/"
   },
   {
     "title": "You’re Not So Tough             /Hit the Road",
@@ -1210,36 +1140,6 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "The Stranger",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4006020/"
-  },
-  {
-    "title": "The Stranger",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4006030/"
-  },
-  {
-    "title": "The Stranger",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4006036/"
-  },
-  {
     "title": "Sweet 16mm: Mid-Century Social Guidance Classics",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1258,6 +1158,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3999505/"
+  },
+  {
+    "title": "The Stranger",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4006036/"
   },
   {
     "title": "eXistenZ",
@@ -1470,6 +1380,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4001203/"
   },
   {
+    "title": "Reality Bites",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4040403/"
+  },
+  {
     "title": "Fatal Attraction",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1548,16 +1468,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3999608/"
-  },
-  {
-    "title": "Harvest",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3950408/"
   },
   {
     "title": "River of Grass",
@@ -1738,16 +1648,6 @@
     "time": "12:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4009879/"
-  },
-  {
-    "title": "There Will Be Blood on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999644/"
   },
   {
     "title": "Rear Window",
@@ -1978,46 +1878,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4063947/"
-  },
-  {
-    "title": "Tootsie in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Hireling in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Sanjuro in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Star Wars: Episode V – The Empire Strikes Backwith Billy Dee Williams",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Seven in 4K",
@@ -2458,46 +2318,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Athina Rachel Tsangari Presents Yojimbo",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/yojimbo-5-3-26/"
-  },
-  {
-    "title": "The Cartoons of Max Fleischer",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-cartoons-of-max-fleischer-5-3-26/"
-  },
-  {
-    "title": "Mad Bills to Pay (or Destiny, Dile Que No Soy Malo)",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/mad-bills-to-pay-or-destiny-dile-que-no-soy-malo-5-3-26/"
-  },
-  {
-    "title": "Erupcja",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-03",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/erupcja-5-3-26/"
   },
   {
     "title": "Cinematic Void Presents Shogun Assassin",
@@ -3458,5 +3278,15 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-do-the-right-thing-7-27-26/"
+  },
+  {
+    "title": "Daughters, Wives and a Mother",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/daughters-wives-and-a-mother-8-1-26/"
   }
 ]
