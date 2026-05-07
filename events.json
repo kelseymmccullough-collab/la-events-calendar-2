@@ -1,35 +1,5 @@
 [
   {
-    "title": "Hard Boiled Mahoney/Jail Busters",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3576?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3541?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3541?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "RZA’s One Spoon of Chocolate",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -157,7 +127,7 @@
     "date": "2026-05-09",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3580?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Police Story",
@@ -438,26 +408,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "House of Cards (IB Tech Print)             /From Hell to Victory",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-6-house-of-cards-from-hell-to-victory/"
-  },
-  {
-    "title": "House of Cards (IB Tech Print)             /From Hell to Victory",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-6-house-of-cards-from-hell-to-victory/"
   },
   {
     "title": "What’s So Bad About Feeling Good? (IB Tech Print)",
@@ -1050,16 +1000,6 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "eXistenZ",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4001200/"
-  },
-  {
     "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1098,26 +1038,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4009816/"
-  },
-  {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-09",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009790/"
-  },
-  {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-09",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009796/"
   },
   {
     "title": "Steal This Story, Please!",
@@ -1770,16 +1690,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4063947/"
   },
   {
-    "title": "Seven in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Red Beard(Akahige) in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2208,26 +2118,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Attenberg",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/attenberg-5-6-26/"
-  },
-  {
-    "title": "Chevalier",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-06",
-    "time": "9:15 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/chevalier-5-6-26/"
   },
   {
     "title": "The House in the Woods Ep. 1 & 2",
@@ -2860,6 +2750,26 @@
     "url": "https://www.americancinematheque.com/now-showing/yearning-5-31-26/"
   },
   {
+    "title": "Samson and Delilah",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/samson-and-delilah-06-02-2026/"
+  },
+  {
+    "title": "The New Boy",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-new-boy-06-03-2026/"
+  },
+  {
     "title": "Time of the Wolf",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2868,6 +2778,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/time-of-the-wolf-06-04-2026/"
+  },
+  {
+    "title": "Beau Is Afraid",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/beau-is-afraid-06-06-2026/"
   },
   {
     "title": "\"the Diary of an Unknown Soldier\" / Culloden",
