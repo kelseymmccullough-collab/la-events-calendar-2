@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-07",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3542?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3542?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "White Lightning",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-05-08",
     "time": "1:00 PM",
     "description": "",
@@ -180,6 +150,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3604?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3611?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3611?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Sea Wolf",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -190,6 +180,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3581?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-12",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3612?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3612?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Bowery Battalion/Paris Playboys",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -198,6 +208,46 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3582?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-13",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3613?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3613?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-14",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3614?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "RZA’s One Spoon of Chocolate",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3614?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Doctor Butcher MD/Killing Birds aka Zombie 5",
@@ -408,16 +458,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "What’s So Bad About Feeling Good? (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-7-whats-so-bad-about-feeling-good/"
   },
   {
     "title": "What’s So Bad About Feeling Good? (IB Tech Print)",
@@ -998,56 +1038,6 @@
     "time": "8:55 PM",
     "description": "",
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
-  },
-  {
-    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009780/"
-  },
-  {
-    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-09",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009797/"
-  },
-  {
-    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009798/"
-  },
-  {
-    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009816/"
-  },
-  {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009817/"
   },
   {
     "title": "Popeye",
@@ -2118,26 +2108,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The House in the Woods Ep. 1 & 2",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-house-in-the-woods-ep-1-2-5-7-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 15 & 16",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-15-16-5-7-26/"
   },
   {
     "title": "Erupcja",
