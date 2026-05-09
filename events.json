@@ -1,55 +1,5 @@
 [
   {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3602?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3602?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3602?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Drunken Master",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3579?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Police Story",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3549?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Go West",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -260,6 +210,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3584?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3619?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3619?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "How To Get Ahead in Advertising",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -278,6 +248,26 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3559?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3620?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3620?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Seems Like Old Times",
@@ -300,6 +290,46 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3560?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3621?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3621?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-18",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3625?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3625?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Scarlet Empress",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -310,6 +340,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3588?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-19",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3626?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3626?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Blonde Dynamite/No Holds Barred",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -318,6 +368,46 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3589?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-20",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3627?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3627?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-21",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3628?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Rip",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-05-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3628?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Christine/Maximum Overdrive",
@@ -458,26 +548,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "What’s So Bad About Feeling Good? (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-8-whats-so-bad-about-feeling-good/"
-  },
-  {
-    "title": "Django Unchained",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-8-django-unchained-midnight-show/"
   },
   {
     "title": "An American Tail: Fievel Goes West",
@@ -1040,34 +1110,34 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "Popeye",
+    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-05-09",
-    "time": "2:00 PM",
+    "time": "7:15 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999509/"
+    "url": "https://vidiotsfoundation.org/purchase/4009797/"
   },
   {
-    "title": "Close-Up",
+    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-05-09",
-    "time": "5:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4077189/"
-  },
-  {
-    "title": "Tuner",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-09",
+    "date": "2026-05-10",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://events.humanitix.com/kcrw-partner-screening-tuner"
+    "url": "https://vidiotsfoundation.org/purchase/4009798/"
+  },
+  {
+    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4009816/"
   },
   {
     "title": "The Sound of Music Sing Along",
@@ -1170,16 +1240,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4060967/"
   },
   {
-    "title": "Instructions Not Included",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4001203/"
-  },
-  {
     "title": "Reality Bites",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1238,6 +1298,16 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4060782/"
+  },
+  {
+    "title": "Beef – Season Two",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-16",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://events.humanitix.com/kcrw-partner-screening-beef-season-2"
   },
   {
     "title": "The Rescuers Down Under",
@@ -1680,26 +1750,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4063947/"
   },
   {
-    "title": "Red Beard(Akahige) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Once Upon a Time in Chinawith Jet Li",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Ponyo",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2108,36 +2158,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Erupcja",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/erupcja-5-8-26/"
-  },
-  {
-    "title": "The journey Parts 9-12",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-journey-parts-9-12-5-8-26/"
-  },
-  {
-    "title": "The House in the Woods Ep. 3, 4 & 5",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-08",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-house-in-the-woods-ep-3-4-5-5-8-26/"
   },
   {
     "title": "Repast",
@@ -2570,6 +2590,26 @@
     "url": "https://www.americancinematheque.com/now-showing/the-forgotten-faces-the-war-game-5-24-26/"
   },
   {
+    "title": "The Love Parade",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-love-parade-05-24-2026/"
+  },
+  {
+    "title": "Moulin Rouge!",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/moulin-rouge-05-24-2026/"
+  },
+  {
     "title": "Cinematic Void Presents the Killer",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2720,6 +2760,26 @@
     "url": "https://www.americancinematheque.com/now-showing/yearning-5-31-26/"
   },
   {
+    "title": "Cinematic Void Presents Dead Presidents",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dead-presidents-6-1-26/"
+  },
+  {
+    "title": "Spider",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-01",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/spider-6-1-26/"
+  },
+  {
     "title": "Samson and Delilah",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2728,6 +2788,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/samson-and-delilah-06-02-2026/"
+  },
+  {
+    "title": "The Piano",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-02",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-piano-6-2-26/"
   },
   {
     "title": "The New Boy",
@@ -2740,6 +2810,36 @@
     "url": "https://www.americancinematheque.com/now-showing/the-new-boy-06-03-2026/"
   },
   {
+    "title": "Jackal of Nahueltoro",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-03",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/jackal-of-nahueltoro-06-03-2026/"
+  },
+  {
+    "title": "Criss Cross",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-04",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/criss-cross-06-04-2026/"
+  },
+  {
+    "title": "Shame",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-04",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/shame-6-4-26/"
+  },
+  {
     "title": "Time of the Wolf",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2750,6 +2850,56 @@
     "url": "https://www.americancinematheque.com/now-showing/time-of-the-wolf-06-04-2026/"
   },
   {
+    "title": "Macario",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-04",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/macario-06-04-2026/"
+  },
+  {
+    "title": "The Serpent's Way",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-serpents-way-6-5-26/"
+  },
+  {
+    "title": "Misunderstood",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/misunderstood-6-5-26/"
+  },
+  {
+    "title": "Eureka",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/eureka-06-05-2026/"
+  },
+  {
+    "title": "Palo Y Hueso",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "10:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/palo-y-hueso-06-05-2026/"
+  },
+  {
     "title": "Beau Is Afraid",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2758,6 +2908,86 @@
     "time": "12:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/beau-is-afraid-06-06-2026/"
+  },
+  {
+    "title": "Whisky",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/whisky-06-06-2026/"
+  },
+  {
+    "title": "Fear Strikes Out",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/fear-strikes-out-6-6-26/"
+  },
+  {
+    "title": "The Devil, Probably",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-devil-probably-6-6-26/"
+  },
+  {
+    "title": "The Hunt",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-hunt-6-5-26/"
+  },
+  {
+    "title": "Five Star Final",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/five-star-final-6-7-26/"
+  },
+  {
+    "title": "Boy",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/boy-06-07-2026/"
+  },
+  {
+    "title": "Castration Movie Chapter Iii: Junior Ghosts—premorphic Drift; a Fragmentary Passage",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/castration-movie-chapter-iii-junior-ghostspremorphic-drift-a-fragmentary-passage-06-07-2026/"
+  },
+  {
+    "title": "Letters From a Dead Man",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dead-mans-letters-06-07-2026/"
   },
   {
     "title": "\"the Diary of an Unknown Soldier\" / Culloden",
@@ -2928,115 +3158,5 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-frogs-7-3-26/"
-  },
-  {
-    "title": "Summer Clouds",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-04",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/summer-clouds-7-4-26/"
-  },
-  {
-    "title": "Dekalog: Seven & Eight",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-and-eight-7-5-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Desperate Living",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-desperate-living-7-6-26/"
-  },
-  {
-    "title": "A Wife's Heart",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-wifes-heart-7-11-26/"
-  },
-  {
-    "title": "Dekalog: Nine & Ten",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dekalog-nine-and-ten-7-12-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Wild Things",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
-  },
-  {
-    "title": "The Approach of Autumn",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Picnic at Hanging Rock",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-picnic-at-hanging-rock-7-20-26/"
-  },
-  {
-    "title": "Travelling Actors",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-25",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/travelling-actors-7-25-26/"
-  },
-  {
-    "title": "Cinematic Void Presents Do the Right Thing",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-do-the-right-thing-7-27-26/"
-  },
-  {
-    "title": "Daughters, Wives and a Mother",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/daughters-wives-and-a-mother-8-1-26/"
   }
 ]
