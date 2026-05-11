@@ -1,45 +1,5 @@
 [
   {
-    "title": "Go West",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3556?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3604?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3604?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3604?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "RZA’s One Spoon of Chocolate",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -488,36 +448,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Akeelah and the Bee",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-10-akeelah-and-the-bee-family-matinee/"
-  },
-  {
-    "title": "The Brigand             /Mask of the Avenger",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-10-the-brigand-mask-of-the-avenger/"
-  },
-  {
-    "title": "The Brigand             /Mask of the Avenger",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "8:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-10-the-brigand-mask-of-the-avenger/"
   },
   {
     "title": "All the Way Boys             /Convoy Buddies",
@@ -1000,24 +930,24 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+    "title": "Steal This Story, Please!",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-05-10",
-    "time": "8:00 PM",
+    "date": "2026-05-23",
+    "time": "12:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009798/"
+    "url": "https://vidiotsfoundation.org/purchase/4043542/"
   },
   {
-    "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+    "title": "Steal This Story, Please!",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-05-11",
-    "time": "7:30 PM",
+    "date": "2026-05-24",
+    "time": "1:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009816/"
+    "url": "https://vidiotsfoundation.org/purchase/4043573/"
   },
   {
     "title": "Dreams in Nightmares",
@@ -1028,16 +958,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/3999541/"
-  },
-  {
-    "title": "The Christophers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4040394/"
   },
   {
     "title": "The Christophers",
@@ -1600,16 +1520,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4063947/"
   },
   {
-    "title": "Terms of Endearment in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Wages of Fear in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1978,46 +1888,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Chandler Levack Presents a Thousand Clowns",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/chandler-levack-presents-a-thousand-clowns-5-10-26/"
-  },
-  {
-    "title": "On Motherhood: a Short Film Program",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/on-motherhood-a-short-film-program-5-10-26/"
-  },
-  {
-    "title": "Mile End Kicks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/mile-end-kicks-5-10-26/"
-  },
-  {
-    "title": "Lucila's Film Club Presents Variety",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-10",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/lucilas-film-club-presents-variety-5-10-26/"
   },
   {
     "title": "Cinematic Void Presents the Mystery of Chess Boxing",
@@ -2978,5 +2848,45 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/a-wifes-heart-7-11-26/"
+  },
+  {
+    "title": "Dekalog: Nine & Ten",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dekalog-nine-and-ten-7-12-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Wild Things",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
+  },
+  {
+    "title": "The Approach of Autumn",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Picnic at Hanging Rock",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-picnic-at-hanging-rock-7-20-26/"
   }
 ]
