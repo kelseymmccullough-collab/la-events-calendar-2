@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Sea Wolf",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3581?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3612?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "RZA’s One Spoon of Chocolate",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3612?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Bowery Battalion/Paris Playboys",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -428,26 +398,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Groundstar Conspiracy             /P.J. (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-12-the-groundstar-conspiracy-p-j/"
-  },
-  {
-    "title": "The Groundstar Conspiracy             /P.J. (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "9:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-12-the-groundstar-conspiracy-p-j/"
   },
   {
     "title": "The Groundstar Conspiracy             /P.J. (IB Tech Print)",
@@ -890,36 +840,6 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-23",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4043542/"
-  },
-  {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4043573/"
-  },
-  {
-    "title": "Dreams in Nightmares",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999541/"
-  },
-  {
     "title": "The Christophers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1040,16 +960,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4009917/"
   },
   {
-    "title": "Short Films by Athina Rachel Tsangari",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3950387/"
-  },
-  {
     "title": "Under the Cherry Moon",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1068,6 +978,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4005523/"
+  },
+  {
+    "title": "Jury Duty Presents: Company Retreat",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://events.humanitix.com/kcrw-partner-screening-jury-duty-presents-company-retreat"
   },
   {
     "title": "Silent Friend",
@@ -1188,6 +1108,26 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4064290/"
+  },
+  {
+    "title": "Steal This Story, Please!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-23",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4043542/"
+  },
+  {
+    "title": "Steal This Story, Please!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-24",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4043573/"
   },
   {
     "title": "Chicken Run",
@@ -1340,6 +1280,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4070975/"
   },
   {
+    "title": "Blue Heron",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4070993/"
+  },
+  {
     "title": "Midnight Run",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1468,6 +1418,116 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4063947/"
+  },
+  {
+    "title": "Magic Hour",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127889/"
+  },
+  {
+    "title": "Fox and His Friends",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127644/"
+  },
+  {
+    "title": "The Times of Harvey Milk",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127655/"
+  },
+  {
+    "title": "Five Easy Pieces",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127701/"
+  },
+  {
+    "title": "Ghost Dog: The Way of the Samurai",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127711/"
+  },
+  {
+    "title": "By Hook or by Crook",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127730/"
+  },
+  {
+    "title": "Kids in the Hall: Brain Candy",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127741/"
+  },
+  {
+    "title": "A Weekend with Bill Duke: Deep Cover",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127788/"
+  },
+  {
+    "title": "D.E.B.S.",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127789/"
+  },
+  {
+    "title": "A Weekend with Bill Duke: Predator on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127808/"
+  },
+  {
+    "title": "Working Girls",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127892/"
   },
   {
     "title": "The Wages of Fear in 4K",
@@ -1880,7 +1940,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "All About Eve in 35mm",
+    "title": "All About Eve in 35mm with Lorraine Nicholson",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2190,7 +2250,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Notoriouswith Guillermo Del Toro",
+    "title": "Notoriouswith Guillermo del Toro",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2200,7 +2260,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Shadow of a Doubtwith Guillermo Del Toro",
+    "title": "Shadow of a Doubtwith Guillermo del Toro",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2220,7 +2280,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "North by Northwestwith Guillermo Del Toro",
+    "title": "North by Northwestwith Guillermo del Toro",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2260,7 +2320,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "I Confess in 35mm with Guillermo Del Toro",
+    "title": "I Confess in 35mm with Guillermo del Toro",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2290,7 +2350,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Frenzywith Guillermo Del Toro",
+    "title": "Frenzywith Guillermo del Toro",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2558,26 +2618,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 17 & 18",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-17-18-5-12-26/"
-  },
-  {
-    "title": "Magic Hour",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-12",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/magic-hour-05-12-2026/"
   },
   {
     "title": "Forge",
@@ -3220,6 +3260,16 @@
     "url": "https://www.americancinematheque.com/now-showing/misunderstood-6-5-26/"
   },
   {
+    "title": "Eureka",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/eureka-06-05-2026/"
+  },
+  {
     "title": "Palo Y Hueso",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3558,5 +3608,15 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Picnic at Hanging Rock",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-picnic-at-hanging-rock-7-20-26/"
   }
 ]
