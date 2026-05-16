@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3619?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3619?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "How To Get Ahead in Advertising",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3586?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Having a Wild Weekend",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -67,7 +37,7 @@
     "date": "2026-05-16",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3587?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Having a Wild Weekend",
@@ -460,34 +430,34 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "A Woman of Affairs             /The Single Standard",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "First Blood/ Extreme Prejudice",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-15",
+    "date": "2026-05-31",
     "time": "6:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-15-a-woman-of-affairs-the-single-standard/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3651?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "A Woman of Affairs             /The Single Standard",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Rambo: First Blood Part II",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-15",
-    "time": "8:40 PM",
+    "date": "2026-06-02",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-15-a-woman-of-affairs-the-single-standard/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3653?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Django Unchained",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Rambo III",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-15",
-    "time": "11:59 PM",
+    "date": "2026-06-03",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-15-django-unchained-midnight-show/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3654?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Frankenstein",
@@ -864,26 +834,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-05-15",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4040404/"
-  },
-  {
-    "title": "The Christophers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4040406/"
-  },
-  {
-    "title": "The Christophers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-05-16",
     "time": "12:30 PM",
     "description": "",
@@ -898,36 +848,6 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4060967/"
-  },
-  {
-    "title": "Muppet Treasure Island",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-16",
-    "time": "11:30 AM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009569/"
-  },
-  {
-    "title": "Trigonometry",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-16",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4060782/"
-  },
-  {
-    "title": "Beef – Season Two",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-16",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://events.humanitix.com/kcrw-partner-screening-beef-season-2"
   },
   {
     "title": "The Rescuers Down Under",
@@ -1480,6 +1400,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4131174/"
   },
   {
+    "title": "Barton Fink on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127653/"
+  },
+  {
     "title": "Desperado",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1488,6 +1418,56 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4134534/"
+  },
+  {
+    "title": "Chime and Shé (Snake)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4131201/"
+  },
+  {
+    "title": "Chime and Shé (Snake)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4131185/"
+  },
+  {
+    "title": "Chime and Shé (Snake)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4131169/"
+  },
+  {
+    "title": "Chime and Shé (Snake)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-09",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4137681/"
+  },
+  {
+    "title": "Mulan",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127654/"
   },
   {
     "title": "The Times of Harvey Milk",
@@ -1530,6 +1510,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4134792/"
   },
   {
+    "title": "The Handmaiden",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4134801/"
+  },
+  {
+    "title": "Rudo y Cursi on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4131202/"
+  },
+  {
     "title": "Five Easy Pieces",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1568,6 +1568,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133371/"
+  },
+  {
+    "title": "Ice Age",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127707/"
   },
   {
     "title": "Maurice",
@@ -1720,6 +1730,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4133172/"
   },
   {
+    "title": "The Little Mermaid Sing-Along",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133187/"
+  },
+  {
+    "title": "Harakiri",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133188/"
+  },
+  {
     "title": "We Are Pat",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1730,6 +1760,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4133190/"
   },
   {
+    "title": "All That Jazz",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133191/"
+  },
+  {
     "title": "Bad Education on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1738,26 +1778,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
-  },
-  {
-    "title": "The Wages of Fear in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "I Know Where I’m Going!",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Howl’s Moving Castle",
@@ -1806,16 +1826,6 @@
     "type": "film",
     "date": "2026-05-17",
     "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Pool of London",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -2800,44 +2810,114 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "\"pay Day\" / \"shoulder Arms\"",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "My Neighbors the Yamadas",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-15",
-    "time": "1:00 PM",
+    "date": "2026-07-13",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pay-day-shoulder-arms-5-15-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Mother",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Saddest Music in the Worldwith Guy Maddin",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-15",
-    "time": "4:00 PM",
+    "date": "2026-07-13",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/mother-5-15-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Loulou",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "My Neighbors the Yamadas",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-15",
+    "date": "2026-07-15",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Bugsy in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Juicewith Ernest Dickerson",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Poison Ivy in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Great Mouse Detective",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "30th Anniversary ofFrom Dusk Till Dawnwith Robert Rodriguez, plus a performance by Robert Rodriguez's CHINGON BAND",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-18",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/loulou-5-15-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Pulp Fiction",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "FantômasEpisodes 1-5",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-05-15",
-    "time": "10:00 PM",
+    "date": "2026-07-19",
+    "time": "12:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pulp-fiction-05-15-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "25th Anniversary ofSpy Kidswith Robert Rodriguez, plus a performance by The Rodriguez Family SPY BAND",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Lightning",
@@ -3798,5 +3878,45 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
+  },
+  {
+    "title": "The Approach of Autumn",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Picnic at Hanging Rock",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-picnic-at-hanging-rock-7-20-26/"
+  },
+  {
+    "title": "Travelling Actors",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/travelling-actors-7-25-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Do the Right Thing",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-do-the-right-thing-7-27-26/"
   }
 ]
