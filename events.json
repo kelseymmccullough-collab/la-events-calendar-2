@@ -1,35 +1,5 @@
 [
   {
-    "title": "Having a Wild Weekend",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3560?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3621?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3621?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Rip",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -418,26 +388,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3654?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Frankenstein",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-17-frankenstein-family-matinee/"
-  },
-  {
-    "title": "Man on Fire",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-17-man-on-fire/"
   },
   {
     "title": "I Love Maria             /Aces Go Places IV",
@@ -1680,26 +1630,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
   },
   {
-    "title": "Secrets & Lies",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Black Sunday in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Barton Fink in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2788,56 +2718,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Lineup",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-lineup-05-17-2026/"
-  },
-  {
-    "title": "Lost Boundaries",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/lost-boundaries-5-17-26/"
-  },
-  {
-    "title": "À Nos Amours",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-nos-amours-5-17-26/"
-  },
-  {
-    "title": "Silverlake Scream Show Presents Barbarian",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/silverlake-scream-show-presents-barbarian-5-17-26/"
-  },
-  {
-    "title": "Tiki Tiki",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-17",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/tiki-tiki-5-17-26/"
   },
   {
     "title": "Cinematic Void Presents J.d.'s Revenge",
