@@ -1,25 +1,5 @@
 [
   {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3625?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3625?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Scarlet Empress",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -390,24 +370,84 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3654?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "I Love Maria             /Aces Go Places IV",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Rambling Rose/ Music Box",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-18",
-    "time": "7:30 PM",
+    "date": "2026-06-04",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-18-i-love-maria-aces-go-places-iv/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3655?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "I Love Maria             /Aces Go Places IV",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Basic Instinct",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-18",
-    "time": "9:40 PM",
+    "date": "2026-06-05",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-18-i-love-maria-aces-go-places-iv/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3657?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Doors",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "11:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3658?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "L.A. Story",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3659?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "L.A. Story",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3660?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Silent Partner/ Narrow Margin",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3663?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Angel Heart/ Jacob's Ladder",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-09",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3661?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Mountains of the Moon",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3665?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
@@ -838,16 +878,6 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4043590/"
-  },
-  {
-    "title": "Pink Floyd: The Wall on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-22",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4064290/"
   },
   {
     "title": "Steal This Story, Please!",
@@ -1628,26 +1658,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
-  },
-  {
-    "title": "Barton Fink in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Passionate Friends",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Barton Fink in 35mm",
@@ -2720,26 +2730,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents J.d.'s Revenge",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-jds-revenge-5-18-26/"
-  },
-  {
-    "title": "Freeway",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-18",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/freeway-05-18-2026/"
-  },
-  {
     "title": "Twin Peaks: Season 2, Ep. 19 and 20",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2968,6 +2958,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/scattered-clouds-5-27-26/"
+  },
+  {
+    "title": "Situations",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-05-27",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/situations-05-27-2026/"
   },
   {
     "title": "The Python Hunt",
@@ -3438,6 +3438,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/no-blood-relation-6-20-26/"
+  },
+  {
+    "title": "The Greg Proops Film Club Presents Dark Passage",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-dark-passage-06-20-2026/"
   },
   {
     "title": "Dekalog: Three & Four",
