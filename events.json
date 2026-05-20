@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Scarlet Empress",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3588?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3626?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3626?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Blonde Dynamite/No Holds Barred",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -454,26 +424,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-05-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-19-tobruk-rough-night-in-jericho/"
-  },
-  {
-    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "9:50 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-19-tobruk-rough-night-in-jericho/"
-  },
-  {
-    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-05-20",
     "time": "7:30 PM",
     "description": "",
@@ -750,26 +700,6 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "Jury Duty Presents: Company Retreat",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://events.humanitix.com/kcrw-partner-screening-jury-duty-presents-company-retreat"
-  },
-  {
-    "title": "The Christophers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4060967/"
-  },
-  {
     "title": "Silent Friend",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -818,6 +748,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4043589/"
+  },
+  {
+    "title": "Hearts of Darkness: A Filmmaker’s Apocalypse",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-22",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4001218/"
   },
   {
     "title": "Con Air",
@@ -930,6 +870,16 @@
     "url": "https://vidiotsfoundation.org/purchase/3999625/"
   },
   {
+    "title": "The Karate Kid",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4070950/"
+  },
+  {
     "title": "Austin Powers: International Man of Mystery",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -968,16 +918,6 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4070994/"
-  },
-  {
-    "title": "Jurassic Park on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-25",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4060963/"
   },
   {
     "title": "Sweet 16mm: Kinder Nonsense",
@@ -2728,26 +2668,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 19 and 20",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-19-20-5-19-26/"
-  },
-  {
-    "title": "“le Déménagement” / L'homme À La Valise",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-19",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/le-demenagement-l-homme-a-la-valise-5-19-26/"
   },
   {
     "title": "Blind Chance",
