@@ -1,35 +1,5 @@
 [
   {
-    "title": "Blonde Dynamite/No Holds Barred",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3589?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3627?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Rip",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3627?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Rip",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -420,26 +390,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3665?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-20-tobruk-rough-night-in-jericho/"
-  },
-  {
-    "title": "Tobruk             /Rough Night in Jericho (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "9:50 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-20-tobruk-rough-night-in-jericho/"
-  },
-  {
     "title": "The Hallelujah Trail (IB Tech Print)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -760,26 +710,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4001218/"
   },
   {
-    "title": "Con Air",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4001219/"
-  },
-  {
-    "title": "Over Your Dead Body",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4043539/"
-  },
-  {
     "title": "Over Your Dead Body",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -878,16 +808,6 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4070950/"
-  },
-  {
-    "title": "Austin Powers: International Man of Mystery",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/3999638/"
   },
   {
     "title": "Child’s Play",
@@ -1130,6 +1050,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4012289/"
   },
   {
+    "title": "The Sandlot",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127652/"
+  },
+  {
     "title": "Mishima: A Life in Four Chapters",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1310,6 +1240,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4127690/"
   },
   {
+    "title": "Wild Things",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127691/"
+  },
+  {
     "title": "The Brady Bunch Movie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1378,6 +1318,56 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4131269/"
+  },
+  {
+    "title": "Onda Nova",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133620/"
+  },
+  {
+    "title": "Onda Nova",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133488/"
+  },
+  {
+    "title": "Onda Nova",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133519/"
+  },
+  {
+    "title": "Princess Mononoke (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133377/"
+  },
+  {
+    "title": "The Children’s Hour",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133375/"
   },
   {
     "title": "Pink Flamingos",
@@ -1480,6 +1470,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4133395/"
   },
   {
+    "title": "My Best Friend’s Wedding",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133381/"
+  },
+  {
     "title": "Crash",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1528,6 +1528,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4134601/"
+  },
+  {
+    "title": "Koyaanisqatsi",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158219/"
   },
   {
     "title": "The Birdcage",
@@ -1598,26 +1608,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
-  },
-  {
-    "title": "Barton Fink in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Being There in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Hidden Room(akaObsession)",
@@ -2668,26 +2658,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Blind Chance",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/blind-chance-5-20-26/"
-  },
-  {
-    "title": "The Mouth Agape",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-20",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-mouth-agape-5-20-26/"
   },
   {
     "title": "Under the Sun of Satan",
