@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Spy Who Loved Me",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3564?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Mank",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3635?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Mank",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3635?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Hostel/ Hostel: Part II",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -270,36 +240,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3665?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Diamonds Are Forever (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-24-diamonds-are-forever-family-matinee/"
-  },
-  {
-    "title": "Show People             /The Matinee Idol",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-24-show-people-the-matinee-idol/"
-  },
-  {
-    "title": "Show People             /The Matinee Idol",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "8:25 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-24-show-people-the-matinee-idol/"
-  },
-  {
     "title": "The Victors",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -460,26 +400,6 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4043573/"
-  },
-  {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4110702/"
-  },
-  {
     "title": "Sweet 16mm: Kinder Nonsense",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -498,6 +418,26 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4009878/"
+  },
+  {
+    "title": "Steal This Story, Please!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4110702/"
+  },
+  {
+    "title": "The Karate Kid",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-05-29",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4070950/"
   },
   {
     "title": "Blue Heron",
@@ -1238,36 +1178,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
-  },
-  {
-    "title": "Erin Brockovich in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Brighton Rock in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Kagemusha(The Shadow Warrior) in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Cure in 4K",
@@ -2338,46 +2248,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Greg Vrotsos Presents Pale Flower",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/greg-vrotsos-presents-pale-flower-5-24-26/"
-  },
-  {
-    "title": "“the Forgotten Faces” / the War Game",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-forgotten-faces-the-war-game-5-24-26/"
-  },
-  {
-    "title": "The Love Parade",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-love-parade-05-24-2026/"
-  },
-  {
-    "title": "Moulin Rouge!",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-24",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/moulin-rouge-05-24-2026/"
   },
   {
     "title": "Cinematic Void Presents the Killer",
