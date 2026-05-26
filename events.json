@@ -1,15 +1,5 @@
 [
   {
-    "title": "Hostel/ Hostel: Part II",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3643?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Dr. Syn",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -244,16 +234,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-05-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-25-the-victors/"
-  },
-  {
-    "title": "The Victors",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-05-26",
     "time": "7:30 PM",
     "description": "",
@@ -400,24 +380,684 @@
     "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
   },
   {
-    "title": "Sweet 16mm: Kinder Nonsense",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-05-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4071127/"
-  },
-  {
-    "title": "On the Job",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-26",
+    "date": "2026-06-01",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009878/"
+    "url": "https://thenewbev.com/program/june-1-war-of-the-worlds-edge-of-tomorrow/"
+  },
+  {
+    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-01",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-1-war-of-the-worlds-edge-of-tomorrow/"
+  },
+  {
+    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-2-war-of-the-worlds-edge-of-tomorrow/"
+  },
+  {
+    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-02",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-2-war-of-the-worlds-edge-of-tomorrow/"
+  },
+  {
+    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-3-war-of-the-worlds-edge-of-tomorrow/"
+  },
+  {
+    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-03",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-3-war-of-the-worlds-edge-of-tomorrow/"
+  },
+  {
+    "title": "Blonde Ransom             /The Crime of the Century",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-4-blonde-ransom-the-crime-of-the-century/"
+  },
+  {
+    "title": "Blonde Ransom             /The Crime of the Century",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-04",
+    "time": "9:10 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-4-blonde-ransom-the-crime-of-the-century/"
+  },
+  {
+    "title": "Blonde Ransom             /The Crime of the Century",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-5-blonde-ransom-the-crime-of-the-century/"
+  },
+  {
+    "title": "Blonde Ransom             /The Crime of the Century",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "8:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-5-blonde-ransom-the-crime-of-the-century/"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-5-inglourious-basterds-midnight-show/"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-6-e-t-the-extra-terrestrial-family-matinee/"
+  },
+  {
+    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-6-a-hard-days-night-i-wanna-hold-your-hand/"
+  },
+  {
+    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "8:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-6-a-hard-days-night-i-wanna-hold-your-hand/"
+  },
+  {
+    "title": "A Nightmare on Elm Street 4: Dream Master",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-6-a-nightmare-on-elm-street-4-dream-master-midnight-show/"
+  },
+  {
+    "title": "E.T. the Extra-Terrestrial",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-7-e-t-the-extra-terrestrial-family-matinee/"
+  },
+  {
+    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-7-a-hard-days-night-i-wanna-hold-your-hand/"
+  },
+  {
+    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "8:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-7-a-hard-days-night-i-wanna-hold-your-hand/"
+  },
+  {
+    "title": "Snake in the Monkey’s Shadow             /Snake Deadly Act",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-8-snake-in-the-monkeys-shadow-snake-deadly-act/"
+  },
+  {
+    "title": "Snake in the Monkey’s Shadow             /Snake Deadly Act",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-08",
+    "time": "9:20 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-8-snake-in-the-monkeys-shadow-snake-deadly-act/"
+  },
+  {
+    "title": "Days of Heaven             /The Wild Child",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-9-days-of-heaven-the-wild-child/"
+  },
+  {
+    "title": "Days of Heaven             /The Wild Child",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-09",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-9-days-of-heaven-the-wild-child/"
+  },
+  {
+    "title": "Days of Heaven             /The Wild Child",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-10-days-of-heaven-the-wild-child/"
+  },
+  {
+    "title": "Days of Heaven             /The Wild Child",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-10",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-10-days-of-heaven-the-wild-child/"
+  },
+  {
+    "title": "Days of Heaven             /The Wild Child",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-11-days-of-heaven-the-wild-child/"
+  },
+  {
+    "title": "Days of Heaven             /The Wild Child",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-11",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-11-days-of-heaven-the-wild-child/"
+  },
+  {
+    "title": "The Third Man (New 35mm Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-12-the-third-man/"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-12-inglourious-basterds-midnight-show/"
+  },
+  {
+    "title": "Cartoon Club",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-13-cartoon-club/"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-13-indiana-jones-and-the-last-crusade-family-matinee/"
+  },
+  {
+    "title": "The Third Man (New 35mm Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-13-the-third-man/"
+  },
+  {
+    "title": "Desperate Living",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-13-desperate-living-midnight-show/"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-14-indiana-jones-and-the-last-crusade-family-matinee/"
+  },
+  {
+    "title": "The Third Man (New 35mm Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-14-the-third-man/"
+  },
+  {
+    "title": "The Death of Robin Hood (Director Michael Sarnoski In Person)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-15-the-death-of-robin-hood/"
+  },
+  {
+    "title": "Breakfast at Tiffany’s             /Roman Holiday",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-16-breakfast-at-tiffanys-roman-holiday/"
+  },
+  {
+    "title": "Breakfast at Tiffany’s             /Roman Holiday",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-16",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-16-breakfast-at-tiffanys-roman-holiday/"
+  },
+  {
+    "title": "Breakfast at Tiffany’s             /Roman Holiday",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-17-breakfast-at-tiffanys-roman-holiday/"
+  },
+  {
+    "title": "Breakfast at Tiffany’s             /Roman Holiday",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-17",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-17-breakfast-at-tiffanys-roman-holiday/"
+  },
+  {
+    "title": "One Battle After Another",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-18-one-battle-after-another/"
+  },
+  {
+    "title": "One Battle After Another",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-19-one-battle-after-another/"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-19-inglourious-basterds-midnight-show/"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-20-lilo-stitch-family-matinee/"
+  },
+  {
+    "title": "One Battle After Another",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-20-one-battle-after-another/"
+  },
+  {
+    "title": "Mars Attacks!",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-20-mars-attacks-midnight-show/"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-21-lilo-stitch-family-matinee/"
+  },
+  {
+    "title": "That Certain Thing (Silent with Live Music Score)             /So This Is Love? (Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-21-that-certain-thing-so-this-is-love/"
+  },
+  {
+    "title": "That Certain Thing (Silent with Live Music Score)             /So This Is Love? (Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "8:10 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-21-that-certain-thing-so-this-is-love/"
+  },
+  {
+    "title": "Scream Bloody Murder             /Deranged",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-22-scream-bloody-murder-deranged/"
+  },
+  {
+    "title": "Scream Bloody Murder             /Deranged",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-22",
+    "time": "9:25 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-22-scream-bloody-murder-deranged/"
+  },
+  {
+    "title": "The Stone Killer             /Newman’s Law",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-23-the-stone-killer-newmans-law/"
+  },
+  {
+    "title": "The Stone Killer             /Newman’s Law",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-23",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-23-the-stone-killer-newmans-law/"
+  },
+  {
+    "title": "The Stone Killer             /Newman’s Law",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-24-the-stone-killer-newmans-law/"
+  },
+  {
+    "title": "The Stone Killer             /Newman’s Law",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-24-the-stone-killer-newmans-law/"
+  },
+  {
+    "title": "Creature from the Black Lagoon 3-D             /It Came from Outer Space 3-D",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-25-creature-from-the-black-lagoon-3-d-it-came-from-outer-space-3-d/"
+  },
+  {
+    "title": "Creature from the Black Lagoon 3-D             /It Came from Outer Space 3-D",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-25",
+    "time": "9:20 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-25-creature-from-the-black-lagoon-3-d-it-came-from-outer-space-3-d/"
+  },
+  {
+    "title": "Creature from the Black Lagoon 3-D             /It Came from Outer Space 3-D",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-26-creature-from-the-black-lagoon-3-d-it-came-from-outer-space-3-d/"
+  },
+  {
+    "title": "Creature from the Black Lagoon 3-D             /It Came from Outer Space 3-D",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "8:20 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-26-creature-from-the-black-lagoon-3-d-it-came-from-outer-space-3-d/"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-26-inglourious-basterds-midnight-show/"
+  },
+  {
+    "title": "Silverado",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-27-silverado-family-matinee/"
+  },
+  {
+    "title": "The Passenger (1975)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-27-the-passenger/"
+  },
+  {
+    "title": "Exorcist II: The Heretic",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-27-exorcist-ii-the-heretic-midnight-show/"
+  },
+  {
+    "title": "Silverado",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-28-silverado-family-matinee/"
+  },
+  {
+    "title": "The Passenger (1975)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-28-the-passenger/"
+  },
+  {
+    "title": "Born to Kill             /The Set-Up",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-29-born-to-kill-the-set-up/"
+  },
+  {
+    "title": "Born to Kill             /The Set-Up",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-29",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-29-born-to-kill-the-set-up/"
+  },
+  {
+    "title": "Born to Kill             /The Set-Up",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-30",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
+  },
+  {
+    "title": "Born to Kill             /The Set-Up",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-06-30",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
     "title": "Steal This Story, Please!",
@@ -1178,16 +1818,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
-  },
-  {
-    "title": "Cure in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-05-25",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Cure in 4K",
@@ -2248,26 +2878,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Cinematic Void Presents the Killer",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-the-killer-5-25-26/"
-  },
-  {
-    "title": "Terminator 2: Judgment Day in 35MM",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-25",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/terminator-2-judgement-day-in-35mm-5-25-26/"
   },
   {
     "title": "Twin Peaks: Season 2, Ep. 21 and 22",
