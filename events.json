@@ -1,25 +1,5 @@
 [
   {
-    "title": "Dr. Syn",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-26",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3596?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hostel/ Hostel: Part II",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3645?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Bowery Buckaroos/Crazy Over Horses",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -130,6 +110,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3651?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Red Heat",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-02",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3719?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Rambo: First Blood Part II",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -138,6 +128,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3653?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "DeepStar Six",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-03",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3720?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Rambo III",
@@ -160,6 +160,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3655?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Chaplin",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-04",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3724?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Basic Instinct",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -168,6 +178,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3657?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Lock Up",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-05",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3721?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Doors",
@@ -188,6 +208,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3659?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Incident at Oglala/The Dark Wind",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3722?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "L.A. Story",
@@ -228,16 +258,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3665?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Victors",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-26-the-victors/"
   },
   {
     "title": "The Black Arrow             /Fortunes of Captain Blood",
@@ -1060,16 +1080,6 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "Steal This Story, Please!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4110702/"
-  },
-  {
     "title": "The Karate Kid",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1500,6 +1510,76 @@
     "url": "https://vidiotsfoundation.org/purchase/4127701/"
   },
   {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133617/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133618/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133486/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "7:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133487/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4188799/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133520/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133522/"
+  },
+  {
     "title": "Mad Max: Fury Road",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1680,6 +1760,56 @@
     "url": "https://vidiotsfoundation.org/purchase/4133381/"
   },
   {
+    "title": "Is God Is",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158803/"
+  },
+  {
+    "title": "Is God Is",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158806/"
+  },
+  {
+    "title": "Is God Is",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158815/"
+  },
+  {
+    "title": "Is God Is",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158816/"
+  },
+  {
+    "title": "Is God Is",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4188828/"
+  },
+  {
     "title": "Crash",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1720,6 +1850,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4127892/"
   },
   {
+    "title": "Sweet 16mm: Revolutionary Queer Cinema",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158845/"
+  },
+  {
     "title": "Princess Mononoke (Japanese with English subtitles)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1740,6 +1880,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4134601/"
   },
   {
+    "title": "Camp",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "7:20 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158849/"
+  },
+  {
+    "title": "Camp",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4153321/"
+  },
+  {
     "title": "Koyaanisqatsi",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1748,6 +1908,46 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158219/"
+  },
+  {
+    "title": "Jinsei",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158855/"
+  },
+  {
+    "title": "Jinsei",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4153320/"
+  },
+  {
+    "title": "Jinsei",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4153311/"
+  },
+  {
+    "title": "Jinsei",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158882/"
   },
   {
     "title": "The Birdcage",
@@ -2878,26 +3078,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 21 and 22",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-21-22-5-26-26/"
-  },
-  {
-    "title": "Le Garçu",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-26",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/le-garcu-5-26-26/"
   },
   {
     "title": "Scattered Clouds",
