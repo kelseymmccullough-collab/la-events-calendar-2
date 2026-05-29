@@ -1,25 +1,5 @@
 [
   {
-    "title": "Hostel/ Hostel: Part II",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3649?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Snake in Eagle's Shadow",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-28",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3599?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Reservoir Dogs/ Johnny Handsome",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -220,6 +200,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3663?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Superstition/Bloodmoon",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-09",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3738?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Angel Heart/ Jacob's Ladder",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -228,6 +218,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3661?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Universal Soldier",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-10",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3727?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Mountains of the Moon",
@@ -240,24 +240,134 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3665?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Black Arrow             /Fortunes of Captain Blood",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Deadly China Doll",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-28",
-    "time": "7:30 PM",
+    "date": "2026-06-11",
+    "time": "8:00 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-28-the-black-arrow-fortunes-of-captain-blood/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3728?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Black Arrow             /Fortunes of Captain Blood",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "Southern Comfort",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-28",
-    "time": "9:15 PM",
+    "date": "2026-06-12",
+    "time": "8:00 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-28-the-black-arrow-fortunes-of-captain-blood/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3729?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Motel Hell/Terror at Red Wolf Inn",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3740?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Bound",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-16",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3730?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Beginners",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-17",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3725?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Happiness",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-18",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3731?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Hedwig and the Angry Inch",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3726?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Pather Panchali",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3732?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "They Shoot Horses, Don't They?",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-23",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3733?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Death Valley",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3734?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "But I'm a Cheerleader",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-25",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3735?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Race with The Devil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3736?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Wake in Fright",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3737?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Crimson Tide             /Déjà Vu",
@@ -1050,156 +1160,6 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "The Karate Kid",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070950/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "4:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070954/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070955/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "5:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070958/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070965/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070975/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131065/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070993/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131075/"
-  },
-  {
-    "title": "Midnight Run",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4064757/"
-  },
-  {
-    "title": "Serpent’s Path",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4009789/"
-  },
-  {
-    "title": "The Python Hunt",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-29",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070956/"
-  },
-  {
-    "title": "The Python Hunt",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070959/"
-  },
-  {
-    "title": "The Python Hunt",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-30",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070960/"
-  },
-  {
-    "title": "The Python Hunt",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070969/"
-  },
-  {
     "title": "Willy Wonka & the Chocolate Factory",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1358,6 +1318,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4131201/"
+  },
+  {
+    "title": "Chime and Shé (Snake)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-06",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4195042/"
   },
   {
     "title": "Chime and Shé (Snake)",
@@ -3138,26 +3108,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Python Hunt",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-python-hunt-5-28-26/"
-  },
-  {
-    "title": "Twin Peaks: Season 2, Ep. 21 and 22",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-season-2-ep-21-22-5-28-26/"
   },
   {
     "title": "Blue Heron",
