@@ -1,25 +1,5 @@
 [
   {
-    "title": "Cutthroat Island",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3570?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "First Blood/ Extreme Prejudice",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3651?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Red Heat",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -320,34 +300,14 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3737?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Cinderella (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
+    "title": "The Wild Party",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
     "type": "film",
-    "date": "2026-05-31",
-    "time": "2:00 PM",
+    "date": "2026-06-28",
+    "time": "10:00 AM",
     "description": "",
-    "url": "https://thenewbev.com/program/may-31-cinderella-family-matinee/"
-  },
-  {
-    "title": "Crimson Tide             /Déjà Vu",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
-  },
-  {
-    "title": "Crimson Tide             /Déjà Vu",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "8:55 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/may-31-crimson-tide-deja-vu/"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3742?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "War of the Worlds (2005)             /Edge of Tomorrow",
@@ -1028,16 +988,6 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4070965/"
   },
   {
     "title": "Blue Heron",
@@ -1850,24 +1800,34 @@
     "url": "https://vidiotsfoundation.org/purchase/4197656/"
   },
   {
-    "title": "One Battle After Another in 70mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "The Popcorn List: Remaining Native",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-05-31",
-    "time": "2:00 PM",
+    "date": "2026-07-19",
+    "time": "1:30 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4215011/"
   },
   {
-    "title": "Gentlemen Prefer Blondes",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "The Popcorn List: Trash Baby",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-05-31",
-    "time": "6:30 PM",
+    "date": "2026-07-19",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4215020/"
+  },
+  {
+    "title": "The Popcorn List: Fucktoys",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4215022/"
   },
   {
     "title": "Castle in the Sky in 35mm",
@@ -2950,46 +2910,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Yearning",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/yearning-5-31-26/"
-  },
-  {
-    "title": "The Beach Marathon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-beach-05-31-2026/"
-  },
-  {
-    "title": "The House Bunny",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-house-bunny-05-31-2026/"
-  },
-  {
-    "title": "A Night at the Roxbury",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-05-31",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-night-at-the-roxbury-mona-may-05-31-2026/"
-  },
-  {
     "title": "Cinematic Void Presents Dead Presidents",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3948,5 +3868,45 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-tapeheads-8-10-26/"
+  },
+  {
+    "title": "Twin Peaks: the Return Parts 17 & 18",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-11",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-17-18-08-11-2026/"
+  },
+  {
+    "title": "Twin Peaks: the Return Parts 17 & 18",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-13",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-17-18-08-13-2026/"
+  },
+  {
+    "title": "Cinematic Void Presents Ladies and Gentlemen, the Fabulous Stains",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-ladies-and-gentlemen-the-fabulous-stains-08-17-2026/"
+  },
+  {
+    "title": "Cinematic Void Presents Walker",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-walker-8-24-26/"
   }
 ]
