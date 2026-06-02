@@ -247,7 +247,7 @@
     "date": "2026-06-20",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3732?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "They Shoot Horses, Don't They?",
@@ -308,26 +308,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3742?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-1-war-of-the-worlds-edge-of-tomorrow/"
-  },
-  {
-    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-01",
-    "time": "9:55 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-1-war-of-the-worlds-edge-of-tomorrow/"
   },
   {
     "title": "War of the Worlds (2005)             /Edge of Tomorrow",
@@ -994,16 +974,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131065/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-03",
     "time": "7:00 PM",
     "description": "",
@@ -1264,16 +1234,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133618/"
-  },
-  {
-    "title": "I Love Boosters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-13",
     "time": "4:30 PM",
     "description": "",
@@ -1468,16 +1428,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4127730/"
-  },
-  {
-    "title": "Kids in the Hall: Brain Candy",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127741/"
   },
   {
     "title": "A Weekend with Bill Duke: Deep Cover",
@@ -1828,26 +1778,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4215022/"
-  },
-  {
-    "title": "Castle in the Sky in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-01",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Asphalt Jungle in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Castle in the Sky in 35mm",
@@ -2910,24 +2840,54 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Dead Presidents",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Thin Red Line in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-01",
-    "time": "7:00 PM",
+    "date": "2026-08-09",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dead-presidents-6-1-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Spider",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Bunny Lake Is Missing in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-01",
-    "time": "10:00 PM",
+    "date": "2026-08-09",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/spider-6-1-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Elle",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Howl’s Moving Castle",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-10",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Prestigein35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Samson and Delilah",
@@ -3908,5 +3868,15 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-walker-8-24-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Smithereens",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-31",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-smithereens-8-31-26/"
   }
 ]
