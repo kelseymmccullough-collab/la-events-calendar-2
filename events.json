@@ -1,315 +1,5 @@
 [
   {
-    "title": "DeepStar Six",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-03",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3720?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Rambo III",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3654?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Rambling Rose/ Music Box",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3655?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Chaplin",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-04",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3724?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Basic Instinct",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3657?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Lock Up",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3721?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Doors",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "11:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3658?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "L.A. Story",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3659?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Incident at Oglala/The Dark Wind",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3722?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "L.A. Story",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3660?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Silent Partner/ Narrow Margin",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3663?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Superstition/Bloodmoon",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-09",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3738?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Angel Heart/ Jacob's Ladder",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-09",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3661?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Universal Soldier",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-10",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3727?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Mountains of the Moon",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3665?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Deadly China Doll",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-11",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3728?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Southern Comfort",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-12",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3729?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Motel Hell/Terror at Red Wolf Inn",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-13",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3740?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Bound",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-16",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3730?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Beginners",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3725?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Happiness",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-18",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3731?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hedwig and the Angry Inch",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3726?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Pather Panchali",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "They Shoot Horses, Don't They?",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-23",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3733?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Death Valley",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3734?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "But I'm a Cheerleader",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-25",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3735?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Race with The Devil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3736?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Wake in Fright",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3737?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Wild Party",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3742?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-3-war-of-the-worlds-edge-of-tomorrow/"
-  },
-  {
-    "title": "War of the Worlds (2005)             /Edge of Tomorrow",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-03",
-    "time": "9:55 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-3-war-of-the-worlds-edge-of-tomorrow/"
-  },
-  {
     "title": "Blonde Ransom             /The Crime of the Century",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -930,26 +620,6 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "Blue Heron",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131075/"
-  },
-  {
-    "title": "Fox and His Friends on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-04",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127644/"
-  },
-  {
     "title": "The Sandlot",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -968,26 +638,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4131020/"
-  },
-  {
-    "title": "By Design",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131019/"
-  },
-  {
-    "title": "By Design",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131184/"
   },
   {
     "title": "By Design",
@@ -1740,24 +1390,1134 @@
     "url": "https://vidiotsfoundation.org/purchase/4215020/"
   },
   {
-    "title": "The New Boy",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Castle in the Sky in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-03",
-    "time": "7:00 PM",
+    "date": "2026-06-04",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-new-boy-06-03-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Jackal of Nahueltoro",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "All About Eve in 35mm with Lorraine Nicholson",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-03",
-    "time": "10:00 PM",
+    "date": "2026-06-04",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jackal-of-nahueltoro-06-03-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-10",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Mamma Mia!Singalong",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-11",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Clash by NightwithDon’t Bother to Knock",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-11",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Gentlemen Prefer BlondeswithMonkey Business in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Michael Mann’s Manhunter: The Final Cutwith Michael Mann",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Escape to Witch Mountain",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Ladies of the Chorus in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Bound",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "How to Marry a Millionaire",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Bend It Like Beckham in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Shaolin Soccer in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Offside in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "5:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Only Yesterday",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-15",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The French Connection in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Only Yesterday",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-17",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Aardman Animations Celebration",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "10th Anniversary ofSpa Night",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Only Yesterday",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Seven Year Itchwith Kim Morgan",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Parallax View in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Rescuers",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "River of No Return",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Car Wash50th Anniversary Screening in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Phantom Thread in 70mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Summertime in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Pom Poko",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-22",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Crash in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Pom Poko",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Notoriouswith Guillermo del Toro",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Shadow of a Doubtwith Guillermo del Toro",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Pom Poko",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "North by Northwestwith Guillermo del Toro",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "There's No Business Like Show Business",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Goonies in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Prince and the Showgirl in 35mm withBus Stop",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "I Confess in 35mm with Guillermo del Toro",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "All That Money Can Buy (The Devil and Daniel Webster)",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Let’s Make Love",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Frenzywith Guillermo del Toro",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Whisper of the Heart",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-29",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Hitch-Hiker",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-06-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Whisper of the Heart",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-01",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Galaxy Quest in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-01",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Some Like It Hot in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Tokyo Drifter",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-02",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Whisper of the Heart",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Misfits in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Sorcerer",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Great Muppet Caper in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Jaws in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Giant in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Private Property",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Three Days of the Condor",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Princess Mononoke in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Night of the Hunter in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Princess Mononoke in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Lovers on the Bridge (Les amants de Pont-Neuf)in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Princess Mononoke in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-09",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Blow Out in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Clue",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Elevator to the Gallows",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Careful in 4K with Guy Maddin",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Magnificent Seven in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Green Fogwith Guy Maddin",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "My Winnipeg in 35mm with Guy Maddin",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Saddest Music in the Worldwith Guy Maddin",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Bugsy in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Juicewith Ernest Dickerson",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Poison Ivy in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Great Mouse Detective",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "30th Anniversary ofFrom Dusk Till Dawnwith Robert Rodriguez, plus a performance by Robert Rodriguez's CHINGON BAND",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "FantômasEpisodes 1-5",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "25th Anniversary ofSpy Kidswith Robert Rodriguez, plus a performance by The Rodriguez Family SPY BAND",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Spirited Away in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Le Cercle Rouge in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Spirited Away in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-22",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Downhill Racer in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Cape Fear(1962)in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Spirited Away in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Cape Fear(1991) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Blackmail",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Cutter's Way",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Out of Africa in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-02",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Cat Returns",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-03",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "A Man Escaped in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Cat Returns",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-05",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Titicut Follies in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "In the Cut in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Cat Returns",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-07",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Basic Instinct in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Harriet the Spy in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Fritz Lang’sM",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The 4th Man in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Thin Red Line in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Bunny Lake Is Missing in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Elle",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Howl’s Moving Castle",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-10",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Prestigein35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Howl’s Moving Castle",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-12",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "To Be or Not to Be",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Fatal Attractionwith Adrian Lyne",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Howl’s Moving Castle",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-14",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Unfaithfulwith Adrian Lyne",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Criss Cross",
