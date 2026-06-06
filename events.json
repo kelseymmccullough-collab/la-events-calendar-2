@@ -1,35 +1,5 @@
 [
   {
-    "title": "Basic Instinct",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3657?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Lock Up",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3721?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Doors (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "11:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3658?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "L.A. Story",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -488,36 +458,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3751?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Blonde Ransom             /The Crime of the Century",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-5-blonde-ransom-the-crime-of-the-century/"
-  },
-  {
-    "title": "Blonde Ransom             /The Crime of the Century",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "8:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-5-blonde-ransom-the-crime-of-the-century/"
-  },
-  {
-    "title": "Inglourious Basterds",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-5-inglourious-basterds-midnight-show/"
   },
   {
     "title": "E.T. the Extra-Terrestrial",
@@ -1090,44 +1030,64 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "Mulan",
+    "title": "Chime and Shé (Snake)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-06-06",
-    "time": "1:00 PM",
+    "time": "1:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127654/"
+    "url": "https://vidiotsfoundation.org/purchase/4195042/"
   },
   {
-    "title": "The Times of Harvey Milk",
+    "title": "Chime and Shé (Snake)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-06-06",
-    "time": "4:00 PM",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127655/"
+    "url": "https://vidiotsfoundation.org/purchase/4131185/"
   },
   {
-    "title": "Good Will Hunting",
+    "title": "Chime and Shé (Snake)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4131169/"
+  },
+  {
+    "title": "Chime and Shé (Snake)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-09",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127690/"
+    "url": "https://vidiotsfoundation.org/purchase/4137681/"
   },
   {
-    "title": "Wild Things",
+    "title": "By Design",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-06-06",
-    "time": "9:55 PM",
+    "time": "10:10 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127691/"
+    "url": "https://vidiotsfoundation.org/purchase/4131183/"
+  },
+  {
+    "title": "By Design",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-07",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4131174/"
   },
   {
     "title": "The Brady Bunch Movie",
@@ -2818,46 +2778,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Serpent's Way",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-serpents-way-6-5-26/"
-  },
-  {
-    "title": "Misunderstood",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/misunderstood-6-5-26/"
-  },
-  {
-    "title": "Eureka",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/eureka-06-05-2026/"
-  },
-  {
-    "title": "Palo Y Hueso",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-05",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/palo-y-hueso-06-05-2026/"
   },
   {
     "title": "Beau Is Afraid",
