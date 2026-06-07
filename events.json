@@ -4,26 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-06-06",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3659?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Incident at Oglala/The Dark Wind",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3722?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "L.A. Story",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-06-07",
     "time": "10:00 AM",
     "description": "",
@@ -458,46 +438,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3751?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "E.T. the Extra-Terrestrial",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-6-e-t-the-extra-terrestrial-family-matinee/"
-  },
-  {
-    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-6-a-hard-days-night-i-wanna-hold-your-hand/"
-  },
-  {
-    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "8:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-6-a-hard-days-night-i-wanna-hold-your-hand/"
-  },
-  {
-    "title": "A Nightmare on Elm Street 4: The Dream Master",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-6-a-nightmare-on-elm-street-4-dream-master-midnight-show/"
   },
   {
     "title": "E.T. the Extra-Terrestrial",
@@ -1034,26 +974,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-06",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4195042/"
-  },
-  {
-    "title": "Chime and Shé (Snake)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131185/"
-  },
-  {
-    "title": "Chime and Shé (Snake)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-07",
     "time": "7:30 PM",
     "description": "",
@@ -1068,66 +988,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4137681/"
-  },
-  {
-    "title": "By Design",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "10:10 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131183/"
-  },
-  {
-    "title": "By Design",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131174/"
-  },
-  {
-    "title": "The Brady Bunch Movie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131166/"
-  },
-  {
-    "title": "The Treasure of the Sierra Madre",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4134792/"
-  },
-  {
-    "title": "The Handmaiden",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4134801/"
-  },
-  {
-    "title": "Rudo y Cursi on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-09",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131202/"
   },
   {
     "title": "Five Easy Pieces",
@@ -2778,46 +2638,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Beau Is Afraid",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beau-is-afraid-06-06-2026/"
-  },
-  {
-    "title": "Whisky",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/whisky-06-06-2026/"
-  },
-  {
-    "title": "Fear Strikes Out",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/fear-strikes-out-6-6-26/"
-  },
-  {
-    "title": "The Devil, Probably",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-06",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-devil-probably-6-6-26/"
   },
   {
     "title": "The Hunt",
