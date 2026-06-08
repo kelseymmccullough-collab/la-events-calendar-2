@@ -1,15 +1,5 @@
 [
   {
-    "title": "L.A. Story",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3660?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Silent Partner/ Narrow Margin",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -438,36 +428,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3751?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "E.T. the Extra-Terrestrial",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-7-e-t-the-extra-terrestrial-family-matinee/"
-  },
-  {
-    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-7-a-hard-days-night-i-wanna-hold-your-hand/"
-  },
-  {
-    "title": "A Hard Day’s Night             /I Wanna Hold Your Hand",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "8:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-7-a-hard-days-night-i-wanna-hold-your-hand/"
   },
   {
     "title": "Snake in the Monkey’s Shadow             /Snake Deadly Act",
@@ -974,16 +934,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4131169/"
-  },
-  {
-    "title": "Chime and Shé (Snake)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-09",
     "time": "7:00 PM",
     "description": "",
@@ -998,16 +948,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4127701/"
-  },
-  {
-    "title": "I Love Boosters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-12",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133617/"
   },
   {
     "title": "I Love Boosters",
@@ -1200,16 +1140,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4127711/"
   },
   {
-    "title": "By Hook or by Crook",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127730/"
-  },
-  {
     "title": "A Weekend with Bill Duke: Deep Cover",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1318,16 +1248,6 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133382/"
-  },
-  {
-    "title": "A Weekend with Bill Duke: Predator on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127808/"
   },
   {
     "title": "Stand by Me",
@@ -2638,56 +2558,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Hunt",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-hunt-6-5-26/"
-  },
-  {
-    "title": "Five Star Final",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/five-star-final-6-7-26/"
-  },
-  {
-    "title": "Boy",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/boy-06-07-2026/"
-  },
-  {
-    "title": "Castration Movie Chapter Iii: Junior Ghosts—premorphic Drift; a Fragmentary Passage",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/castration-movie-chapter-iii-junior-ghostspremorphic-drift-a-fragmentary-passage-06-07-2026/"
-  },
-  {
-    "title": "Letters From a Dead Man",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dead-mans-letters-06-07-2026/"
   },
   {
     "title": "Paddington / Paddington 2 / Paddington in Peru",
