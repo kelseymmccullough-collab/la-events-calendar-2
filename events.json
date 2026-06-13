@@ -1,15 +1,5 @@
 [
   {
-    "title": "Southern Comfort",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-12",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3729?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Motel Hell/Terror at Red Wolf Inn",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -128,6 +118,106 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3742?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Dances With Wolves",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3807?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Hollywood 90028",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3815?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Snoopy Come Home",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3813?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Dances With Wolves",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3808?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Hollywood 90028",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3816?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Snoopy Come Home",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3814?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Dances With Wolves",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3809?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Dances With Wolves",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3810?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Dances With Wolves",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3811?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Dances With Wolves",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3812?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -528,26 +618,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Third Man (New 35mm Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-12-the-third-man/"
-  },
-  {
-    "title": "Inglourious Basterds",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-12",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-12-inglourious-basterds-midnight-show/"
   },
   {
     "title": "Cartoon Club",
@@ -950,44 +1020,94 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "Princess Mononoke (English Dubbed)",
+    "title": "I Love Boosters",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-06-13",
-    "time": "12:30 PM",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133377/"
+    "url": "https://vidiotsfoundation.org/purchase/4133486/"
   },
   {
-    "title": "The Children’s Hour",
+    "title": "I Love Boosters",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-13",
-    "time": "4:00 PM",
+    "date": "2026-06-14",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133375/"
+    "url": "https://vidiotsfoundation.org/purchase/4133520/"
   },
   {
-    "title": "Mission: Impossible",
+    "title": "I Love Boosters",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-13",
+    "date": "2026-06-15",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133370/"
+    "url": "https://vidiotsfoundation.org/purchase/4133522/"
   },
   {
-    "title": "Pink Flamingos",
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-16",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4196615/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4196620/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158806/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158809/"
+  },
+  {
+    "title": "Onda Nova",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-06-13",
-    "time": "9:45 PM",
+    "time": "10:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133371/"
+    "url": "https://vidiotsfoundation.org/purchase/4133488/"
+  },
+  {
+    "title": "Onda Nova",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-14",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133519/"
   },
   {
     "title": "Ice Age",
@@ -1040,6 +1160,16 @@
     "url": "https://events.humanitix.com/kcrw-partner-screening-voicemails-for-isabelle"
   },
   {
+    "title": "Mad Max: Fury Road",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4127786/"
+  },
+  {
     "title": "A Weekend with Bill Duke: Deep Cover",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1080,14 +1210,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4133395/"
   },
   {
-    "title": "My Best Friend’s Wedding",
+    "title": "Is God Is",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-06-20",
-    "time": "7:00 PM",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133381/"
+    "url": "https://vidiotsfoundation.org/purchase/4158802/"
   },
   {
     "title": "Is God Is",
@@ -1098,16 +1228,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158803/"
-  },
-  {
-    "title": "Is God Is",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158806/"
   },
   {
     "title": "Is God Is",
@@ -1138,6 +1258,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4188828/"
+  },
+  {
+    "title": "My Best Friend’s Wedding",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4133381/"
   },
   {
     "title": "Crash",
@@ -1400,6 +1530,46 @@
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
   },
   {
+    "title": "Underland",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4254089/"
+  },
+  {
+    "title": "Underland",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4254104/"
+  },
+  {
+    "title": "Underland",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253409/"
+  },
+  {
+    "title": "Underland",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253417/"
+  },
+  {
     "title": "Cats + Vidiots’ Jellicle Ball",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1408,6 +1578,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4248103/"
+  },
+  {
+    "title": "WALL·E",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252656/"
+  },
+  {
+    "title": "Throne of Blood",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252654/"
+  },
+  {
+    "title": "Independence Day",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252657/"
   },
   {
     "title": "Tammy and the T-Rex",
@@ -1440,6 +1640,56 @@
     "url": "https://vidiotsfoundation.org/purchase/4220152/"
   },
   {
+    "title": "Aladdin",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252663/"
+  },
+  {
+    "title": "Charade",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252664/"
+  },
+  {
+    "title": "Overboard",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252665/"
+  },
+  {
+    "title": "Picnic at Hanging Rock",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252668/"
+  },
+  {
+    "title": "Trainspotting",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252673/"
+  },
+  {
     "title": "The Wailing",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1448,6 +1698,76 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4197656/"
+  },
+  {
+    "title": "The Wailing",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "3:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252695/"
+  },
+  {
+    "title": "Waterworld",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252699/"
+  },
+  {
+    "title": "Heavy Metal",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252700/"
+  },
+  {
+    "title": "Summer of Sam",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252707/"
+  },
+  {
+    "title": "Clerks",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252710/"
+  },
+  {
+    "title": "Brave",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252714/"
+  },
+  {
+    "title": "Godzilla vs. Hedorah",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252715/"
   },
   {
     "title": "Eternal Sunshine of the Spotless Mind",
@@ -1460,7 +1780,27 @@
     "url": "https://vidiotsfoundation.org/purchase/4215461/"
   },
   {
-    "title": "Streets of Fire",
+    "title": "The Deer Hunter",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252726/"
+  },
+  {
+    "title": "Harry Dean Stanton: Partly Fiction",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252730/"
+  },
+  {
+    "title": "Streets of Fire on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
@@ -1468,6 +1808,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252731/"
+  },
+  {
+    "title": "Speed",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252861/"
+  },
+  {
+    "title": "Tootsie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253110/"
+  },
+  {
+    "title": "The Thing",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253112/"
   },
   {
     "title": "The Popcorn List: Remaining Native",
@@ -1480,6 +1850,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4215011/"
   },
   {
+    "title": "East of Eden",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253132/"
+  },
+  {
     "title": "The Popcorn List: Trash Baby",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1490,34 +1870,74 @@
     "url": "https://vidiotsfoundation.org/purchase/4215020/"
   },
   {
-    "title": "Grave of the Fireflies",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Suspiria",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-12",
-    "time": "2:30 PM",
+    "date": "2026-07-19",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4253143/"
   },
   {
-    "title": "Gentlemen Prefer BlondeswithMonkey Business in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Jamón Jamón",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-12",
-    "time": "6:30 PM",
+    "date": "2026-07-20",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4253144/"
   },
   {
-    "title": "Michael Mann’s Manhunter: The Final Cutwith Michael Mann",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "The Cell",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-12",
+    "date": "2026-07-24",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253152/"
+  },
+  {
+    "title": "A New Leaf",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253153/"
+  },
+  {
+    "title": "Three Kings on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253157/"
+  },
+  {
+    "title": "The Face of Another",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-27",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4254358/"
+  },
+  {
+    "title": "The Unbearable Lightness of Being",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4254360/"
   },
   {
     "title": "Escape to Witch Mountain",
@@ -1660,7 +2080,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Parallax View in 4K",
+    "title": "The Parallax View",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2580,44 +3000,34 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Devil Is a Woman",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Scooby-Doo in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-12",
-    "time": "1:00 PM",
+    "date": "2026-08-15",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-devil-is-a-woman-06-12-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Spider",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Train to Busan in 4K with Yeon Sang-ho",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-12",
-    "time": "4:00 PM",
+    "date": "2026-08-15",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/spider-06-12-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Fear Strikes Out",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Uglywith Yeon Sang-ho and Park Jeong-min",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-12",
-    "time": "7:00 PM",
+    "date": "2026-08-15",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/fear-strikes-out-06-12-2026/"
-  },
-  {
-    "title": "South",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/south-06-12-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Street Without End",
@@ -2810,6 +3220,16 @@
     "url": "https://www.americancinematheque.com/now-showing/blknws-terms-conditions-06-19-2026/"
   },
   {
+    "title": "Polyester",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-19",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/polyester-06-19-2026/"
+  },
+  {
     "title": "No Blood Relation",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2858,6 +3278,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/out-of-the-past-06-21-2026/"
+  },
+  {
+    "title": "Someone's Watching Me!",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/someones-watching-me-06-21-2026/"
   },
   {
     "title": "Dekalog: Three & Four",
@@ -2938,6 +3368,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/andrew-ahn-presents-the-favourite-06-25-2026/"
+  },
+  {
+    "title": "Marnie",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-25",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/marnie-06-25-2026/"
   },
   {
     "title": "The Devil, Probably",
