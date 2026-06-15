@@ -610,26 +610,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Indiana Jones and the Last Crusade",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-14",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-14-indiana-jones-and-the-last-crusade-family-matinee/"
-  },
-  {
-    "title": "The Third Man (New 35mm Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-14",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-14-the-third-man/"
-  },
-  {
     "title": "The Death of Robin Hood (Director Michael Sarnoski In Person)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -974,26 +954,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133522/"
-  },
-  {
-    "title": "I Love Boosters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4196615/"
-  },
-  {
-    "title": "I Love Boosters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-17",
     "time": "7:30 PM",
     "description": "",
@@ -1018,16 +978,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158809/"
-  },
-  {
-    "title": "Never Change!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://events.humanitix.com/kcrw-partner-screening-never-change"
   },
   {
     "title": "Voicemails for Isabelle",
@@ -1178,6 +1128,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158845/"
+  },
+  {
+    "title": "Sweet 16mm: Revolutionary Queer Cinema",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4244417/"
   },
   {
     "title": "Princess Mononoke (Japanese with English subtitles)",
@@ -1600,6 +1560,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4252700/"
   },
   {
+    "title": "Coroner to the Stars",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4267744/"
+  },
+  {
+    "title": "Coroner to the Stars",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4215458/"
+  },
+  {
+    "title": "Coroner to the Stars",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4215468/"
+  },
+  {
     "title": "Summer of Sam",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1808,36 +1798,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4254360/"
-  },
-  {
-    "title": "Bend It Like Beckham in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-14",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Shaolin Soccer in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-14",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Offside in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-14",
-    "time": "5:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Only Yesterday",
@@ -2890,44 +2850,54 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Down by Law",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Ponyo in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-14",
-    "time": "1:00 PM",
+    "date": "2026-08-19",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/down-by-law-06-14-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Elvira Madigan",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Out of Sight",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-14",
-    "time": "4:00 PM",
+    "date": "2026-08-19",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/elvira-madigan-06-14-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Dekalog: One & Two",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Searchers in 70mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-14",
-    "time": "7:00 PM",
+    "date": "2026-08-20",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dekalog-one-and-two-6-14-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Threads",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Ponyo in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-14",
-    "time": "10:00 PM",
+    "date": "2026-08-21",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/threads-06-14-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Gunfight at the O.K. Corralin VistaVision",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Cinematic Void Presents Barb Wire",
