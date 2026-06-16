@@ -7,7 +7,7 @@
     "date": "2026-06-16",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3730?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Beginners",
@@ -610,16 +610,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Death of Robin Hood (Director Michael Sarnoski In Person)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-15-the-death-of-robin-hood/"
-  },
-  {
     "title": "Breakfast at Tiffany’s             /Roman Holiday",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -954,16 +944,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4196620/"
-  },
-  {
-    "title": "I Love Boosters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-20",
     "time": "10:00 PM",
     "description": "",
@@ -1124,16 +1104,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158845/"
-  },
-  {
-    "title": "Sweet 16mm: Revolutionary Queer Cinema",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-28",
     "time": "7:30 PM",
     "description": "",
@@ -1178,16 +1148,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158871/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4153311/"
   },
   {
     "title": "The Matrix",
@@ -1410,6 +1370,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4248103/"
   },
   {
+    "title": "Band of Outsiders",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252662/"
+  },
+  {
     "title": "WALL·E",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1438,6 +1408,46 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252657/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253421/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268270/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268290/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268388/"
   },
   {
     "title": "Tammy and the T-Rex",
@@ -1538,6 +1548,86 @@
     "time": "3:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252695/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268194/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268192/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268193/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4267751/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4267752/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268207/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268209/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268213/"
   },
   {
     "title": "Waterworld",
@@ -1680,6 +1770,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4252861/"
   },
   {
+    "title": "National Film Preservation Foundation’s Semiquincentennial Celebration of Celluloid",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253111/"
+  },
+  {
     "title": "Tootsie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1698,6 +1798,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4253112/"
+  },
+  {
+    "title": "The Emperor’s New Groove",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253142/"
   },
   {
     "title": "The Popcorn List: Remaining Native",
@@ -1750,6 +1860,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4253144/"
   },
   {
+    "title": "Cries and Whispers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4270604/"
+  },
+  {
+    "title": "Zoot Suit",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4270697/"
+  },
+  {
     "title": "The Cell",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1780,14 +1910,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4253157/"
   },
   {
-    "title": "The Face of Another",
+    "title": "Little Miss Sunshine",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-27",
-    "time": "7:30 PM",
+    "date": "2026-07-26",
+    "time": "3:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4254358/"
+    "url": "https://vidiotsfoundation.org/purchase/4253162/"
   },
   {
     "title": "The Unbearable Lightness of Being",
@@ -1800,24 +1930,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4254360/"
   },
   {
-    "title": "Only Yesterday",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Network",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-15",
-    "time": "2:30 PM",
+    "date": "2026-07-30",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The French Connection in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4270663/"
   },
   {
     "title": "Only Yesterday",
@@ -2900,26 +3020,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Barb Wire",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-barb-wire-6-15-26/"
-  },
-  {
-    "title": "The Trap",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-15",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-trap-6-15-26/"
-  },
-  {
     "title": "Twin Peaks: the Return Parts 1 & 2",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3138,6 +3238,16 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/evening-land-6-23-26/"
+  },
+  {
+    "title": "Little Brother",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/little-brother-06-24-2026/"
   },
   {
     "title": "Bryan Fuller Presents Deathtrap",
