@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bound",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-16",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Beginners",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -614,26 +604,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-06-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-16-breakfast-at-tiffanys-roman-holiday/"
-  },
-  {
-    "title": "Breakfast at Tiffany’s             /Roman Holiday",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-16",
-    "time": "9:55 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-16-breakfast-at-tiffanys-roman-holiday/"
-  },
-  {
-    "title": "Breakfast at Tiffany’s             /Roman Holiday",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-06-17",
     "time": "7:30 PM",
     "description": "",
@@ -958,16 +928,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158809/"
-  },
-  {
-    "title": "Voicemails for Isabelle",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://events.humanitix.com/kcrw-partner-screening-voicemails-for-isabelle"
   },
   {
     "title": "Mad Max: Fury Road",
@@ -1510,6 +1470,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4252665/"
   },
   {
+    "title": "Top Gun",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252666/"
+  },
+  {
     "title": "Picnic at Hanging Rock",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1880,6 +1850,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4270697/"
   },
   {
+    "title": "Young Frankenstein",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4271083/"
+  },
+  {
     "title": "The Cell",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1908,6 +1888,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4253157/"
+  },
+  {
+    "title": "Alien",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4271084/"
+  },
+  {
+    "title": "Freaky Friday",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253161/"
   },
   {
     "title": "Little Miss Sunshine",
@@ -3020,26 +3020,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: the Return Parts 1 & 2",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-1-2-06-16-2026/"
-  },
-  {
-    "title": "Criss Cross",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-16",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/criss-cross-06-16-2026/"
-  },
-  {
     "title": "Rose of Nevada",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3160,7 +3140,7 @@
     "url": "https://www.americancinematheque.com/now-showing/maps-to-the-stars-06-13-2026/"
   },
   {
-    "title": "Out of the Past",
+    "title": "Gregory Poirier Presents Out of the Past",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
