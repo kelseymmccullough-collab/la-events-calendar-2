@@ -1,15 +1,5 @@
 [
   {
-    "title": "Beginners",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3725?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Happiness",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -600,26 +590,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Breakfast at Tiffany’s             /Roman Holiday",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-17-breakfast-at-tiffanys-roman-holiday/"
-  },
-  {
-    "title": "Breakfast at Tiffany’s             /Roman Holiday",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-17",
-    "time": "9:55 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-17-breakfast-at-tiffanys-roman-holiday/"
-  },
-  {
     "title": "One Battle After Another",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -910,26 +880,6 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "I Love Boosters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158806/"
-  },
-  {
-    "title": "I Love Boosters",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158809/"
-  },
-  {
     "title": "Mad Max: Fury Road",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1040,6 +990,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4133381/"
   },
   {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-20",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158806/"
+  },
+  {
+    "title": "I Love Boosters",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-21",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4158809/"
+  },
+  {
     "title": "Stand by Me",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1058,6 +1028,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4127892/"
+  },
+  {
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-06-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://events.humanitix.com/kcrw-partner-screening-gail-daughtry-and-the-celebrity-sex-pass"
   },
   {
     "title": "Sweet 16mm: Revolutionary Queer Cinema",
@@ -1280,12 +1260,22 @@
     "url": "https://vidiotsfoundation.org/purchase/4133192/"
   },
   {
+    "title": "Cats + Vidiots’ Jellicle Ball",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-01",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4248103/"
+  },
+  {
     "title": "Underland",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-01",
-    "time": "7:00 PM",
+    "time": "8:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4254089/"
   },
@@ -1318,16 +1308,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4253417/"
-  },
-  {
-    "title": "Cats + Vidiots’ Jellicle Ball",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4248103/"
   },
   {
     "title": "Band of Outsiders",
@@ -1938,26 +1918,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Only Yesterday",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-17",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Aardman Animations Celebration",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "10th Anniversary ofSpa Night",
@@ -3020,24 +2980,24 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Rose of Nevada",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Nancy Drew",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-17",
-    "time": "7:00 PM",
+    "date": "2026-08-22",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/rose-of-nevada-06-17-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Enys Men",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Ten Commandmentsin VistaVision",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-17",
-    "time": "10:00 PM",
+    "date": "2026-08-22",
+    "time": "12:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/enys-men-06-17-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Privilege",
