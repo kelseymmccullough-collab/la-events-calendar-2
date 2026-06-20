@@ -1,15 +1,5 @@
 [
   {
-    "title": "Hedwig and the Angry Inch",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3726?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Pather Panchali",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -27,7 +17,7 @@
     "date": "2026-06-23",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3733?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Death Valley",
@@ -580,26 +570,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "One Battle After Another",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-19-one-battle-after-another/"
-  },
-  {
-    "title": "Inglourious Basterds",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-19-inglourious-basterds-midnight-show/"
-  },
-  {
     "title": "Lilo & Stitch",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -858,76 +828,6 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
-  },
-  {
-    "title": "Labyrinth",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133415/"
-  },
-  {
-    "title": "Second Nature: Gender and Sexuality in the Animal World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133395/"
-  },
-  {
-    "title": "Is God Is",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158802/"
-  },
-  {
-    "title": "Is God Is",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158815/"
-  },
-  {
-    "title": "Is God Is",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158816/"
-  },
-  {
-    "title": "Is God Is",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4188828/"
-  },
-  {
-    "title": "My Best Friend’s Wedding",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133381/"
   },
   {
     "title": "I Love Boosters",
@@ -1858,36 +1758,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Only Yesterday",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Seven Year Itchwith Kim Morgan",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Parallax View",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Rescuers",
@@ -2930,44 +2800,44 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "A Woman of Paris",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Funny Face in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-19",
-    "time": "1:00 PM",
+    "date": "2026-08-23",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-woman-of-paris-06-19-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "“le Jour Ou…” / Making of Tomorrow We Move",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Jackie",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-19",
-    "time": "4:00 PM",
+    "date": "2026-08-23",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/le-jour-ou-making-of-tomorrow-we-move-06-19-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Blknws: Terms & Conditions",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Hot Spell in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-19",
-    "time": "7:00 PM",
+    "date": "2026-08-23",
+    "time": "3:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/blknws-terms-conditions-06-19-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Polyester",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "White Christmasin VistaVision",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-19",
-    "time": "10:00 PM",
+    "date": "2026-08-23",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/polyester-06-19-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "No Blood Relation",
