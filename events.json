@@ -560,36 +560,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Lilo & Stitch",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-21-lilo-stitch-family-matinee/"
-  },
-  {
-    "title": "That Certain Thing (Silent with Live Music Score)             /So This Is Love (Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-21-that-certain-thing-so-this-is-love/"
-  },
-  {
-    "title": "That Certain Thing (Silent with Live Music Score)             /So This Is Love (Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "8:10 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-21-that-certain-thing-so-this-is-love/"
-  },
-  {
     "title": "Scream Bloody Murder             /Deranged",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -790,16 +760,6 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "Working Girls",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4127892/"
-  },
-  {
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -998,16 +958,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133190/"
-  },
-  {
-    "title": "All That Jazz",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133191/"
   },
   {
     "title": "Bad Education on 35mm",
@@ -1480,6 +1430,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4252861/"
   },
   {
+    "title": "Perfect Blue",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252862/"
+  },
+  {
     "title": "National Film Preservation Foundation’s Semiquincentennial Celebration of Celluloid",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1678,26 +1638,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Phantom Thread in 70mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Summertime in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Pom Poko",
@@ -2768,46 +2708,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Gregory Poirier Presents Out of the Past",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/out-of-the-past-06-21-2026/"
-  },
-  {
-    "title": "Someone's Watching Me!",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/someones-watching-me-06-21-2026/"
-  },
-  {
-    "title": "Dekalog: Three & Four",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dekalog-three-and-four-6-21-26/"
-  },
-  {
-    "title": "The Baby Carriage",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-baby-carriage-06-21-2026/"
   },
   {
     "title": "Cinematic Void Presents Def by Temptation",
