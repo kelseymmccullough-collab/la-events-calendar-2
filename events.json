@@ -27,7 +27,7 @@
     "date": "2026-06-25",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3735?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Race with The Devil",
@@ -560,26 +560,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Scream Bloody Murder             /Deranged",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-22-scream-bloody-murder-deranged/"
-  },
-  {
-    "title": "Scream Bloody Murder             /Deranged",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-22",
-    "time": "9:25 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-22-scream-bloody-murder-deranged/"
-  },
-  {
     "title": "The Stone Killer             /Newman’s Law",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -788,16 +768,6 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4134600/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158848/"
   },
   {
     "title": "ASCO: Without Permission",
@@ -1110,6 +1080,66 @@
     "url": "https://vidiotsfoundation.org/purchase/4252658/"
   },
   {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253425/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268390/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268400/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268401/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297603/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297605/"
+  },
+  {
     "title": "Jaws",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1175,7 +1205,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-07",
-    "time": "6:30 PM",
+    "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252668/"
   },
@@ -1550,6 +1580,86 @@
     "url": "https://vidiotsfoundation.org/purchase/4270697/"
   },
   {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297787/"
+  },
+  {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297789/"
+  },
+  {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297791/"
+  },
+  {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297814/"
+  },
+  {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297815/"
+  },
+  {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297818/"
+  },
+  {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297819/"
+  },
+  {
+    "title": "Leviticus",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297838/"
+  },
+  {
     "title": "Young Frankenstein",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1620,6 +1730,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4253162/"
   },
   {
+    "title": "The Face of Another",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4254358/"
+  },
+  {
     "title": "The Unbearable Lightness of Being",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1638,26 +1758,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Pom Poko",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-22",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Crash in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Pom Poko",
@@ -2710,24 +2810,34 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Def by Temptation",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "We’re No Angelsin VistaVision",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-22",
-    "time": "7:00 PM",
+    "date": "2026-08-27",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-def-by-temptation-6-22-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Love 65",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Secret World of Arrietty",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-22",
-    "time": "10:00 PM",
+    "date": "2026-08-28",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/love-65-06-22-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "North by Northwest in 70mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Twin Peaks: the Return Parts 3 & 4",
