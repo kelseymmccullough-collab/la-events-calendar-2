@@ -1,15 +1,5 @@
 [
   {
-    "title": "They Shoot Horses, Don't They?",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-23",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Death Valley",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -564,26 +554,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-06-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-23-the-stone-killer-newmans-law/"
-  },
-  {
-    "title": "The Stone Killer             /Newman’s Law",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-23",
-    "time": "9:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-23-the-stone-killer-newmans-law/"
-  },
-  {
-    "title": "The Stone Killer             /Newman’s Law",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-06-24",
     "time": "7:30 PM",
     "description": "",
@@ -740,16 +710,6 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://events.humanitix.com/kcrw-partner-screening-gail-daughtry-and-the-celebrity-sex-pass"
-  },
-  {
     "title": "Sweet 16mm: Revolutionary Queer Cinema",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -768,26 +728,6 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4134600/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4244419/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158871/"
   },
   {
     "title": "Camp",
@@ -2840,36 +2780,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: the Return Parts 3 & 4",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-23",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-3-4-06-23-2026/"
-  },
-  {
-    "title": "Evening Land",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-23",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/evening-land-6-23-26/"
-  },
-  {
-    "title": "“three Stanzas on the Name of Sacher” / Franz Schubert's Last Three Piano Sonatas",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-23",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/three-stanzas-on-the-name-of-sacher-franz-schuberts-last-three-piano-sonatas-06-23-2026/"
-  },
-  {
     "title": "Little Brother",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3110,6 +3020,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-great-mcginty-07-03-2026/"
   },
   {
+    "title": "Dekalog: Five & Six",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dekalog-five-six-07-03-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Frogs",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3148,6 +3068,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-iron-giant-07-04-2026/"
+  },
+  {
+    "title": "Born on the Fourth of July",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/born-on-the-fourth-of-july-07-04-2026/"
   },
   {
     "title": "Starship Troopers",
@@ -3228,6 +3158,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-7-8-07-09-2026/"
+  },
+  {
+    "title": "Dekalog: Seven & Eight",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-eight-07-10-2026/"
   },
   {
     "title": "Barrio Triste",
