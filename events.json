@@ -1,15 +1,5 @@
 [
   {
-    "title": "Death Valley",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3734?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "But I'm a Cheerleader",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -17,7 +7,7 @@
     "date": "2026-06-25",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3735?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Race with The Devil",
@@ -48,6 +38,146 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3742?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3817?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3817?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3827?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3827?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3828?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3828?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3818?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3818?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3819?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3819?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3820?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3820?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-09",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3821?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Invite",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3821?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Dances With Wolves",
@@ -226,16 +356,6 @@
     "type": "film",
     "date": "2026-07-18",
     "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3746?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "6:20 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3746?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
@@ -550,26 +670,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Stone Killer             /Newman’s Law",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-24-the-stone-killer-newmans-law/"
-  },
-  {
-    "title": "The Stone Killer             /Newman’s Law",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "9:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-24-the-stone-killer-newmans-law/"
-  },
-  {
     "title": "Creature from the Black Lagoon 3-D             /It Came from Outer Space 3-D",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -710,14 +810,694 @@
     "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
   },
   {
-    "title": "Sweet 16mm: Revolutionary Queer Cinema",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "Moonstruck             /Vampire’s Kiss",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-06-28",
+    "date": "2026-07-01",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4244417/"
+    "url": "https://thenewbev.com/program/july-1-moonstruck-vampires-kiss/"
+  },
+  {
+    "title": "Moonstruck             /Vampire’s Kiss",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-01",
+    "time": "9:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-1-moonstruck-vampires-kiss/"
+  },
+  {
+    "title": "Moonstruck             /Vampire’s Kiss",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-2-moonstruck-vampires-kiss/"
+  },
+  {
+    "title": "Moonstruck             /Vampire’s Kiss",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-02",
+    "time": "9:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-2-moonstruck-vampires-kiss/"
+  },
+  {
+    "title": "Heat",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-3-heat/"
+  },
+  {
+    "title": "Jackie Brown",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-3-jackie-brown-midnight-show/"
+  },
+  {
+    "title": "Men in Black",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-4-men-in-black-family-matinee/"
+  },
+  {
+    "title": "Heat",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-4-heat/"
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-4-i-know-what-you-did-last-summer-midnight-show/"
+  },
+  {
+    "title": "Men in Black",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-5-men-in-black-family-matinee/"
+  },
+  {
+    "title": "Heat",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-5-heat/"
+  },
+  {
+    "title": "The Lady in Red             /The Bonnie Parker Story",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-6-the-lady-in-red-the-bonnie-parker-story/"
+  },
+  {
+    "title": "The Lady in Red             /The Bonnie Parker Story",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-6-the-lady-in-red-the-bonnie-parker-story/"
+  },
+  {
+    "title": "Beauty and the Beast (1946)             /Orpheus",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-7-beauty-and-the-beast-orpheus/"
+  },
+  {
+    "title": "Beauty and the Beast (1946)             /Orpheus",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-7-beauty-and-the-beast-orpheus/"
+  },
+  {
+    "title": "Beauty and the Beast (1946)             /Orpheus",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-8-beauty-and-the-beast-orpheus/"
+  },
+  {
+    "title": "Beauty and the Beast (1946)             /Orpheus",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-8-beauty-and-the-beast-orpheus/"
+  },
+  {
+    "title": "Risky Business             /Miracle Mile",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-9-risky-business-miracle-mile/"
+  },
+  {
+    "title": "Risky Business             /Miracle Mile",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-09",
+    "time": "9:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-9-risky-business-miracle-mile/"
+  },
+  {
+    "title": "Risky Business             /Miracle Mile",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-10-risky-business-miracle-mile/"
+  },
+  {
+    "title": "Risky Business             /Miracle Mile",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "8:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-10-risky-business-miracle-mile/"
+  },
+  {
+    "title": "Jackie Brown",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-10-jackie-brown-midnight-show/"
+  },
+  {
+    "title": "Cartoon Club",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-11-cartoon-club/"
+  },
+  {
+    "title": "The Love Bug (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-11-the-love-bug-family-matinee/"
+  },
+  {
+    "title": "The Drama",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-11-the-drama/"
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-11-punch-drunk-love-midnight-show/"
+  },
+  {
+    "title": "The Love Bug (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-12-the-love-bug-family-matinee/"
+  },
+  {
+    "title": "The Drama",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-12-the-drama/"
+  },
+  {
+    "title": "Singapore             /Tangier",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-13-singapore-tangier/"
+  },
+  {
+    "title": "Singapore             /Tangier",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "9:20 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-13-singapore-tangier/"
+  },
+  {
+    "title": "Billy Madison             /50 First Dates",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-14-billy-madison-50-first-dates/"
+  },
+  {
+    "title": "Billy Madison             /50 First Dates",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-14",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-14-billy-madison-50-first-dates/"
+  },
+  {
+    "title": "Billy Madison             /50 First Dates",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-15-billy-madison-50-first-dates/"
+  },
+  {
+    "title": "Billy Madison             /50 First Dates",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-15-billy-madison-50-first-dates/"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-16-a-clockwork-orange/"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-17-a-clockwork-orange/"
+  },
+  {
+    "title": "Jackie Brown",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-17-jackie-brown-midnight-show/"
+  },
+  {
+    "title": "A Goofy Movie",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-18-a-goofy-movie-family-matinee/"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-18-a-clockwork-orange/"
+  },
+  {
+    "title": "The ‘Burbs",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-18-the-burbs-midnight-show/"
+  },
+  {
+    "title": "A Goofy Movie",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-19-a-goofy-movie-family-matinee/"
+  },
+  {
+    "title": "The Big Parade (Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-19-the-big-parade/"
+  },
+  {
+    "title": "The Women (1939)             /Dinner at Eight",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-20-the-women-dinner-at-eight/"
+  },
+  {
+    "title": "The Women (1939)             /Dinner at Eight",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-20-the-women-dinner-at-eight/"
+  },
+  {
+    "title": "The Women (1939)             /Dinner at Eight",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-21-the-women-dinner-at-eight/"
+  },
+  {
+    "title": "The Women (1939)             /Dinner at Eight",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-21",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-21-the-women-dinner-at-eight/"
+  },
+  {
+    "title": "Winchester ’73             /Man Without a Star",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-22-winchester-73-man-without-a-star/"
+  },
+  {
+    "title": "Winchester ’73             /Man Without a Star",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-22",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-22-winchester-73-man-without-a-star/"
+  },
+  {
+    "title": "Winchester ’73             /Man Without a Star",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-23-winchester-73-man-without-a-star/"
+  },
+  {
+    "title": "Winchester ’73             /Man Without a Star",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-23",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-23-winchester-73-man-without-a-star/"
+  },
+  {
+    "title": "Misery             /Dead Calm",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-24-misery-dead-calm/"
+  },
+  {
+    "title": "Misery             /Dead Calm",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "8:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-24-misery-dead-calm/"
+  },
+  {
+    "title": "Jackie Brown",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-24-jackie-brown-midnight-show/"
+  },
+  {
+    "title": "Back to the Future",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-25-back-to-the-future-family-matinee/"
+  },
+  {
+    "title": "Misery             /Dead Calm",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-25-misery-dead-calm/"
+  },
+  {
+    "title": "Misery             /Dead Calm",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "8:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-25-misery-dead-calm/"
+  },
+  {
+    "title": "Dazed and Confused",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-25-dazed-and-confused-midnight-show/"
+  },
+  {
+    "title": "Back to the Future",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-26-back-to-the-future-family-matinee/"
+  },
+  {
+    "title": "Misery             /Dead Calm",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-26-misery-dead-calm/"
+  },
+  {
+    "title": "Misery             /Dead Calm",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "8:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-26-misery-dead-calm/"
+  },
+  {
+    "title": "Tiger on the Beat 2             /The Cyprus Tigers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-27-tiger-on-the-beat-2-the-cyprus-tigers/"
+  },
+  {
+    "title": "Tiger on the Beat 2             /The Cyprus Tigers",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-27",
+    "time": "9:35 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-27-tiger-on-the-beat-2-the-cyprus-tigers/"
+  },
+  {
+    "title": "Dusty and Sweets McGee             /Born to Win",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/"
+  },
+  {
+    "title": "Dusty and Sweets McGee             /Born to Win",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-28",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/"
+  },
+  {
+    "title": "Dusty and Sweets McGee             /Born to Win",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-29-dusty-and-sweets-mcgee-born-to-win/"
+  },
+  {
+    "title": "Dusty and Sweets McGee             /Born to Win",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-29",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-29-dusty-and-sweets-mcgee-born-to-win/"
+  },
+  {
+    "title": "The Deer Hunter",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-30",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-30-the-deer-hunter/"
+  },
+  {
+    "title": "The Deer Hunter",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-31",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-31-the-deer-hunter/"
+  },
+  {
+    "title": "Jackie Brown",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-07-31",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
     "title": "Princess Mononoke (Japanese with English subtitles)",
@@ -818,16 +1598,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4133170/"
-  },
-  {
-    "title": "The Birdcage",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133171/"
   },
   {
     "title": "Allegro non troppo",
@@ -1280,6 +2050,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4252700/"
   },
   {
+    "title": "Night at the Museum",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252701/"
+  },
+  {
+    "title": "Adam’s Rib",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252705/"
+  },
+  {
     "title": "Coroner to the Stars",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1390,6 +2180,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4252731/"
   },
   {
+    "title": "Amores Perros",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4301573/"
+  },
+  {
     "title": "Speed",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1398,6 +2198,46 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252861/"
+  },
+  {
+    "title": "Unidentified",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297840/"
+  },
+  {
+    "title": "Unidentified",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297841/"
+  },
+  {
+    "title": "Unidentified",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4298064/"
+  },
+  {
+    "title": "Unidentified",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4301565/"
   },
   {
     "title": "Perfect Blue",
@@ -1495,7 +2335,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-20",
-    "time": "7:00 PM",
+    "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4253144/"
   },
@@ -1538,16 +2378,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4297789/"
-  },
-  {
-    "title": "Leviticus",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-24",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297791/"
   },
   {
     "title": "Leviticus",
@@ -1700,16 +2530,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
   },
   {
-    "title": "Pom Poko",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Notoriouswith Guillermo del Toro",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -1820,7 +2640,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Whisper of the Heart",
+    "title": "Whisper of the Heart in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -1840,7 +2660,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Whisper of the Heart",
+    "title": "Whisper of the Heart in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -1880,7 +2700,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Whisper of the Heart",
+    "title": "Whisper of the Heart in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2778,26 +3598,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Little Brother",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/little-brother-06-24-2026/"
-  },
-  {
-    "title": "Bryan Fuller Presents Deathtrap",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-24",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bryan-fuller-presents-deathtrap-06-24-2026/"
   },
   {
     "title": "Andrew Ahn Presents the Favourite",
