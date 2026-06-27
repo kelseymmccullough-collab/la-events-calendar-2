@@ -1,15 +1,5 @@
 [
   {
-    "title": "Race with The Devil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3736?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Wake in Fright",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -17,7 +7,7 @@
     "date": "2026-06-27",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3737?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Wild Party",
@@ -880,36 +870,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Creature from the Black Lagoon 3-D             /It Came from Outer Space 3-D",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-26-creature-from-the-black-lagoon-3-d-it-came-from-outer-space-3-d/"
-  },
-  {
-    "title": "Creature from the Black Lagoon 3-D             /It Came from Outer Space 3-D",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "8:20 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-26-creature-from-the-black-lagoon-3-d-it-came-from-outer-space-3-d/"
-  },
-  {
-    "title": "Inglourious Basterds",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-26-inglourious-basterds-midnight-show/"
-  },
-  {
     "title": "Silverado",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1690,26 +1650,6 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "Camp",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4153321/"
-  },
-  {
-    "title": "Jinsei",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158855/"
-  },
-  {
     "title": "Jinsei",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1738,36 +1678,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158882/"
-  },
-  {
-    "title": "The Incredibles",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133178/"
-  },
-  {
-    "title": "When We Were Kings",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133170/"
-  },
-  {
-    "title": "Allegro non troppo",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133172/"
   },
   {
     "title": "The Little Mermaid Sing-Along",
@@ -2145,16 +2055,6 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4268192/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-10",
     "time": "10:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4268193/"
@@ -2370,14 +2270,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4301573/"
   },
   {
-    "title": "Speed",
+    "title": "Unidentified",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-17",
-    "time": "7:00 PM",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252861/"
+    "url": "https://vidiotsfoundation.org/purchase/4307271/"
   },
   {
     "title": "Unidentified",
@@ -2388,16 +2288,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4297840/"
-  },
-  {
-    "title": "Unidentified",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297841/"
   },
   {
     "title": "Unidentified",
@@ -2418,6 +2308,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4301565/"
+  },
+  {
+    "title": "Speed",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252861/"
   },
   {
     "title": "Perfect Blue",
@@ -2718,36 +2618,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Pom Poko",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Shadow of a Doubtwith Guillermo del Toro",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "There's No Business Like Show Business",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Goonies in 4K",
@@ -3780,44 +3650,34 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Devil, Probably",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Zootopia",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-26",
-    "time": "1:00 PM",
+    "date": "2026-08-29",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-devil-probably-06-26-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "“the Hammer” / One Day Pina Asked…",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Court Jester in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-26",
-    "time": "4:00 PM",
+    "date": "2026-08-29",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-hammer-one-day-pina-asked-06-26-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "“cairo as Seen by Chahine” / Cairo Station",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Joker is Wild in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-26",
-    "time": "7:00 PM",
+    "date": "2026-08-29",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cairo-as-seen-by-chahine-cairo-station-06-26-2026/"
-  },
-  {
-    "title": "Twin Peaks: the Return Parts 3 & 4",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-26",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-3-4-06-26-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Wife",
@@ -4060,6 +3920,16 @@
     "url": "https://www.americancinematheque.com/now-showing/annapurna-sriram-presents-the-misfits-07-05-2026/"
   },
   {
+    "title": "Rose of Nevada",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/rose-of-nevada-07-05-2026/"
+  },
+  {
     "title": "Dekalog: Seven & Eight",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4068,6 +3938,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-and-eight-7-5-26/"
+  },
+  {
+    "title": "Breakdown",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/breakdown-07-05-2026/"
   },
   {
     "title": "Cinematic Void Presents Desperate Living",
@@ -4100,6 +3980,36 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-7-8-07-07-2026/"
   },
   {
+    "title": "Rose of Nevada",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/rose-of-nevada-07-07-2026/"
+  },
+  {
+    "title": "The Hitch-hiker",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-hitch-hiker-07-08-2026/"
+  },
+  {
+    "title": "The Hills Have Eyes",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-hills-have-eyes-07-08-2026/"
+  },
+  {
     "title": "Persepolis",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4128,6 +4038,26 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-eight-07-10-2026/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/rose-of-nevada-07-10-2026/"
+  },
+  {
+    "title": "Y Tu Mamá También",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/y-tu-mama-tambien-07-10-2026/"
   },
   {
     "title": "Barrio Triste",
@@ -4200,6 +4130,16 @@
     "url": "https://www.americancinematheque.com/now-showing/dekalog-nine-and-ten-7-12-26/"
   },
   {
+    "title": "The Texas Chainsaw Massacre",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-12",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/texas-chainsaw-massacre-07-12-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Wild Things",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4208,6 +4148,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
+  },
+  {
+    "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-13",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/to-wong-foo-thanks-for-everything-julie-newmar-07-13-2026/"
   },
   {
     "title": "Twin Peaks: the Return Parts 9 & 10",
@@ -4220,6 +4170,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-9-10-07-14-2026/"
   },
   {
+    "title": "Breakdown",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-14",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/breakdown-07-14-2026/"
+  },
+  {
     "title": "Claire's Knee",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4230,6 +4190,16 @@
     "url": "https://www.americancinematheque.com/now-showing/claires-knee-07-15-2026/"
   },
   {
+    "title": "The Texas Chainsaw Massacre",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-15",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-texas-chainsaw-massacre-07-15-2026/"
+  },
+  {
     "title": "Twin Peaks: the Return Parts 9 & 10",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4238,6 +4208,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-9-10-07-16-2026/"
+  },
+  {
+    "title": "Dead Again",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dead-again-07-17-2026/"
   },
   {
     "title": "Barrio Triste",
@@ -4270,6 +4250,26 @@
     "url": "https://www.americancinematheque.com/now-showing/dawn-of-a-new-day-07-18-2026/"
   },
   {
+    "title": "I Shot Andy Warhol",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/i-shot-andy-warhol-07-18-2026/"
+  },
+  {
+    "title": "Citizen Ruth",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/citizen-ruth-07-19-2026/"
+  },
+  {
     "title": "\"the Bakery Girl of Monceau\" / Suzanne's Career",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4278,6 +4278,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-bakery-girl-of-monceau-suzannes-career-07-19-2026/"
+  },
+  {
+    "title": "I Shot Andy Warhol",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-19",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/i-shot-andy-warhol-07-19-2026/"
   },
   {
     "title": "Cinematic Void Presents Picnic at Hanging Rock",
@@ -4290,6 +4300,16 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-picnic-at-hanging-rock-7-20-26/"
   },
   {
+    "title": "The House That Jack Built",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-20",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-house-that-jack-built-07-20-2026/"
+  },
+  {
     "title": "Twin Peaks: the Return Parts 11 & 12",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4298,6 +4318,36 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-11-12-07-21-2026/"
+  },
+  {
+    "title": "Weekend",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-21",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/weekend-07-21-2026/"
+  },
+  {
+    "title": "Dog Day Afternoon",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dog-day-afternoon-07-22-2026/"
+  },
+  {
+    "title": "Cujo",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-22",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cujo-07-22-2026/"
   },
   {
     "title": "The Devil of the Desert",
@@ -4320,6 +4370,16 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-11-12-07-23-2026/"
   },
   {
+    "title": "Family Plot",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/family-plot-07-24-2026/"
+  },
+  {
     "title": "Travelling Actors",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4340,6 +4400,26 @@
     "url": "https://www.americancinematheque.com/now-showing/dark-waters-07-25-2026/"
   },
   {
+    "title": "Christine",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/christine-07-25-2026/"
+  },
+  {
+    "title": "Black Chariot",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/black-chariot-07-26-2026/"
+  },
+  {
     "title": "Love in the Afternoon",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4348,6 +4428,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/love-in-the-afternoon-07-26-2026/"
+  },
+  {
+    "title": "They Live by Night",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/they-live-by-night-07-26-2026/"
   },
   {
     "title": "Cinematic Void Presents Do the Right Thing",
@@ -4368,6 +4458,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-13-14-07-28-2026/"
+  },
+  {
+    "title": "House of Wax",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-28",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/house-of-wax-07-28-2026/"
+  },
+  {
+    "title": "The Greg Proops Film Club Presents the Game",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-30",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-game-07-30-2026/"
   },
   {
     "title": "Twin Peaks: the Return Parts 13 & 14",
