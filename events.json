@@ -1,15 +1,5 @@
 [
   {
-    "title": "Wake in Fright",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Wild Party",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -465,6 +455,16 @@
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-07-18",
+    "time": "6:20 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3746?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-07-18",
     "time": "10:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3746?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
@@ -868,36 +868,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Silverado",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-27-silverado-family-matinee/"
-  },
-  {
-    "title": "The Passenger (1975)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-27-the-passenger/"
-  },
-  {
-    "title": "Exorcist II: The Heretic",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-27-exorcist-ii-the-heretic-midnight-show/"
   },
   {
     "title": "Silverado",
@@ -1654,16 +1624,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-06-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4153320/"
-  },
-  {
-    "title": "Jinsei",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-06-28",
     "time": "1:15 PM",
     "description": "",
@@ -1678,46 +1638,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4158882/"
-  },
-  {
-    "title": "The Little Mermaid Sing-Along",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133187/"
-  },
-  {
-    "title": "Harakiri",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133188/"
-  },
-  {
-    "title": "We Are Pat",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133190/"
-  },
-  {
-    "title": "Sweet 16mm: Revolutionary Queer Cinema",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4244417/"
   },
   {
     "title": "All That Jazz",
@@ -2618,46 +2538,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "The Goonies in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "North by Northwestwith Guillermo del Toro",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Prince and the Showgirl in 35mm withBus Stop",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "I Confess in 35mm with Guillermo del Toro",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "All That Money Can Buy (The Devil and Daniel Webster)",
@@ -3680,44 +3560,44 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Wife",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Artists and Models in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-27",
-    "time": "1:00 PM",
+    "date": "2026-08-30",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/wife-6-27-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Ådalen 31",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Da 5 Bloods",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-27",
-    "time": "4:00 PM",
+    "date": "2026-08-30",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/adalen-31-06-27-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Vera Drew Presents Seed of Chucky",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Girl Rush in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-27",
-    "time": "7:00 PM",
+    "date": "2026-08-30",
+    "time": "3:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/vera-drew-presents-seed-of-chucky-06-27-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Dangerous Game",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "One Battle After Anotherin VistaVision",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-27",
-    "time": "10:00 PM",
+    "date": "2026-08-30",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dangerous-game-06-27-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "My Night at Maud's",
