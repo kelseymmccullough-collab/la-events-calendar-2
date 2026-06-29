@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Wild Party",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3742?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "In The Line of Fire",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -870,26 +860,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Silverado",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-28-silverado-family-matinee/"
-  },
-  {
-    "title": "The Passenger (1975)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-28-the-passenger/"
-  },
-  {
     "title": "Born to Kill             /The Set-Up",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1618,36 +1588,6 @@
     "time": "11:59 PM",
     "description": "",
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
-  },
-  {
-    "title": "Jinsei",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4153061/"
-  },
-  {
-    "title": "Jinsei",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4158882/"
-  },
-  {
-    "title": "All That Jazz",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252855/"
   },
   {
     "title": "Bad Education on 35mm",
@@ -2538,36 +2478,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "All That Money Can Buy (The Devil and Daniel Webster)",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Let’s Make Love",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Frenzywith Guillermo del Toro",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Whisper of the Heart in 4K",
@@ -3600,34 +3510,14 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "My Night at Maud's",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "One-Eyed Jacks in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-06-28",
-    "time": "1:00 PM",
+    "date": "2026-08-31",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-night-at-mauds-06-28-2026/"
-  },
-  {
-    "title": "La Commune (paris, 1871)",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/la-commune-paris-1871-6-28-26/"
-  },
-  {
-    "title": "Dekalog: Five & Six",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dekalog-five-and-six-6-28-26/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Cinematic Void Presents Rollercoaster",
