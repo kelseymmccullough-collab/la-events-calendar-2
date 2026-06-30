@@ -864,26 +864,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-06-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-29-born-to-kill-the-set-up/"
-  },
-  {
-    "title": "Born to Kill             /The Set-Up",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-29",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-29-born-to-kill-the-set-up/"
-  },
-  {
-    "title": "Born to Kill             /The Set-Up",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-06-30",
     "time": "7:30 PM",
     "description": "",
@@ -1590,26 +1570,6 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "Bad Education on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-06-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4133192/"
-  },
-  {
-    "title": "Cats + Vidiots’ Jellicle Ball",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4248103/"
-  },
-  {
     "title": "Underland",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1905,16 +1865,6 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-10",
-    "time": "4:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4268194/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-10",
     "time": "10:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4268193/"
@@ -2100,6 +2050,46 @@
     "url": "https://vidiotsfoundation.org/purchase/4252726/"
   },
   {
+    "title": "ASCO: Without Permission",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4325769/"
+  },
+  {
+    "title": "ASCO: Without Permission",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-16",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4325701/"
+  },
+  {
+    "title": "ASCO: Without Permission",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297841/"
+  },
+  {
+    "title": "ASCO: Without Permission",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4298063/"
+  },
+  {
     "title": "Harry Dean Stanton: Partly Fiction",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2158,6 +2148,16 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4298064/"
+  },
+  {
+    "title": "Unidentified",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-18",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4298073/"
   },
   {
     "title": "Unidentified",
@@ -2478,26 +2478,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Whisper of the Heart in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-29",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Hitch-Hiker",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-06-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Whisper of the Heart in 4K",
@@ -3520,26 +3500,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Rollercoaster",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-rollercoaster-6-29-26/"
-  },
-  {
-    "title": "The Land",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-29",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-land-06-29-2026/"
-  },
-  {
     "title": "Twin Peaks: the Return Parts 5 & 6",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3848,6 +3808,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/a-wifes-heart-7-11-26/"
+  },
+  {
+    "title": "Y Tu Mamá También",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-11",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/y-tu-mama-tambien-07-11-2026/"
   },
   {
     "title": "La Collectionneuse",
@@ -4238,6 +4208,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/house-of-wax-07-28-2026/"
+  },
+  {
+    "title": "Sudden Fear",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/sudden-fear-07-29-2026/"
   },
   {
     "title": "The Greg Proops Film Club Presents the Game",
