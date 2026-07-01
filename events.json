@@ -860,26 +860,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Born to Kill             /The Set-Up",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
-  },
-  {
-    "title": "Born to Kill             /The Set-Up",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-06-30",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/june-30-born-to-kill-the-set-up/"
-  },
-  {
     "title": "Moonstruck             /Vampire’s Kiss",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1568,46 +1548,6 @@
     "time": "11:59 PM",
     "description": "",
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
-  },
-  {
-    "title": "Underland",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4254089/"
-  },
-  {
-    "title": "Underland",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4254104/"
-  },
-  {
-    "title": "Underland",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253409/"
-  },
-  {
-    "title": "Underland",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253417/"
   },
   {
     "title": "Band of Outsiders",
@@ -2470,6 +2410,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4254360/"
   },
   {
+    "title": "Interview with the Vampire on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4270660/"
+  },
+  {
     "title": "Network",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2540,7 +2490,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Sorcerer",
+    "title": "Sorcerer in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -3500,26 +3450,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: the Return Parts 5 & 6",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-5-6-06-30-2026/"
-  },
-  {
-    "title": "\"the Web\" / the Gladiators",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-06-30",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-web-the-gladiators-6-24-26/"
-  },
-  {
     "title": "The Man on the Roof",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4110,7 +4040,7 @@
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-11-12-07-23-2026/"
   },
   {
-    "title": "Family Plot",
+    "title": "P! - Family Plot",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
@@ -4170,7 +4100,7 @@
     "url": "https://www.americancinematheque.com/now-showing/love-in-the-afternoon-07-26-2026/"
   },
   {
-    "title": "They Live by Night",
+    "title": "P! - They Live by Night",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
