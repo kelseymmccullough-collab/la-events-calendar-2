@@ -1,15 +1,5 @@
 [
   {
-    "title": "In The Line of Fire",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3831?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Big Red One",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -864,26 +854,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-07-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-1-moonstruck-vampires-kiss/"
-  },
-  {
-    "title": "Moonstruck             /Vampire’s Kiss",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "9:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-1-moonstruck-vampires-kiss/"
-  },
-  {
-    "title": "Moonstruck             /Vampire’s Kiss",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-07-02",
     "time": "7:30 PM",
     "description": "",
@@ -1550,14 +1520,34 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "Band of Outsiders",
+    "title": "Underland",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-02",
-    "time": "7:30 PM",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252662/"
+    "url": "https://vidiotsfoundation.org/purchase/4254104/"
+  },
+  {
+    "title": "Underland",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253409/"
+  },
+  {
+    "title": "Underland",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-03",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4253417/"
   },
   {
     "title": "WALL·E",
@@ -1578,16 +1568,6 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252654/"
-  },
-  {
-    "title": "Independence Day",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252657/"
   },
   {
     "title": "Rose of Nevada",
@@ -1804,50 +1784,10 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-10",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4268193/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4267751/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-07-11",
     "time": "9:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4267752/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4268207/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4268209/"
   },
   {
     "title": "Maddie’s Secret",
@@ -2058,6 +1998,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4301573/"
+  },
+  {
+    "title": "All That Jazz",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252855/"
   },
   {
     "title": "Unidentified",
@@ -2428,26 +2378,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Whisper of the Heart in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Galaxy Quest in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Some Like It Hot in 4K",
@@ -3448,26 +3378,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Man on the Roof",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-man-on-the-roof-07-01-2026/"
-  },
-  {
-    "title": "“for Febe Elisabeth Velasquez, El Salvador” / From the Other Side",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-01",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/for-febe-elisabeth-velasquez-el-salvador-from-the-other-side-07-01-2026/"
   },
   {
     "title": "Alexandria Again and Forever",
