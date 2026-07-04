@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-07-03",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3817?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Invite",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3817?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Return of the Living Dead",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Invite",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-07-04",
     "time": "3:30 PM",
     "description": "",
@@ -840,26 +810,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Heat",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-3-heat/"
-  },
-  {
-    "title": "Jackie Brown",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-3-jackie-brown-midnight-show/"
-  },
-  {
     "title": "Men in Black",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1490,14 +1440,84 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "Jaws",
+    "title": "The Furious",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-04",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268390/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268400/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
     "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4220152/"
+    "url": "https://vidiotsfoundation.org/purchase/4268401/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297603/"
+  },
+  {
+    "title": "The Furious",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297605/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-04",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268270/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268290/"
+  },
+  {
+    "title": "Rose of Nevada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4268388/"
   },
   {
     "title": "Aladdin",
@@ -1588,16 +1608,6 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4267752/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4268213/"
   },
   {
     "title": "Waterworld",
@@ -2188,36 +2198,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
-    "title": "Whisper of the Heart in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Misfits in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Sorcerer in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Great Muppet Caper in 4K",
@@ -3168,46 +3148,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Great Mcginty",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-great-mcginty-07-03-2026/"
-  },
-  {
-    "title": "Dekalog: Five & Six",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dekalog-five-six-07-03-2026/"
-  },
-  {
-    "title": "Cinematic Void Presents Frogs",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-frogs-7-3-26/"
-  },
-  {
-    "title": "Starship Troopers",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-03",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/starship-troopers-07-03-2026/"
   },
   {
     "title": "Summer Clouds",
