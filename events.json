@@ -1,35 +1,5 @@
 [
   {
-    "title": "Monsieur Verdoux",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-07",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3833?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Invite",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-07",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3819?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Invite",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3819?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Westward Ho the Wagons!",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -754,26 +724,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-07-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-7-beauty-and-the-beast-orpheus/"
-  },
-  {
-    "title": "Beauty and the Beast (1946)             /Orpheus",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-07",
-    "time": "9:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-7-beauty-and-the-beast-orpheus/"
-  },
-  {
-    "title": "Beauty and the Beast (1946)             /Orpheus",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-07-08",
     "time": "7:30 PM",
     "description": "",
@@ -1310,44 +1260,24 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "The Furious",
+    "title": "Maddie’s Secret",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-07",
-    "time": "7:00 PM",
+    "date": "2026-07-17",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297603/"
-  },
-  {
-    "title": "The Furious",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297605/"
-  },
-  {
-    "title": "The Wailing",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "3:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252695/"
+    "url": "https://vidiotsfoundation.org/purchase/4307271/"
   },
   {
     "title": "Maddie’s Secret",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-11",
+    "date": "2026-07-18",
     "time": "9:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4267752/"
+    "url": "https://vidiotsfoundation.org/purchase/4298073/"
   },
   {
     "title": "Waterworld",
@@ -1560,14 +1490,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4252855/"
   },
   {
-    "title": "Unidentified",
+    "title": "Speed",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-07-17",
-    "time": "4:30 PM",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4307271/"
+    "url": "https://vidiotsfoundation.org/purchase/4252861/"
   },
   {
     "title": "Unidentified",
@@ -1594,30 +1524,10 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-18",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4298073/"
-  },
-  {
-    "title": "Unidentified",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-07-20",
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4301565/"
-  },
-  {
-    "title": "Speed",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252861/"
   },
   {
     "title": "Perfect Blue",
@@ -1840,6 +1750,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4253152/"
   },
   {
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-24",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297791/"
+  },
+  {
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "5:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297813/"
+  },
+  {
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4305101/"
+  },
+  {
     "title": "A New Leaf",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1938,6 +1878,66 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
+  },
+  {
+    "title": "The Truman Show on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338196/"
+  },
+  {
+    "title": "Persepolis",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-02",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338228/"
+  },
+  {
+    "title": "Miller’s Crossing",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338227/"
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4360508/"
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4360511/"
+  },
+  {
+    "title": "Programme 4",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4360544/"
   },
   {
     "title": "Princess Mononoke in 35mm",
@@ -2810,24 +2810,34 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: the Return Parts 7 & 8",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Monster Mash",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-07-07",
-    "time": "7:00 PM",
+    "date": "2026-10-24",
+    "time": "10:30 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-7-8-07-07-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Rose of Nevada",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Museum After Dark",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-07-07",
-    "time": "10:00 PM",
+    "date": "2026-10-31",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/rose-of-nevada-07-07-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Carriewith Sissy Spacek",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Hitch-hiker",
@@ -3048,6 +3058,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-texas-chainsaw-massacre-07-15-2026/"
+  },
+  {
+    "title": "Edvard Munch",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-16",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/edvard-munch-07-16-2026/"
   },
   {
     "title": "Twin Peaks: the Return Parts 9 & 10",
