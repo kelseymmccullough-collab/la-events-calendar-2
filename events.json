@@ -1,35 +1,5 @@
 [
   {
-    "title": "Dances With Wolves",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3807?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Demon Witch Child/Cathy's Curse",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3837?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hollywood 90028",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3815?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Snoopy Come Home",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -870,36 +840,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Risky Business             /Miracle Mile",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-10-risky-business-miracle-mile/"
-  },
-  {
-    "title": "Risky Business             /Miracle Mile",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "8:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-10-risky-business-miracle-mile/"
-  },
-  {
-    "title": "Jackie Brown",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-10-jackie-brown-midnight-show/"
-  },
-  {
     "title": "Cartoon Club",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1370,74 +1310,24 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "Night at the Museum",
+    "title": "Maddie’s Secret",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-11",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252701/"
-  },
-  {
-    "title": "Adam’s Rib",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252705/"
-  },
-  {
-    "title": "Coroner to the Stars",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-11",
+    "date": "2026-07-17",
     "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4267744/"
+    "url": "https://vidiotsfoundation.org/purchase/4307271/"
   },
   {
-    "title": "Coroner to the Stars",
+    "title": "Maddie’s Secret",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-12",
-    "time": "1:30 PM",
+    "date": "2026-07-18",
+    "time": "9:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4215458/"
-  },
-  {
-    "title": "Coroner to the Stars",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-12",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4215468/"
-  },
-  {
-    "title": "Summer of Sam",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252707/"
-  },
-  {
-    "title": "Clerks",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252710/"
+    "url": "https://vidiotsfoundation.org/purchase/4298073/"
   },
   {
     "title": "Brave",
@@ -1478,16 +1368,6 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4325707/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4325769/"
   },
   {
     "title": "ASCO: Without Permission",
@@ -1538,16 +1418,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252731/"
-  },
-  {
-    "title": "Amores Perros",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4301573/"
   },
   {
     "title": "All That Jazz",
@@ -2188,26 +2058,6 @@
     "time": "6:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4368695/"
-  },
-  {
-    "title": "How Does the Silver Screen Shape the Golden State? FeaturingFriday",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Blow Out in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Clue",
@@ -3098,46 +2948,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Dekalog: Seven & Eight",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-eight-07-10-2026/"
-  },
-  {
-    "title": "Rose of Nevada",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/rose-of-nevada-07-10-2026/"
-  },
-  {
-    "title": "Y Tu Mamá También",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/y-tu-mama-tambien-07-10-2026/"
-  },
-  {
-    "title": "Barrio Triste",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-10",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/barrio-triste-07-10-2026/"
   },
   {
     "title": "A Wife's Heart",
