@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-07-11",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3813?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Dances With Wolves",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3808?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Chopper",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3839?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hollywood 90028",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3816?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Snoopy Come Home",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-07-12",
     "time": "10:00 AM",
     "description": "",
@@ -840,46 +800,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Cartoon Club",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-11-cartoon-club/"
-  },
-  {
-    "title": "The Love Bug (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-11-the-love-bug-family-matinee/"
-  },
-  {
-    "title": "The Drama",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-11-the-drama/"
-  },
-  {
-    "title": "Punch-Drunk Love",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-11-punch-drunk-love-midnight-show/"
-  },
-  {
     "title": "The Love Bug (IB Tech Print)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1240,7 +1160,7 @@
     "url": "https://thenewbev.com/program/july-27-tiger-on-the-beat-2-the-cyprus-tigers/"
   },
   {
-    "title": "Dusty and Sweets McGee             /Born to Win",
+    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -1250,7 +1170,7 @@
     "url": "https://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/"
   },
   {
-    "title": "Dusty and Sweets McGee             /Born to Win",
+    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -1260,7 +1180,7 @@
     "url": "https://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/"
   },
   {
-    "title": "Dusty and Sweets McGee             /Born to Win",
+    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -1270,7 +1190,7 @@
     "url": "https://thenewbev.com/program/july-29-dusty-and-sweets-mcgee-born-to-win/"
   },
   {
-    "title": "Dusty and Sweets McGee             /Born to Win",
+    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -1328,26 +1248,6 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4298073/"
-  },
-  {
-    "title": "Brave",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-12",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252714/"
-  },
-  {
-    "title": "Godzilla vs. Hedorah",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-12",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252715/"
   },
   {
     "title": "The Deer Hunter",
@@ -2058,36 +1958,6 @@
     "time": "6:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4368695/"
-  },
-  {
-    "title": "Clue",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Elevator to the Gallows",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Careful in 4K with Guy Maddin",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Magnificent Seven in 4K",
@@ -2948,46 +2818,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "A Wife's Heart",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-wifes-heart-7-11-26/"
-  },
-  {
-    "title": "Y Tu Mamá También",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/y-tu-mama-tambien-07-11-2026/"
-  },
-  {
-    "title": "La Collectionneuse",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/la-collectionneuse-07-11-2026/"
-  },
-  {
-    "title": "Barrio Triste",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-11",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/barrio-triste-07-11-2026/"
   },
   {
     "title": "Shane Black Presents Sweet Smell of Success",
