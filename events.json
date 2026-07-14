@@ -1,15 +1,5 @@
 [
   {
-    "title": "Dances With Wolves",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3810?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Mommie Dearest",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -77,7 +67,7 @@
     "date": "2026-07-16",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3842?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -780,26 +770,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Singapore             /Tangier",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-13-singapore-tangier/"
-  },
-  {
-    "title": "Singapore             /Tangier",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-13",
-    "time": "9:20 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-13-singapore-tangier/"
-  },
-  {
     "title": "Billy Madison             /50 First Dates",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1190,46 +1160,6 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4307271/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4298073/"
-  },
-  {
-    "title": "The Angry Black Girl and Her Monster",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4325707/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4325701/"
-  },
-  {
     "title": "ASCO: Without Permission",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1248,16 +1178,6 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4298063/"
-  },
-  {
-    "title": "Harry Dean Stanton: Partly Fiction",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252730/"
   },
   {
     "title": "Streets of Fire on 35mm",
@@ -1690,6 +1610,46 @@
     "url": "https://vidiotsfoundation.org/purchase/4270663/"
   },
   {
+    "title": "Forastera",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-31",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389348/"
+  },
+  {
+    "title": "Forastera",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-31",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338176/"
+  },
+  {
+    "title": "Forastera",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338202/"
+  },
+  {
+    "title": "Forastera",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-02",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338231/"
+  },
+  {
     "title": "Psycho",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1728,6 +1688,66 @@
     "time": "3:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4338181/"
+  },
+  {
+    "title": "The Truman Show",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338196/"
+  },
+  {
+    "title": "Twin Peaks: The Original Mystery – Episodes 3 + 4",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338203/"
+  },
+  {
+    "title": "Twin Peaks: The Original Mystery – Episodes 3 + 4",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338232/"
+  },
+  {
+    "title": "Yes, Madam!",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338200/"
+  },
+  {
+    "title": "Twin Peaks: The Original Mystery – Episodes 5 + 6",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338204/"
+  },
+  {
+    "title": "Twin Peaks: The Original Mystery – Episodes 5 + 6",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338234/"
   },
   {
     "title": "One Hundred and One Dalmatians",
@@ -1770,6 +1790,56 @@
     "url": "https://vidiotsfoundation.org/purchase/4338261/"
   },
   {
+    "title": "Mysterious Skin",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388620/"
+  },
+  {
+    "title": "Jackass: Best and Last",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-07",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389539/"
+  },
+  {
+    "title": "Jackass: Best and Last",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389549/"
+  },
+  {
+    "title": "Jackass: Best and Last",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389673/"
+  },
+  {
+    "title": "Jackass: Best and Last",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389740/"
+  },
+  {
     "title": "Dirty Rotten Scoundrels",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1788,6 +1858,26 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4369416/"
+  },
+  {
+    "title": "Twin Peaks: The Original Mystery – Episodes 7 + 8",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389644/"
+  },
+  {
+    "title": "Twin Peaks: The Original Mystery – Episodes 7 + 8",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389663/"
   },
   {
     "title": "CatVideoFest 2026",
@@ -1810,6 +1900,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4360511/"
   },
   {
+    "title": "Woodstock on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4368412/"
+  },
+  {
     "title": "Robin Hood: Men in Tights",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1828,6 +1928,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4368451/"
+  },
+  {
+    "title": "Rashomon",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4365141/"
   },
   {
     "title": "Can’t Hardly Wait",
@@ -1880,6 +1990,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4368484/"
   },
   {
+    "title": "An Evening with Edgar Wright: Scott Pilgrim vs. the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-15",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388405/"
+  },
+  {
+    "title": "An Evening with Edgar Wright: Beyond the Valley of the Dolls",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-15",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388406/"
+  },
+  {
+    "title": "Ponyo (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-16",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388367/"
+  },
+  {
     "title": "The Off Hours",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1900,6 +2040,66 @@
     "url": "https://vidiotsfoundation.org/purchase/4360544/"
   },
   {
+    "title": "Ponyo (Japanese with English Subtitles)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388341/"
+  },
+  {
+    "title": "Dangerous Liaisons",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388329/"
+  },
+  {
+    "title": "Mystic Pizza",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388256/"
+  },
+  {
+    "title": "The Untamed",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388245/"
+  },
+  {
+    "title": "The Great Muppet Caper",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-23",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4368697/"
+  },
+  {
+    "title": "La Strada",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-23",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4368696/"
+  },
+  {
     "title": "RRR",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1910,24 +2110,24 @@
     "url": "https://vidiotsfoundation.org/purchase/4368695/"
   },
   {
-    "title": "My Neighbors the Yamadas",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Stop Motion Explosion! on 16mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-13",
-    "time": "2:30 PM",
+    "date": "2026-08-29",
+    "time": "1:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4365503/"
   },
   {
-    "title": "The Saddest Music in the Worldwith Guy Maddin",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Pride & Prejudice",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-13",
-    "time": "7:30 PM",
+    "date": "2026-08-30",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4388667/"
   },
   {
     "title": "My Neighbors the Yamadas",
@@ -2520,6 +2720,16 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
+    "title": "An Evening with Charlize Theron FeaturingMad Max: Fury Road",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
     "title": "Funny Face in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2738,26 +2948,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Cinematic Void Presents Wild Things",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wild-things-7-13-26/"
-  },
-  {
-    "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-13",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/to-wong-foo-thanks-for-everything-julie-newmar-07-13-2026/"
   },
   {
     "title": "Twin Peaks: the Return Parts 9 & 10",
@@ -3148,6 +3338,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/daughters-wives-and-a-mother-8-1-26/"
+  },
+  {
+    "title": "Doug Jones Presents Creature From the Black Lagoon 3d",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-02",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/doug-jones-presents-creature-from-the-black-lagoon-3d-08-02-2026/"
   },
   {
     "title": "Adieu Bonaparte",
