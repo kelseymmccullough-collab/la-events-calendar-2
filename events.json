@@ -1,25 +1,5 @@
 [
   {
-    "title": "Mommie Dearest",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3840?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Dances With Wolves",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3811?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Godzilla (1954)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -27,7 +7,7 @@
     "date": "2026-07-15",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3841?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Dances With Wolves",
@@ -774,26 +754,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-07-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-14-billy-madison-50-first-dates/"
-  },
-  {
-    "title": "Billy Madison             /50 First Dates",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-14-billy-madison-50-first-dates/"
-  },
-  {
-    "title": "Billy Madison             /50 First Dates",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-07-15",
     "time": "7:30 PM",
     "description": "",
@@ -970,7 +930,7 @@
     "url": "https://thenewbev.com/program/july-23-winchester-73-man-without-a-star/"
   },
   {
-    "title": "Misery             /Dead Calm",
+    "title": "Misery             /Dead Calm (Special Guests)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -980,7 +940,7 @@
     "url": "https://thenewbev.com/program/july-24-misery-dead-calm/"
   },
   {
-    "title": "Misery             /Dead Calm",
+    "title": "Misery             /Dead Calm (Special Guests)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -1160,6 +1120,26 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-25",
+    "time": "10:10 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297815/"
+  },
+  {
+    "title": "Maddie’s Secret",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-26",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4297818/"
+  },
+  {
     "title": "ASCO: Without Permission",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1180,16 +1160,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4298063/"
   },
   {
-    "title": "Streets of Fire on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252731/"
-  },
-  {
     "title": "All That Jazz",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1198,16 +1168,6 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4252855/"
-  },
-  {
-    "title": "Speed",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252861/"
   },
   {
     "title": "Unidentified",
@@ -1414,26 +1374,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-25",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297815/"
-  },
-  {
-    "title": "Leviticus",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-26",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297818/"
-  },
-  {
-    "title": "Leviticus",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-07-26",
     "time": "7:30 PM",
     "description": "",
@@ -1558,16 +1498,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4253163/"
-  },
-  {
-    "title": "Everything Everywhere All at Once",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4368679/"
   },
   {
     "title": "The Face of Another",
@@ -1795,7 +1725,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-08-05",
-    "time": "7:30 PM",
+    "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4388620/"
   },
@@ -1980,6 +1910,46 @@
     "url": "https://vidiotsfoundation.org/purchase/4368476/"
   },
   {
+    "title": "The Invite",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-14",
+    "time": "7:20 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4393031/"
+  },
+  {
+    "title": "The Invite",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-15",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338298/"
+  },
+  {
+    "title": "The Invite",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-15",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4338293/"
+  },
+  {
+    "title": "The Invite",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4393087/"
+  },
+  {
     "title": "Commando",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2030,6 +2000,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4364993/"
   },
   {
+    "title": "Volver on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4392797/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4389907/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-19",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4392570/"
+  },
+  {
     "title": "Programme 4",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2058,6 +2058,36 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4388329/"
+  },
+  {
+    "title": "The Evil Dead on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388340/"
+  },
+  {
+    "title": "A Hard Day’s Night",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4392538/"
+  },
+  {
+    "title": "Hunt for the Wilderpeople",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4392536/"
   },
   {
     "title": "Mystic Pizza",
@@ -2110,6 +2140,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4368695/"
   },
   {
+    "title": "I Want Your Sex",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4393377/"
+  },
+  {
+    "title": "I Want Your Sex",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4393386/"
+  },
+  {
     "title": "Stop Motion Explosion! on 16mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2128,6 +2178,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4388667/"
+  },
+  {
+    "title": "sex, lies, and videotape",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-31",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4393414/"
   },
   {
     "title": "My Neighbors the Yamadas",
@@ -2948,26 +3008,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Twin Peaks: the Return Parts 9 & 10",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-9-10-07-14-2026/"
-  },
-  {
-    "title": "Breakdown",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/breakdown-07-14-2026/"
   },
   {
     "title": "Claire's Knee",
