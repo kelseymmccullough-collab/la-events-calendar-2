@@ -1,25 +1,5 @@
 [
   {
-    "title": "Godzilla (1954)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Dances With Wolves",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3812?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Odyssey (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -750,26 +730,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Billy Madison             /50 First Dates",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-15-billy-madison-50-first-dates/"
-  },
-  {
-    "title": "Billy Madison             /50 First Dates",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-15-billy-madison-50-first-dates/"
-  },
-  {
     "title": "A Clockwork Orange",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1120,6 +1080,16 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
+    "title": "All That Jazz",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-07-17",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4252855/"
+  },
+  {
     "title": "Maddie’s Secret",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1138,36 +1108,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4297818/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297841/"
-  },
-  {
-    "title": "ASCO: Without Permission",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4298063/"
-  },
-  {
-    "title": "All That Jazz",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4252855/"
   },
   {
     "title": "Unidentified",
@@ -1230,16 +1170,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4253110/"
   },
   {
-    "title": "The Thing",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253112/"
-  },
-  {
     "title": "The Emperor’s New Groove",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1248,16 +1178,6 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4253142/"
-  },
-  {
-    "title": "The Popcorn List: Remaining Native",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4215011/"
   },
   {
     "title": "East of Eden",
@@ -1880,16 +1800,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4365144/"
   },
   {
-    "title": "Twilight",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4368707/"
-  },
-  {
     "title": "Manhunter: The Final Cut",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1960,14 +1870,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4368484/"
   },
   {
-    "title": "An Evening with Edgar Wright: Scott Pilgrim vs. the World",
+    "title": "A Goofy Movie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-08-15",
-    "time": "6:30 PM",
+    "time": "12:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388405/"
+    "url": "https://vidiotsfoundation.org/purchase/4393064/"
   },
   {
     "title": "An Evening with Edgar Wright: Beyond the Valley of the Dolls",
@@ -2140,6 +2050,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4368695/"
   },
   {
+    "title": "Jazz on a Summer’s Day",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4398784/"
+  },
+  {
     "title": "I Want Your Sex",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2188,26 +2108,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
-  },
-  {
-    "title": "My Neighbors the Yamadas",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Bugsy in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Juicewith Ernest Dickerson",
@@ -3008,26 +2908,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Claire's Knee",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/claires-knee-07-15-2026/"
-  },
-  {
-    "title": "The Texas Chainsaw Massacre",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-15",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-texas-chainsaw-massacre-07-15-2026/"
   },
   {
     "title": "Edvard Munch",
