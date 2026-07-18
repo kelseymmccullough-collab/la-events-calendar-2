@@ -1,55 +1,5 @@
 [
   {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3745?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3745?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "6:20 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3745?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "10:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3745?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Starman",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Fandango",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -67,7 +17,7 @@
     "date": "2026-07-19",
     "time": "10:00 AM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3747?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -77,7 +27,7 @@
     "date": "2026-07-19",
     "time": "2:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3747?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -87,7 +37,7 @@
     "date": "2026-07-19",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3747?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -660,26 +610,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "A Clockwork Orange",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-17-a-clockwork-orange/"
-  },
-  {
-    "title": "Jackie Brown",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-17-jackie-brown-midnight-show/"
-  },
-  {
     "title": "A Goofy Movie",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1000,46 +930,6 @@
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
   },
   {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-25",
-    "time": "10:10 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297815/"
-  },
-  {
-    "title": "Maddie’s Secret",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-26",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297818/"
-  },
-  {
-    "title": "National Film Preservation Foundation’s Semiquincentennial Celebration of Celluloid",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253111/"
-  },
-  {
-    "title": "Tootsie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253110/"
-  },
-  {
     "title": "The Emperor’s New Groove",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1198,16 +1088,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4253152/"
-  },
-  {
-    "title": "American Pachuco: The Legend of Luis Valdez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-24",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297791/"
   },
   {
     "title": "American Pachuco: The Legend of Luis Valdez",
@@ -2040,26 +1920,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
   },
   {
-    "title": "My Neighbors the Yamadas",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Poison Ivy in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Great Mouse Detective",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2828,26 +2688,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Dead Again",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dead-again-07-17-2026/"
-  },
-  {
-    "title": "Barrio Triste",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-17",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/barrio-triste-07-17-2026/"
   },
   {
     "title": "The Approach of Autumn",
