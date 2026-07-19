@@ -1,15 +1,5 @@
 [
   {
-    "title": "Fandango",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3845?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Odyssey (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -614,36 +604,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-07-18",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-18-a-goofy-movie-family-matinee/"
-  },
-  {
-    "title": "A Clockwork Orange",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-18-a-clockwork-orange/"
-  },
-  {
-    "title": "The ‘Burbs",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-18-the-burbs-midnight-show/"
-  },
-  {
-    "title": "A Goofy Movie",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-07-19",
     "time": "2:00 PM",
     "description": "",
@@ -928,46 +888,6 @@
     "time": "11:59 PM",
     "description": "",
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
-  },
-  {
-    "title": "The Emperor’s New Groove",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253142/"
-  },
-  {
-    "title": "East of Eden",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253132/"
-  },
-  {
-    "title": "The Popcorn List: Trash Baby",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4215020/"
-  },
-  {
-    "title": "Suspiria",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253143/"
   },
   {
     "title": "Jamón Jamón",
@@ -1920,26 +1840,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
   },
   {
-    "title": "The Great Mouse Detective",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "30th Anniversary ofFrom Dusk Till Dawnwith Robert Rodriguez, plus a performance by Robert Rodriguez's CHINGON BAND",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "FantômasEpisodes 1-5",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2688,46 +2588,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Approach of Autumn",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-approach-of-autumn-7-18-26/"
-  },
-  {
-    "title": "Dawn of a New Day",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dawn-of-a-new-day-07-18-2026/"
-  },
-  {
-    "title": "Pleasantville",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pleasantville-07-18-2026/"
-  },
-  {
-    "title": "I Shot Andy Warhol",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-18",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/i-shot-andy-warhol-07-18-2026/"
   },
   {
     "title": "Georgia Bernstein and Cemre Paksoy Present Night Nurse",
