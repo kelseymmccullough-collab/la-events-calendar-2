@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-07-19",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-07-20",
     "time": "11:00 AM",
     "description": "",
@@ -600,26 +570,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "A Goofy Movie",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-19-a-goofy-movie-family-matinee/"
-  },
-  {
-    "title": "The Big Parade (Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-19-the-big-parade/"
-  },
-  {
     "title": "The Women (1939)             /Dinner at Eight",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -888,16 +838,6 @@
     "time": "11:59 PM",
     "description": "",
     "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
-  },
-  {
-    "title": "Jamón Jamón",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4253144/"
   },
   {
     "title": "Sweet 16mm – Rare Notes",
@@ -1840,26 +1780,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
   },
   {
-    "title": "FantômasEpisodes 1-5",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "25th Anniversary ofSpy Kidswith Robert Rodriguez, plus a performance by The Rodriguez Family SPY BAND",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Spirited Away in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2588,46 +2508,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Georgia Bernstein and Cemre Paksoy Present Night Nurse",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/night-nurse-07-19-2026/"
-  },
-  {
-    "title": "Citizen Ruth",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/citizen-ruth-07-19-2026/"
-  },
-  {
-    "title": "\"the Bakery Girl of Monceau\" / Suzanne's Career",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-bakery-girl-of-monceau-suzannes-career-07-19-2026/"
-  },
-  {
-    "title": "I Shot Andy Warhol",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-19",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/i-shot-andy-warhol-07-19-2026/"
   },
   {
     "title": "Cinematic Void Presents Picnic at Hanging Rock",
