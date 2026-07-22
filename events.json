@@ -4,40 +4,10 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "time": "11:00 AM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3749?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-21",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3749?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3749?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Guilty/Roses Are Red",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-21",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3846?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3750?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -45,7 +15,7 @@
     "venueShort": "Vista",
     "type": "film",
     "date": "2026-07-22",
-    "time": "11:00 AM",
+    "time": "3:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3750?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
@@ -380,6 +350,26 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Ice Cream Man",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-07",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3880?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Ice Cream Man",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3881?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -538,26 +528,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Women (1939)             /Dinner at Eight",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-21-the-women-dinner-at-eight/"
-  },
-  {
-    "title": "The Women (1939)             /Dinner at Eight",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-21",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-21-the-women-dinner-at-eight/"
   },
   {
     "title": "Winchester ’73             /Man Without a Star",
@@ -1534,16 +1504,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-07-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4297789/"
-  },
-  {
-    "title": "Leviticus",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-07-25",
     "time": "7:45 PM",
     "description": "",
@@ -1570,16 +1530,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4297838/"
   },
   {
-    "title": "Young Frankenstein",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4271083/"
-  },
-  {
     "title": "The Cell",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1598,16 +1548,6 @@
     "time": "5:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4297813/"
-  },
-  {
-    "title": "American Pachuco: The Legend of Luis Valdez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-26",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4305101/"
   },
   {
     "title": "American Pachuco: The Legend of Luis Valdez",
@@ -1918,6 +1858,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4338261/"
+  },
+  {
+    "title": "Mysterious Skin",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-05",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4428842/"
   },
   {
     "title": "Jackass: Best and Last",
@@ -2550,7 +2500,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Who Framed Roger Rabbit",
+    "title": "Who Framed Roger Rabbit in Dolby Vision",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -3160,26 +3110,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: the Return Parts 11 & 12",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-21",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-11-12-07-21-2026/"
-  },
-  {
-    "title": "Weekend",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/weekend-07-21-2026/"
-  },
-  {
     "title": "Dog Day Afternoon",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3408,6 +3338,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/picnic-at-hanging-rock-07-31-2026/"
+  },
+  {
+    "title": "One Night Only",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-07-31",
+    "time": "5:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/one-night-only-07-31-2026/"
   },
   {
     "title": "Doughboys Present Raising Cain",
@@ -3658,5 +3598,45 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-smithereens-8-31-26/"
+  },
+  {
+    "title": "Cinematic Void Presents Problem Child: the Whole Bloody Affair",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-problem-child-the-whole-bloody-affair-09-06-2026/"
+  },
+  {
+    "title": "Cinematic Void Presents Assault of the Killer Bimbos",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-assault-of-the-killer-bimbos-09-07-2026/"
+  },
+  {
+    "title": "Cinematic Void Presents Scarlet Warning 666",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-scarlet-warning-666-09-14-2026/"
+  },
+  {
+    "title": "Cinematic Void Presents Effects",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-21",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-effects-09-21-2026/"
   }
 ]
