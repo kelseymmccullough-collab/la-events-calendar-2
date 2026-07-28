@@ -4,40 +4,10 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-07-27",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3872?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3872?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3872?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-07-28",
     "time": "10:00 AM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3862?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -47,7 +17,7 @@
     "date": "2026-07-28",
     "time": "2:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3862?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -57,7 +27,7 @@
     "date": "2026-07-28",
     "time": "7:15 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3862?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Petrified Forest",
@@ -177,7 +147,7 @@
     "date": "2026-07-31",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3857?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Old Fashioned Way",
@@ -588,26 +558,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3907?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Tiger on the Beat 2             /The Cyprus Tigers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-27-tiger-on-the-beat-2-the-cyprus-tigers/"
-  },
-  {
-    "title": "Tiger on the Beat 2             /The Cyprus Tigers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "9:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-27-tiger-on-the-beat-2-the-cyprus-tigers/"
   },
   {
     "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
@@ -1390,16 +1340,6 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "The Unbearable Lightness of Being",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4254360/"
-  },
-  {
     "title": "American Pachuco: The Legend of Luis Valdez",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1408,16 +1348,6 @@
     "time": "10:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4338177/"
-  },
-  {
-    "title": "Interview with the Vampire on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4270660/"
   },
   {
     "title": "Network",
@@ -2898,26 +2828,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Cinematic Void Presents Do the Right Thing",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-do-the-right-thing-7-27-26/"
-  },
-  {
-    "title": "My Night at Maud's",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-27",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/my-night-at-mauds-07-27-2026/"
   },
   {
     "title": "Twin Peaks: the Return Parts 13 & 14",
