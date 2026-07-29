@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-07-28",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Petrified Forest",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3852?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-07-29",
     "time": "10:00 AM",
     "description": "",
@@ -147,7 +107,7 @@
     "date": "2026-07-31",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3857?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Old Fashioned Way",
@@ -230,6 +190,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3889?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Thief and The Cobbler",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-04",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3912?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Odyssey (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -248,6 +218,16 @@
     "time": "7:15 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3891?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "A New Leaf",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-05",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3913?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -278,6 +258,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3895?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Nights Of Cabiria",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-07",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3914?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Ice Cream Man",
@@ -320,6 +310,46 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3911?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Lemony Snicket's A Series of Unfortunate Events",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-11",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3915?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Broken Lullaby",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-12",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3927?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Man Bites Dog",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-13",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3916?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Christiane F.",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-14",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3917?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Misbehaving Ladies",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -338,6 +368,26 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3903?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Joe Kidd",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-19",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3926?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Theorem",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-20",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3925?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Fast and the Furious (25th Anniversary)",
@@ -368,6 +418,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3791?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Jawbreaker/Idle Hands",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3923?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Child's Play",
@@ -480,6 +540,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3800?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Smile",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-25",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3922?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -498,6 +568,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3802?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "The Bat",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-26",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3921?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Fast and the Furious (25th Anniversary)",
@@ -538,6 +618,26 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Visitor Q/Audition",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-27",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3919?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Booksmart",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3918?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Blonde Ransom",
@@ -558,26 +658,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3907?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/"
-  },
-  {
-    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/"
   },
   {
     "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
@@ -1340,16 +1420,6 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "American Pachuco: The Legend of Luis Valdez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338177/"
-  },
-  {
     "title": "Network",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1734,16 +1804,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-08-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4437173/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-08-15",
     "time": "1:00 PM",
     "description": "",
@@ -1758,16 +1818,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393075/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4437271/"
   },
   {
     "title": "Manhunter: The Final Cut",
@@ -1930,16 +1980,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4364993/"
   },
   {
-    "title": "Volver on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4392797/"
-  },
-  {
     "title": "Welcome Space Brothers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1988,6 +2028,26 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4360544/"
+  },
+  {
+    "title": "Sweet 16mm – Those Awkward Years",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4466487/"
+  },
+  {
+    "title": "Volver on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4392797/"
   },
   {
     "title": "Ponyo (Japanese with English Subtitles)",
@@ -2830,26 +2890,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Twin Peaks: the Return Parts 13 & 14",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-13-14-07-28-2026/"
-  },
-  {
-    "title": "House of Wax",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/house-of-wax-07-28-2026/"
-  },
-  {
     "title": "Sudden Fear",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2950,6 +2990,26 @@
     "url": "https://www.americancinematheque.com/now-showing/earth-girls-are-easy-08-01-2026/"
   },
   {
+    "title": "\"going! Going! Gosh!\" / the Insider",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-insider-coyote-vs-acme-08-01-2026/"
+  },
+  {
+    "title": "\"stop! Look! and Hasten!\" / a Civil Action",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-01",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/a-civil-action-coyote-vs-acme-08-01-2026/"
+  },
+  {
     "title": "Doug Jones Presents Creature From the Black Lagoon 3d",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2988,6 +3048,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-suburbia-8-3-26/"
+  },
+  {
+    "title": "Claire's Knee",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-03",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/claires-knee-08-03-2026/"
   },
   {
     "title": "Twin Peaks: the Return Parts 15 & 16",
@@ -3150,6 +3220,16 @@
     "url": "https://www.americancinematheque.com/now-showing/get-shorty-08-08-2026/"
   },
   {
+    "title": "\"ready.. Set.. Zoom!\" / the Verdict",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/ready-set-zoom-the-verdict-08-08-2026/"
+  },
+  {
     "title": "Macon Blair Presents the Train",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3260,6 +3340,16 @@
     "url": "https://www.americancinematheque.com/now-showing/volcano-08-15-2026/"
   },
   {
+    "title": "\"guided Muscle\" / Erin Brockovich",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/guided-muscle-erin-brockovich-08-15-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Ladies and Gentlemen, the Fabulous Stains",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3330,6 +3420,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-day-after-tomorrow-08-29-2026/"
   },
   {
+    "title": "\"gee Whiz-z-z-z-z-z-z\" / Michael Clayton",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/gee-whiz-z-z-z-z-z-z-michael-clayton-08-29-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Smithereens",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3358,6 +3458,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/written-on-the-wind-09-05-2026/"
+  },
+  {
+    "title": "\"there They Go-go-go!\" / a Few Good Men",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/there-they-go-go-go-a-few-good-men-09-05-2026/"
   },
   {
     "title": "Imitation of Life",
