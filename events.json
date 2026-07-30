@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-07-29",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3863?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3863?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3863?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Thunder On The Hill/My Name Is Julia Ross",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3853?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-07-30",
     "time": "2:30 PM",
     "description": "",
@@ -370,6 +330,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3903?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Of Human Bondage",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-08-18",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3928?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Joe Kidd",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -658,26 +628,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3907?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-29-dusty-and-sweets-mcgee-born-to-win/"
-  },
-  {
-    "title": "Dusty and Sweets McGee (IB Tech Print)             /Born to Win",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-29-dusty-and-sweets-mcgee-born-to-win/"
   },
   {
     "title": "The Deer Hunter",
@@ -1420,16 +1370,6 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "Network",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-07-30",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4270663/"
-  },
-  {
     "title": "The Thing",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1534,16 +1474,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-08-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338203/"
-  },
-  {
-    "title": "Twin Peaks: The Original Mystery – Episodes 3 + 4",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-08-02",
     "time": "7:30 PM",
     "description": "",
@@ -1618,16 +1548,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4338261/"
-  },
-  {
-    "title": "Mysterious Skin",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-05",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4428842/"
   },
   {
     "title": "Jackass: Best and Last",
@@ -1818,6 +1738,16 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393075/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4437288/"
   },
   {
     "title": "Manhunter: The Final Cut",
@@ -2014,6 +1944,16 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
+    "date": "2026-08-21",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4437277/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
     "date": "2026-08-22",
     "time": "4:30 PM",
     "description": "",
@@ -2160,6 +2100,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4398784/"
   },
   {
+    "title": "The Grandmaster on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388738/"
+  },
+  {
     "title": "Dirty Dancing",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2238,6 +2188,26 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4365503/"
+  },
+  {
+    "title": "Diary of a Chambermaid",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-29",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388710/"
+  },
+  {
+    "title": "Alien",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388713/"
   },
   {
     "title": "Spirit: Stallion of the Cimarron",
@@ -2865,7 +2835,7 @@
     "venueShort": "Academy",
     "type": "film",
     "date": "2026-10-24",
-    "time": "10:30 AM",
+    "time": "11:00 AM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
@@ -2888,26 +2858,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Sudden Fear",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/sudden-fear-07-29-2026/"
-  },
-  {
-    "title": "Persepolis",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-29",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/persepolis-07-29-2026/"
   },
   {
     "title": "The Greg Proops Film Club Presents the Game",
@@ -3380,6 +3330,46 @@
     "url": "https://www.americancinematheque.com/now-showing/destiny-08-19-2026/"
   },
   {
+    "title": "Doc Talk Presents American Doctor",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/doc-talk-presents-american-doctor-08-20-2026/"
+  },
+  {
+    "title": "Straightiolab Presents Madonna: Truth or Dare",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-20",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/straightiolab-presents-madonna-truth-or-dare-08-20-2026/"
+  },
+  {
+    "title": "Bullseye Presents a Thousand Clowns",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/bullseye-presents-a-thousand-clowns-08-21-2026/"
+  },
+  {
+    "title": "Ticklish Business Presents Gilda",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/ticklish-business-presents-gilda-08-21-2026/"
+  },
+  {
     "title": "Doughboys Present Little Caesar",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3390,6 +3380,86 @@
     "url": "https://www.americancinematheque.com/now-showing/little-caesar-08-21-2026/"
   },
   {
+    "title": "The Town Presents Election",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-town-presents-election-08-21-2026/"
+  },
+  {
+    "title": "Uhh Yeah Dude Presents Straight Time",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/uhh-yeah-dude-presents-straight-time-08-22-2026/"
+  },
+  {
+    "title": "Pure Cinema Presents Breaking in",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/pure-cinema-presents-breaking-in-08-22-2026/"
+  },
+  {
+    "title": "Upstairs Neighbors Presents Challengers",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/upstairs-neighbors-presents-challengers-08-22-2026/"
+  },
+  {
+    "title": "Skylight Books Podcast Presents My Brilliant Career",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/skylight-books-podcast-presents-my-brilliant-career-08-22-2026/"
+  },
+  {
+    "title": "Movies That Made Me Presents Mickey One",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-23",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/movies-that-made-me-presents-mickey-one-08-23-2026/"
+  },
+  {
+    "title": "The Midnight Boys Present the Matrix Reloaded",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-23",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-midnight-boys-present-the-matrix-reloaded-08-23-2026/"
+  },
+  {
+    "title": "The Dana Gould Hour Presents House of Dark Shadows",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-23",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-dana-gould-hour-presents-house-of-dark-shadows-08-23-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Walker",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3398,6 +3468,56 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-walker-8-24-26/"
+  },
+  {
+    "title": "House of R Presents Labyrinth",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-24",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/house-of-r-presents-labyrinth-08-24-2026/"
+  },
+  {
+    "title": "You Must Remember This Presents I Confess",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/you-must-remember-this-presents-i-confess-08-25-2026/"
+  },
+  {
+    "title": "Unspooled Presents the Secret Life of Walter Mitty",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-25",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/unspooled-presents-the-secret-life-of-walter-mitty-08-25-2026/"
+  },
+  {
+    "title": "Song Exploder Presents You Can Count on Me",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/song-exploder-presents-you-can-count-on-me-08-26-2026/"
+  },
+  {
+    "title": "The Watch Presents the Bourne Identity",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-26",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-watch-presents-the-bourne-identity-08-26-2026/"
   },
   {
     "title": "The Other",
