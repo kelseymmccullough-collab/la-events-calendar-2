@@ -1,45 +1,5 @@
 [
   {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "10:30 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3882?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "3:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3882?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3882?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "12 Angry Men",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Old Fashioned Way",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -800,26 +760,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3907?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Deer Hunter",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-31-the-deer-hunter/"
-  },
-  {
-    "title": "Jackie Brown",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/"
-  },
-  {
     "title": "Whisper of the Heart (English Dubbed Version)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1530,74 +1470,24 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "Honey, I Shrunk the Kids",
+    "title": "Forastera",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-08-01",
-    "time": "12:15 PM",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338180/"
+    "url": "https://vidiotsfoundation.org/purchase/4338202/"
   },
   {
-    "title": "Funny Girl",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "3:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338181/"
-  },
-  {
-    "title": "The Truman Show",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338196/"
-  },
-  {
-    "title": "Twin Peaks: The Original Mystery – Episodes 3 + 4",
+    "title": "Forastera",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-08-02",
-    "time": "7:30 PM",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338232/"
-  },
-  {
-    "title": "Yes, Madam!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338200/"
-  },
-  {
-    "title": "Twin Peaks: The Original Mystery – Episodes 5 + 6",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338204/"
-  },
-  {
-    "title": "Twin Peaks: The Original Mystery – Episodes 5 + 6",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338234/"
+    "url": "https://vidiotsfoundation.org/purchase/4338231/"
   },
   {
     "title": "One Hundred and One Dalmatians",
@@ -2150,6 +2040,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4388245/"
   },
   {
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4437291/"
+  },
+  {
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-23",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4470936/"
+  },
+  {
     "title": "The Great Muppet Caper",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2338,16 +2248,6 @@
     "time": "7:20 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4471015/"
-  },
-  {
-    "title": "Green Border(Zielona granica) with Agnieszka Holland",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Who Framed Roger Rabbit in Dolby Vision",
@@ -2740,7 +2640,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Funny Face in 4K",
+    "title": "Funny Face",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2760,7 +2660,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Hot Spell in 4K",
+    "title": "Hot Spell",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2958,46 +2858,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Picnic at Hanging Rock",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/picnic-at-hanging-rock-07-31-2026/"
-  },
-  {
-    "title": "One Night Only",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "5:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/one-night-only-07-31-2026/"
-  },
-  {
-    "title": "Doughboys Present Raising Cain",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/raising-cain-07-31-2026/"
-  },
-  {
-    "title": "Love in the Afternoon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-07-31",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/love-in-the-afternoon-07-31-2026/"
   },
   {
     "title": "Daughters, Wives and a Mother",
@@ -3278,6 +3138,36 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-train-08-09-2026/"
+  },
+  {
+    "title": "Marty, Life Is Short",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/marty-life-is-short-08-09-2026/"
+  },
+  {
+    "title": "¡three Amigos!",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/three-amigos-08-09-2026/"
+  },
+  {
+    "title": "Clifford",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-09",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/clifford-08-09-2026/"
   },
   {
     "title": "Cinematic Void Presents Tapeheads",
