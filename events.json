@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-08-01",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3896?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3885?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3885?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Old Fashioned Way",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-08-02",
     "time": "10:00 AM",
     "description": "",
@@ -387,7 +357,7 @@
     "date": "2026-08-14",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3917?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Misbehaving Ladies",
@@ -764,53 +734,13 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-01",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-1-whisper-of-the-heart-family-matinee/"
-  },
-  {
-    "title": "Throw Momma from the Train             /Ruthless People",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-1-throw-momma-from-the-train-ruthless-people/"
-  },
-  {
-    "title": "Throw Momma from the Train             /Ruthless People",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "8:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-1-throw-momma-from-the-train-ruthless-people/"
-  },
-  {
-    "title": "Dredd",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-1-dredd-midnight-show/"
-  },
-  {
-    "title": "Whisper of the Heart (English Dubbed Version)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-08-02",
     "time": "2:00 PM",
     "description": "",
     "url": "https://thenewbev.com/program/august-2-whisper-of-the-heart-family-matinee/"
   },
   {
-    "title": "Throw Momma from the Train             /Ruthless People",
+    "title": "Throw Momma from the Train             /Ruthless People (Screenwriter In Person)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -820,7 +750,7 @@
     "url": "https://thenewbev.com/program/august-2-throw-momma-from-the-train-ruthless-people/"
   },
   {
-    "title": "Throw Momma from the Train             /Ruthless People",
+    "title": "Throw Momma from the Train             /Ruthless People (Screenwriter In Person)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -980,7 +910,7 @@
     "url": "https://thenewbev.com/program/august-9-taxi-driver/"
   },
   {
-    "title": "Ice Cream Man",
+    "title": "Ice Cream Man (Eli Roth In Person)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -990,7 +920,7 @@
     "url": "https://thenewbev.com/program/august-10-ice-cream-man/"
   },
   {
-    "title": "Ice Cream Man",
+    "title": "Ice Cream Man (Eli Roth In Person)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -1468,46 +1398,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
-  },
-  {
-    "title": "Forastera",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338202/"
-  },
-  {
-    "title": "Forastera",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338231/"
-  },
-  {
-    "title": "One Hundred and One Dalmatians",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338229/"
-  },
-  {
-    "title": "Persepolis",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338228/"
   },
   {
     "title": "The Third Man on 35mm",
@@ -2250,36 +2140,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4471015/"
   },
   {
-    "title": "Who Framed Roger Rabbit in Dolby Vision",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Franzwith Agnieszka Holland",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Europa Europa in 35mm with Agnieszka Holland",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Korczakwith Agnieszka Holland",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2858,46 +2718,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Daughters, Wives and a Mother",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/daughters-wives-and-a-mother-8-1-26/"
-  },
-  {
-    "title": "Earth Girls Are Easy",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/earth-girls-are-easy-08-01-2026/"
-  },
-  {
-    "title": "\"going! Going! Gosh!\" / the Insider",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-insider-coyote-vs-acme-08-01-2026/"
-  },
-  {
-    "title": "\"stop! Look! and Hasten!\" / a Civil Action",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-01",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-civil-action-coyote-vs-acme-08-01-2026/"
   },
   {
     "title": "Doug Jones Presents Creature From the Black Lagoon 3d",
