@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Old Fashioned Way",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3897?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3886?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3886?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Odyssey (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -730,36 +700,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3907?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Whisper of the Heart (English Dubbed Version)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-2-whisper-of-the-heart-family-matinee/"
-  },
-  {
-    "title": "Throw Momma from the Train             /Ruthless People (Screenwriter In Person)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-2-throw-momma-from-the-train-ruthless-people/"
-  },
-  {
-    "title": "Throw Momma from the Train             /Ruthless People (Screenwriter In Person)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "8:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-2-throw-momma-from-the-train-ruthless-people/"
-  },
-  {
     "title": "The Informer (1935)             /Air Mail",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1400,16 +1340,6 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "The Third Man on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-04",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338261/"
-  },
-  {
     "title": "Monsters of God",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2015,16 +1945,6 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-08-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4393377/"
-  },
-  {
-    "title": "I Want Your Sex",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-28",
     "time": "10:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393386/"
@@ -2138,26 +2058,6 @@
     "time": "7:20 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4471015/"
-  },
-  {
-    "title": "Korczakwith Agnieszka Holland",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Out of Africa in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Cat Returns",
@@ -2718,36 +2618,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Doug Jones Presents Creature From the Black Lagoon 3d",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/doug-jones-presents-creature-from-the-black-lagoon-3d-08-02-2026/"
-  },
-  {
-    "title": "Adieu Bonaparte",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/adieu-bonaparte-08-02-2026/"
-  },
-  {
-    "title": "Magnificent Obsession",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/magnificent-obsession-08-02-2026/"
   },
   {
     "title": "Cinematic Void Presents Suburbia",
