@@ -4,56 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-08-08",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3910?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3934?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3934?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Blood on the Moon",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ice Cream Man",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3881?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Three Wise Girls",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-08-09",
     "time": "10:00 AM",
     "description": "",
@@ -830,46 +780,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Cartoon Club",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-8-cartoon-club/"
-  },
-  {
-    "title": "School of Rock",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-8-school-of-rock-family-matinee/"
-  },
-  {
-    "title": "Taxi Driver",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-8-taxi-driver/"
-  },
-  {
-    "title": "Cannibal Holocaust",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-8-cannibal-holocaust-midnight-show/"
-  },
-  {
     "title": "School of Rock",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -1378,16 +1288,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
-  },
-  {
-    "title": "Rashomon",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4365141/"
   },
   {
     "title": "Mary Oliver: Saved by the Beauty of the World",
@@ -1950,36 +1850,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
   },
   {
-    "title": "Harriet the Spy in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Fritz Lang’sM",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The 4th Man in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "The Thin Red Line in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2418,46 +2288,6 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Magnificent Obsession",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/magnificent-obsession-08-08-2026/"
-  },
-  {
-    "title": "Get Shorty",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/get-shorty-08-08-2026/"
-  },
-  {
-    "title": "\"ready.. Set.. Zoom!\" / the Verdict",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/ready-set-zoom-the-verdict-08-08-2026/"
-  },
-  {
-    "title": "Possession",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-08",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/possession-08-08-2026/"
   },
   {
     "title": "Macon Blair Presents the Train",
