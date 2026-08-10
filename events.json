@@ -1,35 +1,5 @@
 [
   {
-    "title": "Three Wise Girls",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3911?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3935?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3935?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Odyssey (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -778,26 +748,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "School of Rock",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-9-school-of-rock-family-matinee/"
-  },
-  {
-    "title": "Taxi Driver",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-9-taxi-driver/"
   },
   {
     "title": "Ice Cream Man (Eli Roth In Person)",
@@ -1680,16 +1630,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4368696/"
   },
   {
-    "title": "Bob & Carol & Ted & Alice",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4428379/"
-  },
-  {
     "title": "Jazz on a Summer’s Day",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1848,36 +1788,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
-  },
-  {
-    "title": "The Thin Red Line in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Bunny Lake Is Missing in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Elle",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Howl’s Moving Castle",
@@ -2288,46 +2198,6 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Macon Blair Presents the Train",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-train-08-09-2026/"
-  },
-  {
-    "title": "Marty, Life Is Short",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/marty-life-is-short-08-09-2026/"
-  },
-  {
-    "title": "¡three Amigos!",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/three-amigos-08-09-2026/"
-  },
-  {
-    "title": "Clifford",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-09",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/clifford-08-09-2026/"
   },
   {
     "title": "Cinematic Void Presents Tapeheads",
