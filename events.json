@@ -1,25 +1,5 @@
 [
   {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-10",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3939?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-10",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3939?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Lemony Snicket's A Series of Unfortunate Events",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -754,16 +734,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-10-ice-cream-man/"
-  },
-  {
-    "title": "Ice Cream Man (Eli Roth In Person)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-08-11",
     "time": "7:30 PM",
     "description": "",
@@ -1270,6 +1240,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4437288/"
   },
   {
+    "title": "Young Frankenstein",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-14",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4528098/"
+  },
+  {
     "title": "The Invite",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1408,16 +1388,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4364993/"
-  },
-  {
-    "title": "Welcome Space Brothers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4389907/"
   },
   {
     "title": "Welcome Space Brothers",
@@ -1710,6 +1680,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4438451/"
   },
   {
+    "title": "I Want Your Sex",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-31",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4528682/"
+  },
+  {
+    "title": "I Want Your Sex",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-01",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509708/"
+  },
+  {
     "title": "Possession",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1790,24 +1780,134 @@
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
   },
   {
-    "title": "Howl’s Moving Castle",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Once",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-08-10",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Prestigein35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-10",
+    "date": "2026-09-02",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4509709/"
+  },
+  {
+    "title": "Yojimbo",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509712/"
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509893/"
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509894/"
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509908/"
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4504835/"
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509873/"
+  },
+  {
+    "title": "CatVideoFest 2026",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509910/"
+  },
+  {
+    "title": "Moana Sing-Along",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "11:30 AM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509722/"
+  },
+  {
+    "title": "Tremors",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509730/"
+  },
+  {
+    "title": "Kill Bill: Vol. 1 on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509744/"
+  },
+  {
+    "title": "Spirited Away (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509866/"
+  },
+  {
+    "title": "The Seven Year Itch",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509868/"
   },
   {
     "title": "Howl’s Moving Castle",
@@ -2200,26 +2300,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Tapeheads",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-tapeheads-8-10-26/"
-  },
-  {
-    "title": "Memoirs of an Invisible Man",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-10",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/memoirs-of-an-invisible-man-08-10-2026/"
-  },
-  {
     "title": "Twin Peaks: the Return Parts 17 & 18",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2408,6 +2488,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-ladies-and-gentlemen-the-fabulous-stains-08-17-2026/"
+  },
+  {
+    "title": "Possession",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-17",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/possession-08-17-2026/"
   },
   {
     "title": "A Time to Love and a Time to Die",
