@@ -1,35 +1,5 @@
 [
   {
-    "title": "Broken Lullaby",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3927?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3941?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3941?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Odyssey (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -684,26 +654,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-12-my-dinner-with-andre-vanya-on-42nd-street/"
-  },
-  {
-    "title": "My Dinner with Andre             /Vanya on 42nd Street",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "9:50 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-12-my-dinner-with-andre-vanya-on-42nd-street/"
-  },
-  {
-    "title": "My Dinner with Andre             /Vanya on 42nd Street",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-08-13",
     "time": "7:30 PM",
     "description": "",
@@ -1220,16 +1170,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4393032/"
   },
   {
-    "title": "Lockjaw",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338292/"
-  },
-  {
     "title": "A Goofy Movie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1238,6 +1178,56 @@
     "time": "12:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393064/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-15",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4393063/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-16",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4393075/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4437288/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4533969/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4533968/"
   },
   {
     "title": "Scarlet Street",
@@ -1318,6 +1308,36 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4437289/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438361/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-29",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438387/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-30",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438421/"
   },
   {
     "title": "Programme 4",
@@ -1545,6 +1565,16 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-08-29",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438386/"
+  },
+  {
+    "title": "I Want Your Sex",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-29",
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4438388/"
@@ -1760,6 +1790,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4509712/"
   },
   {
+    "title": "Wet Hot American Summer",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4471014/"
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1808,6 +1848,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509936/"
+  },
+  {
+    "title": "The Holy Mountain",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509721/"
   },
   {
     "title": "CatVideoFest 2026",
@@ -1970,6 +2020,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4509966/"
   },
   {
+    "title": "Filipiñana",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "7:20 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510040/"
+  },
+  {
     "title": "Encanto Sing-Along",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1998,26 +2058,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510150/"
-  },
-  {
-    "title": "Howl’s Moving Castle",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "To Be or Not to Be",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Fatal Attractionwith Adrian Lyne",
@@ -2388,26 +2428,6 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Lockjaw",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/lockjaw-08-12-2026/"
-  },
-  {
-    "title": "The Hole",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-hole-08-12-2026/"
   },
   {
     "title": "The Greg Proops Film Club Presents Being There",
