@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-08-13",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3942?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-13",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3942?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Man Bites Dog",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-13",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3916?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-08-14",
     "time": "1:00 PM",
     "description": "",
@@ -257,7 +227,7 @@
     "date": "2026-08-21",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3923?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Child's Play",
@@ -467,7 +437,7 @@
     "date": "2026-08-27",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3919?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Speed Racer",
@@ -648,26 +618,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "My Dinner with Andre             /Vanya on 42nd Street",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-13-my-dinner-with-andre-vanya-on-42nd-street/"
-  },
-  {
-    "title": "My Dinner with Andre             /Vanya on 42nd Street",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-13",
-    "time": "9:50 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-13-my-dinner-with-andre-vanya-on-42nd-street/"
   },
   {
     "title": "Cabaret (IB Tech Print)",
@@ -1100,76 +1050,6 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "Young Frankenstein",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-14",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4528098/"
-  },
-  {
-    "title": "The Invite",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-15",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338298/"
-  },
-  {
-    "title": "The Invite",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-15",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4338293/"
-  },
-  {
-    "title": "The Invite",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4393087/"
-  },
-  {
-    "title": "Magic Mike",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4368476/"
-  },
-  {
-    "title": "Commando",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-14",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4368484/"
-  },
-  {
-    "title": "Lockjaw",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-14",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4393032/"
-  },
-  {
     "title": "A Goofy Movie",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1188,16 +1068,6 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393063/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4393075/"
   },
   {
     "title": "Mary Oliver: Saved by the Beauty of the World",
@@ -1970,6 +1840,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4509870/"
   },
   {
+    "title": "Velvet Goldmine",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509922/"
+  },
+  {
     "title": "Farewell My Concubine",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1988,6 +1868,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509938/"
+  },
+  {
+    "title": "Death Wish",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509944/"
   },
   {
     "title": "Welcome II the Terrordome",
@@ -2030,6 +1920,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4510040/"
   },
   {
+    "title": "Salesman",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509972/"
+  },
+  {
     "title": "Encanto Sing-Along",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2038,6 +1938,16 @@
     "time": "1:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510024/"
+  },
+  {
+    "title": "Raising Victor Vargas",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510104/"
   },
   {
     "title": "Dead Calm on 35mm",
@@ -2050,6 +1960,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4510122/"
   },
   {
+    "title": "Beauty and the Beast Sing-Along",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510129/"
+  },
+  {
+    "title": "It’s a Mad, Mad, Mad, Mad World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "2:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510130/"
+  },
+  {
+    "title": "Monster-in-Law",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510133/"
+  },
+  {
     "title": "Terminator 2: Judgment Day on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2058,16 +1998,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510150/"
-  },
-  {
-    "title": "Fatal Attractionwith Adrian Lyne",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Howl’s Moving Castle",
@@ -2428,26 +2358,6 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Greg Proops Film Club Presents Being There",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-being-there-08-13-2026/"
-  },
-  {
-    "title": "Twin Peaks: the Return Parts 17 & 18",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-13",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-17-18-08-13-2026/"
   },
   {
     "title": "The Emigrant",
@@ -2830,6 +2740,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-watch-presents-the-bourne-identity-08-26-2026/"
   },
   {
+    "title": "\"dialogue with the Wind\" / Killing Mad Dogs",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dialogue-with-the-wind-killing-mad-dogs-08-27-2026/"
+  },
+  {
     "title": "The End of Evangelion",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2850,6 +2770,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-other-08-28-2026/"
   },
   {
+    "title": "\"journey\" / \"uncle Mustache\" / Downpour",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "3:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/journey-uncle-mustache-downpour-08-28-2026/"
+  },
+  {
     "title": "The 2026 Etheria Film Festival Short Film Showcase",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2858,6 +2788,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-2026-etheria-film-festival-short-film-showcase-08-28-2026/"
+  },
+  {
+    "title": "The End of Evangelion",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-end-of-evangelion-08-28-2026/"
+  },
+  {
+    "title": "Ballad of Tara",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-29",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/ballad-of-tara-08-29-2026/"
   },
   {
     "title": "The Day After Tomorrow",
@@ -2880,6 +2830,16 @@
     "url": "https://www.americancinematheque.com/now-showing/gee-whiz-z-z-z-z-z-z-michael-clayton-08-29-2026/"
   },
   {
+    "title": "Take Care of My Cat",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-29",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/take-care-of-my-cat-08-29-2026/"
+  },
+  {
     "title": "Alec Roth Presents Paths of Glory",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2898,6 +2858,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/dead-calm-08-30-2026/"
+  },
+  {
+    "title": "Chronovisor",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-30",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/chronovisor-08-30-2026/"
   },
   {
     "title": "Cinematic Void Presents Smithereens",
@@ -2960,6 +2930,26 @@
     "url": "https://www.americancinematheque.com/now-showing/written-on-the-wind-09-03-2026/"
   },
   {
+    "title": "Der Fan",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-03",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/der-fan-09-03-2026/"
+  },
+  {
+    "title": "Union County",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/union-county-09-04-2026/"
+  },
+  {
     "title": "Hunt for the Wilderpeople",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2990,6 +2980,16 @@
     "url": "https://www.americancinematheque.com/now-showing/written-on-the-wind-09-05-2026/"
   },
   {
+    "title": "Samba Traoré",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/samba-traore-09-05-2026/"
+  },
+  {
     "title": "\"there They Go-go-go!\" / a Few Good Men",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2998,6 +2998,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/there-they-go-go-go-a-few-good-men-09-05-2026/"
+  },
+  {
+    "title": "Der Fan",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/der-fan-09-05-2026/"
+  },
+  {
+    "title": "Michael Waldron Presents Brief Encounter",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/michael-waldron-presents-brief-encounter-09-06-2026/"
   },
   {
     "title": "Imitation of Life",
