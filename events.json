@@ -1,35 +1,5 @@
 [
   {
-    "title": "Misbehaving Ladies",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3903?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3951?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3951?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Odyssey (70mm)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -550,26 +520,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Knights of the Round Table",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-16-knights-of-the-round-table-family-matinee/"
-  },
-  {
-    "title": "20,000 Leagues Under the Sea (1916)(Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-16-20000-leagues-under-the-sea/"
-  },
-  {
     "title": "The Thrill Killers             /Psychedelic Sexualis",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -930,36 +880,6 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4437288/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4533969/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4533968/"
-  },
-  {
     "title": "Welcome Space Brothers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1108,6 +1028,36 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4392538/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4437288/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4533969/"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-26",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4533968/"
   },
   {
     "title": "Hunt for the Wilderpeople",
@@ -1368,16 +1318,6 @@
     "time": "3:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4428192/"
-  },
-  {
-    "title": "Pride & Prejudice",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388667/"
   },
   {
     "title": "sex, lies, and videotape",
@@ -1800,16 +1740,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4510150/"
   },
   {
-    "title": "Munich in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
     "title": "Ponyo in 35mm",
     "venue": "Academy Museum",
     "venueShort": "Academy",
@@ -2108,46 +2038,6 @@
     "time": "11:00 AM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Night of the Hunter",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-night-of-the-hunter-08-16-2026/"
-  },
-  {
-    "title": "Finding Emily",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/finding-emily-08-16-2026/"
-  },
-  {
-    "title": "In the Mouth of Madness",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/in-the-mouth-of-madness-08-16-2026/"
-  },
-  {
-    "title": "Neon Genesis Evangelion: Death & Rebirth",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-16",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/neon-genesis-evangelion-death-rebirth-08-16-2026/"
   },
   {
     "title": "Cinematic Void Presents Ladies and Gentlemen, the Fabulous Stains",
