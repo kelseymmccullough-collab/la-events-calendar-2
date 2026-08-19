@@ -1,35 +1,5 @@
 [
   {
-    "title": "Of Human Bondage",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-18",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3928?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-18",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3956?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-18",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3956?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Joe Kidd",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -504,26 +474,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-18-ball-of-fire-the-lady-eve/"
-  },
-  {
-    "title": "Ball of Fire             /The Lady Eve",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-18",
-    "time": "9:50 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-18-ball-of-fire-the-lady-eve/"
-  },
-  {
-    "title": "Ball of Fire             /The Lady Eve",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-08-19",
     "time": "7:30 PM",
     "description": "",
@@ -840,14 +790,64 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "Programme 4",
+    "title": "Welcome Space Brothers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-08-19",
-    "time": "7:30 PM",
+    "date": "2026-08-21",
+    "time": "7:20 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4360544/"
+    "url": "https://vidiotsfoundation.org/purchase/4392572/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-21",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4437277/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-22",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4437289/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438361/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-29",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438387/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-30",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438421/"
   },
   {
     "title": "Sweet 16mm – Those Awkward Years",
@@ -880,16 +880,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4437290/"
   },
   {
-    "title": "Mysterious Skin",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4470937/"
-  },
-  {
     "title": "Dangerous Liaisons",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -900,16 +890,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4388329/"
   },
   {
-    "title": "The Evil Dead on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388340/"
-  },
-  {
     "title": "A Hard Day’s Night",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -918,16 +898,6 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4392538/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4437288/"
   },
   {
     "title": "Mary Oliver: Saved by the Beauty of the World",
@@ -1500,7 +1470,7 @@
     "url": "https://vidiotsfoundation.org/purchase/4509870/"
   },
   {
-    "title": "Velvet Goldmine",
+    "title": "Velvet Goldmine on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
@@ -1568,6 +1538,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509941/"
+  },
+  {
+    "title": "The Traveler",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509942/"
   },
   {
     "title": "Splash",
@@ -1680,6 +1660,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4510096/"
   },
   {
+    "title": "Babe",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509968/"
+  },
+  {
     "title": "Salesman",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1708,6 +1698,26 @@
     "time": "1:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510024/"
+  },
+  {
+    "title": "An Evening with Mike Mills – Beginners",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510012/"
+  },
+  {
+    "title": "An Evening with Mike Mills – C’mon C’mon",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510014/"
   },
   {
     "title": "Raising Victor Vargas",
@@ -1758,16 +1768,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
-    "title": "Terminator 2: Judgment Day on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510150/"
   },
   {
     "title": "Ponyo in 35mm",
@@ -2068,26 +2068,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "A Time to Love and a Time to Die",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-time-to-love-and-a-time-to-die-08-18-2026/"
-  },
-  {
-    "title": "Event Horizon",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-18",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/event-horizon-08-18-2026/"
   },
   {
     "title": "Destiny",
@@ -2640,6 +2620,16 @@
     "url": "https://www.americancinematheque.com/now-showing/imitation-of-life-09-10-2026/"
   },
   {
+    "title": "\"now You Tell One\" / the Black Pirate",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-11",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/now-you-tell-one-the-black-pirate-09-11-2026/"
+  },
+  {
     "title": "The Bat",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2668,6 +2658,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/love-in-an-apartment-the-quarterback-09-12-2026/"
+  },
+  {
+    "title": "\"ilak's Birthday at Egyptian Theatre\" / What Price Glory",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/ilaks-birthday-at-egyptian-theatre-what-price-glory-09-12-2026/"
   },
   {
     "title": "\"cinderella Cinders\" / the Devil’s Circus",
