@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-20",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3958?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-20",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3958?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Theorem",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-20",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -464,16 +434,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-20-moneyball/"
-  },
-  {
-    "title": "Moneyball",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-08-21",
     "time": "7:30 PM",
     "description": "",
@@ -760,34 +720,744 @@
     "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/"
   },
   {
-    "title": "Ponyo (Japanese with English Subtitles)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "The Invite             /Bob & Carol & Ted & Alice",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-21",
-    "time": "4:00 PM",
+    "date": "2026-09-01",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388341/"
+    "url": "https://thenewbev.com/program/september-1-the-invite-bob-carol-ted-alice/"
   },
   {
-    "title": "Dangerous Liaisons",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "The Invite             /Bob & Carol & Ted & Alice",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-21",
-    "time": "7:00 PM",
+    "date": "2026-09-01",
+    "time": "9:45 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388329/"
+    "url": "https://thenewbev.com/program/september-1-the-invite-bob-carol-ted-alice/"
   },
   {
-    "title": "Welcome Space Brothers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
+    "title": "The Invite             /Bob & Carol & Ted & Alice",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-08-21",
-    "time": "7:20 PM",
+    "date": "2026-09-02",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4392572/"
+    "url": "https://thenewbev.com/program/september-2-the-invite-bob-carol-ted-alice/"
+  },
+  {
+    "title": "The Invite             /Bob & Carol & Ted & Alice",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-02",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-2-the-invite-bob-carol-ted-alice/"
+  },
+  {
+    "title": "The Invite             /Bob & Carol & Ted & Alice",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-3-the-invite-bob-carol-ted-alice/"
+  },
+  {
+    "title": "The Invite             /Bob & Carol & Ted & Alice",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-03",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-3-the-invite-bob-carol-ted-alice/"
+  },
+  {
+    "title": "Trainspotting",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-4-trainspotting-friday-matinee/"
+  },
+  {
+    "title": "The Maltese Falcon             /The Petrified Forest",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-4-the-maltese-falcon-the-petrified-forest/"
+  },
+  {
+    "title": "The Maltese Falcon             /The Petrified Forest",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "8:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-4-the-maltese-falcon-the-petrified-forest/"
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-4-kill-bill-volume-1-midnight-show/"
+  },
+  {
+    "title": "Pee-wee’s Big Adventure",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-5-pee-wees-big-adventure-family-matinee/"
+  },
+  {
+    "title": "The Maltese Falcon             /The Petrified Forest",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-5-the-maltese-falcon-the-petrified-forest/"
+  },
+  {
+    "title": "The Maltese Falcon             /The Petrified Forest",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "8:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-5-the-maltese-falcon-the-petrified-forest/"
+  },
+  {
+    "title": "The Crow",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-5-the-crow-midnight-show/"
+  },
+  {
+    "title": "Pee-wee’s Big Adventure",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-6-pee-wees-big-adventure-family-matinee/"
+  },
+  {
+    "title": "The Maltese Falcon             /The Petrified Forest",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-6-the-maltese-falcon-the-petrified-forest/"
+  },
+  {
+    "title": "The Maltese Falcon             /The Petrified Forest",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "8:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-6-the-maltese-falcon-the-petrified-forest/"
+  },
+  {
+    "title": "Cuddly Toys             /The All-American Girl",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-7-cuddly-toys-the-all-american-girl/"
+  },
+  {
+    "title": "Cuddly Toys             /The All-American Girl",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-07",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-7-cuddly-toys-the-all-american-girl/"
+  },
+  {
+    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-8-rocky-bound-for-glory/"
+  },
+  {
+    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-08",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-8-rocky-bound-for-glory/"
+  },
+  {
+    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-9-rocky-bound-for-glory/"
+  },
+  {
+    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-09",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-9-rocky-bound-for-glory/"
+  },
+  {
+    "title": "Red Desert",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-10-red-desert/"
+  },
+  {
+    "title": "Magnolia",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-11",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-11-magnolia-friday-matinee/"
+  },
+  {
+    "title": "Red Desert",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-11-red-desert/"
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-11",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-11-kill-bill-volume-1-midnight-show/"
+  },
+  {
+    "title": "The Iron Giant",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "10:00 AM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-12-the-iron-giant-cartoon-club-presents/"
+  },
+  {
+    "title": "Back to the Future Part II",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-12-back-to-the-future-part-ii-family-matinee/"
+  },
+  {
+    "title": "The Naked Gun: From the Files of Police Squad!             /The Naked Gun 2½: The Smell of Fear",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-12-the-naked-gun-the-naked-gun-2-1-2/"
+  },
+  {
+    "title": "The Naked Gun: From the Files of Police Squad!             /The Naked Gun 2½: The Smell of Fear",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "8:25 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-12-the-naked-gun-the-naked-gun-2-1-2/"
+  },
+  {
+    "title": "Christine",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-12",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-12-christine-midnight-show/"
+  },
+  {
+    "title": "Back to the Future Part II",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-13",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-13-back-to-the-future-part-ii-family-matinee/"
+  },
+  {
+    "title": "The Naked Gun: From the Files of Police Squad!             /The Naked Gun 2½: The Smell of Fear",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-13",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-13-the-naked-gun-the-naked-gun-2-1-2/"
+  },
+  {
+    "title": "The Naked Gun: From the Files of Police Squad!             /The Naked Gun 2½: The Smell of Fear",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-13",
+    "time": "8:25 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-13-the-naked-gun-the-naked-gun-2-1-2/"
+  },
+  {
+    "title": "Joysticks             /Zapped!",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-14-joysticks-zapped/"
+  },
+  {
+    "title": "Joysticks             /Zapped!",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-14",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-14-joysticks-zapped/"
+  },
+  {
+    "title": "Peeping Tom             /See No Evil (1971)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-15-peeping-tom-see-no-evil/"
+  },
+  {
+    "title": "Peeping Tom             /See No Evil (1971)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-15",
+    "time": "9:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-15-peeping-tom-see-no-evil/"
+  },
+  {
+    "title": "Peeping Tom             /See No Evil (1971)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-16-peeping-tom-see-no-evil/"
+  },
+  {
+    "title": "Peeping Tom             /See No Evil (1971)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-16",
+    "time": "9:40 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-16-peeping-tom-see-no-evil/"
+  },
+  {
+    "title": "Fight Club",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-17-fight-club/"
+  },
+  {
+    "title": "Heat",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-18-heat-friday-matinee/"
+  },
+  {
+    "title": "Fight Club",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-18-fight-club/"
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-18-kill-bill-volume-1-midnight-show/"
+  },
+  {
+    "title": "The Incredible Journey (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-19-the-incredible-journey-family-matinee/"
+  },
+  {
+    "title": "Fight Club",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-19-fight-club/"
+  },
+  {
+    "title": "Fritz the Cat",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-19-fritz-the-cat-midnight-show/"
+  },
+  {
+    "title": "The Incredible Journey (IB Tech Print)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-20-the-incredible-journey-family-matinee/"
+  },
+  {
+    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1920)(Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-20-the-unknown-outside-the-law/"
+  },
+  {
+    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1920)(Silent with Live Music Score)",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "8:05 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-20-the-unknown-outside-the-law/"
+  },
+  {
+    "title": "The Thing with Two Heads             /The Black Gestapo",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-21-the-thing-with-two-heads-the-black-gestapo/"
+  },
+  {
+    "title": "The Thing with Two Heads             /The Black Gestapo",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-21",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-21-the-thing-with-two-heads-the-black-gestapo/"
+  },
+  {
+    "title": "You Can’t Take It with You             /Mr. Deeds Goes to Town",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-22",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-22-you-cant-take-it-with-you-mr-deeds-goes-to-town/"
+  },
+  {
+    "title": "You Can’t Take It with You             /Mr. Deeds Goes to Town",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-22",
+    "time": "10:05 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-22-you-cant-take-it-with-you-mr-deeds-goes-to-town/"
+  },
+  {
+    "title": "You Can’t Take It with You             /Mr. Deeds Goes to Town",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-23-you-cant-take-it-with-you-mr-deeds-goes-to-town/"
+  },
+  {
+    "title": "You Can’t Take It with You             /Mr. Deeds Goes to Town",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-23",
+    "time": "10:05 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-23-you-cant-take-it-with-you-mr-deeds-goes-to-town/"
+  },
+  {
+    "title": "JFK",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-24-jfk/"
+  },
+  {
+    "title": "Scream",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-25-scream-friday-matinee/"
+  },
+  {
+    "title": "JFK",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-25-jfk/"
+  },
+  {
+    "title": "Kill Bill: Volume 1",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-25-kill-bill-volume-1-midnight-show/"
+  },
+  {
+    "title": "A Night at the Opera",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-26",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-26-a-night-at-the-opera-family-matinee/"
+  },
+  {
+    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack             /Godzilla 2000",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-26",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-26-godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-godzilla-2000/"
+  },
+  {
+    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack             /Godzilla 2000",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-26",
+    "time": "8:15 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-26-godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-godzilla-2000/"
+  },
+  {
+    "title": "The Life Aquatic with Steve Zissou",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-26",
+    "time": "11:59 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-26-the-life-aquatic-with-steve-zissou-midnight-show/"
+  },
+  {
+    "title": "A Night at the Opera",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "2:00 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-27-a-night-at-the-opera-family-matinee/"
+  },
+  {
+    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack             /Godzilla 2000",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-27-godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-godzilla-2000/"
+  },
+  {
+    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack             /Godzilla 2000",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "8:45 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-27-godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-godzilla-2000/"
+  },
+  {
+    "title": "Ride Clear of Diablo             /Six Black Horses",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-28-ride-clear-of-diablo-six-black-horses/"
+  },
+  {
+    "title": "Ride Clear of Diablo             /Six Black Horses",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-28",
+    "time": "9:20 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-28-ride-clear-of-diablo-six-black-horses/"
+  },
+  {
+    "title": "Minnie and Moskowitz             /Once Around",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-29-minnie-and-moskowitz-once-around/"
+  },
+  {
+    "title": "Minnie and Moskowitz             /Once Around",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-29",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-29-minnie-and-moskowitz-once-around/"
+  },
+  {
+    "title": "Minnie and Moskowitz             /Once Around",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-30",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
+  },
+  {
+    "title": "Minnie and Moskowitz             /Once Around",
+    "venue": "The New Beverly Theater",
+    "venueShort": "New Bev",
+    "type": "film",
+    "date": "2026-09-30",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
     "title": "Welcome Space Brothers",
@@ -898,16 +1568,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4388245/"
-  },
-  {
-    "title": "American Pachuco: The Legend of Luis Valdez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4437291/"
   },
   {
     "title": "American Pachuco: The Legend of Luis Valdez",
@@ -1480,6 +2140,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4561783/"
   },
   {
+    "title": "Howard the Duck",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-11",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509939/"
+  },
+  {
     "title": "Happy Feet",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1600,6 +2270,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4510096/"
   },
   {
+    "title": "Staying Alive",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509967/"
+  },
+  {
     "title": "Babe",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1620,6 +2300,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4509972/"
   },
   {
+    "title": "Minority Report",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509975/"
+  },
+  {
     "title": "Outerlands",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1628,6 +2318,16 @@
     "time": "7:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509979/"
+  },
+  {
+    "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4571919/"
   },
   {
     "title": "Encanto Sing-Along",
@@ -1738,16 +2438,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
-    "title": "The Searchers in 70mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Ponyo in 35mm",
@@ -2800,24 +3490,34 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Doc Talk Presents American Doctor",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Bus Stop",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-20",
-    "time": "7:00 PM",
+    "date": "2026-11-02",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/doc-talk-presents-american-doctor-08-20-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Straightiolab Presents Madonna: Truth or Dare",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Arrival: A Conversation with Denis Villeneuve and Dr. Nina Beguš",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-20",
-    "time": "10:00 PM",
+    "date": "2026-11-02",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/straightiolab-presents-madonna-truth-or-dare-08-20-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Last Princess(덕혜옹주)",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-02",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Bullseye Presents a Thousand Clowns",
@@ -3130,6 +3830,16 @@
     "url": "https://www.americancinematheque.com/now-showing/chronovisor-08-30-2026/"
   },
   {
+    "title": "The Night of the Hunter",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-30",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-night-of-the-hunter-08-30-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Smithereens",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3138,6 +3848,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-smithereens-8-31-26/"
+  },
+  {
+    "title": "Jurassic Park",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-08-31",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/jurassic-park-08-31-2026/"
   },
   {
     "title": "The Hunt for Red October",
@@ -3198,6 +3918,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/der-fan-09-03-2026/"
+  },
+  {
+    "title": "Clean, Shaven",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/clean-shaven-09-04-2026/"
   },
   {
     "title": "Union County",
@@ -3310,6 +4040,16 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-assault-of-the-killer-bimbos-09-07-2026/"
   },
   {
+    "title": "Pink Flamingos",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/pink-flamingos-09-07-2026/"
+  },
+  {
     "title": "Guyver: Dark Hero",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3320,6 +4060,36 @@
     "url": "https://www.americancinematheque.com/now-showing/guyver-dark-hero-09-08-2026/"
   },
   {
+    "title": "Straw Dogs",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-08",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/straw-dogs-09-08-2026/"
+  },
+  {
+    "title": "Meet the Barbarians",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-09",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/meet-the-barbarians-julie-delpy-09-09-2026/"
+  },
+  {
+    "title": "Pink Flamingos",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-09",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/pink-flamingos-09-09-2026/"
+  },
+  {
     "title": "Imitation of Life",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3328,6 +4098,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/imitation-of-life-09-10-2026/"
+  },
+  {
+    "title": "Straw Dogs",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-10",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/straw-dogs-09-10-2026/"
   },
   {
     "title": "\"now You Tell One\" / the Black Pirate",
@@ -3440,6 +4220,36 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-scarlet-warning-666-09-14-2026/"
   },
   {
+    "title": "Don't Play with Fire",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-14",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dont-play-with-fire-09-14-2026/"
+  },
+  {
+    "title": "Gandahar",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-15",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-15-2026/"
+  },
+  {
+    "title": "The Third Part of the Night",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-16",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-third-part-of-the-night-09-16-2026/"
+  },
+  {
     "title": "There's Always Tomorrow",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3448,6 +4258,36 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/theres-always-tomorrow-09-17-2026/"
+  },
+  {
+    "title": "Gandahar",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-17",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-17-2026/"
+  },
+  {
+    "title": "Gandahar",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-18-2026/"
+  },
+  {
+    "title": "Don't Play with Fire",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dont-play-with-fire-09-18-2026/"
   },
   {
     "title": "The Birdcage",
@@ -3460,6 +4300,16 @@
     "url": "https://www.americancinematheque.com/now-showing/the-birdcage-09-18-2026/"
   },
   {
+    "title": "Center Stage",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-18",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/center-stage-09-18-2026/"
+  },
+  {
     "title": "There's Always Tomorrow",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3470,6 +4320,26 @@
     "url": "https://www.americancinematheque.com/now-showing/theres-always-tomorrow-09-19-2026/"
   },
   {
+    "title": "Life Stinks",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/life-stinks-09-19-2026/"
+  },
+  {
+    "title": "King Lear",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/king-lear-09-20-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Effects",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3478,6 +4348,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-effects-09-21-2026/"
+  },
+  {
+    "title": "Gummo",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-21",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/gummo-09-21-2026/"
+  },
+  {
+    "title": "Gummo",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-23",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/gummo-09-23-2026/"
   },
   {
     "title": "Cinematic Void Presents Demonwarp",
