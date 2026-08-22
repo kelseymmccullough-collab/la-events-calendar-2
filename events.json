@@ -1,55 +1,5 @@
 [
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3791?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3791?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3791?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Jawbreaker/Idle Hands",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Child's Play",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3900?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Crime of the Century",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -428,26 +378,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Moneyball",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-21-moneyball/"
-  },
-  {
-    "title": "Pulp Fiction",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-21-pulp-fiction-midnight-show/"
   },
   {
     "title": "The Mummy (1999)",
@@ -1460,14 +1390,14 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Welcome Space Brothers",
+    "title": "Mary Oliver: Saved by the Beauty of the World",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-08-21",
-    "time": "10:00 PM",
+    "date": "2026-08-26",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4437277/"
+    "url": "https://vidiotsfoundation.org/purchase/4533968/"
   },
   {
     "title": "Welcome Space Brothers",
@@ -1508,76 +1438,6 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4438421/"
-  },
-  {
-    "title": "A Hard Day’s Night",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4392538/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4533969/"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4533968/"
-  },
-  {
-    "title": "Hunt for the Wilderpeople",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4392536/"
-  },
-  {
-    "title": "Mystic Pizza",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388256/"
-  },
-  {
-    "title": "The Untamed",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388245/"
-  },
-  {
-    "title": "American Pachuco: The Legend of Luis Valdez",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4470936/"
   },
   {
     "title": "The Great Muppet Caper",
@@ -1868,16 +1728,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509712/"
-  },
-  {
-    "title": "Wet Hot American Summer",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4471014/"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2438,26 +2288,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
-    "title": "Ponyo in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Gunfight at the O.K. Corralin VistaVision",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Nancy Drew",
@@ -3520,46 +3350,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Bullseye Presents a Thousand Clowns",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bullseye-presents-a-thousand-clowns-08-21-2026/"
-  },
-  {
-    "title": "Ticklish Business Presents Gilda",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/ticklish-business-presents-gilda-08-21-2026/"
-  },
-  {
-    "title": "Doughboys Present Little Caesar",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/little-caesar-08-21-2026/"
-  },
-  {
-    "title": "The Town Presents Election",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-town-presents-election-08-21-2026/"
-  },
-  {
     "title": "Uhh Yeah Dude Presents Straight Time",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4330,6 +4120,16 @@
     "url": "https://www.americancinematheque.com/now-showing/life-stinks-09-19-2026/"
   },
   {
+    "title": "This Is Spinal Tap",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-19",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/this-is-spinal-tap-09-19-2026/"
+  },
+  {
     "title": "King Lear",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4360,6 +4160,16 @@
     "url": "https://www.americancinematheque.com/now-showing/gummo-09-21-2026/"
   },
   {
+    "title": "The Miracle Worker",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-23",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-miracle-worker-09-23-2026/"
+  },
+  {
     "title": "Gummo",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4380,6 +4190,16 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-demonwarp-10-12-2026/"
   },
   {
+    "title": "Jojo Rabbit",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-16",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/jojo-rabbit-10-16-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Dr. Butcher, Md",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -4388,6 +4208,36 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dr-butcher-md-10-19-2026/"
+  },
+  {
+    "title": "A Night at the Opera",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/a-night-at-the-opera-10-20-2026/"
+  },
+  {
+    "title": "Dolemite Is My Name",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dolemite-is-my-name-10-22-2026/"
+  },
+  {
+    "title": "Broadway Melody of 1940",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/broadway-melody-of-1940-10-24-2026/"
   },
   {
     "title": "Cinematic Void Presents Evilspeak",
