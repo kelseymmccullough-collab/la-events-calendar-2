@@ -4,66 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-08-22",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3904?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3796?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3796?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3796?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Beau James",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3931?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Child's Play",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3901?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Crime of the Century",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-08-23",
     "time": "10:00 AM",
     "description": "",
@@ -378,46 +318,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Mummy (1999)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-22-the-mummy-family-matinee/"
-  },
-  {
-    "title": "The War of the Worlds (1953)             /Earth vs. the Flying Saucers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-22-the-war-of-the-worlds-earth-vs-the-flying-saucers/"
-  },
-  {
-    "title": "The War of the Worlds (1953)             /Earth vs. the Flying Saucers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "8:25 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-22-the-war-of-the-worlds-earth-vs-the-flying-saucers/"
-  },
-  {
-    "title": "Ghost World",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-22-ghost-world-midnight-show/"
   },
   {
     "title": "The Mummy (1999)",
@@ -1400,14 +1300,34 @@
     "url": "https://vidiotsfoundation.org/purchase/4533968/"
   },
   {
-    "title": "Welcome Space Brothers",
+    "title": "Jazz on a Summer’s Day",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-08-22",
-    "time": "4:30 PM",
+    "date": "2026-08-25",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4437289/"
+    "url": "https://vidiotsfoundation.org/purchase/4398784/"
+  },
+  {
+    "title": "The Grandmaster on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-27",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4388738/"
+  },
+  {
+    "title": "Twilight",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-28",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4528303/"
   },
   {
     "title": "Welcome Space Brothers",
@@ -1440,56 +1360,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4438421/"
   },
   {
-    "title": "The Great Muppet Caper",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4368697/"
-  },
-  {
-    "title": "La Strada",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4368696/"
-  },
-  {
-    "title": "Jazz on a Summer’s Day",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4398784/"
-  },
-  {
-    "title": "The Grandmaster on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388738/"
-  },
-  {
-    "title": "Twilight",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4528303/"
-  },
-  {
     "title": "Dirty Dancing",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1498,16 +1368,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4444820/"
-  },
-  {
-    "title": "I Want Your Sex",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4393386/"
   },
   {
     "title": "I Want Your Sex",
@@ -1578,16 +1438,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509708/"
-  },
-  {
-    "title": "Possession",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4444822/"
   },
   {
     "title": "Stop Motion Explosion! on 16mm",
@@ -2288,36 +2138,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
-    "title": "Nancy Drew",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Ten Commandmentsin VistaVision",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "An Evening with Charlize Theron FeaturingMad Max: Fury Road",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Funny Face",
@@ -3350,44 +3170,84 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Uhh Yeah Dude Presents Straight Time",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Bus Stop",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-22",
-    "time": "1:00 PM",
+    "date": "2026-11-04",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/uhh-yeah-dude-presents-straight-time-08-22-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Pure Cinema Presents Breaking in",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "My Dad Is 100 Years OldwithRome, Open Citypresented by Isabella Rossellini",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-22",
-    "time": "4:00 PM",
+    "date": "2026-11-04",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pure-cinema-presents-breaking-in-08-22-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Upstairs Neighbors Presents Challengers",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Memories of Murder(살인의 추억) in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-22",
-    "time": "7:00 PM",
+    "date": "2026-11-04",
+    "time": "8:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/upstairs-neighbors-presents-challengers-08-22-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Skylight Books Podcast Presents My Brilliant Career",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Viva Ingrid!withJourney to Italypresented by Isabella Rossellini",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-22",
-    "time": "10:15 PM",
+    "date": "2026-11-05",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/skylight-books-podcast-presents-my-brilliant-career-08-22-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Bus Stop",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-06",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Haunted Mansion",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Rossellini Through His Own Eyes(Rossellini visto da Rossellini)",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Rome, Open City(Roma città aperta) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Movies That Made Me Presents Mickey One",
