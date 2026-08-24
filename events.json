@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Crime of the Century",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3905?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3797?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3797?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -318,36 +288,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Mummy (1999)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-23-the-mummy-family-matinee/"
-  },
-  {
-    "title": "The War of the Worlds (1953)             /Earth vs. the Flying Saucers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-23-the-war-of-the-worlds-earth-vs-the-flying-saucers/"
-  },
-  {
-    "title": "The War of the Worlds (1953)             /Earth vs. the Flying Saucers",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "8:25 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-23-the-war-of-the-worlds-earth-vs-the-flying-saucers/"
   },
   {
     "title": "These Are the Damned             /The Curse of the Werewolf",
@@ -1460,16 +1400,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4388710/"
   },
   {
-    "title": "Alien",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388713/"
-  },
-  {
     "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1578,16 +1508,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509712/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509893/"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2138,46 +2058,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
-    "title": "Funny Face",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Jackie",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Hot Spell",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "White Christmasin VistaVision",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Secret World of Arrietty in 4K",
@@ -3248,46 +3128,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Movies That Made Me Presents Mickey One",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/movies-that-made-me-presents-mickey-one-08-23-2026/"
-  },
-  {
-    "title": "Emergency Intercom Presents the Taste of Tea",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/emergency-intercom-presents-the-taste-of-tea-08-23-2026/"
-  },
-  {
-    "title": "The Midnight Boys Present the Matrix Reloaded",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-midnight-boys-present-the-matrix-reloaded-08-23-2026/"
-  },
-  {
-    "title": "The Dana Gould Hour Presents House of Dark Shadows",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-23",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-dana-gould-hour-presents-house-of-dark-shadows-08-23-2026/"
   },
   {
     "title": "Cinematic Void Presents Walker",
