@@ -1,35 +1,5 @@
 [
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3805?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Visitor Q/Audition",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-27",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Speed Racer",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3963?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Speed Racer",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -37,7 +7,7 @@
     "date": "2026-08-28",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3963?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/3970?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Booksmart",
@@ -280,16 +250,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4058?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Great Guy/Held for Ransom",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-09",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4059?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "I Cover The Waterfront/Yellow Cargo",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -488,26 +448,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "To Live and Die in L.A.             /The Rip",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-27-to-live-and-die-in-l-a-the-rip/"
-  },
-  {
-    "title": "To Live and Die in L.A.             /The Rip",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-27",
-    "time": "9:55 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-27-to-live-and-die-in-l-a-the-rip/"
   },
   {
     "title": "The 39 Steps (1935)             /Sabotage (1936)",
@@ -1370,26 +1310,6 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Twilight",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4528303/"
-  },
-  {
-    "title": "Welcome Space Brothers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4438361/"
-  },
-  {
     "title": "Welcome Space Brothers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1468,16 +1388,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509708/"
-  },
-  {
-    "title": "Possession",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4444822/"
   },
   {
     "title": "Possession",
@@ -1980,6 +1890,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4565616/"
   },
   {
+    "title": "The Best Little Whorehouse in Texas",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4608759/"
+  },
+  {
     "title": "Husbands",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2208,26 +2128,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
-    "title": "We’re No Angelsin VistaVision",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Secret World of Arrietty in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "North by Northwest in 70mm",
@@ -3290,34 +3190,44 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "\"dialogue with the Wind\" / Killing Mad Dogs",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Some Like It Hot in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-27",
-    "time": "7:00 PM",
+    "date": "2026-11-13",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dialogue-with-the-wind-killing-mad-dogs-08-27-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The End of Evangelion",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Black Firewith Kevin Jerome Everson and Claudrena N. Harold",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-27",
-    "time": "10:00 PM",
+    "date": "2026-11-13",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-end-of-evangelion-08-27-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Other",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Frankenweenie in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-08-28",
-    "time": "1:00 PM",
+    "date": "2026-11-14",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-other-08-28-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Jealousy Is My Middle Name (질투는 나의 힘)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "\"journey\" / \"uncle Mustache\" / Downpour",
