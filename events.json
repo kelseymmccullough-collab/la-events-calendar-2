@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-08-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3970?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Booksmart",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3918?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Driver",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3947?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Blonde Ransom",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-08-29",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3906?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Speed Racer",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-08-29",
     "time": "3:30 PM",
     "description": "",
@@ -448,36 +408,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The 39 Steps (1935)             /Sabotage (1936)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-28-the-39-steps-sabotage/"
-  },
-  {
-    "title": "The 39 Steps (1935)             /Sabotage (1936)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "8:25 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-28-the-39-steps-sabotage/"
-  },
-  {
-    "title": "Pulp Fiction",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/august-28-pulp-fiction-midnight-show/"
   },
   {
     "title": "The Man with the Golden Gun",
@@ -1310,26 +1240,6 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Welcome Space Brothers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-29",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4438387/"
-  },
-  {
-    "title": "Welcome Space Brothers",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-30",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4438421/"
-  },
-  {
     "title": "I Want Your Sex",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1390,34 +1300,24 @@
     "url": "https://vidiotsfoundation.org/purchase/4509708/"
   },
   {
-    "title": "Possession",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-04",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4600700/"
-  },
-  {
-    "title": "Stop Motion Explosion! on 16mm",
+    "title": "Welcome Space Brothers",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-08-29",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4438387/"
+  },
+  {
+    "title": "Welcome Space Brothers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-08-30",
     "time": "1:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4365503/"
-  },
-  {
-    "title": "Diary of a Chambermaid",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-08-29",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4388710/"
+    "url": "https://vidiotsfoundation.org/purchase/4438421/"
   },
   {
     "title": "Spirit: Stallion of the Cimarron",
@@ -1448,16 +1348,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4393414/"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509710/"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -1518,6 +1408,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509712/"
+  },
+  {
+    "title": "Possession",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-04",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4600700/"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1588,16 +1488,6 @@
     "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4561784/"
-  },
-  {
-    "title": "The Holy Mountain",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-04",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509721/"
   },
   {
     "title": "CatVideoFest 2026",
@@ -2128,16 +2018,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
-    "title": "North by Northwest in 70mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Zootopia",
@@ -3228,36 +3108,6 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "\"journey\" / \"uncle Mustache\" / Downpour",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "3:15 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/journey-uncle-mustache-downpour-08-28-2026/"
-  },
-  {
-    "title": "The 2026 Etheria Film Festival Short Film Showcase",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-2026-etheria-film-festival-short-film-showcase-08-28-2026/"
-  },
-  {
-    "title": "The End of Evangelion",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-08-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-end-of-evangelion-08-28-2026/"
   },
   {
     "title": "Ballad of Tara",
