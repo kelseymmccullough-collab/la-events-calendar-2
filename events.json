@@ -1,35 +1,5 @@
 [
   {
-    "title": "Dance Band/Hong Kong Nights",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-02",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4076?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Speed Racer",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-02",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3968?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Speed Racer",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3968?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Speed Racer",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -148,16 +118,6 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4061?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Navy Secrets/Bank Alarm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4081?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Streets of Fire",
@@ -644,26 +604,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-09-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-2-the-invite-bob-carol-ted-alice/"
-  },
-  {
-    "title": "The Invite             /Bob & Carol & Ted & Alice",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-02",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-2-the-invite-bob-carol-ted-alice/"
-  },
-  {
-    "title": "The Invite             /Bob & Carol & Ted & Alice",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-09-03",
     "time": "7:30 PM",
     "description": "",
@@ -790,7 +730,7 @@
     "url": "https://thenewbev.com/program/september-6-the-maltese-falcon-the-petrified-forest/"
   },
   {
-    "title": "Cuddly Toys             /The All-American Girl",
+    "title": "Cuddly Toys (Kansas Bowling In Person)             /The All-American Girl",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -800,7 +740,7 @@
     "url": "https://thenewbev.com/program/september-7-cuddly-toys-the-all-american-girl/"
   },
   {
-    "title": "Cuddly Toys             /The All-American Girl",
+    "title": "Cuddly Toys (Kansas Bowling In Person)             /The All-American Girl",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -1360,14 +1300,44 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Yojimbo",
+    "title": "The Samurai and the Prisoner",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
+    "date": "2026-09-04",
+    "time": "3:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509712/"
+    "url": "https://vidiotsfoundation.org/purchase/4471022/"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-05",
+    "time": "2:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509882/"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-06",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509906/"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509925/"
   },
   {
     "title": "Possession",
@@ -1448,16 +1418,6 @@
     "time": "10:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4504835/"
-  },
-  {
-    "title": "CatVideoFest 2026",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509873/"
   },
   {
     "title": "Moana Sing-Along",
@@ -1720,16 +1680,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4565616/"
   },
   {
-    "title": "The Best Little Whorehouse in Texas",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4608759/"
-  },
-  {
     "title": "Filipiñana",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1940,6 +1890,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4510122/"
   },
   {
+    "title": "Bandidas on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510123/"
+  },
+  {
     "title": "Dazed and Confused – Dazed Day!",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2014,26 +1974,6 @@
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-02",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Women",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Monkey Business in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
     "date": "2026-09-03",
     "time": "2:30 PM",
     "description": "",
@@ -2070,7 +2010,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Snow White and the Seven Dwarfs",
+    "title": "Snow White and the Seven Dwarfs in 4K",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2190,7 +2130,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "20th Anniversary ofMarie Antoinettewith Sofia Coppola",
+    "title": "sign copies of their new book, Making Marie Antoinette",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -3080,24 +3020,64 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Portal to Hell",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "50th Anniversary ofCarriewith Sissy Spacek",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-02",
-    "time": "7:00 PM",
+    "date": "2026-11-19",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/portal-to-hell-09-02-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Jurassic Park Iii",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Misfits in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-02",
-    "time": "10:00 PM",
+    "date": "2026-11-20",
+    "time": "2:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jurassic-park-iii-09-02-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Journey to Italy(Viaggio in Italia) in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Wendell & Wild",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-21",
+    "time": "11:00 AM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "The Misfits in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-21",
+    "time": "2:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+  },
+  {
+    "title": "Stromboli in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
+    "type": "film",
+    "date": "2026-11-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Written on the Wind",
@@ -3640,6 +3620,26 @@
     "url": "https://www.americancinematheque.com/now-showing/gummo-09-23-2026/"
   },
   {
+    "title": "Old",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-06",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/old-10-06-2026/"
+  },
+  {
+    "title": "The Village",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-village-10-07-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Demonwarp",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3648,6 +3648,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-demonwarp-10-12-2026/"
+  },
+  {
+    "title": "Lady in the Water",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-12",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/lady-in-the-water-10-12-2026/"
   },
   {
     "title": "Jojo Rabbit",
