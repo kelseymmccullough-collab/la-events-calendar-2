@@ -1,35 +1,5 @@
 [
   {
-    "title": "Speed Racer",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Speed Racer",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3969?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Black Swan/The Spanish Main",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4054?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Same Time Next Year",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -37,7 +7,7 @@
     "date": "2026-09-04",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4056?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Steel",
@@ -118,6 +88,16 @@
     "time": "8:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4061?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Navy Spy/Bank Alarm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-11",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4081?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Streets of Fire",
@@ -598,26 +578,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Invite             /Bob & Carol & Ted & Alice",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-3-the-invite-bob-carol-ted-alice/"
-  },
-  {
-    "title": "The Invite             /Bob & Carol & Ted & Alice",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-3-the-invite-bob-carol-ted-alice/"
   },
   {
     "title": "Trainspotting",
@@ -1340,16 +1300,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4509925/"
   },
   {
-    "title": "Possession",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-04",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4600700/"
-  },
-  {
     "title": "Wet Hot American Summer",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1364,20 +1314,10 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-07",
-    "time": "3:30 PM",
+    "date": "2026-09-06",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509926/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-08",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509936/"
+    "url": "https://vidiotsfoundation.org/purchase/4509908/"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -1408,16 +1348,6 @@
     "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4561784/"
-  },
-  {
-    "title": "CatVideoFest 2026",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-04",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4504835/"
   },
   {
     "title": "Moana Sing-Along",
@@ -1480,16 +1410,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4509868/"
   },
   {
-    "title": "O Brother, Where Art Thou?",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509869/"
-  },
-  {
     "title": "Velvet Goldmine on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1508,6 +1428,26 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509935/"
+  },
+  {
+    "title": "Alex Borstein: A Silent Thirst",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-283688#description"
+  },
+  {
+    "title": "Alex Borstein: A Silent Thirst",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-283688#description"
   },
   {
     "title": "Unbreakable",
@@ -1744,6 +1684,16 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
+    "date": "2026-09-21",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510095/"
+  },
+  {
+    "title": "Filipiñana",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
     "date": "2026-09-22",
     "time": "7:30 PM",
     "description": "",
@@ -1960,6 +1910,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4510133/"
   },
   {
+    "title": "Barbara Forever",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-28",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510139/"
+  },
+  {
+    "title": "Short Cuts",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510135/"
+  },
+  {
     "title": "Terminator 2: Judgment Day on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1970,24 +1940,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4510150/"
   },
   {
-    "title": "Monkey Business in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Chocolate Babies",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-03",
-    "time": "2:30 PM",
+    "date": "2026-10-07",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Barry Lyndon in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4645034/"
   },
   {
     "title": "Monkey Business in 4K",
@@ -3078,26 +3038,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Written on the Wind",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/written-on-the-wind-09-03-2026/"
-  },
-  {
-    "title": "Der Fan",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-03",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/der-fan-09-03-2026/"
   },
   {
     "title": "Clean, Shaven",
