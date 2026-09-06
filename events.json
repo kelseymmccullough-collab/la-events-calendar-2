@@ -4,40 +4,10 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-05",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Tales from the Darkside: The Movie",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Steel",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4053?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Live and Let Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-06",
     "time": "10:00 AM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4040?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Destroyer",
@@ -558,46 +528,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Pee-wee’s Big Adventure",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-5-pee-wees-big-adventure-family-matinee/"
-  },
-  {
-    "title": "The Maltese Falcon             /The Petrified Forest",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-5-the-maltese-falcon-the-petrified-forest/"
-  },
-  {
-    "title": "The Maltese Falcon             /The Petrified Forest",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "8:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-5-the-maltese-falcon-the-petrified-forest/"
-  },
-  {
-    "title": "The Crow",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-5-the-crow-midnight-show/"
   },
   {
     "title": "Pee-wee’s Big Adventure",
@@ -1204,16 +1134,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-05",
-    "time": "2:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509882/"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-09-06",
     "time": "1:00 PM",
     "description": "",
@@ -1258,26 +1178,6 @@
     "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4561784/"
-  },
-  {
-    "title": "Spirited Away (English Dubbed)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509866/"
-  },
-  {
-    "title": "The Seven Year Itch",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509868/"
   },
   {
     "title": "Farewell My Concubine",
@@ -1808,26 +1708,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
-  },
-  {
-    "title": "Snow White and the Seven Dwarfs in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Fanny & Alexander in35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Top Hat in 35mm",
@@ -2880,44 +2760,24 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Written on the Wind",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Favourite",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-05",
-    "time": "1:00 PM",
+    "date": "2026-11-22",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/written-on-the-wind-09-05-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Samba Traoré",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Flowers of St. Francis(Francesco, giullare di Dio)in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-05",
-    "time": "4:00 PM",
+    "date": "2026-11-22",
+    "time": "6:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/samba-traore-09-05-2026/"
-  },
-  {
-    "title": "\"there They Go-go-go!\" / a Few Good Men",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/there-they-go-go-go-a-few-good-men-09-05-2026/"
-  },
-  {
-    "title": "Der Fan",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-05",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/der-fan-09-05-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Michael Waldron Presents Brief Encounter",
