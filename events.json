@@ -1,15 +1,5 @@
 [
   {
-    "title": "Live and Let Die",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Destroyer",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -528,36 +518,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Pee-wee’s Big Adventure",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-6-pee-wees-big-adventure-family-matinee/"
-  },
-  {
-    "title": "The Maltese Falcon             /The Petrified Forest",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-6-the-maltese-falcon-the-petrified-forest/"
-  },
-  {
-    "title": "The Maltese Falcon             /The Petrified Forest",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "8:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-6-the-maltese-falcon-the-petrified-forest/"
   },
   {
     "title": "Cuddly Toys (Kansas Bowling In Person)             /The All-American Girl",
@@ -1130,26 +1090,6 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "The Samurai and the Prisoner",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509906/"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509925/"
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1394,16 +1334,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4633732/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-09-18",
     "time": "4:15 PM",
     "description": "",
@@ -1570,16 +1500,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4510024/"
   },
   {
-    "title": "An Evening with Mike Mills – C’mon C’mon",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510014/"
-  },
-  {
     "title": "Raising Victor Vargas",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1708,26 +1628,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
-  },
-  {
-    "title": "Top Hat in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Amadeus in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-06",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Niagara",
@@ -2780,34 +2680,34 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Michael Waldron Presents Brief Encounter",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "The Machine That Kills Bad People(La macchina ammazzacattivi) in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-06",
-    "time": "1:00 PM",
+    "date": "2026-11-23",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/michael-waldron-presents-brief-encounter-09-06-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Imitation of Life",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Gremlins",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-06",
-    "time": "4:00 PM",
+    "date": "2026-11-28",
+    "time": "11:00 AM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/imitation-of-life-09-06-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Problem Child: the Whole Bloody Affair",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Europe ’51",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-06",
-    "time": "7:00 PM",
+    "date": "2026-11-28",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-problem-child-the-whole-bloody-affair-09-06-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Cinematic Void Presents Assault of the Killer Bimbos",
