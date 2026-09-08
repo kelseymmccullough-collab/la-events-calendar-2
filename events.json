@@ -67,7 +67,7 @@
     "date": "2026-09-12",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4078?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Streets of Fire",
@@ -518,26 +518,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Cuddly Toys (Kansas Bowling In Person)             /The All-American Girl",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-07",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-7-cuddly-toys-the-all-american-girl/"
-  },
-  {
-    "title": "Cuddly Toys (Kansas Bowling In Person)             /The All-American Girl",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-07",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-7-cuddly-toys-the-all-american-girl/"
   },
   {
     "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
@@ -1110,26 +1090,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4561753/"
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4561784/"
-  },
-  {
-    "title": "Farewell My Concubine",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509935/"
-  },
-  {
     "title": "Alex Borstein: A Silent Thirst",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1168,16 +1128,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509938/"
-  },
-  {
-    "title": "Wild Inside",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "7:20 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510006/"
   },
   {
     "title": "Wild Inside",
@@ -1628,16 +1578,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
-  },
-  {
-    "title": "Niagara",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-07",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Niagara",
@@ -2708,26 +2648,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Cinematic Void Presents Assault of the Killer Bimbos",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-assault-of-the-killer-bimbos-09-07-2026/"
-  },
-  {
-    "title": "Pink Flamingos",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pink-flamingos-09-07-2026/"
   },
   {
     "title": "Guyver: Dark Hero",
