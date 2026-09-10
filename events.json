@@ -1,25 +1,5 @@
 [
   {
-    "title": "Destroyer",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-08",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4058?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Great Guy/Held for Ransom",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-09",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4059?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "I Cover The Waterfront/Yellow Cargo",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -520,46 +500,6 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-08",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-8-rocky-bound-for-glory/"
-  },
-  {
-    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-08",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-8-rocky-bound-for-glory/"
-  },
-  {
-    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-9-rocky-bound-for-glory/"
-  },
-  {
-    "title": "Rocky (Garrett Brown In Person)             /Bound for Glory",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-09",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-9-rocky-bound-for-glory/"
-  },
-  {
     "title": "Red Desert",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -577,7 +517,7 @@
     "date": "2026-09-11",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/september-11-magnolia-friday-matinee/"
+    "url": "https://thenewbev.com/program/september-11-magnolia-friday-matinee-2/"
   },
   {
     "title": "Red Desert",
@@ -1070,46 +1010,6 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510005/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4561753/"
-  },
-  {
-    "title": "Alex Borstein: A Silent Thirst",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-09",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-283688#description"
-  },
-  {
-    "title": "Alex Borstein: A Silent Thirst",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-10",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.simpletix.com/e/alex-borstein-a-silent-thirst-tickets-283688#description"
-  },
-  {
     "title": "Wet Hot American Summer",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1128,16 +1028,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509938/"
-  },
-  {
-    "title": "Wild Inside",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-12",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4561750/"
   },
   {
     "title": "Wild Inside",
@@ -1270,16 +1160,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4509962/"
   },
   {
-    "title": "The Waiting Room",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4565616/"
-  },
-  {
     "title": "Filipiñana",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1308,26 +1188,6 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509983/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "1:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510089/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "8:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510092/"
   },
   {
     "title": "Filipiñana",
@@ -1570,6 +1430,76 @@
     "url": "https://vidiotsfoundation.org/purchase/4510150/"
   },
   {
+    "title": "Creepshow",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-02",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672309/"
+  },
+  {
+    "title": "Monsters University",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672312/"
+  },
+  {
+    "title": "Theater of Blood",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672316/"
+  },
+  {
+    "title": "9 to 5",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672324/"
+  },
+  {
+    "title": "The Hole on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672325/"
+  },
+  {
+    "title": "The Bodyguard",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672342/"
+  },
+  {
+    "title": "Carnival of Souls",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4675170/"
+  },
+  {
     "title": "Chocolate Babies",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1580,24 +1510,164 @@
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
   },
   {
-    "title": "Niagara",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "28 Days Later",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-09",
-    "time": "2:30 PM",
+    "date": "2026-10-09",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4672344/"
   },
   {
-    "title": "The Adventures of Priscilla, Queen of the Desert in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "The Rocky Horror Picture Show",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-09",
+    "date": "2026-10-09",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672345/"
+  },
+  {
+    "title": "Frankenweenie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672347/"
+  },
+  {
+    "title": "Teen Witch",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672348/"
+  },
+  {
+    "title": "Pulse",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672353/"
+  },
+  {
+    "title": "Annie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-11",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672357/"
+  },
+  {
+    "title": "The Witches of Eastwick",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-16",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672364/"
+  },
+  {
+    "title": "Def by Temptation",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-16",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672369/"
+  },
+  {
+    "title": "Mad Monster Party?",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672376/"
+  },
+  {
+    "title": "Hotel Transylvania",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "1:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672394/"
+  },
+  {
+    "title": "The Shining on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672395/"
+  },
+  {
+    "title": "Italo-Disco Horror Night – Argento’s Deep Red",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-27",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4675405/"
+  },
+  {
+    "title": "Ginger Snaps",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-28",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672423/"
+  },
+  {
+    "title": "Sweet 16mm: Halloween Haunts",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4675860/"
+  },
+  {
+    "title": "Audition",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-30",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672425/"
+  },
+  {
+    "title": "Halloween",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4675239/"
   },
   {
     "title": "Niagara",
@@ -1650,7 +1720,7 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "sign copies of their new book, Making Marie Antoinette",
+    "title": "20th Anniversary ofMarie Antoinettewith Sofia Coppola and Kirsten Dunst",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2650,603 +2720,33 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Guyver: Dark Hero",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Once Upon a Time… in Hollywood in 70mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-08",
-    "time": "7:00 PM",
+    "date": "2026-11-29",
+    "time": "2:00 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/guyver-dark-hero-09-08-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Straw Dogs",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Fear(La Paura) in 4K",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-08",
-    "time": "10:00 PM",
+    "date": "2026-11-29",
+    "time": "6:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/straw-dogs-09-08-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Meet the Barbarians",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
+    "title": "Joan of Arc at the Stake in 35mm",
+    "venue": "Academy Museum",
+    "venueShort": "Academy",
     "type": "film",
-    "date": "2026-09-09",
-    "time": "7:00 PM",
+    "date": "2026-11-30",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/meet-the-barbarians-julie-delpy-09-09-2026/"
-  },
-  {
-    "title": "Pink Flamingos",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-09",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pink-flamingos-09-09-2026/"
-  },
-  {
-    "title": "Imitation of Life",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/imitation-of-life-09-10-2026/"
-  },
-  {
-    "title": "Straw Dogs",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-10",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/straw-dogs-09-10-2026/"
-  },
-  {
-    "title": "\"now You Tell One\" / the Black Pirate",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/now-you-tell-one-the-black-pirate-09-11-2026/"
-  },
-  {
-    "title": "The Bat",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-bat-09-11-2026/"
-  },
-  {
-    "title": "\"help Yourself\" / the Slanderers",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-12",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/help-yourself-the-slanderers-09-12-2026/"
-  },
-  {
-    "title": "\"love in an Apartment Hotel\" / the Quarterback",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-12",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/love-in-an-apartment-the-quarterback-09-12-2026/"
-  },
-  {
-    "title": "\"ilak's Birthday at Egyptian Theatre\" / What Price Glory",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/ilaks-birthday-at-egyptian-theatre-what-price-glory-09-12-2026/"
-  },
-  {
-    "title": "\"cinderella Cinders\" / the Devil’s Circus",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinderella-cinders-devils-circus-09-12-2026/"
-  },
-  {
-    "title": "Los Angeles Silent Film Festival Presents \"first National Family of Stars\" / for Heaven’s Sake",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/los-angeles-silent-film-festival-presents-first-national-family-of-stars-for-heavens-sake-09-13-2026/"
-  },
-  {
-    "title": "Beyond Silence: Sound Effects, Animation and 3d in the Silent Era",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beyond-silence-sound-effects-animation-and-3d-in-the-silent-era-09-13-2026/"
-  },
-  {
-    "title": "\"the Sheriff's Baby\" / So This Is Paris",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-sheriffs-baby-so-this-is-paris-09-13-2026/"
-  },
-  {
-    "title": "Faust",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/faust-09-13-2026/"
-  },
-  {
-    "title": "Cinematic Void Presents Scarlet Warning 666",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-scarlet-warning-666-09-14-2026/"
-  },
-  {
-    "title": "Don't Play with Fire",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dont-play-with-fire-09-14-2026/"
-  },
-  {
-    "title": "You Must Remember This Presents the Cheat",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/you-must-remember-this-presents-the-cheat-09-15-2026/"
-  },
-  {
-    "title": "Gandahar",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-15",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-15-2026/"
-  },
-  {
-    "title": "Crash",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/crash-09-16-2026/"
-  },
-  {
-    "title": "The Third Part of the Night",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-third-part-of-the-night-09-16-2026/"
-  },
-  {
-    "title": "There's Always Tomorrow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/theres-always-tomorrow-09-17-2026/"
-  },
-  {
-    "title": "Gandahar",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-17",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-17-2026/"
-  },
-  {
-    "title": "Gandahar",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-18-2026/"
-  },
-  {
-    "title": "Don't Play with Fire",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dont-play-with-fire-09-18-2026/"
-  },
-  {
-    "title": "The Birdcage",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-birdcage-09-18-2026/"
-  },
-  {
-    "title": "Center Stage",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/center-stage-09-18-2026/"
-  },
-  {
-    "title": "There's Always Tomorrow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/theres-always-tomorrow-09-19-2026/"
-  },
-  {
-    "title": "Life Stinks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/life-stinks-09-19-2026/"
-  },
-  {
-    "title": "This Is Spinal Tap",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/this-is-spinal-tap-09-19-2026/"
-  },
-  {
-    "title": "Night of the Vamp-friars",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/night-of-the-vamp-friars-09-19-2026/"
-  },
-  {
-    "title": "Pure Cinema Presents the Mask of Dimitrios",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pure-cinema-presents-the-mask-of-dimitrios-09-20-2026/"
-  },
-  {
-    "title": "She-wolf of London",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/she-wolf-of-london-09-20-2026/"
-  },
-  {
-    "title": "White Nights",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/white-nights-09-20-2026/"
-  },
-  {
-    "title": "King Lear",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/king-lear-09-20-2026/"
-  },
-  {
-    "title": "Cinematic Void Presents Effects",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-21",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-effects-09-21-2026/"
-  },
-  {
-    "title": "Gummo",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gummo-09-21-2026/"
-  },
-  {
-    "title": "The History of Concrete",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/history-of-concrete-09-22-2026/"
-  },
-  {
-    "title": "White Nights",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-22",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/white-nights-09-22-2026/"
-  },
-  {
-    "title": "The Miracle Worker",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-miracle-worker-09-23-2026/"
-  },
-  {
-    "title": "Gummo",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gummo-09-23-2026/"
-  },
-  {
-    "title": "Two-lane Blacktop",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/two-lane-blacktop-09-24-2026/"
-  },
-  {
-    "title": "Crash",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/crash-09-24-2026/"
-  },
-  {
-    "title": "Down and Out in Beverly Hills",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-06",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/down-and-out-in-beverly-hills-10-06-2026/"
-  },
-  {
-    "title": "Old",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-06",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/old-10-06-2026/"
-  },
-  {
-    "title": "Take Me Home",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/take-me-home-10-07-2026/"
-  },
-  {
-    "title": "The Village",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-07",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-village-10-07-2026/"
-  },
-  {
-    "title": "Take Me Home",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/take-me-home-10-09-2026/"
-  },
-  {
-    "title": "Blue Heron",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/blue-heron-10-11-2026/"
-  },
-  {
-    "title": "Take Me Home",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/take-me-home-10-11-2026/"
-  },
-  {
-    "title": "Cinematic Void Presents Demonwarp",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-demonwarp-10-12-2026/"
-  },
-  {
-    "title": "Lady in the Water",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/lady-in-the-water-10-12-2026/"
-  },
-  {
-    "title": "Jojo Rabbit",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jojo-rabbit-10-16-2026/"
-  },
-  {
-    "title": "Spanning Time",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/spanning-time-10-17-2026/"
-  },
-  {
-    "title": "Cinematic Void Presents Dr. Butcher, Md",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dr-butcher-md-10-19-2026/"
-  },
-  {
-    "title": "A Night at the Opera",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-night-at-the-opera-10-20-2026/"
-  },
-  {
-    "title": "Dolemite Is My Name",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dolemite-is-my-name-10-22-2026/"
-  },
-  {
-    "title": "Broadway Melody of 1940",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/broadway-melody-of-1940-10-24-2026/"
-  },
-  {
-    "title": "Cinematic Void Presents Evilspeak",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-evilspeak-10-26-2026/"
+    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   }
 ]
