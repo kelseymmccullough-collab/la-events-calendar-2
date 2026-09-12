@@ -1,25 +1,5 @@
 [
   {
-    "title": "Navy Spy/Bank Alarm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4081?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Streets of Fire",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4044?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The 7th Voyage of Sinbad",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -27,7 +7,7 @@
     "date": "2026-09-12",
     "time": "10:00 AM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4041?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Court Jester",
@@ -67,7 +47,7 @@
     "date": "2026-09-15",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4075?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Twin Husbands/Murder at Glen Athol",
@@ -488,36 +468,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Magnolia",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-11-magnolia-friday-matinee-2/"
-  },
-  {
-    "title": "Red Desert",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-11-red-desert/"
-  },
-  {
-    "title": "Kill Bill: Volume 1",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-11-kill-bill-volume-1-midnight-show/"
   },
   {
     "title": "The Iron Giant",
@@ -990,44 +940,44 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Happy Feet",
+    "title": "Wild Inside",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-12",
+    "date": "2026-09-13",
     "time": "1:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509941/"
+    "url": "https://vidiotsfoundation.org/purchase/4561783/"
   },
   {
-    "title": "The Traveler",
+    "title": "Wild Inside",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-12",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509942/"
-  },
-  {
-    "title": "Splash",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-12",
+    "date": "2026-09-14",
     "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509948/"
+    "url": "https://vidiotsfoundation.org/purchase/4509963/"
   },
   {
-    "title": "Death Wish",
+    "title": "Idiotka",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-09-12",
-    "time": "9:45 PM",
+    "time": "7:15 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509944/"
+    "url": "https://vidiotsfoundation.org/purchase/4561751/"
+  },
+  {
+    "title": "Idiotka",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4561786/"
   },
   {
     "title": "Clash of the Titans",
@@ -1088,16 +1038,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510095/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510096/"
   },
   {
     "title": "Husbands",
@@ -1570,6 +1510,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4672348/"
   },
   {
+    "title": "Clue",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672349/"
+  },
+  {
     "title": "Pulse",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1608,36 +1558,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4679430/"
-  },
-  {
-    "title": "Outpost",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4679442/"
-  },
-  {
-    "title": "The Witches of Eastwick",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672364/"
-  },
-  {
-    "title": "Def by Temptation",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672369/"
   },
   {
     "title": "Mad Monster Party?",
@@ -1680,16 +1600,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4672391/"
   },
   {
-    "title": "Bones on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4679487/"
-  },
-  {
     "title": "A Nightmare on Elm Street",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1698,6 +1608,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4679492/"
+  },
+  {
+    "title": "Mimic",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-23",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4679845/"
   },
   {
     "title": "Hotel Transylvania",
@@ -1828,26 +1748,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Niagara",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Beguiled",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Monster Squad in 35mm",
@@ -2908,26 +2808,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "\"now You Tell One\" / the Black Pirate",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/now-you-tell-one-the-black-pirate-09-11-2026/"
-  },
-  {
-    "title": "The Bat",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-11",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-bat-09-11-2026/"
   },
   {
     "title": "\"help Yourself\" / the Slanderers",
