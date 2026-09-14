@@ -37,7 +37,7 @@
     "date": "2026-09-17",
     "time": "9:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4043?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Resident Evil",
@@ -430,36 +430,6 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Back to the Future Part II",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-13-back-to-the-future-part-ii-family-matinee/"
-  },
-  {
-    "title": "The Naked Gun: From the Files of Police Squad!             /The Naked Gun 2½: The Smell of Fear",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-13-the-naked-gun-the-naked-gun-2-1-2/"
-  },
-  {
-    "title": "The Naked Gun: From the Files of Police Squad!             /The Naked Gun 2½: The Smell of Fear",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "8:25 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-13-the-naked-gun-the-naked-gun-2-1-2/"
-  },
-  {
     "title": "Joysticks             /Zapped!",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -600,7 +570,7 @@
     "url": "https://thenewbev.com/program/september-20-the-incredible-journey-family-matinee/"
   },
   {
-    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1920)(Silent with Live Music Score)",
+    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1930)(Silent with Live Music Score)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -610,7 +580,7 @@
     "url": "https://thenewbev.com/program/september-20-the-unknown-outside-the-law/"
   },
   {
-    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1920)(Silent with Live Music Score)",
+    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1930)(Silent with Live Music Score)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
@@ -850,46 +820,6 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Wild Inside",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4561783/"
-  },
-  {
-    "title": "Wild Inside",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509963/"
-  },
-  {
-    "title": "Welcome II the Terrordome",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509962/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4630072/"
-  },
-  {
     "title": "Filipiñana",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -908,16 +838,6 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4509983/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510095/"
   },
   {
     "title": "Husbands",
@@ -1628,26 +1548,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Black Narcissus",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "20th Anniversary ofMarie Antoinettewith Sofia Coppola and Kirsten Dunst",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Gentlemen Prefer Blondes",
@@ -2668,46 +2568,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Los Angeles Silent Film Festival Presents \"first National Family of Stars\" / for Heaven’s Sake",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/los-angeles-silent-film-festival-presents-first-national-family-of-stars-for-heavens-sake-09-13-2026/"
-  },
-  {
-    "title": "Beyond Silence: Sound Effects, Animation and 3d in the Silent Era",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beyond-silence-sound-effects-animation-and-3d-in-the-silent-era-09-13-2026/"
-  },
-  {
-    "title": "\"the Sheriff's Baby\" / So This Is Paris",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-sheriffs-baby-so-this-is-paris-09-13-2026/"
-  },
-  {
-    "title": "Faust",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-13",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/faust-09-13-2026/"
   },
   {
     "title": "Cinematic Void Presents Scarlet Warning 666",
