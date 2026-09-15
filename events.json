@@ -430,26 +430,6 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Joysticks             /Zapped!",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-14-joysticks-zapped/"
-  },
-  {
-    "title": "Joysticks             /Zapped!",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-14-joysticks-zapped/"
-  },
-  {
     "title": "Peeping Tom             /See No Evil (1971)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -824,16 +804,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-18",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510041/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-09-19",
     "time": "10:00 PM",
     "description": "",
@@ -1080,6 +1050,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4510135/"
   },
   {
+    "title": "Only Lovers Left Alive on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510152/"
+  },
+  {
     "title": "Terminator 2: Judgment Day on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1208,16 +1188,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4677781/"
-  },
-  {
-    "title": "The History of Concrete",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677780/"
   },
   {
     "title": "The History of Concrete",
@@ -1398,6 +1368,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672391/"
+  },
+  {
+    "title": "Death Becomes Her + Vidiots Halloween Party",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672393/"
   },
   {
     "title": "A Nightmare on Elm Street",
@@ -2568,26 +2548,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Cinematic Void Presents Scarlet Warning 666",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-scarlet-warning-666-09-14-2026/"
-  },
-  {
-    "title": "Don't Play with Fire",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dont-play-with-fire-09-14-2026/"
   },
   {
     "title": "You Must Remember This Presents the Cheat",
