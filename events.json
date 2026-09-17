@@ -1,15 +1,5 @@
 [
   {
-    "title": "Twin Husbands/Murder at Glen Athol",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4063?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Camelot",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -420,26 +410,6 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Peeping Tom             /See No Evil (1971)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-16-peeping-tom-see-no-evil/"
-  },
-  {
-    "title": "Peeping Tom             /See No Evil (1971)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "9:40 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-16-peeping-tom-see-no-evil/"
-  },
-  {
     "title": "Fight Club",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -770,14 +740,54 @@
     "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
-    "title": "Husbands",
+    "title": "Filipiñana",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-17",
-    "time": "7:30 PM",
+    "date": "2026-09-27",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4597696/"
+    "url": "https://vidiotsfoundation.org/purchase/4706284/"
+  },
+  {
+    "title": "Filipiñana",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-02",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677588/"
+  },
+  {
+    "title": "Filipiñana",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "1:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677739/"
+  },
+  {
+    "title": "Filipiñana",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "9:20 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677614/"
+  },
+  {
+    "title": "Filipiñana",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677760/"
   },
   {
     "title": "Spirited Away (Japanese with English Subtitles)",
@@ -880,6 +890,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4510104/"
   },
   {
+    "title": "The Best Little Whorehouse in Texas",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510121/"
+  },
+  {
     "title": "Dead Calm on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -950,7 +970,7 @@
     "url": "https://vidiotsfoundation.org/purchase/4510130/"
   },
   {
-    "title": "Monster-in-Law",
+    "title": "Monster-in-Law on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
@@ -1010,16 +1030,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4510135/"
   },
   {
-    "title": "Only Lovers Left Alive on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510152/"
-  },
-  {
     "title": "In the Mouth of Madness",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1038,6 +1048,46 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672309/"
+  },
+  {
+    "title": "If I Go Will They Miss Me",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-02",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677600/"
+  },
+  {
+    "title": "If I Go Will They Miss Me",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677613/"
+  },
+  {
+    "title": "If I Go Will They Miss Me",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-04",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677630/"
+  },
+  {
+    "title": "If I Go Will They Miss Me",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4706316/"
   },
   {
     "title": "Monsters University",
@@ -1175,7 +1225,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-10-10",
-    "time": "4:30 PM",
+    "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4677783/"
   },
@@ -1218,6 +1268,26 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672348/"
+  },
+  {
+    "title": "First They Came for My College",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "6:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677784/"
+  },
+  {
+    "title": "First They Came for My College",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-11",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677809/"
   },
   {
     "title": "Clue",
@@ -1318,6 +1388,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4679487/"
+  },
+  {
+    "title": "The Oldest Person in the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-22",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4703150/"
+  },
+  {
+    "title": "The Oldest Person in the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-23",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4703169/"
+  },
+  {
+    "title": "The Oldest Person in the World",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4703178/"
   },
   {
     "title": "Death Becomes Her + Vidiots Halloween Party",
@@ -1430,6 +1530,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4672401/"
   },
   {
+    "title": "The Exorcist on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-25",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672391/"
+  },
+  {
     "title": "Italo-Disco Horror Night – Argento’s Deep Red",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1518,26 +1628,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Gentlemen Prefer Blondes",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Emma in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Gentlemen Prefer Blondes",
@@ -2540,26 +2630,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Crash",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/crash-09-16-2026/"
-  },
-  {
-    "title": "The Third Part of the Night",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-16",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-third-part-of-the-night-09-16-2026/"
-  },
-  {
     "title": "There's Always Tomorrow",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3208,5 +3278,65 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-evilspeak-10-26-2026/"
+  },
+  {
+    "title": "Cameron Winter at Carnegie Hall",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-23",
+    "time": "5:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cameron-winter-at-carnegie-hall-11-23-2026-530pm/"
+  },
+  {
+    "title": "Cameron Winter at Carnegie Hall",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-23",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cameron-winter-at-carnegie-hall-11-23-2026-10pm/"
+  },
+  {
+    "title": "Cameron Winter at Carnegie Hall",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-24",
+    "time": "8:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cameron-winter-at-carnegie-hall-11-24-2026-815pm/"
+  },
+  {
+    "title": "Cameron Winter at Carnegie Hall",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-24",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cameron-winter-at-carnegie-hall-11-24-2026-10pm/"
+  },
+  {
+    "title": "Cameron Winter at Carnegie Hall",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-25",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cameron-winter-at-carnegie-hall-11-25-2026-8pm/"
+  },
+  {
+    "title": "Cameron Winter at Carnegie Hall",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-25",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cameron-winter-at-carnegie-hall-11-25-2026-10pm/"
   }
 ]
