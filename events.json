@@ -1,25 +1,5 @@
 [
   {
-    "title": "Camelot",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-17",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4065?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-17",
-    "time": "9:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Resident Evil",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -67,7 +47,7 @@
     "date": "2026-09-18",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4066?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "High Society",
@@ -408,16 +388,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Fight Club",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-17",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-17-fight-club/"
   },
   {
     "title": "Heat",
@@ -790,36 +760,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4677760/"
   },
   {
-    "title": "Spirited Away (Japanese with English Subtitles)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509964/"
-  },
-  {
-    "title": "Pump Up the Volume",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509966/"
-  },
-  {
-    "title": "Staying Alive",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509967/"
-  },
-  {
     "title": "Babe",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -878,6 +818,26 @@
     "time": "1:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510024/"
+  },
+  {
+    "title": "An Evening with Mike Mills – Beginners",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510012/"
+  },
+  {
+    "title": "An Evening with Mike Mills – C’mon C’mon",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4510014/"
   },
   {
     "title": "Raising Victor Vargas",
@@ -988,6 +948,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510139/"
+  },
+  {
+    "title": "Barbara Forever",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-09-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4706451/"
   },
   {
     "title": "Barbara Forever",
@@ -1188,16 +1158,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
-  },
-  {
-    "title": "The History of Concrete",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677791/"
   },
   {
     "title": "28 Days Later",
@@ -2628,26 +2588,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "There's Always Tomorrow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/theres-always-tomorrow-09-17-2026/"
-  },
-  {
-    "title": "Gandahar",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-17",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-17-2026/"
   },
   {
     "title": "Gandahar",
