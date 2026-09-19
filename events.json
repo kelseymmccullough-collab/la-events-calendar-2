@@ -4,66 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-18",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4016?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4016?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4016?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "11:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4016?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Wages of Fear",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "High Society",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4046?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-19",
     "time": "1:00 PM",
     "description": "",
@@ -390,36 +330,6 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Heat",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-18-heat-friday-matinee/"
-  },
-  {
-    "title": "Fight Club",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-18-fight-club/"
-  },
-  {
-    "title": "Kill Bill: Volume 1",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-18-kill-bill-volume-1-midnight-show/"
-  },
-  {
     "title": "The Incredible Journey (IB Tech Print)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -714,6 +624,16 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
+    "date": "2026-09-19",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4509983/"
+  },
+  {
+    "title": "Filipiñana",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
     "date": "2026-09-27",
     "time": "7:00 PM",
     "description": "",
@@ -760,56 +680,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4677760/"
   },
   {
-    "title": "Babe",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509968/"
-  },
-  {
-    "title": "Salesman",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509972/"
-  },
-  {
-    "title": "Minority Report",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509975/"
-  },
-  {
-    "title": "Outerlands",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "7:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509979/"
-  },
-  {
-    "title": "Sgt. Pepper’s Lonely Hearts Club Band",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4571919/"
-  },
-  {
     "title": "Encanto Sing-Along",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -818,26 +688,6 @@
     "time": "1:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510024/"
-  },
-  {
-    "title": "An Evening with Mike Mills – Beginners",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510012/"
-  },
-  {
-    "title": "An Evening with Mike Mills – C’mon C’mon",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510014/"
   },
   {
     "title": "Raising Victor Vargas",
@@ -1198,16 +1048,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4677808/"
-  },
-  {
-    "title": "The Rocky Horror Picture Show",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672345/"
   },
   {
     "title": "Frankenweenie",
@@ -1588,36 +1428,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Gentlemen Prefer Blondes",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The King of Comedywith Dave Karger and Jason Bateman",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Unclesin 16mm with Tacita Dean and Laurence Kardish",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Something Wicked This Way Comes in 35mm",
@@ -2590,46 +2400,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Gandahar",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-18-2026/"
-  },
-  {
-    "title": "Don't Play with Fire",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dont-play-with-fire-09-18-2026/"
-  },
-  {
-    "title": "The Birdcage",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-birdcage-09-18-2026/"
-  },
-  {
-    "title": "Center Stage",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-18",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/center-stage-09-18-2026/"
-  },
-  {
     "title": "There's Always Tomorrow",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2850,6 +2620,16 @@
     "url": "https://www.americancinematheque.com/now-showing/sundown-09-26-2026/"
   },
   {
+    "title": "Fede Álvarez Presents Diabolique",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/fede-alvarez-presents-diabolique-09-27-2026/"
+  },
+  {
     "title": "Beyond Shorts: Heartburn",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3060,6 +2840,26 @@
     "url": "https://www.americancinematheque.com/now-showing/mission-10-04-2026/"
   },
   {
+    "title": "Lingua Franca",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/lingua-franca-10-05-2026/"
+  },
+  {
+    "title": "Cinematic Void Presents My Heart Is That Eternal Rose",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-05",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-my-heart-is-that-eternal-rose-10-05-2026/"
+  },
+  {
     "title": "Down and Out in Beverly Hills",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3100,6 +2900,26 @@
     "url": "https://www.americancinematheque.com/now-showing/the-village-10-07-2026/"
   },
   {
+    "title": "Downbeat / \"dropping Off\"",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/dropping-off-downbeat-10-08-2026/"
+  },
+  {
+    "title": "Bagworm / \"shadow Daddy\"",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-08",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/shadow-daddy-bagworm-rsff-10-08-2026/"
+  },
+  {
     "title": "Take Me Home",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3108,6 +2928,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/take-me-home-10-09-2026/"
+  },
+  {
+    "title": "Valentina / \"blush\"",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/blush-valentina-10-10-2026/"
   },
   {
     "title": "Blue Heron",
@@ -3150,6 +2980,26 @@
     "url": "https://www.americancinematheque.com/now-showing/lady-in-the-water-10-12-2026/"
   },
   {
+    "title": "Bird in Hand",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/bird-in-hand-10-14-2026/"
+  },
+  {
+    "title": "The Greg Proops Film Club Presents Let's Scare Jessica to Death",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-lets-scare-jessica-to-death-10-15-2026/"
+  },
+  {
     "title": "Jojo Rabbit",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3168,6 +3018,26 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/spanning-time-10-17-2026/"
+  },
+  {
+    "title": "Hey Arnold!: a Spooktacular 30th Anniversary Screening",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/hey-arnold-a-spooktacular-30th-anniversary-benefit-10-17-2026/"
+  },
+  {
+    "title": "Hey Arnold! the Movie",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/hey-arnold-the-movie-10-17-2026/"
   },
   {
     "title": "Cinematic Void Presents Dr. Butcher, Md",
