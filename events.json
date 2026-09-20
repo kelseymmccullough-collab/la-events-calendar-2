@@ -4,66 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-19",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4020?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4020?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4020?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "11:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4020?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hearts of the West",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4067?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "High Society",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4047?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-20",
     "time": "1:00 PM",
     "description": "",
@@ -240,6 +180,36 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4068?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4130?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4130?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4130?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Silent Feminists: America's First Women Directors",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -268,6 +238,36 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4050?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-26",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4133?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-26",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4133?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-26",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4133?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Boy Friend",
@@ -300,6 +300,66 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4051?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4134?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4134?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-27",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4134?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-28",
+    "time": "3:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4139?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-28",
+    "time": "6:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4139?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-28",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4139?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Murder by Death",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -308,6 +368,36 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4070?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-29",
+    "time": "3:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4140?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-29",
+    "time": "6:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4140?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-29",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4140?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Bulldog Drummond Comes Back/Bulldog's Bride",
@@ -320,6 +410,56 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4071?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-30",
+    "time": "3:15 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4141?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-30",
+    "time": "6:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4141?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-09-30",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4141?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-01",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4148?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Resident Evil",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-01",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4148?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Ken Russell's The Devils",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -328,36 +468,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Incredible Journey (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-19-the-incredible-journey-family-matinee/"
-  },
-  {
-    "title": "Fight Club",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-19-fight-club/"
-  },
-  {
-    "title": "Fritz the Cat",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-19-fritz-the-cat-midnight-show/"
   },
   {
     "title": "The Incredible Journey (IB Tech Print)",
@@ -624,16 +734,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-19",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4509983/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-09-27",
     "time": "7:00 PM",
     "description": "",
@@ -678,16 +778,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4677760/"
-  },
-  {
-    "title": "Encanto Sing-Along",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510024/"
   },
   {
     "title": "Raising Victor Vargas",
@@ -1428,26 +1518,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Something Wicked This Way Comes in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Others in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Gigi in 35mm",
@@ -2398,46 +2468,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "There's Always Tomorrow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/theres-always-tomorrow-09-19-2026/"
-  },
-  {
-    "title": "Life Stinks",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/life-stinks-09-19-2026/"
-  },
-  {
-    "title": "This Is Spinal Tap",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/this-is-spinal-tap-09-19-2026/"
-  },
-  {
-    "title": "Night of the Vamp-friars",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-19",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/night-of-the-vamp-friars-09-19-2026/"
   },
   {
     "title": "Pure Cinema Presents the Mask of Dimitrios",
