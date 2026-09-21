@@ -4,40 +4,10 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-20",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4021?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4021?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4021?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-21",
     "time": "12:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4027?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/4031?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Resident Evil",
@@ -47,7 +17,7 @@
     "date": "2026-09-21",
     "time": "4:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4027?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/4031?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Resident Evil",
@@ -57,7 +27,7 @@
     "date": "2026-09-21",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4027?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/4031?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Resident Evil",
@@ -208,16 +178,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4130?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Silent Feminists: America's First Women Directors",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4073?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Hell Ride",
@@ -468,36 +428,6 @@
     "time": "9:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Incredible Journey (IB Tech Print)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-20-the-incredible-journey-family-matinee/"
-  },
-  {
-    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1930)(Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-20-the-unknown-outside-the-law/"
-  },
-  {
-    "title": "The Unknown (1927)(Silent with Live Music Score)             /Outside the Law (1930)(Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "8:05 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-20-the-unknown-outside-the-law/"
   },
   {
     "title": "The Thing with Two Heads             /The Black Gestapo",
@@ -1230,6 +1160,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4679430/"
   },
   {
+    "title": "The Witches of Eastwick",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672364/"
+  },
+  {
     "title": "Mad Monster Party?",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1518,16 +1458,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Gigi in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "How to Marry a Millionaire",
@@ -2470,46 +2400,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Pure Cinema Presents the Mask of Dimitrios",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/pure-cinema-presents-the-mask-of-dimitrios-09-20-2026/"
-  },
-  {
-    "title": "She-wolf of London",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/she-wolf-of-london-09-20-2026/"
-  },
-  {
-    "title": "White Nights",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/white-nights-09-20-2026/"
-  },
-  {
-    "title": "King Lear",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-20",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/king-lear-09-20-2026/"
-  },
-  {
     "title": "Cinematic Void Presents Effects",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2968,6 +2858,26 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/blush-valentina-10-10-2026/"
+  },
+  {
+    "title": "The Frog and the Water",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-frog-and-the-water-10-10-2026/"
+  },
+  {
+    "title": "A Land Within",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/a-land-within-10-10-2026/"
   },
   {
     "title": "Blue Heron",
