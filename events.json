@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-23",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4029?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4029?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4029?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Mimi/False Pretenses",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4079?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-24",
     "time": "12:30 PM",
     "description": "",
@@ -530,26 +490,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "You Can’t Take It with You             /Mr. Deeds Goes to Town",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-23-you-cant-take-it-with-you-mr-deeds-goes-to-town/"
-  },
-  {
-    "title": "You Can’t Take It with You             /Mr. Deeds Goes to Town",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "10:05 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-23-you-cant-take-it-with-you-mr-deeds-goes-to-town/"
-  },
-  {
     "title": "JFK",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -567,7 +507,7 @@
     "date": "2026-09-25",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/september-25-scream-friday-matinee/"
+    "url": "https://thenewbev.com/program/september-25-scream-friday-matinee-2/"
   },
   {
     "title": "JFK",
@@ -577,7 +517,7 @@
     "date": "2026-09-25",
     "time": "6:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/september-25-jfk/"
+    "url": "https://thenewbev.com/program/september-25-jfk-2/"
   },
   {
     "title": "Kill Bill: Volume 1",
@@ -1480,16 +1420,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Raising Victor Vargas",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510104/"
-  },
-  {
     "title": "The Best Little Whorehouse in Texas",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1798,16 +1728,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
-  },
-  {
-    "title": "The History of Concrete",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-12",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4729511/"
   },
   {
     "title": "28 Days Later",
@@ -2258,26 +2178,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "How to Marry a Millionaire",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Far from Heaven in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "How to Marry a Millionaire",
@@ -3188,26 +3088,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Miracle Worker",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-miracle-worker-09-23-2026/"
-  },
-  {
-    "title": "Gummo",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-23",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/gummo-09-23-2026/"
   },
   {
     "title": "Two-lane Blacktop",
