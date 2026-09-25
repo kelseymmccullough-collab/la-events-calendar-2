@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-24",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4030?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4030?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4030?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Riverbend",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4068?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-25",
     "time": "12:30 PM",
     "description": "",
@@ -127,7 +87,7 @@
     "date": "2026-09-26",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4069?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Hell Ride",
@@ -488,16 +448,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "JFK",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-24-jfk/"
   },
   {
     "title": "Scream",
@@ -1420,36 +1370,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "The Best Little Whorehouse in Texas",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510121/"
-  },
-  {
-    "title": "Dead Calm on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510122/"
-  },
-  {
-    "title": "Bandidas on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510123/"
-  },
-  {
     "title": "Dazed and Confused – Dazed Day!",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1488,16 +1408,6 @@
     "time": "2:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4510130/"
-  },
-  {
-    "title": "Filipiñana",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "9:20 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677614/"
   },
   {
     "title": "Monster-in-Law on 35mm",
@@ -1550,14 +1460,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4677631/"
   },
   {
-    "title": "Short Cuts",
+    "title": "Terminator 2: Judgment Day",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-28",
-    "time": "7:30 PM",
+    "date": "2026-10-02",
+    "time": "3:45 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510135/"
+    "url": "https://vidiotsfoundation.org/purchase/4672311/"
   },
   {
     "title": "In the Mouth of Madness",
@@ -1660,6 +1570,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4672324/"
   },
   {
+    "title": "9 to 5",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-09",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672343/"
+  },
+  {
     "title": "The Hole on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1728,6 +1648,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
+  },
+  {
+    "title": "The History of Concrete",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4735493/"
+  },
+  {
+    "title": "The History of Concrete",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-18",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4735518/"
+  },
+  {
+    "title": "The History of Concrete",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-18",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4735519/"
   },
   {
     "title": "28 Days Later",
@@ -1860,6 +1810,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4672363/"
   },
   {
+    "title": "Candyman",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4735523/"
+  },
+  {
     "title": "Outpost",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1868,6 +1828,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4679430/"
+  },
+  {
+    "title": "Outpost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4735498/"
   },
   {
     "title": "The Witches of Eastwick",
@@ -3088,26 +3058,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Two-lane Blacktop",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/two-lane-blacktop-09-24-2026/"
-  },
-  {
-    "title": "Crash",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-24",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/crash-09-24-2026/"
   },
   {
     "title": "The Spiral",
