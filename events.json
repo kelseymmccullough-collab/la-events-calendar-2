@@ -4,56 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-25",
-    "time": "12:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4130?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4130?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4130?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hell Ride",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4048?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Munster, Go Home!",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4050?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-26",
     "time": "1:00 PM",
     "description": "",
@@ -448,36 +398,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Scream",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-25-scream-friday-matinee-2/"
-  },
-  {
-    "title": "JFK",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-25-jfk-2/"
-  },
-  {
-    "title": "Kill Bill: Volume 1",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-25-kill-bill-volume-1-midnight-show/"
   },
   {
     "title": "A Night at the Opera",
@@ -1370,26 +1290,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Dazed and Confused – Dazed Day!",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510124/"
-  },
-  {
-    "title": "Tommy",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4565449/"
-  },
-  {
     "title": "Beauty and the Beast Sing-Along",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2148,16 +2048,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "How to Marry a Millionaire",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Abbott and Costello Meet Frankenstein",
@@ -3060,26 +2950,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Spiral",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-spiral-09-25-2026/"
-  },
-  {
-    "title": "The Goodbye Kiss",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-25",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-goodbye-kiss-09-25-2026/"
-  },
-  {
     "title": "Beyond Shorts: Mind Games",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3420,6 +3290,16 @@
     "url": "https://www.americancinematheque.com/now-showing/shadow-daddy-bagworm-rsff-10-08-2026/"
   },
   {
+    "title": "The Leopard Man",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-09",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-leopard-man-10-09-2026/"
+  },
+  {
     "title": "Take Me Home",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3480,6 +3360,36 @@
     "url": "https://www.americancinematheque.com/now-showing/a-land-within-10-10-2026/"
   },
   {
+    "title": "Batman & Robin",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-10",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/batman-robin-10-10-2026/"
+  },
+  {
+    "title": "Sky Hopinka Presents Orpheus",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-11",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/sky-hopinka-presents-orpheus-10-11-2026/"
+  },
+  {
+    "title": "Short Films From Sky Hopinka",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-11",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/short-films-from-sky-hopinka-10-11-2026/"
+  },
+  {
     "title": "Blue Heron",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3520,6 +3430,16 @@
     "url": "https://www.americancinematheque.com/now-showing/lady-in-the-water-10-12-2026/"
   },
   {
+    "title": "Mał̣ni - Towards the Ocean, Towards the Shore",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/malni-towards-the-ocean-towards-the-shore-10-13-2026/"
+  },
+  {
     "title": "Bird in Hand",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3528,6 +3448,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/bird-in-hand-10-14-2026/"
+  },
+  {
+    "title": "Bumpkin Soup",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-14",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/bumpkin-soup-10-14-2026/"
   },
   {
     "title": "The Greg Proops Film Club Presents Let's Scare Jessica to Death",
@@ -3558,6 +3488,16 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/spanning-time-10-17-2026/"
+  },
+  {
+    "title": "The Witches of Eastwick",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-witches-of-eastwick-10-17-2026/"
   },
   {
     "title": "Hey Arnold!: a Spooktacular 30th Anniversary Screening",
@@ -3620,6 +3560,16 @@
     "url": "https://www.americancinematheque.com/now-showing/broadway-melody-of-1940-10-24-2026/"
   },
   {
+    "title": "Phantom of the Paradise",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/phantom-of-the-paradise-10-24-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Evilspeak",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3628,6 +3578,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-evilspeak-10-26-2026/"
+  },
+  {
+    "title": "The Innocents",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-innocents-10-31-2026/"
+  },
+  {
+    "title": "Death Becomes Her",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/death-becomes-her-10-31-2026/"
   },
   {
     "title": "Cinematic Void Presents Eureka",
