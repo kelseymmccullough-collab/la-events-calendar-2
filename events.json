@@ -4,66 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-09-26",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4133?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4133?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4133?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Boy Friend",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hell Ride",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4049?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Munster, Go Home!",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-27",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4051?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-09-27",
     "time": "1:00 PM",
     "description": "",
@@ -218,6 +158,16 @@
     "time": "3:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4148?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Häxan",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-01",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4174?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Night of the Juggler",
@@ -398,46 +348,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "A Night at the Opera",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-26-a-night-at-the-opera-family-matinee/"
-  },
-  {
-    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack             /Godzilla 2000",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-26-godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-godzilla-2000/"
-  },
-  {
-    "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack             /Godzilla 2000",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "8:15 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-26-godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack-godzilla-2000/"
-  },
-  {
-    "title": "The Life Aquatic with Steve Zissou",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-26-the-life-aquatic-with-steve-zissou-midnight-show/"
   },
   {
     "title": "A Night at the Opera",
@@ -1290,36 +1200,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Beauty and the Beast Sing-Along",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-27",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510129/"
-  },
-  {
-    "title": "It’s a Mad, Mad, Mad, Mad World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-27",
-    "time": "2:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510130/"
-  },
-  {
-    "title": "Monster-in-Law on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-09-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510133/"
-  },
-  {
     "title": "Barbara Forever",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -2048,26 +1928,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Abbott and Costello Meet Frankenstein",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Halloweenwith John Carpenter",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Doctor Zhivago",
@@ -2948,46 +2808,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Beyond Shorts: Mind Games",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beyond-shorts-mind-games-09-26-2026/"
-  },
-  {
-    "title": "Beyond Shorts: Peak Chaos",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beyond-shorts-peak-chaos-09-26-2026/"
-  },
-  {
-    "title": "Hallowarrior",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/hallowarrior-09-26-2026/"
-  },
-  {
-    "title": "Sundown",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-26",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/sundown-09-26-2026/"
   },
   {
     "title": "Fede Álvarez Presents Diabolique",
