@@ -1,35 +1,5 @@
 [
   {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "3:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4139?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "6:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4139?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4139?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Murder by Death",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -328,26 +298,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ride Clear of Diablo             /Six Black Horses",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-28-ride-clear-of-diablo-six-black-horses/"
-  },
-  {
-    "title": "Ride Clear of Diablo             /Six Black Horses",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "9:20 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-28-ride-clear-of-diablo-six-black-horses/"
   },
   {
     "title": "Minnie and Moskowitz             /Once Around",
@@ -1154,16 +1104,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4510150/"
-  },
-  {
-    "title": "Terminator 2: Judgment Day",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-10-02",
     "time": "3:45 PM",
     "description": "",
@@ -1490,6 +1430,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4672357/"
   },
   {
+    "title": "American Psycho",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-11",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4751212/"
+  },
+  {
     "title": "The Rental",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1680,16 +1630,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4672419/"
   },
   {
-    "title": "The Shining on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672395/"
-  },
-  {
     "title": "Def by Temptation",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1780,6 +1720,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4675860/"
   },
   {
+    "title": "An American Werewolf in London",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-29",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672421/"
+  },
+  {
     "title": "Practical Magic",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1838,26 +1788,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "River of No Return",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Assault on Precinct 13with John Carpenter",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "River of No Return",
@@ -2698,26 +2628,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Imposters",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/imposters-09-28-2026/"
-  },
-  {
-    "title": "Upiro",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/upiro-09-28-2026/"
   },
   {
     "title": "Killer Movies Presents Adult Supervision",
