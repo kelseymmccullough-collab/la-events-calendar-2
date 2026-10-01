@@ -1,55 +1,5 @@
 [
   {
-    "title": "Bulldog Drummond Comes Back/Bulldog's Bride",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4071?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "3:15 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4141?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "6:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4141?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4141?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-01",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4148?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Resident Evil 35mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -57,7 +7,7 @@
     "date": "2026-10-01",
     "time": "3:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4148?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/4149?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Häxan",
@@ -77,7 +27,7 @@
     "date": "2026-10-02",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4175?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Night of the Juggler",
@@ -157,7 +107,7 @@
     "date": "2026-10-08",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4181?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Ghostbusters II",
@@ -250,6 +200,16 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Tingler",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-16",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4191?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Abbott and Costello Meet Frankenstein",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -258,6 +218,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4156?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "V/H/S/Halloween",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4192?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Abbott and Costello Meet Frankenstein",
@@ -290,6 +260,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4194?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Frighteners",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-23",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Creepshow",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -308,6 +288,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4166?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "V/H/S/Mixtape",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4199?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Creepshow",
@@ -330,6 +320,26 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4200?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "The Mummy's Shroud",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-29",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4201?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Cujo",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Trick 'r Treat",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -350,6 +360,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4160?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Tales from the Archives",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Trick 'r Treat",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -368,26 +388,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Minnie and Moskowitz             /Once Around",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
-  },
-  {
-    "title": "Minnie and Moskowitz             /Once Around",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "9:55 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/september-30-minnie-and-moskowitz-once-around/"
   },
   {
     "title": "Investigation of a Citizen Above Suspicion",
@@ -1150,14 +1150,14 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "In the Mouth of Madness",
+    "title": "Terminator 2: Judgment Day",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-01",
-    "time": "7:30 PM",
+    "date": "2026-10-02",
+    "time": "3:45 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672308/"
+    "url": "https://vidiotsfoundation.org/purchase/4672311/"
   },
   {
     "title": "Creepshow",
@@ -1168,6 +1168,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672309/"
+  },
+  {
+    "title": "Barbara Forever",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-03",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677611/"
+  },
+  {
+    "title": "Barbara Forever",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-04",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4677631/"
   },
   {
     "title": "Train to Busan",
@@ -1324,16 +1344,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-17",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4735493/"
-  },
-  {
-    "title": "The History of Concrete",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-10-18",
     "time": "12:30 PM",
     "description": "",
@@ -1348,6 +1358,26 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4735519/"
+  },
+  {
+    "title": "The History of Concrete",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4751221/"
+  },
+  {
+    "title": "The History of Concrete",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-23",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757612/"
   },
   {
     "title": "28 Days Later",
@@ -1480,16 +1510,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4751212/"
   },
   {
-    "title": "The Rental",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672363/"
-  },
-  {
     "title": "Candyman",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1570,6 +1590,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4672385/"
   },
   {
+    "title": "A Tribute to Treehouse of Horror",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-18",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://my.onecause.com/event/organizations/e2a06904-94c6-4c3c-8961-963f363d7a45/events/vevt:d56171e1-fa9d-4dda-b762-c0a717913bf3/home/story"
+  },
+  {
+    "title": "Nashville",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-20",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4751215/"
+  },
+  {
     "title": "Bones on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1605,7 +1645,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-10-24",
-    "time": "4:30 PM",
+    "time": "5:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4703178/"
   },
@@ -1628,6 +1668,56 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4679492/"
+  },
+  {
+    "title": "Colony",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-23",
+    "time": "7:20 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757608/"
+  },
+  {
+    "title": "Colony",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757625/"
+  },
+  {
+    "title": "Colony",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-25",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757646/"
+  },
+  {
+    "title": "Colony",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757649/"
+  },
+  {
+    "title": "Colony",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-26",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757701/"
   },
   {
     "title": "Mimic",
@@ -1828,26 +1918,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "River of No Return",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Apocalypse Now: The Final Cut",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Pan's Labyrinthin 3D with Guillermo del Toro",
@@ -2668,26 +2738,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Ten Will",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/ten-will-09-30-2026/"
-  },
-  {
-    "title": "Anchors Aweigh",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-09-30",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/anchors-aweigh-09-30-2026/"
   },
   {
     "title": "Erie",
