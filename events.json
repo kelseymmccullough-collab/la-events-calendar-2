@@ -1,35 +1,5 @@
 [
   {
-    "title": "Curse of the Demon",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Night of the Juggler",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4150?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hold That Ghost",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4152?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "V/H/S/94 + V/H/S/99",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -368,36 +338,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Friday the 13th Part VI: Jason Lives (Director In Person)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-2-friday-the-13th-part-vi-jason-live-friday-matinee/"
-  },
-  {
-    "title": "Investigation of a Citizen Above Suspicion",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-2-investigation-of-a-citizen-above-suspicion/"
-  },
-  {
-    "title": "From Dusk Till Dawn",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-2-from-dusk-till-dawn-midnight-show/"
   },
   {
     "title": "New Beverly Cinema’s Annual Horror Show (Sold Out)",
@@ -1140,44 +1080,34 @@
     "url": "https://vidiotsfoundation.org/purchase/4677631/"
   },
   {
-    "title": "Monsters University",
+    "title": "If I Go Will They Miss Me",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-10-03",
-    "time": "1:00 PM",
+    "time": "6:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672312/"
+    "url": "https://vidiotsfoundation.org/purchase/4677613/"
   },
   {
-    "title": "Theater of Blood",
+    "title": "If I Go Will They Miss Me",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-03",
-    "time": "4:00 PM",
+    "date": "2026-10-04",
+    "time": "3:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672316/"
+    "url": "https://vidiotsfoundation.org/purchase/4677630/"
   },
   {
-    "title": "9 to 5",
+    "title": "If I Go Will They Miss Me",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-09",
-    "time": "4:00 PM",
+    "date": "2026-10-07",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672343/"
-  },
-  {
-    "title": "The Hole on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672325/"
+    "url": "https://vidiotsfoundation.org/purchase/4706316/"
   },
   {
     "title": "The Last Unicorn",
@@ -1818,36 +1748,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "River of No Return",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Hunt for the Wilderpeoplewith Taika Waititi",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Hocus Pocus",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Escape From New York in 4K andEscape from LApresented by John Carpenter and Kurt Russell",
@@ -2640,26 +2540,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Dark Gets in",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-dark-gets-in-10-02-2026/"
-  },
-  {
-    "title": "Hinter",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-02",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/hinter-10-02-2026/"
-  },
-  {
     "title": "Beyond Shorts: Family Business",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2970,6 +2850,16 @@
     "url": "https://www.americancinematheque.com/now-showing/malni-towards-the-ocean-towards-the-shore-10-13-2026/"
   },
   {
+    "title": "Monster House",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-13",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/monster-house-10-13-2026/"
+  },
+  {
     "title": "Bird in Hand",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3160,6 +3050,16 @@
     "url": "https://www.americancinematheque.com/now-showing/broadway-melody-of-1940-10-24-2026/"
   },
   {
+    "title": "The Black Cauldron",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-black-cauldron-10-24-2026/"
+  },
+  {
     "title": "Phantom of the Paradise",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3200,6 +3100,16 @@
     "url": "https://www.americancinematheque.com/now-showing/jigoku-10-27-2026/"
   },
   {
+    "title": "Hocus Pocus",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-28",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/hocus-pocus-10-28-2026/"
+  },
+  {
     "title": "Avital Ash Workshops Her Suicide Note",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -3208,6 +3118,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/avital-ash-workshops-her-suicide-note-10-29-2026/"
+  },
+  {
+    "title": "The Addams Family",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-29",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-addams-family-10-29-2026/"
   },
   {
     "title": "Jigoku",
@@ -3238,6 +3158,26 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/death-becomes-her-10-31-2026/"
+  },
+  {
+    "title": "Queen of the Damned",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/queen-of-the-damned-10-31-2026/"
+  },
+  {
+    "title": "Raw",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/raw-10-31-2026/"
   },
   {
     "title": "Cinematic Void Presents Eureka",
