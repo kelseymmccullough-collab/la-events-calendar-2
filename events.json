@@ -1,35 +1,5 @@
 [
   {
-    "title": "V/H/S/94 + V/H/S/99",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4176?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Night of the Juggler",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4151?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Hold That Ghost",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4153?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Back From The Dead",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -247,7 +217,7 @@
     "date": "2026-10-24",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4199?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Creepshow",
@@ -338,16 +308,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "New Beverly Cinema’s Annual Horror Show (Sold Out)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-3-new-beverly-cinemas-annual-horror-show/"
   },
   {
     "title": "The Haunting",
@@ -1060,46 +1020,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Barbara Forever",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "3:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677611/"
-  },
-  {
-    "title": "Barbara Forever",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677631/"
-  },
-  {
-    "title": "If I Go Will They Miss Me",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677613/"
-  },
-  {
-    "title": "If I Go Will They Miss Me",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677630/"
-  },
-  {
     "title": "If I Go Will They Miss Me",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1108,36 +1028,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4706316/"
-  },
-  {
-    "title": "The Last Unicorn",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672338/"
-  },
-  {
-    "title": "The Uninvited",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672339/"
-  },
-  {
-    "title": "The Bodyguard",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672342/"
   },
   {
     "title": "Carnival of Souls",
@@ -1748,16 +1638,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Escape From New York in 4K andEscape from LApresented by John Carpenter and Kurt Russell",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Cabaret",
@@ -2538,46 +2418,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Beyond Shorts: Family Business",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beyond-fest-shorts-family-business-10-03-2026/"
-  },
-  {
-    "title": "Beyond Shorts: Prey Tell",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/beyond-shorts-prey-tell-10-03-2026/"
-  },
-  {
-    "title": "Under the Shadow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/under-the-shadow-10-03-2026/"
-  },
-  {
-    "title": "\"rushes of a Killer\" / Crowley",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-03",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/rushes-of-a-killer-crowley-10-03-2026/"
   },
   {
     "title": "Isabel Sandoval Presents Holiday",
