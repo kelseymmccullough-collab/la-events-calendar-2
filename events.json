@@ -37,7 +37,7 @@
     "date": "2026-10-09",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Blair Witch Project",
@@ -97,7 +97,7 @@
     "date": "2026-10-13",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4186?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Goke, Body Snatcher from Hell/Genocide",
@@ -308,36 +308,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Haunting",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-4-the-haunting-family-matinee/"
-  },
-  {
-    "title": "Abbott and Costello Meet the Mummy             /The Bowery Boys Meet the Monsters",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-4-abbott-and-costello-meet-the-mummy-the-bowery-boys-meet-the-monsters/"
-  },
-  {
-    "title": "Abbott and Costello Meet the Mummy             /The Bowery Boys Meet the Monsters",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "8:20 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-4-abbott-and-costello-meet-the-mummy-the-bowery-boys-meet-the-monsters/"
   },
   {
     "title": "Grizzly             /The Manitou",
@@ -1020,26 +990,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "If I Go Will They Miss Me",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-07",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4706316/"
-  },
-  {
-    "title": "Carnival of Souls",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4675170/"
-  },
-  {
     "title": "Physical Media Mind-Melters: Vidiots in Space!",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1050,6 +1000,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4698593/"
   },
   {
+    "title": "If I Go Will They Miss Me",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4706316/"
+  },
+  {
     "title": "Chocolate Babies",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1058,6 +1018,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4645034/"
+  },
+  {
+    "title": "9 to 5",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-09",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672343/"
   },
   {
     "title": "The History of Concrete",
@@ -1230,6 +1200,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4751212/"
   },
   {
+    "title": "Powwow People",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-12",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4726856/"
+  },
+  {
     "title": "Candyman",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1255,7 +1235,7 @@
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-10-17",
-    "time": "9:30 PM",
+    "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4735498/"
   },
@@ -1298,6 +1278,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672378/"
+  },
+  {
+    "title": "Akira",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672379/"
   },
   {
     "title": "Escape to Witch Mountain",
@@ -1638,26 +1628,6 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
-  },
-  {
-    "title": "Cabaret",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Thing in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "There’s No Business Like Show Business",
@@ -2418,46 +2388,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Isabel Sandoval Presents Holiday",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/isabel-sandoval-presents-holiday-10-04-2026/"
-  },
-  {
-    "title": "The Peril at Pincer Point",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-peril-at-pincer-point-10-04-2026/"
-  },
-  {
-    "title": "Moonglow",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/moonglow-10-04-2026/"
-  },
-  {
-    "title": "Mission",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-04",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/mission-10-04-2026/"
   },
   {
     "title": "Lingua Franca",
