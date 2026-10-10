@@ -1,35 +1,5 @@
 [
   {
-    "title": "Ghostbusters II",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4183?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Blair Witch Project",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4162?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Birds",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4154?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "V/H/S/85 + V/H/S/Beyond",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -278,46 +248,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Little Shop Of Horrors (1986)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-9-little-shop-of-horrors-friday-matinee-2/"
-  },
-  {
-    "title": "A Nightmare on Elm Street 3: Dream Warriors             /The Blob (1988)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-9-a-nightmare-on-elm-street-3-the-blob-2/"
-  },
-  {
-    "title": "A Nightmare on Elm Street 3: Dream Warriors             /The Blob (1988)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "8:05 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-9-a-nightmare-on-elm-street-3-the-blob-2/"
-  },
-  {
-    "title": "From Dusk Till Dawn",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-9-from-dusk-till-dawn-midnight-show/"
   },
   {
     "title": "Cartoon Club (Halloween Edition)",
@@ -880,24 +810,24 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Frankenweenie",
+    "title": "Bird in Hand",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
     "date": "2026-10-10",
-    "time": "1:00 PM",
+    "time": "4:15 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672347/"
+    "url": "https://vidiotsfoundation.org/purchase/4677783/"
   },
   {
-    "title": "Teen Witch",
+    "title": "Bird in Hand",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-10",
-    "time": "4:00 PM",
+    "date": "2026-10-11",
+    "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672348/"
+    "url": "https://vidiotsfoundation.org/purchase/4677808/"
   },
   {
     "title": "First They Came for My College",
@@ -920,14 +850,14 @@
     "url": "https://vidiotsfoundation.org/purchase/4677809/"
   },
   {
-    "title": "Pulse",
+    "title": "The History of Concrete",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-10",
-    "time": "9:45 PM",
+    "date": "2026-10-23",
+    "time": "10:15 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672353/"
+    "url": "https://vidiotsfoundation.org/purchase/4757612/"
   },
   {
     "title": "Brother Bear",
@@ -1220,6 +1150,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4672419/"
   },
   {
+    "title": "The Shining on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672395/"
+  },
+  {
     "title": "Def by Temptation",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1398,26 +1338,6 @@
     "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4788988/"
-  },
-  {
-    "title": "There’s No Business Like Show Business",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Fog in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Little Vampire in 35mm",
@@ -1620,17 +1540,17 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Decision to Leave(헤어질 결심) with Park Hae-il",
+    "title": "Hansan: Rising Dragon(한산: 용의 출현) with Park Hae-il",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
-    "date": "2026-10-30",
+    "date": "2026-10-29",
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Hansan: Rising Dragon(한산: 용의 출현) with Park Hae-il",
+    "title": "Decision to Leave(헤어질 결심) with Park Hae-il",
     "venue": "Academy Museum",
     "venueShort": "Academy",
     "type": "film",
@@ -2108,46 +2028,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The Leopard Man",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-leopard-man-10-09-2026/"
-  },
-  {
-    "title": "Take Me Home",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/take-me-home-10-09-2026/"
-  },
-  {
-    "title": "Dead Souls",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dead-souls-10-09-2026/"
-  },
-  {
-    "title": "Straight to Hell",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-09",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/straight-to-hell-10-09-2026/"
   },
   {
     "title": "Valentina / \"blush\"",
