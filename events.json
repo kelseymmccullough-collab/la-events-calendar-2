@@ -1,35 +1,5 @@
 [
   {
-    "title": "V/H/S/85 + V/H/S/Beyond",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4184?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Blair Witch Project",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4163?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Birds",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4155?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Burn Witch, Burn",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -248,56 +218,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Cartoon Club (Halloween Edition)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-10-cartoon-club/"
-  },
-  {
-    "title": "The Dark Crystal",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-10-the-dark-crystal-family-matinee/"
-  },
-  {
-    "title": "A Nightmare on Elm Street 3: Dream Warriors             /The Blob (1988)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "6:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-10-a-nightmare-on-elm-street-3-the-blob/"
-  },
-  {
-    "title": "A Nightmare on Elm Street 3: Dream Warriors             /The Blob (1988)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "8:05 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-10-a-nightmare-on-elm-street-3-the-blob/"
-  },
-  {
-    "title": "Let’s Scare Jessica to Death",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-10-lets-scare-jessica-to-death-midnight-show/"
   },
   {
     "title": "The Dark Crystal",
@@ -810,46 +730,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Bird in Hand",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677783/"
-  },
-  {
-    "title": "Bird in Hand",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677808/"
-  },
-  {
-    "title": "First They Came for My College",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "6:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677784/"
-  },
-  {
-    "title": "First They Came for My College",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "1:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4677809/"
-  },
-  {
     "title": "The History of Concrete",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -858,36 +738,6 @@
     "time": "10:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4757612/"
-  },
-  {
-    "title": "Brother Bear",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "12:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4729814/"
-  },
-  {
-    "title": "Annie",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672357/"
-  },
-  {
-    "title": "American Psycho",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-11",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4751212/"
   },
   {
     "title": "Candyman",
@@ -1040,16 +890,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4703178/"
   },
   {
-    "title": "Death Becomes Her + Vidiots Halloween Party",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672393/"
-  },
-  {
     "title": "A Nightmare on Elm Street",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1148,16 +988,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672419/"
-  },
-  {
-    "title": "The Shining on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672395/"
   },
   {
     "title": "Def by Temptation",
@@ -1338,26 +1168,6 @@
     "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4788988/"
-  },
-  {
-    "title": "The Little Vampire in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Get on the Bus30th Anniversary Screening in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Aliens in 70mm",
@@ -2028,46 +1838,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Valentina / \"blush\"",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/blush-valentina-10-10-2026/"
-  },
-  {
-    "title": "The Frog and the Water",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-frog-and-the-water-10-10-2026/"
-  },
-  {
-    "title": "A Land Within",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-land-within-10-10-2026/"
-  },
-  {
-    "title": "Batman & Robin",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-10",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/batman-robin-10-10-2026/"
   },
   {
     "title": "Sky Hopinka Presents Orpheus",
