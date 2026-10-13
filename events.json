@@ -220,26 +220,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Town That Dreaded Sundown             /The Evictors",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-12",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-12-the-town-that-dreaded-sundown-the-evictors/"
-  },
-  {
-    "title": "The Town That Dreaded Sundown             /The Evictors",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-12",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-12-the-town-that-dreaded-sundown-the-evictors/"
-  },
-  {
     "title": "Who Killed Teddy Bear?             /In the Cut",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -700,16 +680,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "The History of Concrete",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757612/"
-  },
-  {
     "title": "Candyman",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -808,6 +778,16 @@
     "time": "3:00 PM",
     "description": "",
     "url": "https://my.onecause.com/event/organizations/e2a06904-94c6-4c3c-8961-963f363d7a45/events/vevt:d56171e1-fa9d-4dda-b762-c0a717913bf3/home/story"
+  },
+  {
+    "title": "Wicker",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://events.humanitix.com/kcrw-partner-screening-wicker"
   },
   {
     "title": "Nashville",
@@ -1128,6 +1108,126 @@
     "time": "4:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4788988/"
+  },
+  {
+    "title": "Macario",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-01",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4788977/"
+  },
+  {
+    "title": "Porco Rosso (English Dubbed)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815373/"
+  },
+  {
+    "title": "Porco Rosso (Japanese with English Subtitles)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815598/"
+  },
+  {
+    "title": "Blood Simple",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815600/"
+  },
+  {
+    "title": "Stop Making Sense",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815625/"
+  },
+  {
+    "title": "The Care Bears Movie",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815635/"
+  },
+  {
+    "title": "Tampopo",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815640/"
+  },
+  {
+    "title": "Paris, Texas",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-21",
+    "time": "6:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815520/"
+  },
+  {
+    "title": "The Last Waltz",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-24",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815443/"
+  },
+  {
+    "title": "Desperately Seeking Susan",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-27",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815406/"
+  },
+  {
+    "title": "Enter the Dragon",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-27",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815407/"
+  },
+  {
+    "title": "Twister",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-28",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815432/"
   },
   {
     "title": "The Seven Year Itch",
@@ -1780,26 +1880,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Cinematic Void Presents Demonwarp",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-12",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-demonwarp-10-12-2026/"
-  },
-  {
-    "title": "Lady in the Water",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-12",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/lady-in-the-water-10-12-2026/"
-  },
-  {
     "title": "Mał̣ni - Towards the Ocean, Towards the Shore",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -1988,6 +2068,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dr-butcher-md-10-19-2026/"
+  },
+  {
+    "title": "Snow White and the Seven Dwarves",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-19",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/snow-white-and-the-seven-dwarves-10-19-2026/"
   },
   {
     "title": "A Night at the Opera",
