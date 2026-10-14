@@ -1,15 +1,5 @@
 [
   {
-    "title": "Burn Witch, Burn",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-13",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Goke, Body Snatcher from Hell/Genocide",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -218,26 +208,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Who Killed Teddy Bear?             /In the Cut",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-13",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-13-who-killed-teddy-bear-in-the-cut/"
-  },
-  {
-    "title": "Who Killed Teddy Bear?             /In the Cut",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-13",
-    "time": "9:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-13-who-killed-teddy-bear-in-the-cut/"
   },
   {
     "title": "Who Killed Teddy Bear?             /In the Cut",
@@ -680,16 +650,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Candyman",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4735523/"
-  },
-  {
     "title": "Outpost",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -838,6 +798,26 @@
     "time": "5:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4703178/"
+  },
+  {
+    "title": "The Shining",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-23",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4679491/"
+  },
+  {
+    "title": "The Shining",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-24",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4672395/"
   },
   {
     "title": "A Nightmare on Elm Street",
@@ -1100,16 +1080,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
   },
   {
-    "title": "Remake",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-11-01",
-    "time": "4:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4788988/"
-  },
-  {
     "title": "Macario",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1118,6 +1088,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4788977/"
+  },
+  {
+    "title": "Interstellar Sound Immersion – A Sci-Fi Sound Bath",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-03",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815359/"
   },
   {
     "title": "Porco Rosso (English Dubbed)",
@@ -1168,16 +1148,6 @@
     "time": "1:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815635/"
-  },
-  {
-    "title": "Tampopo",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-11-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4815640/"
   },
   {
     "title": "Paris, Texas",
@@ -1878,26 +1848,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Mał̣ni - Towards the Ocean, Towards the Shore",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-13",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/malni-towards-the-ocean-towards-the-shore-10-13-2026/"
-  },
-  {
-    "title": "Monster House",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-13",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/monster-house-10-13-2026/"
   },
   {
     "title": "Bird in Hand",
