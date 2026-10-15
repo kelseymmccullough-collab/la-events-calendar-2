@@ -1,15 +1,5 @@
 [
   {
-    "title": "Goke, Body Snatcher from Hell/Genocide",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-14",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4187?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Ken Russell's The Devils 35mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -208,26 +198,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Who Killed Teddy Bear?             /In the Cut",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-14",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-14-who-killed-teddy-bear-in-the-cut/"
-  },
-  {
-    "title": "Who Killed Teddy Bear?             /In the Cut",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-14",
-    "time": "9:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-14-who-killed-teddy-bear-in-the-cut/"
   },
   {
     "title": "Supernatural             /Terror Aboard",
@@ -650,36 +620,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Outpost",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4679430/"
-  },
-  {
-    "title": "Outpost",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4735498/"
-  },
-  {
-    "title": "The Witches of Eastwick",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672364/"
-  },
-  {
     "title": "Mad Monster Party?",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -808,16 +748,6 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4679491/"
-  },
-  {
-    "title": "The Shining",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672395/"
   },
   {
     "title": "A Nightmare on Elm Street",
@@ -980,6 +910,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4675405/"
   },
   {
+    "title": "Sweet 16mm: Halloween Haunts",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-28",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757974/"
+  },
+  {
     "title": "Ginger Snaps",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -998,6 +938,56 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672421/"
+  },
+  {
+    "title": "Resident Evil (2026)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-30",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757982/"
+  },
+  {
+    "title": "Resident Evil (2026)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-30",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757992/"
+  },
+  {
+    "title": "Resident Evil (2026)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4758022/"
+  },
+  {
+    "title": "Resident Evil (2026)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4758024/"
+  },
+  {
+    "title": "Resident Evil (2026)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-01",
+    "time": "1:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4788987/"
   },
   {
     "title": "Practical Magic",
@@ -1110,6 +1100,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4815373/"
   },
   {
+    "title": "The Grapes of Wrath",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815376/"
+  },
+  {
+    "title": "Out of the Past",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-08",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823339/"
+  },
+  {
+    "title": "Grace of My Heart",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-11",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823341/"
+  },
+  {
     "title": "Porco Rosso (Japanese with English Subtitles)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1128,6 +1148,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815600/"
+  },
+  {
+    "title": "The Return of the Living Dead",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815618/"
+  },
+  {
+    "title": "On the Waterfront",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815623/"
   },
   {
     "title": "Stop Making Sense",
@@ -1150,6 +1190,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4815635/"
   },
   {
+    "title": "Imitation of Life (1959)",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "3:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815638/"
+  },
+  {
+    "title": "Wild at Heart",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-20",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815665/"
+  },
+  {
+    "title": "Cookie Queens",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-21",
+    "time": "11:30 AM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815666/"
+  },
+  {
     "title": "Paris, Texas",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1158,6 +1228,16 @@
     "time": "6:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815520/"
+  },
+  {
+    "title": "Alucarda",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-21",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815669/"
   },
   {
     "title": "The Last Waltz",
@@ -1850,26 +1930,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Bird in Hand",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-14",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bird-in-hand-10-14-2026/"
-  },
-  {
-    "title": "Bumpkin Soup",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-14",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/bumpkin-soup-10-14-2026/"
-  },
-  {
     "title": "The Greg Proops Film Club Presents Let's Scare Jessica to Death",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2048,6 +2108,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/nightmare-alley-you-cant-stream-that-on-television-10-20-2026/"
+  },
+  {
+    "title": "The Game",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-21",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-game-10-21-2026/"
   },
   {
     "title": "Jigoku",
@@ -2340,6 +2410,16 @@
     "url": "https://www.americancinematheque.com/now-showing/raw-10-31-2026/"
   },
   {
+    "title": "Sam Wasson Presents Arsenic and Old Lace",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-01",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/arsenic-and-old-lace-11-01-2026/"
+  },
+  {
     "title": "The Wild Party",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2358,6 +2438,26 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-eureka-11-02-2026/"
+  },
+  {
+    "title": "My Brother's Killer",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/my-brothers-killer-11-03-2026/"
+  },
+  {
+    "title": "Our Hero, Balthazar",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-04",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/our-hero-balthazar-11-04-2026/"
   },
   {
     "title": "The Musical",
@@ -2408,6 +2508,56 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/gavotte-lulu-11-12-2026/"
+  },
+  {
+    "title": "Two Seasons, Two Strangers",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/two-seasons-two-strangers-11-14-2026/"
+  },
+  {
+    "title": "Déjà Vu",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/deja-vu-11-14-2026/"
+  },
+  {
+    "title": "The Patsy",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-patsy-11-15-2026/"
+  },
+  {
+    "title": "All the Long Nights",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/all-the-long-nights-11-15-2026/"
+  },
+  {
+    "title": "Bela Lugosi Meets a Brooklyn Gorilla",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/bela-lugosi-meets-a-brooklyn-gorilla-11-15-2026/"
   },
   {
     "title": "Cinematic Void Presents W.r.: Mysteries of the Organism",
