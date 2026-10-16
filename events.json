@@ -1,15 +1,5 @@
 [
   {
-    "title": "Ken Russell's The Devils 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-15",
-    "time": "9:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Tingler",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -60,16 +50,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4193?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Hocus Pocus/The Haunted Mansion (2003)",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-21",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4194?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Frighteners",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -107,7 +87,7 @@
     "date": "2026-10-24",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/purchase/4199?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Creepshow",
@@ -198,26 +178,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Supernatural             /Terror Aboard",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-15",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-15-supernatural-terror-aboard/"
-  },
-  {
-    "title": "Supernatural             /Terror Aboard",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-15",
-    "time": "9:05 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-15-supernatural-terror-aboard/"
   },
   {
     "title": "Critters",
@@ -630,26 +590,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4672376/"
   },
   {
-    "title": "Breaking Away",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672377/"
-  },
-  {
-    "title": "Videodrome",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672378/"
-  },
-  {
     "title": "Akira",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -658,6 +598,16 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672379/"
+  },
+  {
+    "title": "Outpost",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-17",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4735498/"
   },
   {
     "title": "Escape to Witch Mountain",
@@ -1070,6 +1020,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4675360/"
   },
   {
+    "title": "Remake",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815360/"
+  },
+  {
     "title": "Macario",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1090,6 +1050,86 @@
     "url": "https://vidiotsfoundation.org/purchase/4815359/"
   },
   {
+    "title": "Primetime",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-04",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823527/"
+  },
+  {
+    "title": "Primetime",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823531/"
+  },
+  {
+    "title": "Primetime",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823533/"
+  },
+  {
+    "title": "Primetime",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-08",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823676/"
+  },
+  {
+    "title": "I Hate Myself and Want to Die",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-05",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823529/"
+  },
+  {
+    "title": "I Hate Myself and Want to Die",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823532/"
+  },
+  {
+    "title": "I Hate Myself and Want to Die",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-08",
+    "time": "4:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823675/"
+  },
+  {
+    "title": "Woman in the Dunes on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815364/"
+  },
+  {
     "title": "Porco Rosso (English Dubbed)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1108,6 +1148,26 @@
     "time": "3:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815376/"
+  },
+  {
+    "title": "Pee-wee’s Big Adventure",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815381/"
+  },
+  {
+    "title": "Repo Man",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4826532/"
   },
   {
     "title": "Out of the Past",
@@ -1170,6 +1230,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4815623/"
   },
   {
+    "title": "Pretty in Pink",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815624/"
+  },
+  {
     "title": "Stop Making Sense",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1190,7 +1260,7 @@
     "url": "https://vidiotsfoundation.org/purchase/4815635/"
   },
   {
-    "title": "Imitation of Life (1959)",
+    "title": "Imitation of Life (1959) on 35mm",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
@@ -1198,6 +1268,26 @@
     "time": "3:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815638/"
+  },
+  {
+    "title": "Josie and the Pussycats",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815640/"
+  },
+  {
+    "title": "Tampopo",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823631/"
   },
   {
     "title": "Wild at Heart",
@@ -1250,6 +1340,36 @@
     "url": "https://vidiotsfoundation.org/purchase/4815443/"
   },
   {
+    "title": "Planes, Trains and Automobiles",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-25",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4824021/"
+  },
+  {
+    "title": "Singin’ in the Rain",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-27",
+    "time": "12:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815404/"
+  },
+  {
+    "title": "North by Northwest",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-27",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815405/"
+  },
+  {
     "title": "Desperately Seeking Susan",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1270,6 +1390,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4815407/"
   },
   {
+    "title": "Cléo from 5 to 7",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-28",
+    "time": "4:15 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823438/"
+  },
+  {
     "title": "Twister",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1278,6 +1408,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815432/"
+  },
+  {
+    "title": "Oldboy",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-28",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823440/"
   },
   {
     "title": "The Seven Year Itch",
@@ -1930,26 +2070,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Greg Proops Film Club Presents Let's Scare Jessica to Death",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-lets-scare-jessica-to-death-10-15-2026/"
-  },
-  {
-    "title": "The Sixth Sense",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-15",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-sixth-sense-10-15-2026/"
-  },
-  {
     "title": "Mulholland Drive",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2080,7 +2200,7 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dr-butcher-md-10-19-2026/"
   },
   {
-    "title": "Snow White and the Seven Dwarves",
+    "title": "Snow White and the Seven Dwarfs",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
     "type": "film",
