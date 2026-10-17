@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Tingler",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Abbott and Costello Meet Frankenstein",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -17,7 +7,7 @@
     "date": "2026-10-17",
     "time": "10:00 AM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4156?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "V/H/S/Halloween",
@@ -27,7 +17,7 @@
     "date": "2026-10-17",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4192?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Abbott and Costello Meet Frankenstein",
@@ -178,46 +168,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Critters",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-16-critters-friday-matinee/"
-  },
-  {
-    "title": "Supernatural             /Terror Aboard",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-16-supernatural-terror-aboard/"
-  },
-  {
-    "title": "Supernatural             /Terror Aboard",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "8:35 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-16-supernatural-terror-aboard/"
-  },
-  {
-    "title": "From Dusk Till Dawn",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-16-from-dusk-till-dawn-midnight-show/"
   },
   {
     "title": "Something Wicked This Way Comes",
@@ -580,36 +530,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Mad Monster Party?",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672376/"
-  },
-  {
-    "title": "Akira",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "9:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672379/"
-  },
-  {
-    "title": "Outpost",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4735498/"
-  },
-  {
     "title": "Escape to Witch Mountain",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -658,16 +578,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4679487/"
-  },
-  {
-    "title": "The Oldest Person in the World",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4703150/"
   },
   {
     "title": "The Oldest Person in the World",
@@ -1118,16 +1028,6 @@
     "time": "4:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4823675/"
-  },
-  {
-    "title": "Woman in the Dunes on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-11-05",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4815364/"
   },
   {
     "title": "Porco Rosso (English Dubbed)",
@@ -2068,46 +1968,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Mulholland Drive",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/mulholland-drive-10-16-2026/"
-  },
-  {
-    "title": "City of Ghosts",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/city-of-ghosts-10-17-2026/"
-  },
-  {
-    "title": "Jojo Rabbit",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jojo-rabbit-10-16-2026/"
-  },
-  {
-    "title": "Begotten",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-16",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/begotten-10-16-2026/"
   },
   {
     "title": "Spanning Time",
