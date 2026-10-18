@@ -1,35 +1,5 @@
 [
   {
-    "title": "Abbott and Costello Meet Frankenstein",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "V/H/S/Halloween",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Abbott and Costello Meet Frankenstein",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4157?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "The Leech Woman",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -168,46 +138,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Something Wicked This Way Comes",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-17-something-wicked-this-way-comes-family-matinee/"
-  },
-  {
-    "title": "The Masque of the Red Death             /House of Usher",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-17-the-masque-of-the-red-death-house-of-usher/"
-  },
-  {
-    "title": "The Masque of the Red Death             /House of Usher",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "8:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-17-the-masque-of-the-red-death-house-of-usher/"
-  },
-  {
-    "title": "The Butterfly Effect",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-17-the-butterfly-effect-midnight-show/"
   },
   {
     "title": "Something Wicked This Way Comes",
@@ -528,36 +458,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
-  },
-  {
-    "title": "Escape to Witch Mountain",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "12:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672385/"
-  },
-  {
-    "title": "A Tribute to Treehouse of Horror",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://my.onecause.com/event/organizations/e2a06904-94c6-4c3c-8961-963f363d7a45/events/vevt:d56171e1-fa9d-4dda-b762-c0a717913bf3/home/story"
-  },
-  {
-    "title": "Wicker",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://events.humanitix.com/kcrw-partner-screening-wicker"
   },
   {
     "title": "Nashville",
@@ -1968,46 +1868,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Spanning Time",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/spanning-time-10-17-2026/"
-  },
-  {
-    "title": "The Witches of Eastwick",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-witches-of-eastwick-10-17-2026/"
-  },
-  {
-    "title": "Hey Arnold!: a Spooktacular 30th Anniversary Screening",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/hey-arnold-a-spooktacular-30th-anniversary-benefit-10-17-2026/"
-  },
-  {
-    "title": "Hey Arnold! the Movie",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-17",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/hey-arnold-the-movie-10-17-2026/"
   },
   {
     "title": "Marty",
