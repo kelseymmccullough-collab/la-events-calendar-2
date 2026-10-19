@@ -7,7 +7,7 @@
     "date": "2026-10-20",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4193?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "The Frighteners",
@@ -138,36 +138,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Something Wicked This Way Comes",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-18-something-wicked-this-way-comes-family-matinee/"
-  },
-  {
-    "title": "The Masque of the Red Death             /House of Usher",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-18-the-masque-of-the-red-death-house-of-usher/"
-  },
-  {
-    "title": "The Masque of the Red Death             /House of Usher",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "8:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-18-the-masque-of-the-red-death-house-of-usher/"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -640,16 +610,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4672403/"
   },
   {
-    "title": "E.T. the Extra-Terrestrial on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672401/"
-  },
-  {
     "title": "Insiang",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -848,6 +808,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4788977/"
+  },
+  {
+    "title": "Rushmore",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-02",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815343/"
   },
   {
     "title": "Interstellar Sound Immersion – A Sci-Fi Sound Bath",
@@ -1188,6 +1158,16 @@
     "time": "9:45 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815407/"
+  },
+  {
+    "title": "Fantasia on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-28",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4823436/"
   },
   {
     "title": "Cléo from 5 to 7",
@@ -1868,46 +1848,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Marty",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/marty-10-18-2026/"
-  },
-  {
-    "title": "Perdita Durango",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/perdita-durango-10-18-2026/"
-  },
-  {
-    "title": "Roy's World: Barry Gifford's Chicago",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/roys-world-barry-giffords-chicago-10-18-2026/"
-  },
-  {
-    "title": "Begotten",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-18",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/begotten-10-18-2026/"
   },
   {
     "title": "Cinematic Void Presents Dr. Butcher, Md",
