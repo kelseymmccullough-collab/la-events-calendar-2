@@ -144,16 +144,6 @@
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
-    "date": "2026-10-19",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-19-teenage-sex-and-death-at-camp-miasma/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
     "date": "2026-10-20",
     "time": "7:30 PM",
     "description": "",
@@ -428,16 +418,6 @@
     "time": "2:00 PM",
     "description": "",
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
-  },
-  {
-    "title": "Nashville",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-20",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4751215/"
   },
   {
     "title": "Bones on 35mm",
@@ -1200,24 +1180,24 @@
     "url": "https://vidiotsfoundation.org/purchase/4823440/"
   },
   {
-    "title": "The Seven Year Itch",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "Frozen Sing Along",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-19",
-    "time": "2:30 PM",
+    "date": "2026-11-29",
+    "time": "1:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4843402/"
   },
   {
-    "title": "In the Mouth of Madness in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
+    "title": "The Twilight Saga: New Moon",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-19",
-    "time": "7:30 PM",
+    "date": "2026-11-29",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
+    "url": "https://vidiotsfoundation.org/purchase/4843407/"
   },
   {
     "title": "The Seven Year Itch",
@@ -1848,26 +1828,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Cinematic Void Presents Dr. Butcher, Md",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-19",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-dr-butcher-md-10-19-2026/"
-  },
-  {
-    "title": "Snow White and the Seven Dwarfs",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-19",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/snow-white-and-the-seven-dwarves-10-19-2026/"
   },
   {
     "title": "A Night at the Opera",
