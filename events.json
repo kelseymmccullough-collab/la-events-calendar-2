@@ -57,7 +57,7 @@
     "date": "2026-10-24",
     "time": "8:00 PM",
     "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4199?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Creepshow",
@@ -230,6 +230,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4233?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Paper Tiger - Early Access Preview 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-03",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4234?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Ken Russell's The Devils 35mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -250,26 +260,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4232?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-21-teenage-sex-and-death-at-camp-miasma/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-22-teenage-sex-and-death-at-camp-miasma/"
-  },
-  {
     "title": "Aliens",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -277,7 +267,7 @@
     "date": "2026-10-23",
     "time": "2:00 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/october-23-aliens-friday-matinee/"
+    "url": "https://thenewbev.com/program/october-23-aliens-friday-matinee-2/"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -287,7 +277,7 @@
     "date": "2026-10-23",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/october-23-teenage-sex-and-death-at-camp-miasma/"
+    "url": "https://thenewbev.com/program/october-23-teenage-sex-and-death-at-camp-miasma-2/"
   },
   {
     "title": "From Dusk Till Dawn",
@@ -540,86 +530,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4703178/"
   },
   {
-    "title": "The Shining",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "3:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4679491/"
-  },
-  {
-    "title": "A Nightmare on Elm Street",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4679492/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "7:20 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757608/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757625/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757646/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757649/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757701/"
-  },
-  {
-    "title": "Mimic",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4679845/"
-  },
-  {
     "title": "Hotel Transylvania",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -628,16 +538,6 @@
     "time": "1:15 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4672394/"
-  },
-  {
-    "title": "The Nightmare Before Christmas",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672396/"
   },
   {
     "title": "The Nightmare Before Christmas",
@@ -680,16 +580,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4672403/"
   },
   {
-    "title": "The Exorcist on 35mm",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672391/"
-  },
-  {
     "title": "Insiang",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -718,6 +608,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4757974/"
+  },
+  {
+    "title": "Sweet 16mm: Halloween Haunts",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-29",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4675860/"
   },
   {
     "title": "Ginger Snaps",
@@ -970,6 +870,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4823675/"
   },
   {
+    "title": "Fallen Angels",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-05",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4815364/"
+  },
+  {
     "title": "Porco Rosso (English Dubbed)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1018,6 +928,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4823339/"
+  },
+  {
+    "title": "Talk to Her on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-10",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4851312/"
   },
   {
     "title": "Grace of My Heart",
@@ -1180,6 +1100,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4815669/"
   },
   {
+    "title": "The Host",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-23",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4848952/"
+  },
+  {
     "title": "The Last Waltz",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1308,36 +1238,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4843407/"
-  },
-  {
-    "title": "The Seven Year Itch",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-21",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "An Evening of Short Films by Women Directors",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-21",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Dark StarwithCaptain Voyeur",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-22",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "The Seven Year Itch",
@@ -1940,46 +1840,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "The Game",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-21",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-game-10-21-2026/"
-  },
-  {
-    "title": "Jigoku",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-21",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jigoku-10-21-2026/"
-  },
-  {
-    "title": "Dolemite Is My Name",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-22",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dolemite-is-my-name-10-22-2026/"
-  },
-  {
-    "title": "Begotten",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-22",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/begotten-10-22-2026/"
-  },
-  {
     "title": "Dracula",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2190,6 +2050,26 @@
     "url": "https://www.americancinematheque.com/now-showing/jigoku-10-30-2026/"
   },
   {
+    "title": "Happiness",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-30",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/happiness-10-30-2026/"
+  },
+  {
+    "title": "The Scout",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-10-30",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-scout-10-30-2026/"
+  },
+  {
     "title": "\"joachim's Dictionary\" / the Strange Case of Dr. Jekyll and Miss Osbourne",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2290,6 +2170,16 @@
     "url": "https://www.americancinematheque.com/now-showing/our-hero-balthazar-11-04-2026/"
   },
   {
+    "title": "Our Hero, Balthazar",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-04",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/our-hero-balthazar-11-04-2026-1/"
+  },
+  {
     "title": "The Musical",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2308,6 +2198,16 @@
     "time": "9:30 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/a-private-collection-immoral-tales-11-07-2026/"
+  },
+  {
+    "title": "Simon Raymonde Presents Dead Men Don't Wear Plaid",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-08",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/simon-raymonde-presents-dead-men-dont-wear-plaid-11-08-2026/"
   },
   {
     "title": "Her Wedding Night",
@@ -2418,6 +2318,16 @@
     "time": "4:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/rosalie-blanche-11-20-2026/"
+  },
+  {
+    "title": "Minorities in Film Presents the Make News Make Noise Showcase",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-21",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/minorities-in-film-presents-the-make-news-showcase-11-21-2026/"
   },
   {
     "title": "The Story of Sin",
