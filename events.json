@@ -4,46 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-10-23",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4222?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Frighteners",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Creepshow",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "11:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4158?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Rodan",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "10:00 AM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4166?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ken Russell's The Devils 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-10-24",
     "time": "2:00 PM",
     "description": "",
@@ -130,6 +90,16 @@
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Ken Russell's The Devils 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-30",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4235?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Seven (Original 35mm Silver Retention Print)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -168,6 +138,16 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4160?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Ken Russell's The Devils 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-10-31",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4236?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Tales from the Archives",
@@ -210,6 +190,16 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4161?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Ken Russell's The Devils 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-01",
+    "time": "3:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4237?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Seven (Original 35mm Silver Retention Print)",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -230,16 +220,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4233?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "Paper Tiger - Early Access Preview 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-11-03",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4234?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Ken Russell's The Devils 35mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -258,36 +238,6 @@
     "time": "11:00 PM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4232?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Aliens",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-23-aliens-friday-matinee-2/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-23-teenage-sex-and-death-at-camp-miasma-2/"
-  },
-  {
-    "title": "From Dusk Till Dawn",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-23-from-dusk-till-dawn-midnight-show/"
   },
   {
     "title": "The Cat and the Canary (1939)",
@@ -510,54 +460,44 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "The Oldest Person in the World",
+    "title": "Colony",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-23",
+    "date": "2026-10-24",
+    "time": "8:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4757625/"
+  },
+  {
+    "title": "Colony",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-10-25",
     "time": "4:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4703169/"
+    "url": "https://vidiotsfoundation.org/purchase/4757646/"
   },
   {
-    "title": "The Oldest Person in the World",
+    "title": "Colony",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-24",
-    "time": "5:30 PM",
+    "date": "2026-10-25",
+    "time": "7:30 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4703178/"
+    "url": "https://vidiotsfoundation.org/purchase/4757649/"
   },
   {
-    "title": "Hotel Transylvania",
+    "title": "Colony",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-24",
-    "time": "1:15 PM",
+    "date": "2026-10-26",
+    "time": "7:00 PM",
     "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672394/"
-  },
-  {
-    "title": "The Nightmare Before Christmas",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-30",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672419/"
-  },
-  {
-    "title": "Def by Temptation",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4698519/"
+    "url": "https://vidiotsfoundation.org/purchase/4757701/"
   },
   {
     "title": "Día de los Muertos Celebration",
@@ -588,16 +528,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4675667/"
-  },
-  {
-    "title": "Italo-Disco Horror Night – Argento’s Deep Red",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4675405/"
   },
   {
     "title": "Sweet 16mm: Halloween Haunts",
@@ -1100,6 +1030,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4815669/"
   },
   {
+    "title": "RRR",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-22",
+    "time": "6:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4848951/"
+  },
+  {
     "title": "The Host",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1238,36 +1178,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4843407/"
-  },
-  {
-    "title": "The Seven Year Itch",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "The George Stevens Lecture on Directing presentsGiant in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Vampires in 4K withMemoirs of an Invisible Man in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Monster Mash",
@@ -1838,46 +1748,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Dracula",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/dracula-10-23-2026/"
-  },
-  {
-    "title": "Wings",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/wings-10-23-2026/"
-  },
-  {
-    "title": "Closure",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/closure-10-23-2026/"
-  },
-  {
-    "title": "A Serbian Film",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-23",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/a-serbian-film-10-23-2026/"
   },
   {
     "title": "Broadway Melody of 1940",
