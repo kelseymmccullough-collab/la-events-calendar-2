@@ -4,36 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-10-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4223?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "V/H/S/Mixtape",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Creepshow",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "11:30 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4159?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ken Russell's The Devils 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-10-26",
     "time": "3:00 PM",
     "description": "",
@@ -240,36 +210,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4232?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Cat and the Canary (1939)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-24-the-cat-and-the-canary-family-matinee/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-24-teenage-sex-and-death-at-camp-miasma/"
-  },
-  {
-    "title": "Maniac Cop 2",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "11:59 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-24-maniac-cop-2-midnight-show/"
-  },
-  {
     "title": "The Cabinet of Dr. Caligari (Silent with Live Music Score)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -464,16 +404,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757625/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-10-25",
     "time": "4:30 PM",
     "description": "",
@@ -498,26 +428,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4757701/"
-  },
-  {
-    "title": "Día de los Muertos Celebration",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4698559/"
-  },
-  {
-    "title": "Coco en Español",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672403/"
   },
   {
     "title": "Insiang",
@@ -970,16 +880,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4815638/"
   },
   {
-    "title": "Josie and the Pussycats",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-11-15",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4815640/"
-  },
-  {
     "title": "Tampopo",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1178,46 +1078,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4843407/"
-  },
-  {
-    "title": "Monster Mash",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Hotel Transylvania",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "11:00 AM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Blade in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "2:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Horror of Dracula in 4K",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Men in Black in 35mm",
@@ -1748,46 +1608,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Broadway Melody of 1940",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/broadway-melody-of-1940-10-24-2026/"
-  },
-  {
-    "title": "The Black Cauldron",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-black-cauldron-10-24-2026/"
-  },
-  {
-    "title": "Phantom of the Paradise",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/phantom-of-the-paradise-10-24-2026/"
-  },
-  {
-    "title": "\"venus on the Half-shell\" / the Beast",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-24",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/venus-on-the-half-shell-the-beast-10-24-2026/"
   },
   {
     "title": "Avital Ash Presents the Artist",
