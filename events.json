@@ -210,26 +210,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4232?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Cabinet of Dr. Caligari (Silent with Live Music Score)",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-25-the-cabinet-of-dr-caligari/"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-25-teenage-sex-and-death-at-camp-miasma/"
-  },
-  {
     "title": "Funeral Home             /Blue Monkey",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -400,46 +380,6 @@
     "url": "https://thenewbev.com/program/november-1-beetlejuice-family-matinee/"
   },
   {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "4:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757646/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757649/"
-  },
-  {
-    "title": "Colony",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-26",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757701/"
-  },
-  {
-    "title": "Insiang",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-26",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4675667/"
-  },
-  {
     "title": "Sweet 16mm: Halloween Haunts",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -448,16 +388,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4757974/"
-  },
-  {
-    "title": "Sweet 16mm: Halloween Haunts",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4675860/"
   },
   {
     "title": "Ginger Snaps",
@@ -880,6 +810,26 @@
     "url": "https://vidiotsfoundation.org/purchase/4815638/"
   },
   {
+    "title": "CIANI/ORKEST",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "4:45 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4851767/"
+  },
+  {
+    "title": "CIANI/ORKEST",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4851766/"
+  },
+  {
     "title": "Tampopo",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1078,26 +1028,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4843407/"
-  },
-  {
-    "title": "Men in Black in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Christine",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "6:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "They Live by Night in 35mm with Nathan Gelgud and A. S. Hamrah",
@@ -1608,46 +1538,6 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
-  },
-  {
-    "title": "Avital Ash Presents the Artist",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "1:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/avital-ash-presents-the-artist-10-25-2026/"
-  },
-  {
-    "title": "It",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "4:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/it-10-25-2026/"
-  },
-  {
-    "title": "Rosemary's Baby",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/rosemarys-baby-10-25-2026/"
-  },
-  {
-    "title": "Arachnophobia",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-25",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/arachnophobia-10-25-2026/"
   },
   {
     "title": "Cinematic Void Presents Evilspeak",
