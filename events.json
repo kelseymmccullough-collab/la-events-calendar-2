@@ -1,25 +1,5 @@
 [
   {
-    "title": "Castle of The Living Dead",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-27",
-    "time": "2:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4200?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ken Russell's The Devils 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-27",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4225?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
     "title": "Ken Russell's The Devils 35mm",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -458,26 +438,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4265?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Others             /The Orphanage",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-27",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-27-the-others-the-orphanage/"
-  },
-  {
-    "title": "The Others             /The Orphanage",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-27",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-27-the-others-the-orphanage/"
   },
   {
     "title": "The Others             /The Orphanage",
@@ -1270,36 +1230,6 @@
     "url": "https://thenewbev.com/program/november-30-the-further-mis-adventures-of-cliff-booth/"
   },
   {
-    "title": "Sweet 16mm: Halloween Haunts",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757974/"
-  },
-  {
-    "title": "Ginger Snaps",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672423/"
-  },
-  {
-    "title": "An American Werewolf in London",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672421/"
-  },
-  {
     "title": "Resident Evil (2026)",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1450,16 +1380,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4815343/"
   },
   {
-    "title": "Interstellar Sound Immersion – A Sci-Fi Sound Bath",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-11-03",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4815359/"
-  },
-  {
     "title": "Primetime",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1538,6 +1458,36 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815364/"
+  },
+  {
+    "title": "GuadaLAjara Film Festival – Shorts Block 2: IN GOOD COMPANY",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-06",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://glaff2026.eventive.org/schedule/6abfec57c8262f378263b0ff"
+  },
+  {
+    "title": "GuadaLAjara Film Festival – CENTERPIECE GALA: 14th",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-06",
+    "time": "6:30 PM",
+    "description": "",
+    "url": "https://glaff2026.eventive.org/schedule/6abfc47a75241ad761c0ec62"
+  },
+  {
+    "title": "GuadaLAjara Film Festival – Paper Tiger",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-06",
+    "time": "9:00 PM",
+    "description": "",
+    "url": "https://glaff2026.eventive.org/schedule/6ad6319df9d9cfca0b8a6e72"
   },
   {
     "title": "Porco Rosso (English Dubbed)",
@@ -1728,6 +1678,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4823631/"
+  },
+  {
+    "title": "The Daytrippers",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4875235/"
   },
   {
     "title": "Wild at Heart",
@@ -2420,26 +2380,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Wif X AC Spooky Shorts Night",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/women-in-film-spooky-shorts-night-10-27-2026/"
-  },
-  {
-    "title": "Jigoku",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-27",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/jigoku-10-27-2026/"
-  },
-  {
     "title": "Creature From the Black Lagoon 3d",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2648,6 +2588,16 @@
     "time": "6:30 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-musical-11-05-2026/"
+  },
+  {
+    "title": "The Greg Proops Film Club Presents Paris Blues",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/the-greg-proops-film-club-presents-paris-blues-11-06-2026/"
   },
   {
     "title": "The Fall Guy",
