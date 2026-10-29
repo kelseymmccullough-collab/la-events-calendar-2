@@ -4,16 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-10-28",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4226?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ken Russell's The Devils 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-10-29",
     "time": "3:00 PM",
     "description": "",
@@ -340,6 +330,36 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4244?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4266?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4266?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4266?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Lady Terminator",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -360,6 +380,36 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4260?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4271?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4271?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4271?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
     "title": "Lady Terminator",
     "venue": "The Vista Theater",
     "venueShort": "Vista",
@@ -378,6 +428,156 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4261?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "12:45 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4272?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4272?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-15",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4272?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-16",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4267?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-16",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4267?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-16",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4267?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-17",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4268?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-17",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4268?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-17",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4268?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-18",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4269?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-18",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4269?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-18",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4269?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-19",
+    "time": "12:00 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4270?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-19",
+    "time": "3:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4270?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+  },
+  {
+    "title": "Paper Tiger 35mm",
+    "venue": "The Vista Theater",
+    "venueShort": "Vista",
+    "type": "film",
+    "date": "2026-11-19",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4270?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
     "title": "Ramrod",
@@ -438,26 +638,6 @@
     "time": "10:00 AM",
     "description": "",
     "url": "https://ticketing.uswest.veezi.com/purchase/4265?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Others             /The Orphanage",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-28-the-others-the-orphanage/"
-  },
-  {
-    "title": "The Others             /The Orphanage",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-28",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-28-the-others-the-orphanage/"
   },
   {
     "title": "The Beyond             /Pieces",
@@ -1330,16 +1510,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4675363/"
   },
   {
-    "title": "Halloween",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-31",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4675239/"
-  },
-  {
     "title": "The Texas Chain Saw Massacre",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1538,6 +1708,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4823339/"
+  },
+  {
+    "title": "Wings of Desire",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-09",
+    "time": "7:30 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4880352/"
   },
   {
     "title": "Talk to Her on 35mm",
@@ -1878,16 +2058,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4843407/"
-  },
-  {
-    "title": "Road to Perdition in 35mm",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Hansan: Rising Dragon(한산: 용의 출현) with Park Hae-il",
@@ -2380,26 +2550,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Creature From the Black Lagoon 3d",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-28",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/creature-from-the-black-lagoon-3d-10-28-2026/"
-  },
-  {
-    "title": "Hocus Pocus",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-28",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/hocus-pocus-10-28-2026/"
-  },
-  {
     "title": "Avital Ash Workshops Her Suicide Note",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2690,6 +2840,26 @@
     "url": "https://www.americancinematheque.com/now-showing/deja-vu-11-14-2026/"
   },
   {
+    "title": "All of a Sudden",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "5:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/all-of-a-sudden-11-14-2026/"
+  },
+  {
+    "title": "Benedetta",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-14",
+    "time": "9:45 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/benedetta-11-14-2026/"
+  },
+  {
     "title": "The Patsy",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2725,7 +2895,7 @@
     "venueShort": "Los Feliz 3",
     "type": "film",
     "date": "2026-11-16",
-    "time": "7:00 PM",
+    "time": "8:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wr-mysteries-of-the-organism-11-16-2026/"
   },
