@@ -4,26 +4,6 @@
     "venue": "The Vista Theater",
     "venueShort": "Vista",
     "type": "film",
-    "date": "2026-10-29",
-    "time": "3:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4227?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "The Mummy's Shroud",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "8:00 PM",
-    "description": "",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
-  },
-  {
-    "title": "Ken Russell's The Devils 35mm",
-    "venue": "The Vista Theater",
-    "venueShort": "Vista",
-    "type": "film",
     "date": "2026-10-30",
     "time": "3:00 PM",
     "description": "",
@@ -640,26 +620,6 @@
     "url": "https://ticketing.uswest.veezi.com/purchase/4265?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
   },
   {
-    "title": "The Beyond             /Pieces",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-29-the-beyond-pieces/"
-  },
-  {
-    "title": "The Beyond             /Pieces",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "9:25 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/october-29-the-beyond-pieces/"
-  },
-  {
     "title": "The Fly (1986)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
@@ -770,24 +730,14 @@
     "url": "https://thenewbev.com/program/november-1-targets-saint-jack/"
   },
   {
-    "title": "Robert Richardson: The White Devil (Special Guests)             /Inglourious Basterds",
+    "title": "Inglourious Basterds (Schedule Change)",
     "venue": "The New Beverly Theater",
     "venueShort": "New Bev",
     "type": "film",
     "date": "2026-11-02",
     "time": "7:30 PM",
     "description": "",
-    "url": "https://thenewbev.com/program/november-2-robert-richardson-the-white-devil-inglourious-basterds/"
-  },
-  {
-    "title": "Robert Richardson: The White Devil (Special Guests)             /Inglourious Basterds",
-    "venue": "The New Beverly Theater",
-    "venueShort": "New Bev",
-    "type": "film",
-    "date": "2026-11-02",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://thenewbev.com/program/november-2-robert-richardson-the-white-devil-inglourious-basterds/"
+    "url": "https://thenewbev.com/program/november-2-inglourious-basterds/"
   },
   {
     "title": "Excalibur",
@@ -1414,26 +1364,6 @@
     "venue": "Vidiots",
     "venueShort": "Vidiots",
     "type": "film",
-    "date": "2026-10-30",
-    "time": "4:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757982/"
-  },
-  {
-    "title": "Resident Evil (2026)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-30",
-    "time": "10:15 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4757992/"
-  },
-  {
-    "title": "Resident Evil (2026)",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
     "date": "2026-10-31",
     "time": "4:45 PM",
     "description": "",
@@ -1460,16 +1390,6 @@
     "url": "https://vidiotsfoundation.org/purchase/4788987/"
   },
   {
-    "title": "Practical Magic",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672424/"
-  },
-  {
     "title": "The Restoration at Grayson Manor",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1488,16 +1408,6 @@
     "time": "7:20 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4758023/"
-  },
-  {
-    "title": "Audition",
-    "venue": "Vidiots",
-    "venueShort": "Vidiots",
-    "type": "film",
-    "date": "2026-10-30",
-    "time": "9:45 PM",
-    "description": "",
-    "url": "https://vidiotsfoundation.org/purchase/4672425/"
   },
   {
     "title": "Bride of Frankenstein",
@@ -1850,6 +1760,16 @@
     "url": "https://vidiotsfoundation.org/purchase/4851766/"
   },
   {
+    "title": "Josie and the Pussycats",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-20",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4883429/"
+  },
+  {
     "title": "Tampopo",
     "venue": "Vidiots",
     "venueShort": "Vidiots",
@@ -1878,6 +1798,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4815665/"
+  },
+  {
+    "title": "Johnny Mnemonic on 35mm",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-20",
+    "time": "9:55 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4883005/"
   },
   {
     "title": "Cookie Queens",
@@ -1928,6 +1858,16 @@
     "time": "7:30 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4848952/"
+  },
+  {
+    "title": "Sweet 16mm: The Future of Technology from Yesteryear",
+    "venue": "Vidiots",
+    "venueShort": "Vidiots",
+    "type": "film",
+    "date": "2026-11-24",
+    "time": "7:00 PM",
+    "description": "",
+    "url": "https://vidiotsfoundation.org/purchase/4883126/"
   },
   {
     "title": "The Last Waltz",
@@ -2058,16 +1998,6 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://vidiotsfoundation.org/purchase/4843407/"
-  },
-  {
-    "title": "Hansan: Rising Dragon(한산: 용의 출현) with Park Hae-il",
-    "venue": "Academy Museum",
-    "venueShort": "Academy",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "7:30 PM",
-    "description": "",
-    "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
     "title": "Decision to Leave(헤어질 결심) with Park Hae-il",
@@ -2550,26 +2480,6 @@
     "url": "https://www.academymuseum.org/en/calendar?programTypes=16i3uOYQwism7sMDhIQr2O"
   },
   {
-    "title": "Avital Ash Workshops Her Suicide Note",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "7:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/avital-ash-workshops-her-suicide-note-10-29-2026/"
-  },
-  {
-    "title": "The Addams Family",
-    "venue": "American Cinematheque at Los Feliz 3",
-    "venueShort": "Los Feliz 3",
-    "type": "film",
-    "date": "2026-10-29",
-    "time": "10:00 PM",
-    "description": "",
-    "url": "https://www.americancinematheque.com/now-showing/the-addams-family-10-29-2026/"
-  },
-  {
     "title": "Jigoku",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2680,6 +2590,16 @@
     "url": "https://www.americancinematheque.com/now-showing/bullet-train-11-01-2026/"
   },
   {
+    "title": "Phantom of the Paradise",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-01",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/phantom-of-the-paradise-11-01-2026/"
+  },
+  {
     "title": "Cinematic Void Presents Eureka",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2688,6 +2608,16 @@
     "time": "7:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-eureka-11-02-2026/"
+  },
+  {
+    "title": "Altered States",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-02",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/altered-states-11-02-2026/"
   },
   {
     "title": "My Brother's Killer",
@@ -2740,6 +2670,26 @@
     "url": "https://www.americancinematheque.com/now-showing/the-musical-11-05-2026/"
   },
   {
+    "title": "If I Go Will They Miss Me",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-05",
+    "time": "9:30 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/if-i-go-will-they-miss-me-11-05-2026/"
+  },
+  {
+    "title": "Mikey and Nicky",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-06",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/hold-11-06-2026-2/"
+  },
+  {
     "title": "The Greg Proops Film Club Presents Paris Blues",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2758,6 +2708,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-fall-guy-11-06-2026/"
+  },
+  {
+    "title": "Altered States",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-07",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/altered-states-11-07-2026/"
   },
   {
     "title": "\"a Private Collection\" / Immoral Tales",
@@ -2818,6 +2778,26 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/gavotte-lulu-11-12-2026/"
+  },
+  {
+    "title": "If I Go Will They Miss Me",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "4:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/if-i-go-will-they-miss-me-11-13-2026/"
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-13",
+    "time": "10:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/raise-the-red-lantern-11-13-2026/"
   },
   {
     "title": "Two Seasons, Two Strangers",
@@ -2900,6 +2880,26 @@
     "url": "https://www.americancinematheque.com/now-showing/cinematic-void-presents-wr-mysteries-of-the-organism-11-16-2026/"
   },
   {
+    "title": "If I Go Will They Miss Me",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-17",
+    "time": "7:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/if-i-go-will-they-miss-me-11-17-2026/"
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-17",
+    "time": "10:15 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/raise-the-red-lantern-11-17-2026/"
+  },
+  {
     "title": "\"the Greatest Love of All Time\" / the Margin",
     "venue": "American Cinematheque at Los Feliz 3",
     "venueShort": "Los Feliz 3",
@@ -2908,6 +2908,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-greatest-love-of-all-time-the-margin-11-18-2026/"
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-20",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/raise-the-red-lantern-11-20-2026/"
   },
   {
     "title": "\"rosalie\" / Blanche",
@@ -2938,6 +2948,16 @@
     "time": "10:00 PM",
     "description": "",
     "url": "https://www.americancinematheque.com/now-showing/the-story-of-sin-11-21-2026/"
+  },
+  {
+    "title": "Russell Goldman Presents Gold Diggers of 1933",
+    "venue": "American Cinematheque at Los Feliz 3",
+    "venueShort": "Los Feliz 3",
+    "type": "film",
+    "date": "2026-11-22",
+    "time": "1:00 PM",
+    "description": "",
+    "url": "https://www.americancinematheque.com/now-showing/russell-goldman-presents-gold-diggers-of-1933-11-22-2026/"
   },
   {
     "title": "Cameron Winter at Carnegie Hall",
